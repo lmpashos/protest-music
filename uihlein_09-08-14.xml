@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Association changed, djb
+    
+    <?xml-model href="/Users/KatieUihlein/Downloads/oxygen/wilde schema.rnc" type="application/relax-ng-compact-syntax"?>-->
+<?xml-model href="uihlein_09-08-14.rnc" type="application/relax-ng-compact-syntax"?>
+<loveLetter>
+    <heading>Rouen, August 1897</heading>
+    <salutation>My own Darling Boy,</salutation>
+    <body>
+        <paragraph>I <verb tense="past">got</verb> your telegram half an hour ago, and just <verb
+                tense="present">send</verb> a line to <verb tense="present">say</verb> that I <verb
+                tense="present">feel</verb> that my only hope of again <verb tense="future"
+                >doing</verb>
+            <adjective type="positive">beautiful</adjective> work in art is <verb tense="present"
+                >being</verb> with you. It <verb tense="past">was</verb> not so in the <adjective
+                type="negative">old</adjective> days, but now it <verb tense="present">is</verb>
+            <adjective>different</adjective>, and you <verb tense="present">can</verb> really <verb
+                tense="present">recreate</verb> in me that energy and sense of <adjective
+                type="positive">joyous</adjective> power on which art <verb tense="present"
+                >depends.</verb></paragraph>
+        <paragraph>Everyone <verb tense="present">is</verb>
+            <adjective type="negative">furious </adjective>with me for <verb tense="past"
+                >going</verb> back to you, but they <verb tense="present">don't</verb>
+            <verb tense="present">understand</verb> us. I <verb tense="present">feel</verb> that it
+                <verb tense="present">is</verb> only with you that I <verb tense="present"
+                >can</verb>
+            <verb tense="present">do</verb> anything at all. <verb tense="present">Do</verb>
+            <verb tense="present">remake </verb>my <adjective type="negative">ruined</adjective>
+            life for me, and then our friendship and love <verb tense="future">will</verb>
+            <verb tense="future">have</verb> a <adjective>different</adjective> meaning to the
+            world.</paragraph>
+        <paragraph>I <verb tense="present">wish</verb> that when we <verb tense="past">met</verb> at
+            Rouen we <verb tense="past">had</verb> not <verb tense="past">parted</verb> at all.
+            There <verb tense="present">are </verb>such <adjective>wide</adjective> abysses now of
+            space and land between us. But we <verb tense="present">love</verb> each
+            other.</paragraph>
+    </body>
+
+    <closing>Goodnight, Dear. Ever yours, </closing>
+    <signature>Oscar</signature>
+</loveLetter>
