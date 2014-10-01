@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <metadata song="Ohio" composer="Neil Young" album="single"
+        year="1970" genere="rock" notable-performers="Neil Young" notable-event="kent state"/>
+    <lyrics>
+        <stanza>
+            <line>Tin soldiers and Nixon coming,</line>
+            <line>We're finally on our own.</line>
+            <line>This summer I hear the drumming,</line>
+            <line>Four dead in Ohio.</line>
+        </stanza>
+
+        <stanza>
+            <line>Gotta get down to it</line>
+            <line>Soldiers are cutting us down</line>
+            <line>Should have been done long ago.</line>
+            <line>What if you knew her</line>
+            <line>And found her dead on the ground</line>
+            <line>How can you run when you know?</line>
+        </stanza>
+
+        <stanza>
+            <line>Gotta get down to it</line>
+            <line>Soldiers are cutting us down</line>
+            <line>Should have been done long ago.</line>
+            <line>What if you knew her</line>
+            <line>And found her dead on the ground</line>
+            <line>How can you run when you know?</line>
+        </stanza>
+
+        <stanza>
+            <line>Tin soldiers and Nixon coming,</line>
+            <line>We're finally on our own.</line>
+            <line>This summer I hear the drumming,</line>
+            <line>Four dead in Ohio.</line>
+        </stanza>
+    </lyrics>
+</song>

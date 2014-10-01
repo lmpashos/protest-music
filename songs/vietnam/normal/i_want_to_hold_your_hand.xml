@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <metadata song="I Want to Hold Your Hand" conposer="John Lennon, Paul McCartney" album="single" year="1963" notable-performers="The Beatles"/>
+    <lyrics>
+        <stanza>
+            <line>Oh yeah, I'll tell you something</line>
+            <line>I think you'll understan</line>d <line>When I'll say that something</line>
+            <line>I wanna hold your hand</line>
+            <line>I wanna hold your hand</line>
+            <line>I wanna hold your hand</line>
+        </stanza>
+        <stanza>
+            <line>Oh please, say to me</line>
+            <line>You'll let me be your man</line>
+            <line>And please, say to me</line>
+            <line>You'll let me hold your hand</line>
+            <line>I'll let me hold your hand</line>
+            <line>I wanna hold your hand</line>
+        </stanza>
+        <stanza id="1">
+            <line>And when I touch you I feel happy inside</line>
+            <line>It's such a feeling that my love</line>
+            <line>I can't hide</line>
+            <line>I can't hide</line>
+            <line>I can't hide</line>
+        </stanza>
+        <stanza>
+            <line>Yeah, you've got that something</line>
+            <line>I think you'll understand</line>
+            <line>When I'll say that something</line>
+            <line>I wanna hold your hand</line>
+            <line>I wanna hold your hand</line>
+            <line>I wanna hold your hand</line>
+        </stanza>
+        <stanza id="1">
+            <line>And when I touch you I feel happy inside</line>
+            <line>It's such a feeling that my love</line>
+            <line>I can't hide</line>
+            <line>I can't hide</line>
+            <line>I can't hide</line>
+        </stanza>
+        <stanza>
+            <line>Yeah, you've got that something</line>
+            <line>I think you'll understand</line>
+            <line>When I'll feel that something</line>
+            <line>I wanna hold your hand</line>
+            <line>I wanna hold your hand</line>
+            <line>I wanna hold your hand</line>
+            <line>I wanna hold your hand</line>
+        </stanza>
+    </lyrics>
+</song>

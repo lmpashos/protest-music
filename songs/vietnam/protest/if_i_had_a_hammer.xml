@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <metadata song="If I Had A Hammer" composer="Pete Seegar" album="single" year="1949" genere="folk"
+        notable-performers="Pete Seeger, Peter Paul and Mary"/>
+    <lyrics>
+        <stanza>
+            <line>If I had a hammer,</line>
+            <line>I'd hammer in the morning</line>
+            <line>I'd hammer in the evening,</line>
+            <line>All over this land.</line>
+        </stanza>
+        <stanza>
+            <line>I'd hammer out danger,</line>
+            <line>I'd hammer out a warning,</line>
+            <line>I'd hammer out love between my brothers and my sisters,</line>
+            <line>All over this land.</line>
+        </stanza>
+        <stanza>
+            <line>If I had a bell,</line>
+            <line>I'd ring it in the morning,</line>
+            <line>I'd ring it in the evening,</line>
+            <line>All over this land.</line>
+        </stanza>
+        <stanza>
+            <line>I'd ring out danger,</line>
+            <line>I'd ring out a warning</line>
+            <line>I'd ring out love between my brothers and my sisters,</line>
+            <line>All over this land.</line>
+        </stanza>
+        <stanza>
+            <line>If I had a song,</line>
+            <line>I'd sing it in the morning,</line>
+            <line>I'd sing it in the evening,</line>
+            <line>All over this land.</line>
+        </stanza>
+        <stanza>
+            <line>I'd sing out danger,</line>
+            <line>I'd sing out a warning</line>
+            <line>I'd sing out love between my brothers and my sisters,</line>
+            <line>All over this land.</line>
+        </stanza>
+        <stanza>
+            <line>Well I got a hammer,</line>
+            <line>And I got a bell,</line>
+            <line>And I got a song to sing,</line>
+            <line>All over this land.</line>
+        </stanza>
+        <stanza>
+            <line>It's the hammer of Justice,</line>
+            <line>It's the bell of Freedom,</line>
+            <line>It's the song about Love between my brothers and my sisters,</line>
+            <line>All over this land.</line>
+        </stanza>
+        <stanza id="repeat">
+            <line>It's the hammer of Justice,</line>
+            <line>It's the bell of Freedom,</line>
+            <line>It's the song about Love between my brothers and my sisters,</line>
+            <line>All over this land.</line>
+        </stanza>
+    </lyrics>
+</song>

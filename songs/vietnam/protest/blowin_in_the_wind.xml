@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <metadata song="Blowin' in the Wind" composer="Bob Dylan" album="The Freewheelin' Bob Dylan"
+        year="1963" genere="folk" notable-performers="Bob Dylan, Peter Paul and Mary"/>
+    <lyrics>
+        <stanza>
+            <line>How many roads must a man walk down</line>
+            <line>Before you call him a man?</line>
+            <line>Yes, ’n’ how many seas must a white dove sail</line>
+            <line>Before she sleeps in the sand?</line>
+            <line>Yes, ’n’ how many times must the cannonballs fly</line>
+            <line>Before they’re forever banned?</line>
+            <chorus>
+                <line>The answer, my friend, is blowin’ in the wind</line>
+                <line>The answer is blowin’ in the wind</line>
+            </chorus>
+        </stanza>
+
+        <stanza>
+            <line>How many years can a mountain exist</line>
+            <line>Before it’s washed to the sea?</line>
+            <line>Yes, ’n’ how many years can some people exist</line>
+            <line>Before they’re allowed to be free?</line>
+            <line>Yes, ’n’ how many times can a man turn his head</line>
+            <line>Pretending he just doesn’t see?</line>
+            <chorus>
+                <line>The answer, my friend, is blowin’ in the wind</line>
+                <line>The answer is blowin’ in the wind</line>
+            </chorus>
+        </stanza>
+
+        <stanza>
+            <line>How many times must a man look up</line>
+            <line>Before he can see the sky?</line>
+            <line>Yes, ’n’ how many ears must one man have</line>
+            <line>Before he can hear people cry?</line>
+            <line>Yes, ’n’ how many deaths will it take till he knows</line>
+            <line>That too many people have died?</line>
+            <chorus>
+                <line>The answer, my friend, is blowin’ in the wind</line>
+                <line>The answer is blowin’ in the wind</line>
+            </chorus>
+        </stanza>
+    </lyrics>
+</song>

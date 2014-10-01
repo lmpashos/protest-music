@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <metadata song="The Loco-Motion" composer="Gerry Goffin, Carole King" album="single" year="1962"
+        notable-perfomers="Little Eva"/>
+    <lyrics>
+        <stanza>
+            <line>Everybody is doin' a brand new dance, now</line>
+            <line>
+                <refrain>
+                    <refrain id="1">(Come on baby, do the Loco-motion)</refrain>
+                </refrain>
+            </line>
+            <line>I know you'll get to like it if you give it a chance now</line>
+            <line>
+                <refrain id="1">(Come on baby, do the Loco-motion)</refrain>
+            </line>
+        </stanza>
+
+        <stanza>
+            <line>My little baby sister can do it with me</line>
+            <line>It's easier than learning your A B C's</line>
+            <line>
+                <refrain id="2">So come on, come on, do the Loco-motion with me</refrain>
+            </line>
+        </stanza>
+
+        <stanza>
+            <line>You gotta swing your hips, now</line>
+            <line>Come on, baby</line>
+            <line>Jump up, jump back</line>
+            <line>Well, now, I think you've got the knack</line>
+        </stanza>
+        <stanza>
+            <line>Now that you can do it, let's make a chain, now</line>
+            <line>
+                <refrain id="1">(Come on baby, do the Loco-motion)</refrain>
+            </line>
+            <line>A chug-a chug-a motion like a railroad train, now</line>
+            <line>
+                <refrain id="1">(Come on baby, do the Loco-motion)</refrain>
+            </line>
+        </stanza>
+        <stanza>
+            <line>Do it nice and easy, now, don't lose control</line>
+            <line>A little bit of rhythm and a lot of soul</line>
+            <line>
+                <refrain id="2">So come on, come on, do the Loco-motion with me</refrain>
+            </line>
+        </stanza>
+        <stanza>
+            <line>Move around the floor in a Loco-motion</line>
+            <line>
+                <refrain id="1">(Come on baby, do the Loco-motion)</refrain>
+            </line>
+            <line>Do it holding hands if you get the notion</line>
+            <line>
+                <refrain id="1">(Come on baby, do the Loco-motion)</refrain>
+            </line>
+        </stanza>
+        <stanza>
+            <line>There's never been a dance that's so easy to do</line>
+            <line>It even makes you happy when you're feeling blue</line>
+            <line>
+                <refrain id="2">So come on, come on, do the Loco-motion with me</refrain>
+            </line>
+        </stanza>
+    </lyrics>
+</song>

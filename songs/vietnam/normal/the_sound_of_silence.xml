@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <metadata song="The Sound of Silence" composer="Paul Simon" album="Sounds of Silence" year="1965" notable-performers="Simon &amp; Garfunkel"/>
+    <lyrics>
+        <stanza>
+            <line>Hello darkness, my old friend,</line>
+            <line>I've come to talk with you again,</line>
+            <line>Because a vision softly creeping,</line>
+            <line>Left its seeds while I was sleeping,</line>
+            <line>And the vision that was planted in my brain</line>
+            <line>Still remains</line>
+            <line>Within the sound of silence.</line>
+        </stanza>
+        <stanza>
+            <line>In restless dreams I walked alone</line>
+            <line>Narrow streets of cobblestone,</line>
+            <line>'Neath the halo of a street lamp,</line>
+            <line>I turned my collar to the cold and damp</line>
+            <line>When my eyes were stabbed by the flash of a neon light</line>
+            <line>That split the night</line>
+            <line>And touched the sound of silence.</line>
+        </stanza>
+        <stanza>
+            <line>And in the naked light I saw</line>
+            <line>Ten thousand people, maybe more.</line>
+            <line>People talking without speaking,</line>
+            <line>People hearing without listening,</line>
+            <line>People writing songs that voices never share</line>
+            <line>And no one dared</line>
+            <line>Disturb the sound of silence.</line>
+        </stanza>
+        <stanza>
+            <line>Fools, said I, You do not know</line>
+            <line>Silence like a cancer grows.</line>
+            <line>Hear my words that I might teach you.</line>
+            <line>Take my arms that I might reach you.</line>
+            <line>But my words like silent raindrops fell</line>
+            <line>And echoed in the wells of silence</line>
+        </stanza>
+        <stanza>
+            <line>And the people bowed and prayed</line>
+            <line>To the neon god they made.</line>
+            <line>And the sign flashed out its warning</line>
+            <line>In the words that it was forming.</line>
+            <line>And the sign said, The words of the prophets are written on the subway
+                walls</line>
+            <line>And tenement halls</line>
+            <line>And whispered in the sound of silence.</line>
+        </stanza>
+    </lyrics>
+</song>
