@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="galloway_10_Sept_2014.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <title>Long Live</title>
+    <artist>Taylor Swift</artist>
+    <album>Speak Now</album>
+    <lyrics>
+        <lyricSource>http://www.azlyrics.com/lyrics/taylorswift/longlive.html</lyricSource>
+        <section>
+            <line>I said remember this moment in the back of my mind</line>
+            <line>The time we stood with our shaking hands</line>
+            <line>The crowds in stands went wild</line>
+            <line>We were the Kings and the Queens</line>
+            <line>And they read off our names</line>
+            <line>The night you danced like you knew our lives</line>
+            <line>Would never be the same</line>
+            <line>You held your head like a hero</line>
+            <line>On a history book page</line>
+            <line>It was the end of a decade</line>
+            <line>But the start of an age</line>
+        </section>
+        <section>
+            <refrainSectionRef refID="refSec1"/>
+        </section>
+        <section>
+            <line>I said remember this feeling</line>
+            <line>I pass the pictures around</line>
+            <line>Of all the years that we stood there</line>
+            <line>On the side-lines wishing for right now</line>
+            <line>We are the Kings and the Queens</line>
+            <line>You traded your baseball cap for a crown</line>
+            <line>When they gave us our trophies</line>
+            <line>And we held them up for our town</line>
+            <line>And the cynics were outraged</line>
+            <line>Screaming, <critic who="cynics">This is absurd!</critic></line>
+            <line>Cause for a moment a band of thieves</line>
+            <line>In ripped up jeans got to rule the world</line>
+        </section>
+        <section>
+            <refrainSectionRef refID="refSec2"/>
+        </section>
+        <section>
+            <refrainSectionRef refID="refSec3"/>
+        </section>
+        <section>
+            <line>Hold on to spinning around</line>
+            <line>Confetti falls to the ground</line>
+            <line>May these memories break our fall</line>
+        </section>
+        <section>
+            <line>Will you take a moment, promise me this</line>
+            <line>That you'll stand by me forever</line>
+            <line>But if God forbid fate should step in</line>
+            <line>And force us into a goodbye</line>
+            <line>If you have children some day</line>
+            <line>When they point to the pictures</line>
+            <line>Please tell them my name</line>
+            <line>Tell them how the crowds went wild</line>
+            <line>Tell them how I hope they shine</line>
+        </section>
+        <section>
+            <refrainSectionRef refID="refSec4"/>
+        </section>
+        <section>
+            <refrainSectionRef refID="refSec5"/>
+        </section>
+        <refrainSection xml:id="refSec1">
+            <refrainLineRef refID="lineRef1"/>
+            <refrainLineRef refID="lineRef2"/>
+            <refrainLineRef refID="lineRef3"/>
+            <refrainLineRef refID="lineRef4"/>
+            <refrainLineRef refID="lineRef5"/>
+        </refrainSection>
+        <refrainSection xml:id="refSec2">
+            <refrainLineRef refID="lineRef1"/>
+            <refrainLineRef refID="lineRef2"/>
+            <refrainLineRef refID="lineRef3"/>
+            <refrainLineRef refID="lineRef4"/>
+            <refrainLineRef refID="lineRef10"/>
+        </refrainSection>
+        <refrainSection xml:id="refSec3">
+            <refrainLineRef refID="lineRef6"/>
+            <refrainLineRef refID="lineRef7"/>
+            <refrainLineRef refID="lineRef8"/>
+            <refrainLineRef refID="lineRef9"/>
+            <refrainLineRef refID="lineRef5"/>
+        </refrainSection>
+        <refrainSection xml:id="refSec4">
+            <refrainLineRef refID="lineRef1"/>
+            <refrainLineRef refID="lineRef11"/>
+            <refrainLineRef refID="lineRef12"/>
+            <refrainLineRef refID="lineRef2"/>
+            <refrainLineRef refID="lineRef13"/>
+            <refrainLineRef refID="lineRef9"/>
+            <refrainLineRef refID="lineRef10"/>
+        </refrainSection>
+        <refrainSection xml:id="refSec5">
+            <refrainLineRef refID="lineRef14"/>
+            <refrainLineRef refID="lineRef7"/>
+            <refrainLineRef refID="lineRef15"/>
+            <refrainLineRef refID="lineRef4"/>
+            <refrainLineRef refID="lineRef5"/>
+        </refrainSection>
+        <refrainLine xml:id="lineRef1">Long live the walls we crashed through</refrainLine>
+        <refrainLine xml:id="lineRef2">How the kingdom lights shined just for me and you</refrainLine>
+        <refrainLine xml:id="lineRef3">I was screaming long live all the magic we made</refrainLine>
+        <refrainLine xml:id="lineRef4">And bring on all the pretenders</refrainLine>
+        <refrainLine xml:id="lineRef5">One day, we will be remembered</refrainLine>
+        <refrainLine xml:id="lineRef6">Long live all the mountains we moved</refrainLine>
+        <refrainLine xml:id="lineRef7">I had the time of my life fighting dragons with you</refrainLine>
+        <refrainLine xml:id="lineRef8">I was screaming long live that look on your face</refrainLine>
+        <refrainLine xml:id="lineRef9">And bring on all the pretenders</refrainLine>
+        <refrainLine xml:id="lineRef10">I'm not afraid</refrainLine>
+        <refrainLine xml:id="lineRef11" seeAlso="lineRef7">I had the time of my life, with you</refrainLine>
+        <refrainLine xml:id="lineRef12" seeAlso="lineRef1">Long, long live the walls we crashed through</refrainLine>
+        <refrainLine xml:id="lineRef13" seeAlso="lineRef3">And I was screaming long live all the magic we made</refrainLine>
+        <refrainLine xml:id="lineRef14" seeAlso="lineRef6">Singing, long live all the mountains we moved</refrainLine>
+        <refrainLine xml:id="lineRef15">And long, long live the look on your face</refrainLine>
+    </lyrics>
+</song>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="song.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <title>Fuck The Police</title>
+    <artist>N.W.A.</artist>
+    <lyrics>
+        <lyricSource>http://www.azlyrics.com/lyrics/nwa/fuckthepolice.html</lyricSource>
+        <section>
+            <speaker role="courtOfficer">MC Ren</speaker>
+            <line>Right about now, N.W.A. court is in full effect</line>
+            <line>Judge Dre presiding</line>
+            <line>In the case of N.W.A. vs. the Police Department;</line>
+            <line>prosecuting attourneys are: MC Ren, Ice Cube,</line>
+            <line>and Eazy-motherfuckin-E</line>
+        </section>
+        <section>
+            <speaker role="judge">Dr. Dre</speaker>
+            <line>Order, order, order</line>
+            <line>Ice Cube, take the motherfuckin stand</line>
+            <line>Do you swear to tell the truth, the whole truth</line>
+            <line>and nothin but the truth so help your black ass?</line>
+        </section>
+        <section>
+            <line>
+                <speaker role="firstWitness">Ice Cube</speaker>You god damn right!
+            </line>
+            <line>
+                <speaker role="judge">Dr. Dre</speaker>Well won't you tell everybody what the fuck you gotta say?
+            </line>
+        </section>
+        <section>
+            <speaker role="firstWitness">Ice Cube</speaker>
+            <line>Fuck the police comin straight from the underground</line>
+            <line>A young nigga got it bad cause I'm brown</line>
+            <line>And not the other color so police think</line>
+            <line>they have the authority to kill a minority</line>
+            <line>Fuck that shit, cause I ain't the one</line>
+            <line>or a punk motherfucker with a badge and a gun</line>
+            <line>to be beatin on, and thrown in jail</line>
+            <line>We can go toe to toe in the middle of a cell</line>
+            <line>Fuckin with me cause I'm a teenager</line>
+            <line>with a little bit of gold and a pager</line>
+            <line>Searchin my car, lookin for the product</line>
+            <line>Thinkin every nigga is sellin narcotics</line>
+            <line>You'd rather see, me in the pen</line>
+            <line>than me and Lorenzo rollin in a Benz-o</line>
+            <line>Beat a police out of shape</line>
+            <line>and when I'm finished, bring the yellow tape</line>
+            <line>To tape off the scene of the slaughter</line>
+            <line>Still gettin swoll off bread and water</line>
+            <line>I don't know if they fags or what</line>
+            <line>Search a nigga down, and grabbin his nuts</line>
+            <line>And on the other hand, without a gun they can't get none</line>
+            <line>But don't let it be a black and a white one</line>
+            <line>Cause they'll slam ya down to the street top</line>
+            <line>Black police showin out for the white cop</line>
+            <line>Ice Cube will swarm</line>
+            <line>on <emphasis>any</emphasis> motherfucker in a blue uniform</line>
+            <line>Just cause I'm from, the CPT</line>
+            <line>Punk police are afraid of me!</line>
+            <line>HUH, a young nigga on the warpath</line>
+            <line>And when I'm finished, it's gonna be a bloodbath</line>
+            <line>of cops, dyin in L.A.</line>
+            <line>Yo Dre, I got somethin to say</line>
+            <refrainSection xml:id="1"/>
+        </section>
+        <section>
+            <line>
+                <speaker role="announcer">unidentified</speaker>Example of scene one
+            </line>
+            <line>
+                <speaker role="cop">unidentified</speaker>Pull your god damn ass over right now
+            </line>
+            <line>
+                <speaker role="victim">unidentified</speaker>Aww shit, now what the fuck you pullin me over for?
+            </line>
+            <line>
+                <speaker role="cop">unidentified</speaker> Cause I feel like it! Just sit your ass on the curb and shut the fuck up
+            </line>
+            <line>
+                <speaker role="victim">unidentified</speaker>Man, fuck this shit
+            </line>
+            <line>
+                <speaker role="cop">unidentified</speaker>Aight smartass, I'm takin your black ass to jail!
+            </line>
+        </section>
+        <section>
+            <line>
+                <speaker role="judge">Dr. Dre</speaker> MC Ren, will you please give your testimony to the jury about this fucked up incident?
+            </line>
+        </section>
+        <section>
+            <speaker role="secondWitness">MC Ren</speaker>
+            <line>Fuck the police and Ren said it with authority</line>
+            <line>because the niggaz on the street is a majority</line>
+            <line>A gang, is with whoever I'm steppin</line>
+            <line>and the motherfuckin weapon is kept in</line>
+            <line>a stash box, for the so-called law</line>
+            <line>Wishin Ren was a nigga that they never saw</line>
+            <line>Lights start flashin behind me</line>
+            <line>But they're scared of a nigga so they mace me to blind me</line>
+            <line>But that shit don't work, I just laugh</line>
+            <line>because it gives em a hint, not to step in my path</line>
+            <line>For police, I'm sayin, "Fuck you punk!"</line>
+            <line>Readin my rights and shit, it's all junk</line>
+            <line>Pullin out a silly club, so you stand</line>
+            <line>with a fake-assed badge and a gun in your hand</line>
+            <line>But take off the gun so you can see what's up</line>
+            <line>And we'll go at it punk, and I'ma fuck you up!</line>
+            <line>Make you think I'ma kick your ass</line>
+            <line>but drop your gat, and Ren's gonna blast</line>
+            <line>I'm sneaky as fuck when it comes to crime</line>
+            <line>But I'ma smoke 'em now and not next time</line>
+            <line>Smoke any motherfucker that sweats me</line>
+            <line>or any asshole, that threatens me</line>
+            <line>I'm a sniper with a hell of a scope</line>
+            <line>Takin out a cop or two, they can't cope with me</line>
+            <line>The motherfuckin villian that's mad</line>
+            <line>With potential, to get bad as fuck</line>
+            <line>So I'ma turn it around</line>
+            <line>Put in my clip, yo, and this is the sound</line>
+            <line><transcriberNote>2 gunshots</transcriberNote>Yeah, somethin like that</line>
+            <line>but it all depends on the size of the gat</line>
+            <line>Takin out a police, would make my day</line>
+            <line>But a nigga like Ren don't give a fuck to say</line>
+            <refrainSection xml:id="1"/>
+        </section>
+        <section>
+            <transcriberNote>knocking on the door</transcriberNote>
+            <line>
+                <speaker role="victim">unidentified</speaker>Yeah man, what you need?
+            </line>
+            <line>
+                <speaker role="cop">unidentified</speaker>Police, open now
+            </line>
+            <line>
+                <speaker role="victim">unidentified</speaker>Aww shit
+            </line>
+            <line>
+                <speaker role="cop">unidentified</speaker>We have a warrant for Eazy-E's arrest
+            </line>
+            <line>
+                <speaker role="cop">unidentified</speaker>Get down and put your hands up where I can see 'em
+            </line>
+            <line>
+                <speaker role="cop2">unidentified</speaker>Move motherfucker, move now!
+            </line>
+            <line>
+                <speaker role="victim">unidentified</speaker> What the fuck did I do, man what did I
+                do?
+            </line>
+            <line>
+                <speaker role="cop">unidentified</speaker>Just shut the fuck up and get your motherfuckin ass on the floor
+            </line>
+            <line>
+                <speaker role="cop2">unidentified</speaker>You heard the man, shut the fuck up!
+            </line>
+            <line>
+                <speaker role="victim">unidentified</speaker>But I didn't do shit
+            </line>
+            <line>
+                <speaker role="cop">unidentified</speaker>Man just shut the fuck up!
+            </line>
+        </section>
+        <section>
+            <speaker role="judge">Dr. Dre</speaker>
+            <line>Eazy-E, won't you step up to the stand</line>
+            <line>and tell the jury how you feel about this bullshit?</line>
+        </section>
+        <section>
+            <speaker role="thirdWitness">Eazy-E</speaker>
+            <line>I'm tired of the motherfuckin jackin</line>
+            <line>Sweatin my gang, while I'm chillin in the shack, and</line>
+            <line>shinin the light in my face, and for what?</line>
+            <line>Maybe it's because I kick so much butt</line>
+            <line>I kick ass - or maybe cause I blast</line>
+            <line>on a stupid-assed nigga when I'm playin with the trigger</line>
+            <line>of any Uzi or an AK</line>
+            <line>Cause the police always got somethin stupid to say</line>
+            <line>They put out my picture with silence</line>
+            <line>Cause my identity by itself causes violence</line>
+            <line>The E with the criminal behavior</line>
+            <line>Yeah, I'm a gangsta, but still I got flavor</line>
+            <line> Without a gun and a badge, what do ya got?</line>
+            <line>A sucker in a uniform waitin to get shot</line>
+            <line>by me, or another nigga</line>
+            <line>And with a gat it don't matter if he's smaller or bigger</line>
+            <line>(MC Ren: Size ain't shit, he's from the old school fool)</line>
+            <line>And as you all know, E's here to rule</line>
+            <line>Whenever I'm rollin, keep lookin in the mirror</line>
+            <line>And ears on cue, yo, so I can hear a</line>
+            <line>dumb motherfucker with a gun</line>
+            <line>And if I'm rollin off the 8, he'll be the one</line>
+            <line>that I take out, and then get away</line>
+            <line>While I'm drivin off laughin this is what I'll say</line>
+            <refrainSection xml:id="1"/>
+        </section>
+        <section>
+            <line>
+                <speaker role="announcer">unidentified</speaker>The verdict
+            </line>
+            <line>
+                <speaker role="judge">Dr. Dre</speaker>The jury has found you guilty of bein a redneck, white bread, chickenshit motherfucker
+            </line>
+            <line>
+                <speaker role="cop">unidentified</speaker> But wait, that's a lie! That's a god damn lie!
+            </line>
+            <line>
+                <speaker role="judge">Dr. Dre</speaker>Get him out of here!
+            </line>
+            <line>
+                <speaker role="cop">unidentified</speaker>I want justice!
+            </line>
+            <line>
+                <speaker role="judge">Dr. Dre</speaker>Get him the fuck out my face!
+            </line>
+            <line>
+                <speaker role="cop">unidentified</speaker>I want justice!
+            </line>
+            <line>
+                <speaker role="judge">Dr. Dre</speaker>Out, <yell>right now</yell>! 
+            </line>
+            <line>
+                <speaker role="cop">unidentified</speaker><yell>fuck you, you black motherfuckerrrrrrrrrs!</yell>
+            </line>
+            <refrainSection xml:id="2"/>
+        </section>
+        <refrain xml:id="1">
+            <line>
+                <speaker role="announcer">unidentified</speaker>
+                <transcriberNote>cut and scratched</transcriberNote>
+                <repeat count="4">Fuck the police</repeat>
+            </line>
+        </refrain>
+        <refrain xml:id="2">
+            <line>
+                <speaker role="announcer">unidentified</speaker>
+                <transcriberNote>cut and scratched</transcriberNote>
+                <repeat count="3">Fuck the police</repeat>
+            </line>
+        </refrain>
+    </lyrics>
+</song>

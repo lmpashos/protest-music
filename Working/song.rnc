@@ -1,0 +1,20 @@
+
+start = song
+song = element song { title, artist, lyrics }
+title = element title { text }
+artist = element artist { text }
+lyrics = element lyrics { lyricSource, section+, refrain* }
+lyricSource = element lyricSource { text }
+section = element section { speaker?, transcriberNote?, line+, refrainSection? }
+speaker = element speaker { role, text }
+role = attribute role { text }
+line = element line { speaker?, mixed { ( yell | transcriberNote | emphasis | repeat )* } }
+yell = element yell { text }
+transcriberNote = element transcriberNote { text }
+emphasis = element emphasis { text }
+repeat = element repeat { count, text }
+count = attribute count { xsd:int }
+refrainSection = element refrainSection { xml_id, text }
+refrain = element refrain { xml_id, line }
+xml_id = attribute xml:id { xsd:int }
+

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Shake It Off</title>
+    <artist>Taylor Swift</artist>
+    <lyrics>
+        <lyricSource>http://www.directlyrics.com/taylor-swift-shake-it-off-lyrics.html</lyricSource>
+        <verse>I stay up too late</verse>
+        <verse>Got nothing in my brain</verse>
+        <repeat count="2">
+            <verse>That's what people say</verse>
+        </repeat>
+        <verse>I go on too many dates</verse>
+        <verse>But I can't make them stay</verse>
+        <verse>At least <repeat count="2">that's what people say</repeat></verse>
+        <refrainSection refrainID="1"/>
+        <verse>I never miss a beat </verse>
+        <verse>I'm lighting up my feet</verse>
+        <verse>And <repeat count="2">that's what they don't see</repeat></verse>
+        <verse>I'm dancing on my own</verse>
+        <verse>I make the moves as I go</verse>
+        <verse>And <repeat count="2">that's what they don't know</repeat></verse>
+        <refrainSection refrainID="1"/>
+        <calloutIntro>
+            <verse><repeat count="3">Hey</repeat>Just think while you been getting down and out about the liars
+            And the dirty dirty cheats of the world</verse> 
+            <verse>You could have been getting down to this sick beat</verse>
+        </calloutIntro>
+        <callout>
+            <verse>My ex man</verse>
+            <verse>brought his new girlfriend</verse>
+            <verse>She's like oh my god</verse>
+            <verse>But I'm just gonna shake</verse>
+            <verse>And to the fella over there</verse>
+            <verse>with the hella good hair </verse>
+            <verse>Won't you come on over baby</verse>
+            <verse>we could <repeat count="2">shake</repeat></verse>
+        </callout>
+        <refrainSection refrainID="2"/>
+        <refrain ID="1">
+            <refrainIntro>
+                <verse>But I keep cruising</verse>
+                <verse>Can't stop, won't stop moving</verse>
+                <verse>It's like I got this music In my mind</verse>
+                <verse>saying it's gonna be alright</verse>
+            </refrainIntro>
+            <refrainBody>
+                <verse>'Cause the players gonna <repeat count="3">play</repeat></verse>
+                <verse>And the haters gonna <repeat count="3">hate</repeat></verse>
+                <verse>Baby I'm just gonna <repeat count="3">shake</repeat></verse>
+                <verse>Shake it off</verse>
+                <verse>Heartbreakers gonna <repeat cont="3">break</repeat></verse>
+                <verse>And the fakers gonna <repeat count="3">fake</repeat></verse>
+                <verse>Baby I'm just gonna <repeat count="3">shake</repeat></verse>
+                <verse>
+                    <punchline>
+                        <repeat count="2">Shake it off</repeat>
+                    </punchline>
+                </verse>
+            </refrainBody>
+        </refrain>
+        <refrain ID="2">
+            <refrainBody>
+                <verse>'Cause the players gonna <repeat count="3">play</repeat></verse>
+                <verse>And the haters gonna <repeat count="3">hate</repeat></verse>
+                <verse>Baby I'm just gonna <repeat count="3">shake</repeat></verse>
+                <verse>Shake it off</verse>
+                <verse>Heartbreakers gonna <repeat cont="3">break</repeat></verse>
+                <verse>And the fakers gonna <repeat count="3">fake</repeat></verse>
+                <verse>Baby I'm just gonna <repeat count="3">shake</repeat></verse>
+                <verse>
+                    <punchline>
+                        <repeat count="6">Shake it off</repeat>
+                    </punchline>
+                </verse>
+            </refrainBody>
+        </refrain>
+    </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="song.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <title>Born in the U.S.A.</title>
+    <artist>Bruce Springsteen</artist>
+    <lyrics>
+        <lyricSource>http://www.azlyrics.com/lyrics/brucespringsteen/bornintheusa.html</lyricSource>
+        <section>
+            <line>Born down in a dead man's town</line>
+            <line>The first kick I took was when I hit the ground</line>
+            <line>You end up like a dog that's been beat too much</line>
+            <line>Till you spend half your life just covering up</line>
+            <line> Born in the U.S.A.</line>
+            <line>I was born in the U.S.A.</line>
+            <line>I was born in the U.S.A.</line>
+            <line>Born in the U.S.A.</line>
+            <line>Got in a little hometown jam so they put a rifle in my hand</line>
+            <line>Sent me off to a foreign land to go and kill the yellow man</line>
+            <line> Born in the U.S.A.</line>
+            <line>I was born in the U.S.A.</line>
+            <line>I was born in the U.S.A.</line>
+            <line>I was born in the U.S.A.</line>
+            <line> Born in the U.S.A.</line>
+            <line>Come back home to the refinery</line>
+            <line>Hiring man says "son if it was up to me"</line>
+            <line>Went down to see my V.A. man</line>
+            <line>He said "son don't you understand now"</line>
+            <line>Had a brother at Khe Sahn fighting off the Viet Cong</line>
+            <line>They're still there he's all gone</line>
+            <line>He had a woman he loved in Saigon</line>
+            <line>I got a picture of him in her arms now</line>
+            <line>Down in the shadow of penitentiary</line>
+            <line>Out by the gas fires of the refinery</line>
+            <line>I'm ten years burning down the road</line>
+            <line> Nowhere to run ain't got nowhere to go</line>
+            <line>Born in the U.S.A.</line>
+            <line>I was born in the U.S.A.</line>
+            <line>Born in the U.S.A.</line>
+            <line>I'm a long gone daddy in the U.S.A.</line>
+            <line>Born in the U.S.A.</line>
+            <line>Born in the U.S.A.</line>
+            <line>Born in the U.S.A.</line>
+            <line>I'm a cool rocking daddy in the U.S.A.</line>
+        </section>
+
+    </lyrics>
+</song>
