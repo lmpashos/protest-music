@@ -1,0 +1,59 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                   SCHEMA VERSION 0.0                                  #
+#                                 For songs and lyrics                                  #
+#                                      10/1/2014                                        #         
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                                                       
+#   UPDATE HISTORY:                                                             
+#
+#           VERSION:    0.0
+#               author: Leonidas Pashos
+#               updates:
+#                   - wrote initial schema 
+#                   - two major elements - metadata and lyrics                          
+#                   - only structure for now
+#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = song
+song = element song
+{
+    element metadata
+    {
+        element title
+        {
+            text
+        },
+        element composer
+        {
+            text
+        },
+        element album
+        {
+            text
+        },
+        element year
+        {
+            xsd:int
+        },
+        element notable-performers
+        {
+            text
+        },
+        element source
+        {
+            text
+        }
+    },
+    element lyrics
+    {
+        element verse
+        {
+            element line
+            {
+                text
+            }+
+        }+
+    }
+}
