@@ -1,10 +1,14 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                   SCHEMA VERSION 0.2                                  #
 #                                 For songs and lyrics                                  #
-#                                      10/9/2014                                        #         
+#                                      10/10/2014                                       #         
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                                       
-#   UPDATE HISTORY:                                                             
+#       -----------------------------------------------------
+#          !! UPDATE THIS SECTION WHEN YOU MAKE CHANGES !!
+#       -----------------------------------------------------
+#
+#       UPDATE HISTORY:                                                             
 #
 #           VERSION:    0.0
 #               author: Leonidas Pashos
@@ -22,7 +26,22 @@
 #                   - minor name changes to a few elements
 #                   - more metadata elements added
 #
+#
+#           VERSION:    0.2
+#               author: Leonidas Pashos
+#               updates:
+#                   - broke up schema into structure and liguistic section
+#                       - all linguistic elements should be defined in linguistic section
+#                   - added 2 linguistic elements (noun and adjective)
+#
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                                                   #
+#                                     Structure                                     #
+#                                                                                   #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = song
@@ -63,15 +82,22 @@ song = element song
             text
         }*
     },
+    
+    #   END metadata
+    
     element lyrics
     {
         element verse
         {(
         # should allow to freely interchange lines and refrains
             element line
-            {
+            {(
                 text
-            }+
+                |
+                noun                # defined below
+                |
+                adjective           # defined below
+            )+}+
             |
             #   or reference to a refrain
             element refrainSectionRef
@@ -94,7 +120,35 @@ song = element song
         {
             # lineID should match lineRef if equal
             attribute lineID {xsd:int},
-            text
+            (
+                text
+                |
+                noun
+                |
+                adjective
+            )+
         }*
     }
+    
+    #   END lyrics
+    
+}
+
+#   END song
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                                                   #
+#                                 Linguistic Elements                               #
+#                                                                                   #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+noun = element noun
+{
+    attribute type{text},
+    text
+}
+
+adjective = element adjective
+{
+    text
 }
