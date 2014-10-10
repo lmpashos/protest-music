@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song_data>
+    <song era="modern" is_protest="false">
+        <lyric_filename>billie_jean.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/michaeljackson/billiejean.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="false">
+        <lyric_filename>end_of_the_road.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/boyziimen/endoftheroad.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="false">
+        <lyric_filename>staying_alive.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/beegees/stayinalive.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="false">
+        <lyric_filename>the_sign.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/aceofbase/thesign.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="false">
+        <lyric_filename>when_doves_cry.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/prince/whendovescry.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="false">
+        <lyric_filename>everything_i_do_i_do_it_for_you.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/bryanadams/everythingidoidoitforyou.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="false">
+        <lyric_filename>hold_on.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/wilsonphillips/holdon.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="false">
+        <lyric_filename>my_prerogative.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/bobbybrown/myprerogative.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="false">
+        <lyric_filename>irreplacable.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/beyonceknowles/irreplaceable.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="false">
+        <lyric_filename>boom_boom_pow.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/blackeyedpeas/boomboompow.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="false">
+        <lyric_filename>tik_tok.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/keha/tiktok.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="false">
+        <lyric_filename>yeah.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/usher/yeah.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="true">
+        <lyric_filename>born_in_the_usa.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/brucespringsteen/bornintheusa.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="true">
+        <lyric_filename>born_in_the_usa.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/brucespringsteen/bornintheusa.html</lyric_source>
+    </song>    
+    <song era="modern" is_protest="true">
+        <lyric_filename>by_the_time_i_get_to_arizona.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/publicenemy/bythetimeigettoarizona.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="true">
+        <lyric_filename>fuck_the_police.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/nwa/fuckthepolice.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="true">
+        <lyric_filename>fuck_the_police.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/nwa/fuckthepolice.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="true">
+        <lyric_filename>fight_the_power.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/publicenemy/fightthepower.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="true">
+        <lyric_filename>california_uber_alles.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/deadkennedys/californiauberalles.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="true">
+        <lyric_filename>self_evident.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.sing365.com/music/lyric.nsf/Self-Evident-lyrics-Ani-DiFranco/918D74475B8673F648256E840007A147</lyric_source>
+    </song>
+    
+    <song era="modern" is_protest="true">
+        <lyric_filename>god_save_the_queen.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/sexpistols/godsavethequeen.html</lyric_source>
+    </song>
+</song_data>
