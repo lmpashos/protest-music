@@ -1,0 +1,47 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                   SCHEMA VERSION 0.0
+#                       For tracking information about the various
+#                          song files, associated image files, and source info
+#                                      10/10/2014 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                                                       
+#   UPDATE HISTORY:                                                             
+#
+#           VERSION:    0.0
+#               author: David Galloway
+#               updates:
+#                   - wrote initial schema 
+#                   - just put in things that the website might need
+#                   - think that lyric source info should be kept here rather than with the song
+#
+#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = song_data
+song_data = element song_data
+{
+    element song
+    {
+        attribute era
+        {
+            text
+        },
+        attribute is_protest 
+        {
+            xsd:boolean
+        },
+        element lyric_filename
+        {
+            text
+        },
+        element image_filename
+        {
+            text
+        }+,
+        element lyric_source
+        {
+            xsd:anyURI
+        }
+    }
+}

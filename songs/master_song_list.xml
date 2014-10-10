@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/song_list_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <song_data>
     <song era="modern" is_protest="false">
         <lyric_filename>billie_jean.xml</lyric_filename>
@@ -64,21 +65,11 @@
         <lyric_filename>born_in_the_usa.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/brucespringsteen/bornintheusa.html</lyric_source>
-    </song>
-    <song era="modern" is_protest="true">
-        <lyric_filename>born_in_the_usa.xml</lyric_filename>
-        <image_filename></image_filename>
-        <lyric_source>http://www.azlyrics.com/lyrics/brucespringsteen/bornintheusa.html</lyric_source>
     </song>    
     <song era="modern" is_protest="true">
         <lyric_filename>by_the_time_i_get_to_arizona.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/publicenemy/bythetimeigettoarizona.html</lyric_source>
-    </song>
-    <song era="modern" is_protest="true">
-        <lyric_filename>fuck_the_police.xml</lyric_filename>
-        <image_filename></image_filename>
-        <lyric_source>http://www.azlyrics.com/lyrics/nwa/fuckthepolice.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
         <lyric_filename>fuck_the_police.xml</lyric_filename>
@@ -100,10 +91,19 @@
         <image_filename></image_filename>
         <lyric_source>http://www.sing365.com/music/lyric.nsf/Self-Evident-lyrics-Ani-DiFranco/918D74475B8673F648256E840007A147</lyric_source>
     </song>
-    
     <song era="modern" is_protest="true">
-        <lyric_filename>god_save_the_queen.xml</lyric_filename>
+        <lyric_filename>american_skin_41_shots.xml</lyric_filename>
         <image_filename></image_filename>
-        <lyric_source>http://www.azlyrics.com/lyrics/sexpistols/godsavethequeen.html</lyric_source>
+        <lyric_source>http://www.springsteenlyrics.com/lyrics/a/americanskin.php</lyric_source>
+    </song>
+    <song era="modern" is_protest="true">
+        <lyric_filename>man_in_black.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.azlyrics.com/lyrics/johnnycash/maninblack.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="true">
+        <lyric_filename>sleep_now_in_the_fire.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source>http://www.absolutelyrics.com/lyrics/view/rage_against_the_machine/sleep_now_in_the_fire</lyric_source>
     </song>
 </song_data>
