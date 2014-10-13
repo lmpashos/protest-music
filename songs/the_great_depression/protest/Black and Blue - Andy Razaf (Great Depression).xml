@@ -1,40 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song>(what Did I Do to be So) Black and Blue
-Lyrics by Andy Razaf
-Music by Thomas "Fats" Waller and Harry Brooks
+<song>
+    <metadata>
+        <title>(what Did I Do to be So) Black and Blue</title>
+        <composer>Thomas "Fats" Waller and Harry Brooks</composer>
+        <year>1929</year>
+        <notablePerformer>Louis Armstrong</notablePerformer>
+    </metadata>
 
-Cold, empty bed,
-Springs hard as lead,
-Pains in my head,
-Feel like old Ned.
-What did I do
-To be so black and blue?
+    <lyrics>
+        <verse>
+            <line><adjective>Cold</adjective>, <adjective>empty</adjective> <noun type="thing">bed</noun>,</line>
+            <line><noun type="thing">Springs</noun> <adjective>hard</adjective> as <noun type="thing">lead</noun>,</line>
+            <line><noun type="thing">Pains</noun> in my <noun type="thing">head</noun>,</line>
+            <line>Feel like <adjective>old</adjective> <noun type="person">Ned</noun>.</line>
+            <refrainSectionRef sectionRef="1"/>
 
-No joys for me,
-No company,
-Even the mouse
-Ran from my house,
-All my life through
-I've been so
-Black and blue.
+            <line>Even the <noun type="thing">mouse</noun></line>
+            <line>Ran from my <noun type="place">house</noun>,</line>
+            <line>They laugh at <noun type="person">you</noun> and scorn <noun type="person">you</noun> too</line>
+            <refainSectionRef sectionRef="1"/>
 
-I'm so forlorn,
-Life's just a thorn,
-My heart is torn,
-Why was I born?
-What did I do to be so
-Black and blue?
+            <line><noun type="person">I</noun>'m <adjective>white</adjective> inside</line>
+            <line>But that don't help my <noun type="thing">case</noun></line>
+            <line>Cause I can't hide</line>
+            <line>What is in my <noun type="thing">face</noun></line>
+            <line>How will it end</line>
+            <line>Ain't got a <noun type="thing">friend</noun></line>
+            <line>My only <noun type="thing">sin</noun></line>
+            <line>is in my <noun type="thing">skin</noun></line>
+            <refrainSectionRef sectionRef="1"/>
 
-I'm white inside,
-But that don't help my case.
-'Cause I can't hide
-What is on my face,
-Oh!
+            <line>How will it end</line>
+            <line>Aint got a <noun type="thing">friend</noun></line>
+            <line>My only <noun type="thing">sin</noun></line>
+            <line>Is in my <noun type="thing">skin</noun></line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
 
-[Alternative lyrics
-for the last verse]
-I'm sad inside,
-But it don't help my case
-'Cause I can't hide
-All the sorrow
-That's on my face.</song>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+
+        <refrainLine lineID="1">What did I do to be so <adjective>black</adjective> and <adjective>blue</adjective>?</refrainLine>
+
+    </lyrics>
+</song>
