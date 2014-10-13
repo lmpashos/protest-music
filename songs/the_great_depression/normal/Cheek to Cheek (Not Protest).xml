@@ -1,28 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song>FRED ASTAIRE – CHEEK TO CHEEK LYRICS
 
-Heaven, I'm in Heaven,
-And my heart beats so that I can hardly speak;
-And I seem to find the happiness I seek
-When we're out together dancing, cheek to cheek.
-Heaven, I'm in Heaven,
-And the cares that hang around me thro' the week
-Seem to vanish like a gambler's lucky streak
-When we're out together dancing, cheek to cheek.
-Oh! I love to climb a mountain,
-And to reach the highest peak,
-But it doesn't thrill me half as much
-As dancing cheek to cheek.
-Oh! I love to go out fishing
-In a river or a creek,
-But I don't enjoy it half as much
-As dancing cheek to cheek.
-Dance with me
-I want my arm about you;
-The charm about you
-Will carry me thro' to Heaven
-I'm in Heaven,
-And my heart beats so that I can hardly speak;
-And I seem to find the happiness I seek
-When we're out together dancing cheek to cheek
+
+<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>CHEEK TO CHEEK</title>
+        <composer>Irving Berlin</composer>
+        <album>Cheek to Cheek</album>
+        <year>1935</year>
+        <genre>movie soundtrack</genre>
+        <notablePerformer>Fred Astaire</notablePerformer>
+    </metadata>
+
+    <lyrics>
+        <verse>
+            <line><noun type="place">Heaven</noun>, <noun type="person">I</noun>'m in <noun
+                    type="place">Heaven</noun>,</line>
+            <line>And my <noun type="thing">heart</noun> beats so that <noun type="person">I
+</noun>                can hardly speak;</line>
+            <line>And <noun type="person">I </noun>seem to find the <noun type="thing">happiness</noun>
+                <noun type="person">I </noun>seek</line>
+            <refrainSectionRef sectionRef="1"/>
+            <line><noun type="place">Heaven</noun>, <noun type="person">I</noun>'m in <noun type="place">Heaven</noun>,</line>
+            <line>And the <noun type="thing">cares</noun> that hang around <noun type="person">me</noun> thro' the <noun type="thing">week</noun></line>
+            <line>Seem to vanish like a <noun type="person">gambler</noun>'s lucky <noun type="thing">streak</noun></line>
+            <refrainSectionRef sectionRef="1"/>
+            <line>Oh! <noun type="person">I </noun>love to climb a <noun type="thing">mountain</noun>,</line>
+            <line>And to reach the <adjective>highest</adjective> <noun type="thing">peak</noun>,</line>
+            <line>But <noun type="thing">it</noun> doesn't thrill <noun type="thing">me</noun> <adjective>half</adjective> as much</line>
+            <refrainSectionRef sectionRef="2"/>
+
+            <line>Oh! <noun type="person">I </noun>love to go out fishing</line>
+            <line>In a <noun type="thing">river</noun> or a <noun type="thing">creek</noun>,</line>
+            <line>But <noun type="person">I </noun>don't enjoy it <adjective>half</adjective> as much</line>
+
+            <refrainSectionRef sectionRef="2"/>
+            <line>Dance with <noun type="person">me</noun></line>
+            <line><noun type="person">I </noun>want my <noun type="thing">arm</noun> about <noun type="person">you</noun>;</line>
+            <line>The <noun type="thing">charm</noun> about <noun type="person">you</noun></line>
+            <line>Will carry me thro' to <noun type="place">Heaven</noun></line>
+            <line><noun type="person">I</noun>'m in <noun type="place">Heaven</noun>,</line>
+            <line>And my <noun type="thing">heart</noun> beats so that <noun type="person">I </noun>can hardly speak;</line>
+            <line>And <noun type="person">I </noun>seem to find the <noun type="thing">happiness</noun> <noun type="person">I </noun>seek</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="2"/>
+        </refrainSection>
+
+        <refrainLine lineID="1">When <noun type="thing">we</noun>'re out together dancing, <noun type="thing">cheek</noun> to <noun type="thing">cheek</noun>.</refrainLine>
+        <refrainLine lineID="2">As dancing <noun type="thing">cheek</noun> to <noun type="thing">cheek</noun>.</refrainLine>
+    </lyrics>
 </song>
