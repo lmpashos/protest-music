@@ -4,83 +4,90 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>about</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script>
-	$(document).ready(function() {
+	document.addEventListener('DOMContentLoaded', function () {
 		////////////////////////////
 		// menu bar interactivity //
 		////////////////////////////
 		
 		// index
-		$("#index").mouseenter(function(){
-			$("#indexPanel").show();
-			$("#index").css("background","rgba(0,0,0,0.6)");
+		var index = document.getElementById('index');
+		var indexPanel = document.getElementById('indexPanel');
+		index.addEventListener('mouseover',function(){
+			indexPanel.style.display = 'block';
+			index.style.background = 'rgba(0,0,0,0.6)';
 		});
-		$("#indexPanel").mouseenter(function(){
-			$("#indexPanel").show();
-			$("#index").css("background","rgba(0,0,0,0.6)");
+		indexPanel.addEventListener('mouseover',function(){
+			indexPanel.style.display = 'block';
+			index.style.background = 'rgba(0,0,0,0.6)';
 		});
-		$("#index").mouseleave(function(){
-			$("#indexPanel").hide();
-			$("#index").css("background","rgba(0,0,0,0.2)");
+		index.addEventListener('mouseout',function(){
+			indexPanel.style.display = 'none';
+			index.style.background = 'rgba(0,0,0,0.2)';
 		});
-		$("#indexPanel").mouseleave(function(){
-			$("#indexPanel").hide();
-			$("#index").css("background","rgba(0,0,0,0.2)");
+		indexPanel.addEventListener('mouseout',function(){
+			indexPanel.style.display = 'none';
+			index.style.background = 'rgba(0,0,0,0.2)';
 		});
 		
 		// about (current)
-		$("#current").mouseenter(function(){
-			$("#aboutPanel").show();
-			$("#current").css("background","rgba(0,0,0,0.6)");
+		var current = document.getElementById('current');
+		var aboutPanel = document.getElementById('aboutPanel');
+		current.addEventListener('mouseover',function(){
+			aboutPanel.style.display = 'block';
+			current.style.background = 'rgba(0,0,0,0.6)';
 		});
-		$("#aboutPanel").mouseenter(function(){
-			$("#aboutPanel").show();
-			$("#current").css("background","rgba(0,0,0,0.6)");
+		aboutPanel.addEventListener('mouseover',function(){
+			aboutPanel.style.display = 'block';
+			current.style.background = 'rgba(0,0,0,0.6)';
 		});
-		$("#current").mouseleave(function(){
-			$("#aboutPanel").hide();
-			$("#current").css("background","rgba(0,0,0,0.8)");
+		current.addEventListener('mouseout',function(){
+			aboutPanel.style.display = 'none';
+			current.style.background = 'rgba(0,0,0,0.8)';
 		});
-		$("#aboutPanel").mouseleave(function(){
-			$("#aboutPanel").hide();
-			$("#current").css("background","rgba(0,0,0,0.8)");
+		aboutPanel.addEventListener('mouseout',function(){
+			aboutPanel.style.display = 'none';
+			current.style.background = 'rgba(0,0,0,0.8)';
 		});
 		
 		// data
-		$("#data").mouseenter(function(){
-			$("#dataPanel").show();
-			$("#data").css("background","rgba(0,0,0,0.6)");
+		var data = document.getElementById('data');
+		var dataPanel = document.getElementById('dataPanel');
+		data.addEventListener('mouseover',function(){
+			dataPanel.style.display = 'block';
+			data.style.background = 'rgba(0,0,0,0.6)';
 		});
-		$("#dataPanel").mouseenter(function(){
-			$("#dataPanel").show();
-			$("#data").css("background","rgba(0,0,0,0.6)");
+		dataPanel.addEventListener('mouseover',function(){
+			dataPanel.style.display = 'block';
+			data.style.background = 'rgba(0,0,0,0.6)';
 		});
-		$("#data").mouseleave(function(){
-			$("#dataPanel").hide();
-			$("#data").css("background","rgba(0,0,0,0.2)");
+		data.addEventListener('mouseout',function(){
+			dataPanel.style.display = 'none';
+			data.style.background = 'rgba(0,0,0,0.2)';
 		});
-		$("#dataPanel").mouseleave(function(){
-			$("#dataPanel").hide();
-			$("#data").css("background","rgba(0,0,0,0.2)");
+		dataPanel.addEventListener('mouseout',function(){
+			dataPanel.style.display = 'none';
+			data.style.background = 'rgba(0,0,0,0.2)';
 		});
 		
 		// conclusions
-		$("#conclusions").mouseenter(function(){
-			$("#conclusionsPanel").show();
-			$("#conclusions").css("background","rgba(0,0,0,0.6)");
+		var conclusions = document.getElementById('conclusions');
+		var conclusionsPanel = document.getElementById('conclusionsPanel');
+		conclusions.addEventListener('mouseover',function(){
+			conclusionsPanel.style.display = 'block';
+			conclusions.style.background = 'rgba(0,0,0,0.6)';
 		});
-		$("#conclusionsPanel").mouseenter(function(){
-			$("#conclusionsPanel").show();
-			$("#conclusions").css("background","rgba(0,0,0,0.6)");
+		conclusionsPanel.addEventListener('mouseover',function(){
+			conclusionsPanel.style.display = 'block';
+			conclusions.style.background = 'rgba(0,0,0,0.6)';
 		});
-		$("#conclusions").mouseleave(function(){
-			$("#conclusionsPanel").hide();
-			$("#conclusions").css("background","rgba(0,0,0,0.2)");
+		conclusions.addEventListener('mouseout',function(){
+			conclusionsPanel.style.display = 'none';
+			conclusions.style.background = 'rgba(0,0,0,0.2)';
 		});
-		$("#conclusionsPanel").mouseleave(function(){
-			$("#conclusionsPanel").hide();
-			$("#conclusions").css("background","rgba(0,0,0,0.2)");
+		conclusionsPanel.addEventListener('mouseout',function(){
+			conclusionsPanel.style.display = 'none';
+			conclusions.style.background = 'rgba(0,0,0,0.2)';
 		});
     });
 </script>
@@ -143,24 +150,7 @@
             	<p>This is the main content space</p>
                 <p>We can put stuff here</p>
             </div>
-            <script>
-				////////////////////////////////
-				// keeps col lengths the same //
-				////////////////////////////////
-				var leftHeight = $("#left").height();
-				var centerHeight = $("#center").height();
-				var rightHeight = $("#right").height();
-				var biggest = Math.max(leftHeight,centerHeight,rightHeight);
-				if(biggest === leftHeight){
-					$("#center, #right").height($("#left").height());
-				}
-				else if(biggest === centerHeight){
-					$("#left, #right").height($("#center").height());
-				}
-				else{
-					$("#left, #center").height($("#right").height())
-				}
-			</script>
+            <script src="columnLength.js"></script>
         </div>
         
     </div>
