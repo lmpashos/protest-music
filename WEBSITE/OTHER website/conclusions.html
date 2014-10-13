@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Protest Music</title>
+<title>conclusions</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script>
@@ -11,22 +11,22 @@
 		// menu bar interactivity //
 		////////////////////////////
 		
-		// index (current)
-		$("#current").mouseenter(function(){
+		// index
+		$("#index").mouseenter(function(){
 			$("#indexPanel").show();
-			$("#current").css("background","rgba(0,0,0,0.6)");
+			$("#index").css("background","rgba(0,0,0,0.6)");
 		});
 		$("#indexPanel").mouseenter(function(){
 			$("#indexPanel").show();
-			$("#current").css("background","rgba(0,0,0,0.6)");
+			$("#index").css("background","rgba(0,0,0,0.6)");
 		});
-		$("#current").mouseleave(function(){
+		$("#index").mouseleave(function(){
 			$("#indexPanel").hide();
-			$("#current").css("background","rgba(0,0,0,0.8)");
+			$("#index").css("background","rgba(0,0,0,0.2)");
 		});
 		$("#indexPanel").mouseleave(function(){
 			$("#indexPanel").hide();
-			$("#current").css("background","rgba(0,0,0,0.8)");
+			$("#index").css("background","rgba(0,0,0,0.2)");
 		});
 		
 		// about
@@ -65,22 +65,22 @@
 			$("#data").css("background","rgba(0,0,0,0.2)");
 		});
 		
-		// conclusions
-		$("#conclusions").mouseenter(function(){
+		// conclusions (current)
+		$("#current").mouseenter(function(){
 			$("#conclusionsPanel").show();
-			$("#conclusions").css("background","rgba(0,0,0,0.6)");
+			$("#current").css("background","rgba(0,0,0,0.6)");
 		});
 		$("#conclusionsPanel").mouseenter(function(){
 			$("#conclusionsPanel").show();
-			$("#conclusions").css("background","rgba(0,0,0,0.6)");
+			$("#current").css("background","rgba(0,0,0,0.6)");
 		});
-		$("#conclusions").mouseleave(function(){
+		$("#current").mouseleave(function(){
 			$("#conclusionsPanel").hide();
-			$("#conclusions").css("background","rgba(0,0,0,0.2)");
+			$("#current").css("background","rgba(0,0,0,0.8)");
 		});
 		$("#conclusionsPanel").mouseleave(function(){
 			$("#conclusionsPanel").hide();
-			$("#conclusions").css("background","rgba(0,0,0,0.2)");
+			$("#current").css("background","rgba(0,0,0,0.8)");
 		});
     });
 </script>
@@ -90,7 +90,7 @@
     <div class="wrapper">
         <div class="menu">
             <div class="button">
-                <a id="current"style="padding:11px 72px 11px 10px">index</a>
+                <a href="index.html" id="index"style="padding:11px 72px 11px 10px">index</a>
                 <div class="panel" id="indexPanel">
                     <li><a>subsection1</a></li>
                     <li><a>subsection2</a></li>
@@ -117,7 +117,7 @@
                 </div>
             </div>
             <div class="button">
-                <a href="conclusions.html" id="conclusions" style="padding:11px 23px 11px 10px">conclusions</a>
+                <a id="current" style="padding:11px 23px 11px 10px">conclusions</a>
                 <div class="panel" id="conclusionsPanel">
                     <li><a>subsection1</a></li>
                     <li><a>subsection2</a></li>
@@ -128,7 +128,7 @@
                 </div>
             </div>
         </div>
-        <h1>Protest Music</h1>
+        <h1>conclusions</h1>
         <div class="content">
             <div id="left">
             	<p>This is the left content space</p>

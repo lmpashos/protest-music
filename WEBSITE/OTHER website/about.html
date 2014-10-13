@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Protest Music</title>
+<title>about</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script>
@@ -11,40 +11,40 @@
 		// menu bar interactivity //
 		////////////////////////////
 		
-		// index (current)
-		$("#current").mouseenter(function(){
+		// index
+		$("#index").mouseenter(function(){
 			$("#indexPanel").show();
-			$("#current").css("background","rgba(0,0,0,0.6)");
+			$("#index").css("background","rgba(0,0,0,0.6)");
 		});
 		$("#indexPanel").mouseenter(function(){
 			$("#indexPanel").show();
-			$("#current").css("background","rgba(0,0,0,0.6)");
+			$("#index").css("background","rgba(0,0,0,0.6)");
 		});
-		$("#current").mouseleave(function(){
+		$("#index").mouseleave(function(){
 			$("#indexPanel").hide();
-			$("#current").css("background","rgba(0,0,0,0.8)");
+			$("#index").css("background","rgba(0,0,0,0.2)");
 		});
 		$("#indexPanel").mouseleave(function(){
 			$("#indexPanel").hide();
-			$("#current").css("background","rgba(0,0,0,0.8)");
+			$("#index").css("background","rgba(0,0,0,0.2)");
 		});
 		
-		// about
-		$("#about").mouseenter(function(){
+		// about (current)
+		$("#current").mouseenter(function(){
 			$("#aboutPanel").show();
-			$("#about").css("background","rgba(0,0,0,0.6)");
+			$("#current").css("background","rgba(0,0,0,0.6)");
 		});
 		$("#aboutPanel").mouseenter(function(){
 			$("#aboutPanel").show();
-			$("#about").css("background","rgba(0,0,0,0.6)");
+			$("#current").css("background","rgba(0,0,0,0.6)");
 		});
-		$("#about").mouseleave(function(){
+		$("#current").mouseleave(function(){
 			$("#aboutPanel").hide();
-			$("#about").css("background","rgba(0,0,0,0.2)");
+			$("#current").css("background","rgba(0,0,0,0.8)");
 		});
 		$("#aboutPanel").mouseleave(function(){
 			$("#aboutPanel").hide();
-			$("#about").css("background","rgba(0,0,0,0.2)");
+			$("#current").css("background","rgba(0,0,0,0.8)");
 		});
 		
 		// data
@@ -90,7 +90,7 @@
     <div class="wrapper">
         <div class="menu">
             <div class="button">
-                <a id="current"style="padding:11px 72px 11px 10px">index</a>
+                <a href="index.html" id="index"style="padding:11px 72px 11px 10px">index</a>
                 <div class="panel" id="indexPanel">
                     <li><a>subsection1</a></li>
                     <li><a>subsection2</a></li>
@@ -98,7 +98,7 @@
                 </div>
             </div>
             <div class="button">
-                <a href="about.html" id="about" style="padding:11px 69px 11px 10px">about</a>
+                <a id="current" style="padding:11px 69px 11px 10px">about</a>
                 <div class="panel" id="aboutPanel">
                     <li><a>subsection1</a></li>
                     <li><a>subsection2</a></li>
@@ -128,7 +128,7 @@
                 </div>
             </div>
         </div>
-        <h1>Protest Music</h1>
+        <h1>about</h1>
         <div class="content">
             <div id="left">
             	<p>This is the left content space</p>
