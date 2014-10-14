@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>conclusions</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script>
+	document.addEventListener('DOMContentLoaded', function () {
+		////////////////////////////
+		// menu bar interactivity //
+		////////////////////////////
+		
+		// index
+		var index = document.getElementById('index');
+		var indexPanel = document.getElementById('indexPanel');
+		index.addEventListener('mouseover',function(){
+			indexPanel.style.display = 'block';
+			index.style.background = 'rgba(0,0,0,0.6)';
+		});
+		indexPanel.addEventListener('mouseover',function(){
+			indexPanel.style.display = 'block';
+			index.style.background = 'rgba(0,0,0,0.6)';
+		});
+		index.addEventListener('mouseout',function(){
+			indexPanel.style.display = 'none';
+			index.style.background = 'rgba(0,0,0,0.2)';
+		});
+		indexPanel.addEventListener('mouseout',function(){
+			indexPanel.style.display = 'none';
+			index.style.background = 'rgba(0,0,0,0.2)';
+		});
+		
+		// about
+		var about = document.getElementById('about');
+		var aboutPanel = document.getElementById('aboutPanel');
+		about.addEventListener('mouseover',function(){
+			aboutPanel.style.display = 'block';
+			about.style.background = 'rgba(0,0,0,0.6)';
+		});
+		aboutPanel.addEventListener('mouseover',function(){
+			aboutPanel.style.display = 'block';
+			about.style.background = 'rgba(0,0,0,0.6)';
+		});
+		about.addEventListener('mouseout',function(){
+			aboutPanel.style.display = 'none';
+			about.style.background = 'rgba(0,0,0,0.2)';
+		});
+		aboutPanel.addEventListener('mouseout',function(){
+			aboutPanel.style.display = 'none';
+			about.style.background = 'rgba(0,0,0,0.2)';
+		});
+		
+		// data
+		var data = document.getElementById('data');
+		var dataPanel = document.getElementById('dataPanel');
+		data.addEventListener('mouseover',function(){
+			dataPanel.style.display = 'block';
+			data.style.background = 'rgba(0,0,0,0.6)';
+		});
+		dataPanel.addEventListener('mouseover',function(){
+			dataPanel.style.display = 'block';
+			data.style.background = 'rgba(0,0,0,0.6)';
+		});
+		data.addEventListener('mouseout',function(){
+			dataPanel.style.display = 'none';
+			data.style.background = 'rgba(0,0,0,0.2)';
+		});
+		dataPanel.addEventListener('mouseout',function(){
+			dataPanel.style.display = 'none';
+			data.style.background = 'rgba(0,0,0,0.2)';
+		});
+		
+		// conclusions (current)
+		var conclusions = document.getElementById('current');
+		var conclusionsPanel = document.getElementById('conclusionsPanel');
+		conclusions.addEventListener('mouseover',function(){
+			conclusionsPanel.style.display = 'block';
+			conclusions.style.background = 'rgba(0,0,0,0.6)';
+		});
+		conclusionsPanel.addEventListener('mouseover',function(){
+			conclusionsPanel.style.display = 'block';
+			conclusions.style.background = 'rgba(0,0,0,0.6)';
+		});
+		conclusions.addEventListener('mouseout',function(){
+			conclusionsPanel.style.display = 'none';
+			conclusions.style.background = 'rgba(0,0,0,0.8)';
+		});
+		conclusionsPanel.addEventListener('mouseout',function(){
+			conclusionsPanel.style.display = 'none';
+			conclusions.style.background = 'rgba(0,0,0,0.8)';
+		});
+    });
+</script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <div class="button">
+                <a href="index.html" id="index"style="padding:11px 72px 11px 10px">index</a>
+                <div class="panel" id="indexPanel">
+                    <li><a>subsection1</a></li>
+                    <li><a>subsection2</a></li>
+                    <li><a>subsection3</a></li>
+                </div>
+            </div>
+            <div class="button">
+                <a href="about.html" id="about" style="padding:11px 69px 11px 10px">about</a>
+                <div class="panel" id="aboutPanel">
+                    <li><a>subsection1</a></li>
+                    <li><a>subsection2</a></li>
+                    <li><a>subsection3</a></li>
+                    <li><a>subsection4</a></li>
+                </div>
+            </div>
+            <div class="button">
+                <a href="data.html" id="data" style="padding:11px 79px 11px 10px">data</a>
+                <div class="panel" id="dataPanel">
+                    <li><a>subsection1</a></li>
+                    <li><a>subsection2</a></li>
+                    <li><a>subsection3</a></li>
+                    <li><a>subsection4</a></li>
+                    <li><a>subsection5</a></li>
+                </div>
+            </div>
+            <div class="button">
+                <a id="current" style="padding:11px 23px 11px 10px">conclusions</a>
+                <div class="panel" id="conclusionsPanel">
+                    <li><a>subsection1</a></li>
+                    <li><a>subsection2</a></li>
+                    <li><a>subsection3</a></li>
+                    <li><a>subsection4</a></li>
+                    <li><a>subsection5</a></li>
+                    <li><a>subsection6</a></li>
+                </div>
+            </div>
+        </div>
+        <h1>conclusions</h1>
+        <div class="content">
+            <div id="left">
+            	<p>This is the left content space</p>
+                <p>We can put stuff here</p>
+                <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>The spaces automatically resize based on the longest one</p>
+            </div>
+            <div id="right">
+            	<p>This is the right content space</p>
+                <p>We can put stuff here</p>
+            </div>
+            <div id="center">
+            	<p>This is the main content space</p>
+                <p>We can put stuff here</p>
+            </div>
+            <script src="columnLength.js"></script>
+        </div>
+        
+    </div>
+    <div class="footer">
+           <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width: 0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+    </div>
+</body>
+</html>

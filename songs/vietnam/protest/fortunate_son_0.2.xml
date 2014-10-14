@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Fortunate Son</title>
+        <composer>John Fogerty</composer>
+        <album>Willy and the Poor Boys</album>
+        <year>1969</year>
+        <genre>blues rock</genre>
+        <notablePerformer>Creedence Clearwater Rivival</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><adjective>Some</adjective> <noun type="person">folks</noun> are born made to wave the <noun type="thing">flag</noun></line>
+            <line>Ooh, they're <adjective>red</adjective>, <adjective>white</adjective> and <adjective>blue</adjective></line>
+            <line>And when the band plays <noun type="thing">"Hail to the Chief"</noun></line>
+            <line>Oh, they point the <noun type="thing">cannon</noun> at you, Lord</line>
+        </verse>
+        <verse>
+            <line>It ain't me, it ain't me</line>
+            <line>I ain't no <adjective>Senator's</adjective> <noun type="person">son</noun></line>
+            <line>It ain't me, it ain't me</line>
+            <line>I ain't no <adjective>fortunate</adjective> <noun type="person">one</noun>, no</line>
+        </verse>
+        <verse>
+            <line>Some <noun type="person">folks</noun> are born <adjective>silver</adjective> <noun type="thing">spoon</noun> in <noun type="thing">hand</noun></line>
+            <line><noun type="person">Lord</noun>, don't they help themselves, oh</line>
+            <line>But when the <adjective>tax</adjective> <noun type="person">men</noun> come to the <noun type="thing">door</noun></line>
+            <line><noun type="person">Lord</noun>, the <noun type="thing">house</noun> look a like a <adjective>rummage</adjective> <noun type="thing">sale</noun>, yes</line>
+        </verse>
+
+        <verse>
+            <line>It ain't me, it ain't me</line>
+            <line>I ain't no <adjective>millionaire's</adjective> <noun type="person">son</noun>, no, no</line>
+            <line>It ain't me, it ain't me</line>
+            <line>I ain't no <adjective>fortunate</adjective> <noun type="person">one</noun>, no</line>
+        </verse>
+        <verse>
+            <line>Yeah, <adjective>some</adjective> <noun type="person">folks</noun> inherit <adjective>star spangled</adjective> <noun type="thing">eyes</noun></line>
+            <line>Ooh, they send you down to <noun type="thing">war</noun>, <noun type="person">Lord</noun></line>
+            <line>And when you ask them, "How much should we give?"</line>
+            <line>Oh, they only answer, more, more, more, oh</line>
+        </verse>
+        <verse>
+            <line>It ain't me, it ain't me</line>
+            <line>I ain't no <adjective>military</adjective> <noun type="person">son</noun></line>
+            <line>It ain't me, it ain't me</line>
+            <line>I ain't no <adjective>fortunate</adjective> <noun type="person">one</noun></line>
+        </verse>
+
+        <verse>
+            <line>It ain't me, it ain't me</line>
+            <line>I ain't no <adjective>fortunate</adjective> <noun type="person">one</noun>, no, no, no</line>
+            <line>It ain't me, it ain't me</line>
+            <line>I ain't no <adjective>fortunate</adjective> <noun type="person">son</noun>, no, no</line>
+        </verse>
+    </lyrics>
+</song>

@@ -1,61 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
-    <metadata song="If I Had A Hammer" composer="Pete Seegar" album="single" year="1949" genere="folk"
-        notable-performers="Pete Seeger, Peter Paul and Mary"/>
+    <metadata>
+        <title>If I Had A Hammer</title>
+        <composer>Pete Seeger</composer>
+        <album>single</album>
+        <year>1949</year>
+        <genre>folk</genre>
+        <notablePerformer>Pete Seeger</notablePerformer>
+        <notablePerformer>Peter Paul and Mary</notablePerformer>
+    </metadata>
     <lyrics>
-        <stanza>
+        <verse>
             <line>If I had a hammer,</line>
             <line>I'd hammer in the morning</line>
             <line>I'd hammer in the evening,</line>
             <line>All over this land.</line>
-        </stanza>
-        <stanza>
+        </verse>
+        <verse>
             <line>I'd hammer out danger,</line>
             <line>I'd hammer out a warning,</line>
             <line>I'd hammer out love between my brothers and my sisters,</line>
             <line>All over this land.</line>
-        </stanza>
-        <stanza>
+        </verse>
+        <verse>
             <line>If I had a bell,</line>
             <line>I'd ring it in the morning,</line>
             <line>I'd ring it in the evening,</line>
             <line>All over this land.</line>
-        </stanza>
-        <stanza>
+        </verse>
+        <verse>
             <line>I'd ring out danger,</line>
             <line>I'd ring out a warning</line>
             <line>I'd ring out love between my brothers and my sisters,</line>
             <line>All over this land.</line>
-        </stanza>
-        <stanza>
+        </verse>
+        <verse>
             <line>If I had a song,</line>
             <line>I'd sing it in the morning,</line>
             <line>I'd sing it in the evening,</line>
             <line>All over this land.</line>
-        </stanza>
-        <stanza>
+        </verse>
+        <verse>
             <line>I'd sing out danger,</line>
             <line>I'd sing out a warning</line>
             <line>I'd sing out love between my brothers and my sisters,</line>
             <line>All over this land.</line>
-        </stanza>
-        <stanza>
+        </verse>
+        <verse>
             <line>Well I got a hammer,</line>
             <line>And I got a bell,</line>
             <line>And I got a song to sing,</line>
             <line>All over this land.</line>
-        </stanza>
-        <stanza>
+        </verse>
+        <verse>
             <line>It's the hammer of Justice,</line>
             <line>It's the bell of Freedom,</line>
             <line>It's the song about Love between my brothers and my sisters,</line>
             <line>All over this land.</line>
-        </stanza>
-        <stanza id="repeat">
+        </verse>
+        <verse>
             <line>It's the hammer of Justice,</line>
             <line>It's the bell of Freedom,</line>
             <line>It's the song about Love between my brothers and my sisters,</line>
             <line>All over this land.</line>
-        </stanza>
+        </verse>
     </lyrics>
 </song>

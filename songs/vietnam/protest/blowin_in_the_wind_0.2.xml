@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Blowin' in the Wind"</title>
+        <composer>Bob Dylan </composer>
+        <album>The Freewheelin' Bob Dylan</album>
+        <year>1963</year>
+        <genre>folk</genre>
+        <notablePerformer>Bob Dylan, Peter Paul and Mary</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>How many <noun type="thing">roads</noun> must a <noun type="person">man</noun> walk down</line>
+            <line>Before you call him a <noun type="person">man</noun>?</line>
+            <line>Yes, ’n’ how many <noun type="thing">seas</noun> must a <adjective>white</adjective> <noun type="thing">dove</noun> sail</line>
+            <line>Before she sleeps in the <noun type="thing">sand</noun>?</line>
+            <line>Yes, ’n’ how many times must the <noun type="thing">cannonballs</noun> fly</line>
+            <line>Before they’re forever banned?</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+        <verse>
+            <line>How many years can a <noun type="thing">mountain</noun> exist</line>
+            <line>Before it’s washed to the <noun type="place">sea</noun>?</line>
+            <line>Yes, ’n’ how many <noun type="thing">years</noun> can some <noun type="person">people</noun> exist</line>
+            <line>Before they’re allowed to be free?</line>
+            <line>Yes, ’n’ how many times can a <noun type="person">man</noun> turn his <noun type="thing">head</noun></line>
+            <line>Pretending he just doesn’t see?</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+        <verse>
+            <line>How many <noun type="thing">times</noun> must a <noun type="person">man</noun> look up</line>
+            <line>Before he can see the <noun type="thing">sky</noun>?</line>
+            <line>Yes, ’n’ how many <noun type="thing">ears</noun> must one <noun type="thing">man</noun> have</line>
+            <line>Before he can hear <noun type="person">people</noun> cry?</line>
+            <line>Yes, ’n’ how many <noun type="thing">deaths</noun> will it take till he knows</line>
+            <line>That too <adjective>many</adjective> <noun type="person">people</noun> have died?</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+        </refrainSection>
+        
+        <refrainLine lineID="1">The <noun type="thing">answer</noun>, my <noun type="person">friend</noun>, is blowin’ in the <noun type="thing">wind</noun></refrainLine>
+        <refrainLine lineID="2">The <noun type="thing">answer</noun> is blowin’ in the <noun type="thing">wind</noun></refrainLine>
+    </lyrics>
+</song>

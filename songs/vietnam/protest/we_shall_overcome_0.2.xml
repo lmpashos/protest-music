@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>We Shall Overcome</title>
+        <composer>Zilphia Horton</composer>
+        <composer>Guy Carawn</composer>
+        <composer>Frank Hamilton</composer>
+        <composer>Pete Seeger</composer>
+        <album>single</album>
+        <year>1948</year>
+        <genre>folk</genre>
+        <notablePerformer>Joan Baez</notablePerformer>
+        <notablePerformer>Pete Seeger</notablePerformer>
+        <notablePerformer>Robert Kennedy</notablePerformer>
+        <notablePerformer>Bruce Springsteen</notablePerformer>
+        <notablePerformance>March on Washington</notablePerformance>
+        <notablePerformance>MLK funeral</notablePerformance>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>We shall overcome, we shall overcome,</line>
+            <line>We shall overcome someday;</line>
+            <line>Oh, deep in my heart, I do believe, </line>
+            <line>We shall overcome someday.</line>
+        </verse>
+
+        <verse>
+            <line>The Lord will see us through, The Lord will see us through,</line>
+            <line>The Lord will see us through someday;</line>
+            <line>Oh, deep in my heart, I do believe,</line>
+            <line>We shall overcome someday.</line>
+        </verse>
+
+        <verse>
+            <line>We're on to victory, We're on to victory,</line>
+            <line>We're on to victory someday;</line>
+            <line>Oh, deep in my heart, I do believe,</line>
+            <line>We're on to victory someday.</line>
+        </verse>
+
+        <verse>
+            <line>We'll walk hand in hand, we'll walk hand in hand,</line>
+            <line>We'll walk hand in hand someday;</line>
+            <line>Oh, deep in my heart, I do believe,</line>
+            <line>We'll walk hand in hand someday.</line>
+        </verse>
+
+        <verse>
+            <line>We are not afraid, we are not afraid,</line>
+            <line>We are not afraid today;</line>
+            <line>Oh, deep in my heart, I do believe,</line>
+            <line>We are not afraid today.</line>
+        </verse>
+
+        <verse>
+            <line>The truth shall make us free, the truth shall make us free,</line>
+            <line>The truth shall make us free someday;</line>
+            <line>Oh, deep in my heart, I do believe,</line>
+            <line>The truth shall make us free someday.</line>
+        </verse>
+
+        <verse>
+            <line>We shall live in peace, we shall live in peace,</line>
+            <line>We shall live in peace someday;</line>
+            <line>Oh, deep in my heart, I do believe,</line>
+            <line>We shall live in peace someday.</line>
+        </verse>
+    </lyrics>
+</song>

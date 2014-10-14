@@ -1,38 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
-    <metadata song="Ohio" composer="Neil Young" album="single"
-        year="1970" genere="rock" notable-performers="Neil Young" notable-event="kent state"/>
-    <lyrics>
-        <stanza>
+    <metadata>
+        <title>Ohio</title>
+        <composer>Neil Young</composer>
+        <album>single</album>
+        <year>1970</year>
+        <genre>rock</genre>
+        <notablePerformer>Neil Young</notablePerformer>
+        <notableEvent>kent state</notableEvent>
+    </metadata>
+        <lyrics>
+        <verse>
             <line>Tin soldiers and Nixon coming,</line>
             <line>We're finally on our own.</line>
             <line>This summer I hear the drumming,</line>
             <line>Four dead in Ohio.</line>
-        </stanza>
+        </verse>
 
-        <stanza>
+        <verse>
             <line>Gotta get down to it</line>
             <line>Soldiers are cutting us down</line>
             <line>Should have been done long ago.</line>
             <line>What if you knew her</line>
             <line>And found her dead on the ground</line>
             <line>How can you run when you know?</line>
-        </stanza>
+        </verse>
 
-        <stanza>
+        <verse>
             <line>Gotta get down to it</line>
             <line>Soldiers are cutting us down</line>
             <line>Should have been done long ago.</line>
             <line>What if you knew her</line>
             <line>And found her dead on the ground</line>
             <line>How can you run when you know?</line>
-        </stanza>
+        </verse>
 
-        <stanza>
+        <verse>
             <line>Tin soldiers and Nixon coming,</line>
             <line>We're finally on our own.</line>
             <line>This summer I hear the drumming,</line>
             <line>Four dead in Ohio.</line>
-        </stanza>
+        </verse>
     </lyrics>
 </song>
