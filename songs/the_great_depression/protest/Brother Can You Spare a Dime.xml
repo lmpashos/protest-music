@@ -1,44 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song>Brother Can You Spare a Dime
-Bing Crosby 
+<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Brother Can You Spare a Dime</title>
+        <composer>Jay Gorney</composer>
+        <album>Portrait of Bing Crosby</album>
+        <year>1932</year>
+        <genre/>
+        <notablePerformer>Bing Crosby</notablePerformer>
+    </metadata>
 
-They used to tell me I was building a dream
-And so I followed the mob
-When there was earth to plow or guns to bear
-I was always there, right on the job
+    <lyrics>
+        <verse>
+            <line><noun type="person">They</noun> used to tell me <noun type="person">I</noun>was building a <noun type="thing">dream</noun></line>
+            <line>And so <noun type="person">I</noun>followed the <noun type="thing">mob</noun></line>
+            <line>When there was <noun type="thing">earth</noun> to plow or <noun type="thing">guns</noun> to bear</line>
+            <line><noun type="person">I</noun>was always there, right on the <noun type="thing">job</noun></line>
 
-They used to tell me I was building a dream
-With peace and glory ahead
-Why should I be standing in line
-Just waiting for bread?
+            <line>They used to tell me <noun type="person">I</noun>was building a <noun type="thing">dream</noun></line>
+            <line>With <noun type="thing">peace</noun> and <noun type="thing">glory</noun> ahead</line>
+            <line>Why should <noun type="person">I</noun>be standing in <noun type="thing">line</noun></line>
+            <line>Just waiting for <noun type="thing">bread</noun>?</line>
 
-Once I built a railroad, I made it run
-Made it race against time
-Once I built a railroad, now it's done
-Brother, can you spare a dime?
+            <line>Once <noun type="person">I</noun>built a <noun type="thing">railroad</noun>, <noun type="person">I</noun>made it run</line>
+            <line>Made it race against <noun type="thing">time</noun></line>
+            <line>Once <noun type="person">I</noun>built a <noun type="thing">railroad</noun>, now it's done</line>
+            <refrainSectionRef sectionRef="1"/>
 
-Once I built a tower up to the sun
-Brick and rivet and lime
-Once I built a tower, now it's done
-Brother, can you spare a dime?
+            <line>Once <noun type="person">I</noun>built a <noun type="thing">tower</noun> up to the <noun type="thing">sun</noun></line>
+            <line><noun type="thing">Brick </noun>and <noun type="thing">rivet</noun> and <noun type="thing">lime</noun></line>
+            <line>Once <noun type="person">I</noun>built a <noun type="thing">tower</noun>, now it's done</line>
+            <refrainSectionRef sectionRef="1"/>
 
-Once in khaki suits, gee, we looked swell
-Full of that Yankee Doodly Dum
-Half a million boots went slogging through Hell
-And I was the kid with the drum
+            <line>Once in <adjective>khaki</adjective> <noun type="thing">suits</noun>, gee, we looked <adjective>swell</adjective></line>
+            <line>Full of that <adjective>Yankee Doodly</adjective> <noun type="thing">Dum</noun></line>
+            <line><adjective>Half a million</adjective> <noun type="thing">boots</noun> went slogging through <noun type="place">Hell</noun></line>
+            <line>And <noun type="person">I</noun>was the <noun type="thing">kid</noun> with the <noun type="thing">drum</noun></line>
 
-Say, don't you remember? They called me 'Al'
-It was 'Al' all the time
-Why don't you remember? I'm your pal
-Say buddy, can you spare a dime?
+            <line>Say, don't <noun type="person">you</noun> remember? They called me <noun type="person">'Al'</noun></line>
+            <line>It was <noun type="person">'Al'</noun> all the time</line>
+            <line>Why don't <noun type="person">you</noun> remember? <noun type="person">I</noun>m your <noun type="thing">pal</noun></line>
+            <refrainSectionRef sectionRef="2"/>
 
-Once in khaki suits, ah, gee, we looked swell
-Full of that Yankee Doodly Dum
-Half a million boots went slogging through Hell
-And I was the kid with the drum
+            <line>Once in <adjective>khaki</adjective> <noun type="thing">suits</noun>, ah, gee, we looked <adjective>swell</adjective></line>
+            <line>Full of that <adjective>Yankee Doodly</adjective> <noun type="thing">Dum</noun></line>
+            <line><adjective>Half a million</adjective> <noun type="thing">boots</noun> went slogging through <noun type="place">Hell</noun></line>
+            <line>And <noun type="person">I</noun>was the <noun type="thing">kid</noun> with the <noun type="thing">drum</noun></line>
 
-Oh, say, don't you remember? They called me 'Al'
-It was 'Al' all the time
-Say, don't you remember? I'm your pal
-Buddy, can you spare a dime?
+            <line>Oh, say, don't <noun type="person">you</noun> remember? They called me <noun type="person">'Al'</noun></line>
+            <line>It was <noun type="person">'Al'</noun> all the <noun type="thing">time</noun></line>
+            <line>Say, don't <noun type="person">you</noun> remember? <noun type="person">I</noun>m your <noun type="thing">pal</noun></line>
+            <refrainSectionRef sectionRef="3"/>
+        </verse>
+
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="2"/>
+        </refrainSection>
+        <refrainSection sectionID="3">
+            <refrainLineRef lineRef="3"/>
+        </refrainSection>
+        <refrainLine lineID="1">Brother, can <noun type="person">you</noun> spare a dime?</refrainLine>
+        <refrainLine lineID="2">Say buddy, can <noun type="person">you</noun> spare a dime?</refrainLine>
+        <refrainLine lineID="3">Buddy, can <noun type="person">you</noun> spare a dime?</refrainLine>
+
+    </lyrics>
 </song>
