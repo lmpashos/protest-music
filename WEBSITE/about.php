@@ -5,23 +5,23 @@ ini_set('display_startup_errors',1);
 ini_set('display_errors',1);
 error_reporting(-1);
 
-$current_page = 'index';
+$current_page = 'about';
 
 ?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Protest Music</title>
+<title><?php echo ucfirst($current_page); ?></title>
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 <script>
-    
-	document.addEventListener('DOMContentLoaded', function() {
+	document.addEventListener('DOMContentLoaded', function () {
 		////////////////////////////
 		// menu bar interactivity //
 		////////////////////////////
 		
-		// index (current)
+		// index
 		var index = document.getElementById('index');
 		var indexPanel = document.getElementById('index_panel');
 		index.addEventListener('mouseover',function(){
@@ -34,14 +34,14 @@ $current_page = 'index';
 		});
 		index.addEventListener('mouseout',function(){
 			indexPanel.style.display = 'none';
-			index.style.background = 'rgba(0,0,0,0.8)';
+			index.style.background = 'rgba(0,0,0,0.2)';
 		});
 		indexPanel.addEventListener('mouseout',function(){
 			indexPanel.style.display = 'none';
-			index.style.background = 'rgba(0,0,0,0.8)';
+			index.style.background = 'rgba(0,0,0,0.2)';
 		});
 		
-		// about
+		// about (current)
 		var about = document.getElementById('about');
 		var aboutPanel = document.getElementById('about_panel');
 		about.addEventListener('mouseover',function(){
@@ -54,11 +54,11 @@ $current_page = 'index';
 		});
 		about.addEventListener('mouseout',function(){
 			aboutPanel.style.display = 'none';
-			about.style.background = 'rgba(0,0,0,0.2)';
+			about.style.background = 'rgba(0,0,0,0.8)';
 		});
 		aboutPanel.addEventListener('mouseout',function(){
 			aboutPanel.style.display = 'none';
-			about.style.background = 'rgba(0,0,0,0.2)';
+			about.style.background = 'rgba(0,0,0,0.8)';
 		});
 		
 		// data
@@ -106,8 +106,8 @@ $current_page = 'index';
 
 <body>
     <div class="wrapper">
-        <?php echo CommonHTML::get_navigation_menu($current_page); ?>  
-        <h1>Protest Music</h1>
+        <?php echo CommonHTML::get_navigation_menu($current_page); ?>
+        <h1><?php echo ucfirst($current_page); ?></h1>
         <div class="content">
             <div id="left">
             	<p>This is the left content space</p>
@@ -127,7 +127,7 @@ $current_page = 'index';
         
     </div>
     <div class="footer">
-        <?php echo CommonHTML::get_creative_commons_license(); ?>
+         <?php echo CommonHTML::get_creative_commons_license(); ?>
     </div>
 </body>
 </html>

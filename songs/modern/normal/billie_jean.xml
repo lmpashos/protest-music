@@ -1,76 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<div style="margin-left:10px;margin-right:10px;">
-    <!-- start of lyrics -->
-    <i>[1st Verse]</i><br />
-    She Was More Like A Beauty Queen From A Movie Scene<br />
-    I Said Don't Mind, But What Do You Mean I Am The One<br />
-    Who Will Dance On The Floor In The Round<br />
-    She Said I Am The One Who Will Dance On The Floor In The Round<br />
-    <br />
-    <i>[2nd Verse]</i><br />
-    She Told Me Her Name Was Billie Jean, As She Caused A Scene<br />
-    Then Every Head Turned With Eyes That Dreamed Of Being The One<br />
-    Who Will Dance On The Floor In The Round<br />
-    <br />
-    <i>[Bridge]</i><br />
-    People Always Told Me Be Careful Of What You Do<br />
-    And Don't Go Around Breaking Young Girls' Hearts<br />
-    And Mother Always Told Me Be Careful Of Who You Love<br />
-    And Be Careful Of What You Do 'Cause The Lie Becomes The Truth<br />
-    <br />
-    <i>[Chorus]</i><br />
-    Billie Jean Is Not My Lover<br />
-    She's Just A Girl Who Claims That I Am The One<br />
-    But The Kid Is Not My Son<br />
-    She Says I Am The One, But The Kid Is Not My Son<br />
-    <br />
-    <i>[3rd Verse]</i><br />
-    For Forty Days And for Forty Nights<br />
-    The Law was on her Side<br />
-    But Who Can Stand When She's In Demand<br />
-    Her Schemes And Plans<br />
-    'Cause We Danced On The Floor In The Round<br />
-    So Take My Strong Advice, Just Remember To Always Think Twice<br />
-    Do think Twice<br />
-    <br />
-    <i>[4th Verse]</i><br />
-    She Told My Baby We'd Danced 'Til Three<br />
-    Then She Looked At Me<br />
-    She Showed A Photo Of A Baby Crying<br />
-    His Eyes Looked Like Mine<br />
-    Go On Dance On The Floor In The Round, Baby<br />
-    <br />
-    <i>[Bridge]</i><br />
-    People Always Told Me Be Careful Of What You Do<br />
-    And Don't Go Around Breaking Young Girls' Hearts<br />
-    She Came And Stood Right By Me<br />
-    Then The Smell Of Sweet Perfume<br />
-    This Happened Much Too Soon<br />
-    She Called Me To Her Room<br />
-    <br />
-    <i>[Chorus]</i><br />
-    Billie Jean Is Not My Lover<br />
-    She's Just A Girl Who Claims That I Am The One<br />
-    But The Kid Is Not My Son<br />
-    Billie Jean Is Not My Lover<br />
-    She's Just A Girl Who Claims That I Am The One<br />
-    But The Kid Is Not My Son<br />
-    She Says I Am The One, But The Kid Is Not My Son<br />
-    <br />
-    She Says I Am The One, But The Kid Is Not My Son<br />
-    <br />
-    Billie Jean Is Not My Lover<br />
-    She's Just A Girl Who Claims That I Am The One<br />
-    But The Kid Is Not My Son<br />
-    She Says I Am The One, But The Kid Is Not My Son<br />
-    She Says I Am The One, She Says He Is My Son<br />
-    She Says I Am The One<br />
-    Billie Jean Is Not My Lover<br />
-    Billie Jean Is Not My Lover<br />
-    Billie Jean Is Not My Lover<br />
-    Billie Jean Is Not My Lover<br />
-    Billie Jean Is Not My Lover<br />
-    Billie Jean Is Not My Lover
+<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Born in the U.S.A.</title>
+        <composer>Michael Jackson</composer>
+        <album>Born in the U.S.A.</album>
+        <year>1984</year>
+        <genre>Pop</genre>
+        <genre>Rock</genre>
+        <notablePerformer>Bruce Springsteen</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+    <line>She Was More Like A Beauty Queen From A Movie Scene</line>
+<line>    I Said Don't Mind, But What Do You Mean I Am The One</line>
+<line>    Who Will Dance On The Floor In The Round</line>
+<line>    She Said I Am The One Who Will Dance On The Floor In The Round</line>
+        </verse>
+        <verse>
+<line>    She Told Me Her Name Was Billie Jean, As She Caused A Scene</line>
+<line>    Then Every Head Turned With Eyes That Dreamed Of Being The One</line>
+<line>    Who Will Dance On The Floor In The Round</line>
+        </verse>
+        <verse>
+<line>    <i>[Bridge]</i></line>
+<line>    People Always Told Me Be Careful Of What You Do</line>
+<line>    And Don't Go Around Breaking Young Girls' Hearts</line>
+<line>    And Mother Always Told Me Be Careful Of Who You Love</line>
+<line>    And Be Careful Of What You Do 'Cause The Lie Becomes The Truth</line>
+</verse>
+        <verse>
+<line>    <i>[Chorus]</i></line>
+<line>    Billie Jean Is Not My Lover</line>
+<line>    She's Just A Girl Who Claims That I Am The One</line>
+<line>    But The Kid Is Not My Son</line>
+<line>    She Says I Am The One, But The Kid Is Not My Son</line>
+</verse>
+            <verse>>
+<line>    For Forty Days And for Forty Nights</line>
+<line>    The Law was on her Side</line>
+<line>    But Who Can Stand When She's In Demand</line>
+<line>    Her Schemes And Plans</line>
+<line>    'Cause We Danced On The Floor In The Round</line>
+<line>    So Take My Strong Advice, Just Remember To Always Think Twice</line>
+<line>    Do think Twice</line>
+</verse>
+<verse>
+<line>    She Told My Baby We'd Danced 'Til Three</line>
+<line>    Then She Looked At Me</line>
+<line>    She Showed A Photo Of A Baby Crying</line>
+<line>    His Eyes Looked Like Mine</line>
+<line>    Go On Dance On The Floor In The Round, Baby</line>
+</verse>
+<verse>
+<line>    People Always Told Me Be Careful Of What You Do</line>
+<line>    And Don't Go Around Breaking Young Girls' Hearts</line>
+<line>    She Came And Stood Right By Me</line>
+<line>    Then The Smell Of Sweet Perfume</line>
+<line>    This Happened Much Too Soon</line>
+<line>    She Called Me To Her Room</line>
+</verse>
+        <verse>
+<line>    <i>[Chorus]</i></line>
+<line>    Billie Jean Is Not My Lover</line>
+<line>    She's Just A Girl Who Claims That I Am The One</line>
+<line>    But The Kid Is Not My Son</line>
+<line>    Billie Jean Is Not My Lover</line>
+<line>    She's Just A Girl Who Claims That I Am The One</line>
+<line>    But The Kid Is Not My Son</line>
+<line>    She Says I Am The One, But The Kid Is Not My Son</line>
+<line>    She Says I Am The One, But The Kid Is Not My Son</line>
+        </verse>
+        <verse></verse>
+<line>    Billie Jean Is Not My Lover</line>
+<line>    She's Just A Girl Who Claims That I Am The One</line>
+<line>    But The Kid Is Not My Son</line>
+<line>    She Says I Am The One, But The Kid Is Not My Son</line>
+<line>    She Says I Am The One, She Says He Is My Son</line>
+<line>    She Says I Am The One</line>
+<line>    Billie Jean Is Not My Lover</line>
+<line>    Billie Jean Is Not My Lover</line>
+<line>    Billie Jean Is Not My Lover</line>
+<line>    Billie Jean Is Not My Lover</line>
+<line>    Billie Jean Is Not My Lover</line>
+<line>    Billie Jean Is Not My Lover
     <!-- end of lyrics -->
 </div>
