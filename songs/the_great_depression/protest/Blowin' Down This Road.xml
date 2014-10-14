@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song><metadata><title>BLOWIN' DOWN THIS ROAD (<noun type="person">I </noun>AIN'T GOING TO BE TREATED THIS WAY) </title>
+<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<song><metadata><title>BLOWIN' DOWN THIS ROAD (I AIN'T GOING TO BE TREATED THIS WAY) </title>
+    <composer>Woodie Guthrie and Lee Hays</composer>
+    <album>Dust Bowl Ballads</album>
+    <year>1940</year>
+    <genre>Folk and Country</genre>
     <notablePerformer>WOODY GUTHRIE</notablePerformer></metadata>
 
 <lyrics>
@@ -49,11 +54,12 @@
 <line><noun type="person">I</noun>'m a-blowin' down this <adjective>old</adjective> <adjective>dusty</adjective> <noun type="thing">road</noun>, <noun type="person">Lord</noun>, <noun type="person">Lord</noun>,</line>
 <refrainSectionRef sectionRef="1"/>
 </verse>
-</lyrics>
-    
+
+
     <refrainSection sectionID="1">
         <refrainLineRef lineRef="1"/>
     </refrainSection>
     
     <refrainLine lineID="1">An' <noun type="person">I </noun>ain't a-gonna be treated this <noun type="thing">way</noun>.</refrainLine>   
+</lyrics>
 </song>
