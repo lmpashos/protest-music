@@ -1,47 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song>BLOWIN' DOWN THIS ROAD (I AIN'T GOING TO BE TREATED THIS WAY) (trad./WOODY GUTHRIE) 
+<song><metadata><title>BLOWIN' DOWN THIS ROAD (<noun type="person">I </noun>AIN'T GOING TO BE TREATED THIS WAY) </title>
+    <notablePerformer>WOODY GUTHRIE</notablePerformer></metadata>
 
-I'm blowin' down this old dusty road,
-I'm a-blowin' down this old dusty road,
-I'm a-blowin' down this old dusty road, Lord, Lord,
-An' I ain't a-gonna be treated this a-way.
-I'm a-goin' where the water taste like wine,
-I'm a-goin' where the water taste like wine,
-I'm a-goin' where the water taste like wine, Lord,
-An' I ain't a-gonna be treated this way.
+<lyrics>
+    <verse>
+<line><noun type="person">I</noun>'m blowin' down this <adjective>old</adjective> <adjective>dusty</adjective> <noun type="thing">road</noun>,</line>
+<line><noun type="person">I</noun>'m a-blowin' down this <adjective>old</adjective> <adjective>dusty</adjective> <noun type="thing">road</noun>,</line>
+<line><noun type="person">I</noun>'m a-blowin' down this <adjective>old</adjective> <adjective>dusty</adjective> <noun type="thing">road</noun>, <noun type="person">Lord</noun>, <noun type="person">Lord</noun>,</line>
+<refrainSectionRef sectionRef="1"/>       
 
-I'm a-goin' where the dust storms never blow,
-I'm a-goin' where them dust storms never blow,
-I'm a-goin' where them dust storms never blow, blow, blow,
-An' I ain't a-gonna be treated this way.
+<line><noun type="person">I</noun>'m a-goin' where the <noun type="thing">water</noun> taste like <noun type="thing">wine</noun>,</line>
+<line><noun type="person">I</noun>'m a-goin' where the <noun type="thing">water</noun> taste like <noun type="thing">wine</noun>,</line>
+<line><noun type="person">I</noun>'m a-goin' where the <noun type="thing">water</noun> taste like <noun type="thing">wine</noun>, <noun type="person">Lord</noun>,</line>
+<refrainSectionRef sectionRef="1"/>
 
-They say I'm a dust bowl refugee,
-Yes, they say I'm a dust bowl refugee,
-They say I'm a dust bowl refugee, Lord, Lord,
-An' I ain't a-gonna be treated this way.
+<line><noun type="person">I</noun>'m a-goin' where the <adjective>dust</adjective> <noun type="thing">storms</noun> never blow,</line>
+<line><noun type="person">I</noun>'m a-goin' where them <adjective>dust</adjective> <noun type="thing">storms</noun> never blow,</line>
+<line><noun type="person">I</noun>'m a-goin' where them <adjective>dust</adjective> <noun type="thing">storms</noun> never blow, blow, blow,</line>
+<refrainSectionRef sectionRef="1"/>
 
-I'm a-lookin' for a job at honest pay,
-I'm a-lookin' for a job at honest pay,
-I'm a-lookin' for a job at honest pay, Lord, Lord,
-An' I ain't a-gonna be treated this way.
+<line>They say <noun type="person">I</noun>'m a <adjective>dust</adjective> <noun type="thing">bowl</noun> <noun type="thing">refugee</noun>,</line>
+<line>Yes, they say <noun type="person">I</noun>'m a <adjective>dust</adjective> <noun type="thing">bowl</noun> <noun type="thing">refugee</noun>,</line>
+<line>They say <noun type="person">I</noun>'m a <adjective>dust</adjective> <noun type="thing">bowl</noun> <noun type="thing">refugee</noun>, <noun type="person">Lord</noun>, <noun type="person">Lord</noun>,</line>
+<refrainSectionRef sectionRef="1"/>
 
-My children need three square meals a day,
-Now, my children need three square meals a day,
-My children need three square meals a day, Lord,
-An' I ain't a-gonna be treated this way.
+<line><noun type="person">I</noun>'m a-lookin' for a <noun type="thing">job</noun> at <adjective>honest</adjective> <noun type="thing">pay</noun>,</line>
+<line><noun type="person">I</noun>'m a-lookin' for a <noun type="thing">job</noun> at <adjective>honest</adjective> <noun type="thing">pay</noun>,</line>
+<line><noun type="person">I</noun>'m a-lookin' for a <noun type="thing">job</noun> at <adjective>honest</adjective> <noun type="thing">pay</noun>, <noun type="person">Lord</noun>, <noun type="person">Lord</noun>,</line>
+<refrainSectionRef sectionRef="1"/>
 
-It takes a ten-dollar shoe to fit my feet,
-It takes a ten-dollar shoe to fit my feet,
-It takes a ten-dollar shoe to fit my feet, Lord, Lord,
-An' I ain't a-gonna be treated this way.
+<line>My <noun type="person">children</noun> need <adjective>three</adjective> <adjective>square</adjective> <noun type="thing">meals</noun> a <noun type="thing">day</noun>,</line>
+<line>Now, my <noun type="person">children</noun> need <adjective>three</adjective> <adjective>square</adjective> <noun type="thing">meals</noun> a <noun type="thing">day</noun>,</line>
+<line>My <noun type="person">children</noun> need <adjective>three</adjective> <adjective>square</adjective> <noun type="thing">meals</noun> a <noun type="thing">day</noun>, <noun type="person">Lord</noun>,</line>
+<refrainSectionRef sectionRef="1"/>
 
-Your a-two-dollar shoe hurts my feet,
-Your two-dollar shoe hurts my feet,
-Yes, your two-dollar shoe hurts my feet, Lord, Lord,
-An' I ain't a-gonna be treated this way.
+<line>It takes a <adjective>ten-dollar</adjective> <noun type="thing">shoe</noun> to fit my <noun type="thing">feet</noun>,</line>
+<line>It takes a <adjective>ten-dollar</adjective> <noun type="thing">shoe</noun> to fit my <noun type="thing">feet</noun>,</line>
+<line>It takes a <adjective>ten-dollar</adjective> <noun type="thing">shoe</noun> to fit my <noun type="thing">feet</noun>, <noun type="person">Lord</noun>, <noun type="person">Lord</noun>,</line>
+<refrainSectionRef sectionRef="1"/>
 
-I'm a-goin' down this old dusty road,
-I'm blowin' down this old dusty road,
-I'm a-blowin' down this old dusty road, Lord, Lord,
-An' I ain't a-gonna be treated this way.
+<line>Your a-<adjective>two-dollar</adjective> <noun type="thing">shoe</noun> hurts my <noun type="thing">feet</noun>,</line>
+<line>Your <adjective>two-dollar</adjective> <noun type="thing">shoe</noun> hurts my <noun type="thing">feet</noun>,</line>
+<line>Yes, your <adjective>two-dollar</adjective> <noun type="thing">shoe</noun> hurts my <noun type="thing">feet</noun>, <noun type="person">Lord</noun>, <noun type="person">Lord</noun>,</line>
+<refrainSectionRef sectionRef="1"/>
+
+<line><noun type="person">I</noun>'m a-goin' down this <adjective>old</adjective> <adjective>dusty</adjective> <noun type="thing">road</noun>,</line>
+<line><noun type="person">I</noun>'m blowin' down this <adjective>old</adjective> <adjective>dusty</adjective> <noun type="thing">road</noun>,</line>
+<line><noun type="person">I</noun>'m a-blowin' down this <adjective>old</adjective> <adjective>dusty</adjective> <noun type="thing">road</noun>, <noun type="person">Lord</noun>, <noun type="person">Lord</noun>,</line>
+<refrainSectionRef sectionRef="1"/>
+</verse>
+</lyrics>
+    
+    <refrainSection sectionID="1">
+        <refrainLineRef lineRef="1"/>
+    </refrainSection>
+    
+    <refrainLine lineID="1">An' <noun type="person">I </noun>ain't a-gonna be treated this <noun type="thing">way</noun>.</refrainLine>   
 </song>
