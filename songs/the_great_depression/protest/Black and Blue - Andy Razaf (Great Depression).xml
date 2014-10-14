@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>(what Did I Do to be So) Black and Blue</title>
         <composer>Thomas "Fats" Waller and Harry Brooks</composer>
+        <album></album>
         <year>1929</year>
+        <genre>Jazz</genre>
         <notablePerformer>Louis Armstrong</notablePerformer>
     </metadata>
 
@@ -18,7 +21,7 @@
             <line>Even the <noun type="thing">mouse</noun></line>
             <line>Ran from my <noun type="place">house</noun>,</line>
             <line>They laugh at <noun type="person">you</noun> and scorn <noun type="person">you</noun> too</line>
-            <refainSectionRef sectionRef="1"/>
+            <refrainSectionRef sectionRef="1"/>
 
             <line><noun type="person">I</noun>'m <adjective>white</adjective> inside</line>
             <line>But that don't help my <noun type="thing">case</noun></line>
