@@ -6,102 +6,15 @@ ini_set('display_errors',1);
 error_reporting(-1);
 
 $current_page = 'about';
-
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title><?php echo ucfirst($current_page); ?></title>
-<link href="css/style.css" rel="stylesheet" type="text/css" />
-<script>
-	document.addEventListener('DOMContentLoaded', function () {
-		////////////////////////////
-		// menu bar interactivity //
-		////////////////////////////
-		
-		// index
-		var index = document.getElementById('index');
-		var indexPanel = document.getElementById('index_panel');
-		index.addEventListener('mouseover',function(){
-			indexPanel.style.display = 'block';
-			index.style.background = 'rgba(0,0,0,0.6)';
-		});
-		indexPanel.addEventListener('mouseover',function(){
-			indexPanel.style.display = 'block';
-			index.style.background = 'rgba(0,0,0,0.6)';
-		});
-		index.addEventListener('mouseout',function(){
-			indexPanel.style.display = 'none';
-			index.style.background = 'rgba(0,0,0,0.2)';
-		});
-		indexPanel.addEventListener('mouseout',function(){
-			indexPanel.style.display = 'none';
-			index.style.background = 'rgba(0,0,0,0.2)';
-		});
-		
-		// about (current)
-		var about = document.getElementById('about');
-		var aboutPanel = document.getElementById('about_panel');
-		about.addEventListener('mouseover',function(){
-			aboutPanel.style.display = 'block';
-			about.style.background = 'rgba(0,0,0,0.6)';
-		});
-		aboutPanel.addEventListener('mouseover',function(){
-			aboutPanel.style.display = 'block';
-			about.style.background = 'rgba(0,0,0,0.6)';
-		});
-		about.addEventListener('mouseout',function(){
-			aboutPanel.style.display = 'none';
-			about.style.background = 'rgba(0,0,0,0.8)';
-		});
-		aboutPanel.addEventListener('mouseout',function(){
-			aboutPanel.style.display = 'none';
-			about.style.background = 'rgba(0,0,0,0.8)';
-		});
-		
-		// data
-		var data = document.getElementById('data');
-		var dataPanel = document.getElementById('data_panel');
-		data.addEventListener('mouseover',function(){
-			dataPanel.style.display = 'block';
-			data.style.background = 'rgba(0,0,0,0.6)';
-		});
-		dataPanel.addEventListener('mouseover',function(){
-			dataPanel.style.display = 'block';
-			data.style.background = 'rgba(0,0,0,0.6)';
-		});
-		data.addEventListener('mouseout',function(){
-			dataPanel.style.display = 'none';
-			data.style.background = 'rgba(0,0,0,0.2)';
-		});
-		dataPanel.addEventListener('mouseout',function(){
-			dataPanel.style.display = 'none';
-			data.style.background = 'rgba(0,0,0,0.2)';
-		});
-		
-		// conclusions
-		var conclusions = document.getElementById('conclusions');
-		var conclusionsPanel = document.getElementById('conclusions_panel');
-		conclusions.addEventListener('mouseover',function(){
-			conclusionsPanel.style.display = 'block';
-			conclusions.style.background = 'rgba(0,0,0,0.6)';
-		});
-		conclusionsPanel.addEventListener('mouseover',function(){
-			conclusionsPanel.style.display = 'block';
-			conclusions.style.background = 'rgba(0,0,0,0.6)';
-		});
-		conclusions.addEventListener('mouseout',function(){
-			conclusionsPanel.style.display = 'none';
-			conclusions.style.background = 'rgba(0,0,0,0.2)';
-		});
-		conclusionsPanel.addEventListener('mouseout',function(){
-			conclusionsPanel.style.display = 'none';
-			conclusions.style.background = 'rgba(0,0,0,0.2)';
-		});
-    });
-</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title><?php echo ucfirst($current_page); ?></title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <script src="js/index.js"></script>
 </head>
 
 <body>
@@ -122,12 +35,13 @@ $current_page = 'about';
             	<p>This is the main content space</p>
                 <p>We can put stuff here</p>
             </div>
-            <script src="js/column_length.js"></script>
         </div>
-        
     </div>
     <div class="footer">
          <?php echo CommonHTML::get_creative_commons_license(); ?>
     </div>
+    <form>
+        <input type="hidden" value="<?php echo $current_page; ?>" id="current_page_name" />
+    </form>
 </body>
 </html>
