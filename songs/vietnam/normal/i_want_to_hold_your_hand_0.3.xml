@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_0.3.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>I Want to Hold Your Hand</title>
@@ -15,9 +15,9 @@
             <line>Oh yeah, I'll tell you <noun type="thing">something</noun></line>
             <line>I think you'll understand</line>
             <line>When I'll say <adjective>that</adjective> <noun type="thing">something</noun></line>
-            <line>I wanna hold <adjective>your</adjective> <noun type="thing">hand</noun></line>
-            <line>I wanna hold <adjective>your</adjective> <noun type="thing">hand</noun></line>
-            <line>I wanna hold <adjective>your</adjective> <noun type="thing">hand</noun></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
         </verse>
         <verse>
             <line>Oh please, say to me</line>
@@ -27,27 +27,19 @@
             <line>I'll let me hold <adjective>your</adjective> <noun type="thing">hand</noun></line>
             <line>I wanna hold <adjective>your</adjective> <noun type="thing">hand</noun></line>
         </verse>
-        <verse id="1">
-            <line>And when I touch you I feel <adjective>happy</adjective> <noun type="place">inside</noun></line>
-            <line>It's <adjective>such</adjective> a <noun type="thing">feeling</noun> that my <noun type="idea">love</noun></line>
-            <line>I can't hide</line>
-            <line>I can't hide</line>
-            <line>I can't hide</line>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
             <line>Yeah, you've got <adjective>that</adjective> <noun type="thing">something</noun></line>
             <line>I think you'll understand</line>
             <line>When I'll say <adjective>that</adjective> <noun type="thing">something</noun></line>
-            <line>I wanna hold <adjective>your</adjective> <noun type="thing">hand</noun></line>
-            <line>I wanna hold <adjective>your</adjective> <noun type="thing">hand</noun></line>
-            <line>I wanna hold <adjective>your</adjective> <noun type="thing">hand</noun></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
         </verse>
-        <verse id="1">
-            <line>And when I touch you I feel <adjective>happy</adjective> <noun type="place">inside</noun></line>
-            <line>It's <adjective>such</adjective> a <noun type="thing">feeling</noun> that my <noun type="idea">love</noun></line>
-            <line>I can't hide</line>
-            <line>I can't hide</line>
-            <line>I can't hide</line>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
             <line>Yeah, you've got <adjective>that</adjective> <noun type="thing">something</noun></line>
@@ -58,5 +50,18 @@
             <line>I wanna hold <adjective>your</adjective> <noun type="thing">hand</noun></line>
             <line>I wanna hold <adjective>your</adjective> <noun type="thing">hand</noun></line>
         </verse>
+        
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="4"/>
+        </refrainSection>
+        
+        <refrainLine lineID="1">I wanna hold <adjective>your</adjective> <noun type="thing">hand</noun></refrainLine>
+        <refrainLine lineID="2">And when I touch you I feel <adjective>happy</adjective> <noun type="place">inside</noun></refrainLine>
+        <refrainLine lineID="3">It's <adjective>such</adjective> a <noun type="thing">feeling</noun> that my <noun type="idea">love</noun></refrainLine>
+        <refrainLine lineID="4">I can't hide</refrainLine>
     </lyrics>
 </song>

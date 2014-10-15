@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_0.3.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>If I Had A Hammer</title>
@@ -15,55 +15,61 @@
             <line>If I had a <noun type="thing">hammer</noun>,</line>
             <line>I'd hammer in the <noun type="thing">morning</noun></line>
             <line>I'd hammer in the <noun type="thing">evening</noun>,</line>
-            <line>All over this <noun type="place">land</noun>.</line>
+            <refrainLineRef lineRef="1"></refrainLineRef>
         </verse>
         <verse>
             <line>I'd hammer out <noun type="thing">danger</noun>,</line>
             <line>I'd hammer out a <noun type="thing">warning</noun>,</line>
             <line>I'd hammer out <noun type="idea">love</noun> between my <noun type="person">brothers</noun> and my <noun type="person">sisters</noun>,</line>
-            <line>All over this <noun type="place">land</noun>.</line>
+            <refrainLineRef lineRef="1"></refrainLineRef>
         </verse>
         <verse>
             <line>If I had a <noun type="thing">bell</noun>,</line>
             <line>I'd ring it in the <noun type="thing">morning</noun>,</line>
             <line>I'd ring it in the <noun type="thing">evening</noun>,</line>
-            <line>All over this <noun type="place">land</noun>.</line>
+            <refrainLineRef lineRef="1"></refrainLineRef>
         </verse>
         <verse>
             <line>I'd ring out <noun type="thing">danger</noun>,</line>
             <line>I'd ring out a <noun type="thing">warning</noun></line>
             <line>I'd ring out <noun type="idea">love</noun> between my <noun type="person">brothers</noun> and my <noun type="person">sisters</noun>,</line>
-            <line>All over this <noun type="place">land</noun>.</line>
+            <refrainLineRef lineRef="1"></refrainLineRef>
         </verse>
         <verse>
             <line>If I had a <noun type="thing">song</noun>,</line>
             <line>I'd sing it in the <noun type="thing">morning</noun>,</line>
             <line>I'd sing it in the <noun type="thing">evening</noun>,</line>
-            <line>All over this <noun type="place">land</noun>.</line>
+            <refrainLineRef lineRef="1"></refrainLineRef>
         </verse>
         <verse>
             <line>I'd sing out <noun type="thing">danger</noun>,</line>
             <line>I'd sing out a <noun type="thing">warning</noun></line>
             <line>I'd sing out <noun type="idea">love</noun> between my <noun type="person">brothers</noun> and my <noun type="person">sisters</noun>,</line>
-            <line>All over this <noun type="place">land</noun>.</line>
+            <refrainLineRef lineRef="1"></refrainLineRef>
         </verse>
         <verse>
             <line>Well I got a <noun type="thing">hammer</noun>,</line>
             <line>And I got a <noun type="thing">bell</noun>,</line>
             <line>And I got a <noun type="thing">song</noun> to sing,</line>
-            <line>All over this <noun type="place">land</noun>.</line>
+            <refrainLineRef lineRef="1"></refrainLineRef>
         </verse>
         <verse>
-            <line>It's the <noun type="thing">hammer</noun> of <noun type="idea">Justice</noun>,</line>
-            <line>It's the <noun type="thing">bell</noun> of <noun type="idea">Freedom</noun>,</line>
-            <line>It's the song about <noun type="idea">love</noun> between my <noun type="person">brothers</noun> and my <noun type="person">sisters</noun>,</line>
-            <line>All over this <noun type="place">land</noun>.</line>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
-            <line>It's the <noun type="thing">hammer</noun> of <noun type="idea">Justice</noun>,</line>
-            <line>It's the <noun type="thing">bell</noun> of <noun type="idea">Freedom</noun>,</line>
-            <line>It's the song about <noun type="idea">love</noun> between my <noun type="person">brothers</noun> and my <noun type="person">sisters</noun>,</line>
-            <line>All over this <noun type="place">land</noun>.</line>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
+        
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="2"></refrainLineRef>
+            <refrainLineRef lineRef="3"></refrainLineRef>
+            <refrainLineRef lineRef="4"></refrainLineRef>
+            <refrainLineRef lineRef="1"></refrainLineRef>
+        </refrainSection>
+        
+        <refrainLine lineID="1">All over this <noun type="place">land</noun>.</refrainLine>
+        <refrainLine lineID="2">It's the <noun type="thing">hammer</noun> of <noun type="idea">Justice</noun>,</refrainLine>
+        <refrainLine lineID="3">It's the <noun type="thing">bell</noun> of <noun type="idea">Freedom</noun>,</refrainLine>
+        <refrainLine lineID="4">It's the song about <noun type="idea">love</noun> between my <noun type="person">brothers</noun> and my <noun type="person">sisters</noun>,</refrainLine>
     </lyrics>
 </song>

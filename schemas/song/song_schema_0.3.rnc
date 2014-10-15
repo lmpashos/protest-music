@@ -1,0 +1,166 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                   SCHEMA VERSION 0.2                                  #
+#                                 For songs and lyrics                                  #
+#                                      10/10/2014                                       #         
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                                                       
+#       -----------------------------------------------------
+#          !! UPDATE THIS SECTION WHEN YOU MAKE CHANGES !!
+#       -----------------------------------------------------
+#
+#       UPDATE HISTORY:                                                             
+#
+#           VERSION:    0.0
+#               author: Leonidas Pashos
+#               updates:
+#                   - wrote initial schema 
+#                   - two major elements - metadata and lyrics                          
+#                   - only structure for now
+#
+#
+#           VERSION:    0.1
+#               author: Leonidas Pashos
+#               updates:
+#                   - added refrain handler ala David's idea
+#                       - refrainSection, refrainLine, associated references
+#                   - minor name changes to a few elements
+#                   - more metadata elements added
+#
+#
+#           VERSION:    0.2
+#               author: Leonidas Pashos
+#               updates:
+#                   - broke up schema into structure and liguistic section
+#                       - all linguistic elements should be defined in linguistic section
+#                   - added 2 linguistic elements (noun and adjective)
+#
+#
+#           VERSION:    0.3
+#               author: Leonidas Pashos
+#               updates:
+#                   - added support for refrainLines in a verse without having to make a whole section
+#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                                                   #
+#                                     Structure                                     #
+#                                                                                   #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = song
+song = element song
+{
+    element metadata
+    {
+        element title
+        {
+            text
+        },
+        element composer
+        {
+            text
+        }+,
+        element album
+        {
+            text
+        },
+        element year
+        {
+            xsd:int
+        },
+        element genre
+        {
+            text
+        }+,
+        element notablePerformer
+        {
+            text
+        }+,
+        element notablePerformance
+        {
+            text
+        }*,
+        element notableEvent
+        {
+            text
+        }*
+    },
+    
+    #   END metadata
+    
+    element lyrics
+    {
+        element verse
+        {(
+        # should allow to freely interchange lines and refrains
+            element line
+            {(
+                text
+                |
+                noun                # defined below
+                |
+                adjective           # defined below
+            )+}+
+            |
+            #   or reference to a refrainSection
+            element refrainSectionRef
+            {
+               attribute sectionRef {xsd:int}
+            }
+            |
+            #   or reference to a refrainLine
+            element refrainLineRef
+            {
+               attribute lineRef {xsd:int}
+            }+
+        )+}+,
+        
+        element refrainSection
+        {
+            # sectionID should match sectionRef if equal
+            attribute sectionID {xsd:int},
+            element refrainLineRef
+            {
+                attribute lineRef {xsd:int}
+            }+
+        }*,
+        
+        element refrainLine
+        {
+            # lineID should match lineRef if equal
+            attribute lineID {xsd:int},
+            (
+                text
+                |
+                noun
+                |
+                adjective
+            )+
+        }*
+    }
+    
+    #   END lyrics
+    
+}
+
+#   END song
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                                                   #
+#                                 Linguistic Elements                               #
+#                                                                                   #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+noun = element noun
+{
+    attribute type{text},
+    text
+}
+
+adjective = element adjective
+{
+    text
+}

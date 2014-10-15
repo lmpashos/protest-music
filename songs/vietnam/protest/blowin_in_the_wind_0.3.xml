@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_0.3.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>Blowin' in the Wind"</title>

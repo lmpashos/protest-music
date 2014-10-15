@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_0.3.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>We Shall Overcome</title>
@@ -20,16 +20,16 @@
     <lyrics>
         <verse>
             <line>We shall overcome, we shall overcome,</line>
-            <line>We shall overcome someday;</line>
+            <refrainLineRef lineRef="1"/>
             <line>Oh, deep in <adjective>my</adjective> <noun type="thing">heart</noun>, I do believe, </line>
-            <line>We shall overcome someday.</line>
+            <refrainLineRef lineRef="1"/>
         </verse>
 
         <verse>
             <line>The <noun type="person">Lord</noun> will see us through, The <noun type="person">Lord</noun> will see us through,</line>
             <line>The <noun type="person">Lord</noun> will see us through someday;</line>
             <line>Oh, deep in <adjective>my</adjective> <noun type="thing">heart</noun>, I do believe, </line>
-            <line>We shall overcome someday.</line>
+            <refrainLineRef lineRef="1"/>
         </verse>
 
         <verse>
@@ -66,5 +66,7 @@
             <line>Oh, deep in <adjective>my</adjective> <noun type="thing">heart</noun>, I do believe, </line>
             <line>We shall live in <noun type="idea">peace</noun> someday.</line>
         </verse>
+        
+        <refrainLine lineID="1">We shall overcome someday.</refrainLine>
     </lyrics>
 </song>

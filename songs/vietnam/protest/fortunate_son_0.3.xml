@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_0.3.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>Fortunate Son</title>
@@ -17,10 +17,10 @@
             <line>Oh, they point the <noun type="thing">cannon</noun> at you, Lord</line>
         </verse>
         <verse>
-            <line>It ain't me, it ain't me</line>
+            <refrainLineRef lineRef="1"/>
             <line>I ain't no <adjective>Senator's</adjective> <noun type="person">son</noun></line>
-            <line>It ain't me, it ain't me</line>
-            <line>I ain't no <adjective>fortunate</adjective> <noun type="person">one</noun>, no</line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
         </verse>
         <verse>
             <line>Some <noun type="person">folks</noun> are born <adjective>silver</adjective> <noun type="thing">spoon</noun> in <noun type="thing">hand</noun></line>
@@ -30,10 +30,10 @@
         </verse>
 
         <verse>
-            <line>It ain't me, it ain't me</line>
+            <refrainLineRef lineRef="1"/>
             <line>I ain't no <adjective>millionaire's</adjective> <noun type="person">son</noun>, no, no</line>
-            <line>It ain't me, it ain't me</line>
-            <line>I ain't no <adjective>fortunate</adjective> <noun type="person">one</noun>, no</line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
         </verse>
         <verse>
             <line>Yeah, <adjective>some</adjective> <noun type="person">folks</noun> inherit <adjective>star spangled</adjective> <noun type="thing">eyes</noun></line>
@@ -42,17 +42,21 @@
             <line>Oh, they only answer, more, more, more, oh</line>
         </verse>
         <verse>
-            <line>It ain't me, it ain't me</line>
+            <refrainLineRef lineRef="1"/>
             <line>I ain't no <adjective>military</adjective> <noun type="person">son</noun></line>
-            <line>It ain't me, it ain't me</line>
-            <line>I ain't no <adjective>fortunate</adjective> <noun type="person">one</noun></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
         </verse>
 
         <verse>
-            <line>It ain't me, it ain't me</line>
+            <refrainLineRef lineRef="1"/>
             <line>I ain't no <adjective>fortunate</adjective> <noun type="person">one</noun>, no, no, no</line>
-            <line>It ain't me, it ain't me</line>
-            <line>I ain't no <adjective>fortunate</adjective> <noun type="person">son</noun>, no, no</line>
+            <refrainLineRef lineRef="1"/>
+            <line>I ain't no <adjective>fortunate</adjective> <noun type="person">son</noun>, no, no </line>
         </verse>
+        
+        <refrainLine lineID="1">It ain't me, it ain't me</refrainLine>
+        <refrainLine lineID="2">I ain't no <adjective>fortunate</adjective> <noun type="person">one</noun>, no</refrainLine>
+        
     </lyrics>
 </song>
