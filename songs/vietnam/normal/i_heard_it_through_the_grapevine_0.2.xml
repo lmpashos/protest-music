@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>I Heard It Through the Grapevine</title>
+        <composer>Norman Whitfield</composer>
+        <composer>Barret Strong</composer>
+        <album>single</album>
+        <year>1968</year>
+        <genre>soul</genre>
+        <notablePerformer>Marvin Gaye</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>Ooh, I bet you're wondering' how I knew</line>
+            <line>'Bout your plans to make me <adjective>blue</adjective></line>
+            <line>With <adjective>some</adjective> <adjective>other</adjective> <noun type="person">guy</noun> you knew before</line>
+            <line>Between the <adjective>two</adjective> of us <noun type="person">guys</noun> you know I love you more</line>
+            <line>It took me by <noun type="idea">surprise</noun> I must say</line>
+            <line>When I found out yesterday</line>
+            <line>Don'tcha know that I</line>
+        </verse>
+        <verse>
+            <line>Heard it through the <noun type="thing">grapevine</noun></line>
+            <line>Not much longer would you be mine</line>
+            <line>Oh I heard it through the <noun type="thing">grapevine</noun></line>
+            <line>Oh I'm just about to lose <adjective>my</adjective> <noun type="thing">mind</noun></line>
+            <line><noun type="person">Honey</noun>, <noun type="person">honey</noun> yeah</line>
+            <line>(Heard it through the <noun type="thing">grapevine</noun>)</line>
+            <line>(Not much longer would you be <adjective>my</adjective> <noun type="person">baby</noun>)</line>
+        </verse>
+        <verse>
+            <line>I know a <noun type="person">man</noun> ain't supposed to cry</line>
+            <line>But <adjective>these</adjective> <noun type="thing">tears</noun> I can't hold inside</line>
+            <line>Losin' you would end <adjective>my</adjective> <noun type="thing">life</noun> you see</line>
+            <line>'Cause you mean <adjective>that</adjective> <noun type="thing">much</noun> to me</line>
+            <line>You could have told me yourself</line>
+            <line>That you love someone else</line>
+            <line>Instead I</line>
+        </verse>
+        <verse>
+            <line>Heard it through the <noun type="thing">grapevine</noun></line>
+            <line>Not much longer would you be mine</line>
+            <line>Oh I heard it through the <noun type="thing">grapevine</noun></line>
+            <line>Oh I'm just about to lose <adjective>my</adjective> <noun type="thing">mind</noun></line>
+            <line><noun type="person">Honey</noun>, <noun type="person">honey</noun> yeah</line>
+            <line>(Heard it through the <noun type="thing">grapevine</noun>)</line>
+            <line>(Not much longer would you be <adjective>my</adjective> <noun type="person">baby</noun>)</line>
+        </verse>
+        <verse>
+            <line>People say believe <noun type="thing">half</noun> of what you see, <noun type="person">son</noun></line>
+            <line>And <noun type="thing">none</noun> of what you hear</line>
+            <line>But I can't help bein' confused</line>
+            <line>If it's <adjective>true</adjective> please tell me <noun type="person">dear</noun></line>
+            <line>Do you plan to let me go</line>
+            <line>For the <adjective>other</adjective> <noun type="person">guy</noun> you loved before?</line>
+            <line>Don'tcha know I</line>
+        </verse>
+        <verse>
+            <line>Heard it through the <noun type="thing">grapevine</noun></line>
+            <line>Not much longer would you be mine</line>
+            <line>Oh I heard it through the <noun type="thing">grapevine</noun></line>
+            <line>Oh I'm just about to lose <adjective>my</adjective> <noun type="thing">mind</noun></line>
+            <line><noun type="person">Honey</noun>, <noun type="person">honey</noun> yeah</line>
+            <line>(Heard it through the <noun type="thing">grapevine</noun>)</line>
+            <line>(Not much longer would you be <adjective>my</adjective> <noun type="person">baby</noun>)</line>
+        </verse>
+        <verse>
+            <line><noun type="person">Honey</noun>, <noun type="person">honey</noun>, I know</line>
+            <line>That you're lettin' me go</line>
+            <line>Said, I heard it through the <noun type="thing">grapevine</noun></line>
+            <line>Heard it through the <noun type="thing">grapevine</noun></line>
+        </verse>
+    </lyrics>
+</song>

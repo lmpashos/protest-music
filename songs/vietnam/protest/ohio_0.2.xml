@@ -12,35 +12,35 @@
     </metadata>
         <lyrics>
         <verse>
-            <line>Tin soldiers and Nixon coming,</line>
+            <line><adjective>Tin</adjective> <noun type="person">soldiers</noun> and <noun type="person">Nixon</noun> coming,</line>
             <line>We're finally on our own.</line>
-            <line>This summer I hear the drumming,</line>
-            <line>Four dead in Ohio.</line>
+            <line>This <noun type="thing">summer</noun> I hear the drumming,</line>
+            <line><noun type="person">Four</noun> dead in <noun type="place">Ohio</noun>.</line>
         </verse>
 
         <verse>
             <line>Gotta get down to it</line>
-            <line>Soldiers are cutting us down</line>
+            <line><noun type="person">Soldiers</noun> are cutting us down</line>
             <line>Should have been done long ago.</line>
             <line>What if you knew her</line>
-            <line>And found her dead on the ground</line>
+            <line>And found her dead on the <noun type="place">ground</noun></line>
             <line>How can you run when you know?</line>
         </verse>
 
         <verse>
             <line>Gotta get down to it</line>
-            <line>Soldiers are cutting us down</line>
+            <line><noun type="person">Soldiers</noun> are cutting us down</line>
             <line>Should have been done long ago.</line>
             <line>What if you knew her</line>
-            <line>And found her dead on the ground</line>
+            <line>And found her dead on the <noun type="place">ground</noun></line>
             <line>How can you run when you know?</line>
         </verse>
 
         <verse>
-            <line>Tin soldiers and Nixon coming,</line>
+            <line><adjective>Tin</adjective> <noun type="person">soldiers</noun> and <noun type="person">Nixon</noun> coming,</line>
             <line>We're finally on our own.</line>
-            <line>This summer I hear the drumming,</line>
-            <line>Four dead in Ohio.</line>
+            <line>This <noun type="thing">summer</noun> I hear the drumming,</line>
+            <line><noun type="person">Four</noun> dead in <noun type="place">Ohio</noun>.</line>
         </verse>
     </lyrics>
 </song>
