@@ -1,7 +1,7 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-#                                   SCHEMA VERSION 0.3                                  #
+#                                   SCHEMA VERSION 1.0                                  #
 #                                 For songs and lyrics                                  #
-#                                      10/10/2014                                       #         
+#                                      10/16/2014                                       #         
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                                       
 #       -----------------------------------------------------
@@ -10,35 +10,11 @@
 #
 #       UPDATE HISTORY:                                                             
 #
-#           VERSION:    0.0
+#           VERSION:    1.0
 #               author: Leonidas Pashos
 #               updates:
-#                   - wrote initial schema 
-#                   - two major elements - metadata and lyrics                          
-#                   - only structure for now
-#
-#
-#           VERSION:    0.1
-#               author: Leonidas Pashos
-#               updates:
-#                   - added refrain handler ala David's idea
-#                       - refrainSection, refrainLine, associated references
-#                   - minor name changes to a few elements
-#                   - more metadata elements added
-#
-#
-#           VERSION:    0.2
-#               author: Leonidas Pashos
-#               updates:
-#                   - broke up schema into structure and liguistic section
-#                       - all linguistic elements should be defined in linguistic section
-#                   - added 2 linguistic elements (noun and adjective)
-#
-#
-#           VERSION:    0.3
-#               author: Leonidas Pashos
-#               updates:
-#                   - added support for refrainLines in a verse without having to make a whole section
+#                   - verbPhrase, nounPhrase, prepPhrase instead of noun, adj in line
+#                   - various component elements to phrases
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
@@ -100,9 +76,11 @@ song = element song
             {(
                 text
                 |
-                noun                # defined below
+                nounPhrase              # defined below
                 |
-                adjective           # defined below
+                verbPhrase              # defined below
+                |
+                prepPhrase              # defined below
             )+}+
             |
             #   or reference to a refrainSection
@@ -135,9 +113,11 @@ song = element song
             (
                 text
                 |
-                noun
+                nounPhrase              # defined below
                 |
-                adjective
+                verbPhrase              # defined below
+                |
+                prepPhrase              # defined below
             )+
         }*
     }
@@ -154,13 +134,90 @@ song = element song
 #                                                                                   #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
+# # # # # # 
+# Phrases #
+# # # # # #
+
+nounPhrase = element nounPhrase
+{(
+    text
+    |
+    noun
+    |
+    det
+    |
+    adjective
+    |
+    adverb
+)+}
+
+verbPhrase = element verbPhrase
+{
+neg?,
+(
+    text
+    |
+    verb
+    |
+    prepPhrase
+    |
+    nounPhrase
+    |
+    adverb
+    |
+    adjective
+    |
+    det
+)+}
+
+prepPhrase = element prepPhrase
+{(
+    text
+    |
+    prep
+    |
+    det
+    |
+    adjective
+    |
+    adverb
+    |
+    nounPhrase
+)+}
+
+# # # # # # # # # # # # 
+# Component elements  #
+# # # # # # # # # # # #
+
 noun = element noun
 {
-    attribute type{text},
+    text
+}
+
+det = element det            # Articles Demonstratives Possessives Quantifiers Numerals Distributives Interrogatives
+{
     text
 }
 
 adjective = element adjective
+{
+    text
+}
+
+adverb = element adverb
+{
+    text
+}
+
+verb = element verb
+{
+    text
+}
+prep = element prep
+{
+    text
+}
+neg = attribute neg
 {
     text
 }

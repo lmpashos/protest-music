@@ -1,0 +1,22 @@
+Linguistic markup manual
+
+
+Noun Phrase:
+
+	<nounPhrase><det>The</det> <noun>girl</noun></nounPhrase>									The girl
+
+	<nounPhrase><noun>I</noun></nounPhrase><verbPhrase>'ve</verbPhrase>							I've
+
+	<nounPhrase><det>Some</det> <noun>folks</noun></nounPhrase> 								Some folks
+
+	<nounPhrase><det>Which</det> <noun>book</noun></nounPhrase> 								Which book
+	
+	<nounPhrase><noun>I</noun> <det>only</det></nounPhrase> 									I only
+
+	<nounPhrase><noun>I</noun>></nounPhrase><verbPhrase>'ll</verbPhrase> 						I'll
+	
+	<nounPhrase><det>Both</det> <adjective>big</adjective> <noun>windows</noun></nounPhrase> 	Both big windows
+
+
+
+Verb Phrase:
