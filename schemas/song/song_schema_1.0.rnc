@@ -222,19 +222,26 @@ neg = attribute neg
     text
 }
 
-# 2014-10-17 asb
+# 2014-10-17 asb djb
 #
-# Good work on the schema!  The organization and extensive commenting is appreciated by the user, and will be useful if/ when you go
-# back and edit it.  Most of all, we appreciate te version updates listed at the top, even though GitHub can be used to keep track of
-# these edits, it is undoubtedly a nice feature to have within the schema.  When looking at the actual code, it is evident that you made
-# a loosely constrained choices, which is a good idea when considering your research methodology.  Because of this, one will have to be
-# especially attentive when tagging by hand.  From our understanding, Katie will be double checking all of the tagged XML to check for consistent
+# Good work on the schema!  The organization and extensive commenting is appreciated by the 
+# user, and will be useful if/ when you go back and edit it.  Most of all, we appreciate the 
+# version updates listed at the top, even though GitHub can be used to keep track of
+# these edits, it's a useful feature to have within the schema.  When looking at the actual code, 
+# it is evident that you made some loosely constrained choices, which is a good idea when considering 
+# your research methodology.  Because of this, you'll have to be especially attentive when tagging by hand.  
+# From our understanding, Katie will be double checking all of the tagged XML to check for consistent
 # tagging decisions, which is good practice.  
 #
-# Also, keep in mind the potential of the need for milestone tagging.  It would not be surprising to see noun or verb phrases to span over lines, so
-# definitely check out Chapter 20 of the TEI guidelines for a start.  Using a closed line break element (<lb />) at the end of each line has been a utilized
-# method for projects in the past. Also, keep in mind the research question and desired conclusions you want to make when approaching your markup.  At its 
-# stage now, it is quite expansive before attributes are included.  It would be useful to develop some sort of guide, and provide your general rationale on the website. 
-# We are excited to see how you approach the tagging process in the upcoming weeks.
+# Also, keep in mind the potential of the need for milestone tagging.  It would not be surprising to see 
+# noun or verb phrases to span over lines, so definitely check out Chapter 20 of the TEI guidelines for a start -
+# not because you'll necessarily use TEI, but because they suggest smart ways to think about the issues.  Using 
+# a closed line break element (<lb />) at the end of each line has been a utilized method for projects in the past
+# (technically, the TEI describes the breaks as occurring at the *beginnings* of lines, rather than ends; from a
+# certain perspective they're really between, so it might not batter, but there are practical differences, such as
+# whether you want to require a line break before the very first line). Also, keep in mind the research question 
+# and desired conclusions you want to make when approaching your markup.  At its stage now, it is quite expansive 
+# before attributes are included.  It would be useful to develop some sort of guide, and provide your general 
+# rationale on the website. We are excited to see how you approach the tagging process in the upcoming weeks.
 #
 # Keep up the good work and it is now a good time to make good progress on the XML markup!
