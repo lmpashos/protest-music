@@ -13,18 +13,28 @@
     <lyrics>
         <verse>
             <line><verbPhrase><verb>Born</verb> <adverb>down</adverb><prepPhrase> <prep>in</prep> <nounPhrase> <det>a</det> <adjective>dead man's</adjective> <noun>town</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line><nounPhrase><det>The</det> <adjective>first</adjective> <noun>kick</noun></nounPhrase> I took was when I hit <nounPhrase><det>the</det> <noun>ground</noun></nounPhrase></line>
+            <line><nounPhrase><det>The</det> <adjective>first</adjective> <noun>kick</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>took</verb></verbPhrase> was when <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>hit</verb> <nounPhrase><det>the</det> <noun>ground</noun></nounPhrase></verbPhrase></line>
             <line>You <verbPhrase><verb>end</verb> <adverb>up</adverb> <prepPhrase><prep>like</prep><nounPhrase><det>a</det> <noun>dog</noun></nounPhrase></prepPhrase> that's been beat too much</verbPhrase></line>
-            <line>Till you spend half your life just covering up</line>
+            <line>Till <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>spend</verb> <nounPhrase><adjective>half</adjective> <det>your</det> <noun>life</noun></nounPhrase></verbPhrase> just covering up</line>
+        </verse>
+        <verse>
             <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
             <line><verbPhrase><verb>Got</verb> <prepPhrase> <prep>in</prep><nounPhrase> <det>a</det> <adjective>little</adjective> <adjective>hometown</adjective> <noun>jam</noun></nounPhrase></prepPhrase></verbPhrase> so they <verbPhrase><verb>put</verb> <nounPhrase><det>a</det> <noun>rifle</noun></nounPhrase><prepPhrase> <prep>in</prep><nounPhrase> <det>my</det> <noun>hand</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line><verbPhrase><verb>Sent</verb> me off <prepPhrase><prep>to</prep> <nounPhrase><det>a</det> <adjective>foreign</adjective> <noun>land</noun></nounPhrase></prepPhrase></verbPhrase> <verbPhrase><verb>to go</verb> and <verb>kill</verb><nounPhrase> <det>the</det> <adjective>yellow</adjective> <noun>man</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Sent</verb> <nounPhrase><noun>me</noun></nounPhrase> <adverb>off</adverb> <prepPhrase><prep>to</prep> <nounPhrase><det>a</det> <adjective>foreign</adjective> <noun>land</noun></nounPhrase></prepPhrase></verbPhrase> <verbPhrase><verb>to go</verb> and <verb>kill</verb><nounPhrase> <det>the</det> <adjective>yellow</adjective> <noun>man</noun></nounPhrase></verbPhrase></line>
+        </verse>
+        <verse>
             <refrainSectionRef sectionRef="2"/>
-            <line><verbPhrase><verb>Come</verb> <adverb>back</adverb> <nounPhrase><noun>home</noun></nounPhrase></verbPhrase> to the <noun type="place">refinery</noun></line>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Come</verb> <adverb>back</adverb> <nounPhrase><noun>home</noun></nounPhrase></verbPhrase><prepPhrase> <prep>to</prep> <nounPhrase><det>the</det> <noun>refinery</noun></nounPhrase></prepPhrase></line>
             <line><nounPhrase><adjective>Hiring</adjective> <noun>man</noun></nounPhrase> <verbPhrase><verb>says</verb></verbPhrase> "<nounPhrase><noun>son</noun></nounPhrase> if it was up to me"</line>
             <line><verbPhrase><verb>Went</verb> <adverb>down</adverb> <verb>to see</verb><nounPhrase><det>my</det> <adjective>V.A.</adjective> <noun>man</noun></nounPhrase></verbPhrase></line>
-            <line>He <verbPhrase><verb>said</verb></verbPhrase> "son don't you understand now"</line>
-            <line>Had <nounPhrase><det>a</det> <noun>brother</noun></nounPhrase> <prepPhrase><prep>at</prep><nounPhrase> <noun>Khe Sahn</noun></nounPhrase> </prepPhrase><verbPhrase><verb>fighting</verb></verbPhrase><prepPhrase> <prep>off</prep> <nounPhrase><det>the</det> <noun>Viet Cong</noun></nounPhrase></prepPhrase></line>
+            <line>He <verbPhrase><verb>said</verb></verbPhrase> "<nounPhrase><noun>son</noun></nounPhrase> don't you understand now"</line>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Had</verb> <nounPhrase><det>a</det> <noun>brother</noun></nounPhrase> <prepPhrase><prep>at</prep><nounPhrase> <noun>Khe Sahn</noun></nounPhrase></prepPhrase></verbPhrase> <verbPhrase><verb>fighting</verb></verbPhrase><prepPhrase> <prep>off</prep> <nounPhrase><det>the</det> <noun>Viet Cong</noun></nounPhrase></prepPhrase></line>
             <line>They're still there he's all gone</line>
             <line>He<verbPhrase> <verb>had</verb><nounPhrase><det>a</det> <noun>woman</noun></nounPhrase> he loved <prepPhrase><prep>in</prep><nounPhrase> <noun>Saigon</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line>I got<nounPhrase> <det>a</det> <noun>picture</noun></nounPhrase> of him <prepPhrase><prep>in</prep><nounPhrase><det>her</det><noun>arms</noun></nounPhrase></prepPhrase> now</line>
@@ -32,6 +42,8 @@
             <line>Out<prepPhrase> <prep>by</prep> <nounPhrase><det>the</det> <adjective>gas</adjective> <noun>fires</noun></nounPhrase></prepPhrase><prepPhrase> <prep>of</prep><nounPhrase> <det>the</det> <noun>refinery</noun></nounPhrase></prepPhrase></line>
             <line>I'm ten years burning down the road</line>
             <line>Nowhere to run ain't got nowhere to go</line>
+        </verse>
+        <verse>
             <refrainSectionRef sectionRef="3"/>
         </verse>
         <refrainSection sectionID="1">
@@ -57,8 +69,8 @@
             <refrainLineRef lineRef="1"/>
             <refrainLineRef lineRef="4"/>
         </refrainSection>
-        <refrainLine lineID="1">Born<prepPhrase> <prep>in</prep> <nounPhrase> <det>the</det> <noun>U.S.A.</noun></nounPhrase></prepPhrase></refrainLine>
-        <refrainLine lineID="2">I <verbPhrase><verb>was</verb> born <prepPhrase> <prep>in</prep><nounPhrase> <det>the</det> <noun>U.S.A.</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="1"><verbPhrase><verb>Born</verb><prepPhrase> <prep>in</prep> <nounPhrase> <det>the</det> <noun>U.S.A.</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="2"><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was born</verb> <prepPhrase> <prep>in</prep><nounPhrase> <det>the</det> <noun>U.S.A.</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="3">I'm <nounPhrase><det>a</det> <adjective>long</adjective> <adjective>gone</adjective> <noun>daddy</noun></nounPhrase> <prepPhrase><prep>in</prep><nounPhrase> <det>the</det> <noun>U.S.A.</noun></nounPhrase></prepPhrase></refrainLine>
         <refrainLine lineID="4">I'm <nounPhrase><det>a</det> <adjective>cool</adjective> <adjective>rocking</adjective> <noun>daddy</noun></nounPhrase><prepPhrase><prep>in</prep><nounPhrase> <det>the</det> <noun>U.S.A.</noun></nounPhrase></prepPhrase></refrainLine>
     </lyrics>
