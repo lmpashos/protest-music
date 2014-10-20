@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song>Duke Ellington – Three Little Words
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song><metadata><title>Three Little Words</title>
+<composer>Harry Ruby</composer>
+    <album>The Okeh Ellington</album>
+    <year>1930</year>
+    <genre>Jazz</genre>
+    <notablePerformer>Duke Ellington</notablePerformer>
+</metadata>
 
-"Three Little Words" as written by Carlos Centel Battey, Steven Andre Battey, Charles Stephens, Timothy Thomas Zimnoch, Candice Glover and Jason Nicholas Dmuchowski....
+<lyrics><verse>
+<line><nounPhrase><det>Three</det> <adjective>little </adjective><noun>words</noun></nounPhrase>, oh <nounPhrase><det>what</det> <noun>I</noun></nounPhrase><verbPhrase><verb>'d</verb> <verb>give</verb> <prepPhrase><prep>for</prep><nounPhrase> <det>that</det> <adjective>wonderful</adjective> <noun>phrase</noun></nounPhrase></prepPhrase></verbPhrase>, </line>
+    <line><verbPhrase><verb>To hear</verb> <nounPhrase><det>those</det> <det>three</det> <adjective>little</adjective><noun> words</noun></nounPhrase></verbPhrase> <nounPhrase><det>that</det></nounPhrase><verbPhrase><verb>'s</verb> <adjective>all</adjective></verbPhrase> 
+        <nounPhrase><noun>I</noun></nounPhrase>
+        
+        <verbPhrase><verb>'d </verb><verb>live</verb> 
+            <prepPhrase><prep>for</prep> <nounPhrase><det>the</det> <noun>rest</noun></nounPhrase>
+            
+            <prep>of</prep><nounPhrase><det>my</det> <noun>days</noun></nounPhrase></prepPhrase></verbPhrase></line>
+    
+    
+    
+<line>And <nounPhrase><det>what</det> <noun>I</noun></nounPhrase> 
+    <verbPhrase><verb>feel</verb> <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>heart</noun></nounPhrase></prepPhrase></verbPhrase>, 
+    <nounPhrase><noun>they</noun> </nounPhrase><verbPhrase><verb>tell</verb> <adverb>sincerely</adverb></verbPhrase>. </line>
+    
+    
+    
+<line><nounPhrase>
+    
+    <!-- tagging error -->
+    <adjective>No</adjective> 
+    <det>other</det> <noun>words</noun> </nounPhrase>
+    <verbPhrase> <verb>can</verb> <verb>tell</verb> <nounPhrase><noun>it</noun></nounPhrase> <det>half</det> <adverb>so</adverb> <adverb>clearly</adverb></verbPhrase>.</line>
+    
+<line><nounPhrase><det>Three</det> <adjective>little</adjective> <noun>words</noun></nounPhrase>, 
+    
+    <nounPhrase><det>eight</det> <adjective>little</adjective> <noun>letters </noun></nounPhrase>
+    
+    <!-- tagging error -->
+    <nounPhrase><det>which</det> <adverb>simply</adverb></nounPhrase>
+    
+    <verbPhrase><verb> mean </verb>
+    
+    <nounPhrase><noun>I</noun></nounPhrase> <verb>love</verb> <nounPhrase><noun>you.</noun></nounPhrase></verbPhrase></line>
 
-Three little words, oh what I'd give for that wonderful phrase, 
-To hear those three little words that's all I'd live for the rest of my days.
-And what I feel in my heart, they tell sincerely. 
-No other words can tell it half so clearly.
-Three little words, eight little letters which simply mean I love you.
+</verse></lyrics>
 </song>
