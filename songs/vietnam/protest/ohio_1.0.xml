@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Ohio</title>
+        <composer>Neil Young</composer>
+        <album>single</album>
+        <year>1970</year>
+        <genre>rock</genre>
+        <notablePerformer>Neil Young</notablePerformer>
+        <notableEvent>kent state</notableEvent>
+    </metadata>
+    <lyrics>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+        <verse>
+            <refrainSectionRef sectionRef="2"/>
+        </verse>
+
+        <verse>
+            <refrainSectionRef sectionRef="2"/>
+        </verse>
+
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+            
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+        </refrainSection>
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="5"/>
+            <refrainLineRef lineRef="6"/>
+            <refrainLineRef lineRef="7"/>
+            <refrainLineRef lineRef="8"/>
+            <refrainLineRef lineRef="9"/>
+            <refrainLineRef lineRef="10"/>
+        </refrainSection>
+        
+        <refrainLine lineID="1"><nounPhrase><adjective>Tin</adjective> <noun>soldiers</noun> and <noun>Nixon</noun></nounPhrase> <verbPhrase><verb>coming</verb></verbPhrase>,</refrainLine>
+        <refrainLine lineID="2"><nounPhrase><noun>We</noun></nounPhrase><verbPhrase><verb>'re</verb> <adverb>finally</adverb> <prepPhrase><prep>on</prep> <nounPhrase><det>our</det> <noun>own</noun></nounPhrase></prepPhrase></verbPhrase>.</refrainLine>
+        <refrainLine lineID="3"><nounPhrase><det>This</det> <noun>summer</noun> <noun>I</noun></nounPhrase> <verbPhrase><verb>hear</verb> <nounPhrase><det>the</det> <noun>drumming</noun></nounPhrase></verbPhrase>,</refrainLine>
+        <refrainLine lineID="4"><nounPhrase>Four</nounPhrase> <verbPhrase><verb>dead</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun >Ohio</noun></nounPhrase></prepPhrase></verbPhrase>.</refrainLine>
+        <refrainLine lineID="5"><verbPhrase><verb>Got</verb>ta</verbPhrase> <verbPhrase><verb>get</verb> <adverb>down</adverb> <prepPhrase><prep>to</prep> <nounPhrase><noun>it</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="6"><nounPhrase><noun>Soldiers</noun></nounPhrase> <verbPhrase><verb>are</verb> <verb>cutting</verb> <nounPhrase><noun>us</noun></nounPhrase> <adverb>down</adverb></verbPhrase></refrainLine>
+        <refrainLine lineID="7"><verbPhrase><verb>Should</verb> <verb>have</verb> <verb>been</verb> <verb>done</verb> <adverb>long</adverb> <adverb>ago</adverb></verbPhrase>.</refrainLine>
+        <refrainLine lineID="8"><nounPhrase>What if <noun>you</noun></nounPhrase> <verbPhrase><verb>knew</verb> <nounPhrase><noun>her</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="9"><verbPhrase>And <verb>found</verb> <nounPhrase><noun>her</noun> <adjective>dead</adjective></nounPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>the</det> <noun>ground</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="10"><verbPhrase>How <verb>can</verb> <nounPhrase><noun>you</noun></nounPhrase> <verb>run</verb></verbPhrase> <verbPhrase>when <nounPhrase><noun>you</noun></nounPhrase> <verb>know</verb></verbPhrase>?</refrainLine>
+        <!-- not at all sure about last line -->
+                  
+    </lyrics>
+</song>
