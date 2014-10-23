@@ -33,21 +33,21 @@
 
         <verse>
             <line><nounPhrase><adjective>Handsome</adjective> <noun>Gigolo</noun></nounPhrase></line>
-            <line><!-- tagging error--><adjective>Dressed up</adjective> <prepPhrase><det>all</det> <prep>for </prep><noun>show</noun></prepPhrase></line>
+            <line><!-- tagging error--><adjective>Dressed up</adjective> <prepPhrase><det>all</det> <prep>for </prep><nounPhrase><noun>show</noun></nounPhrase></prepPhrase></line>
             <line> Oh <nounPhrase><det>what</det> <det>a</det> <noun>life</noun> </nounPhrase><nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re leading</verb></verbPhrase></line>
-            <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>dance</verb> <prepPhrase><prep>till</prep> <det>every</det> <noun>dawn</noun></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>dance</verb> <prepPhrase><prep>till</prep> <nounPhrase><det>every</det> <noun>dawn</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><det>Your</det> <noun>youth!</noun></nounPhrase> <nounPhrase><det>your </det><noun>future!</noun></nounPhrase> <adjective>Gone!</adjective></line>
             <line><adjective>Gone</adjective> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>tell</verb> <nounPhrase><noun>ya</noun></nounPhrase></verbPhrase>,</line>
             <line><nounPhrase><noun>Love </noun></nounPhrase><verbPhrase><verb>will pass</verb> <nounPhrase><noun>you</noun></nounPhrase> <prepPhrase><prep>by</prep></prepPhrase> <adverb>unheeding</adverb></verbPhrase></line>
         </verse>
 
         <verse>
-            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'re</verb> <adverb>just</adverb> <nounPhrase><det>a</det> <noun>soul</noun><prepPhrase> <prep>on</prep> <nounPhrase><noun>hire</noun></nounPhrase></prepPhrase></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'re</verb> <adverb>just</adverb> <nounPhrase><det>a</det> <noun>soul</noun></nounPhrase><prepPhrase><prep>on</prep> <nounPhrase><noun>hire</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line> <prepPhrase><prep>To</prep> <nounPhrase><det>the</det> <adjective>highest</adjective> <noun>buyer</noun></nounPhrase></prepPhrase></line>
-            <line><!--Negation-->No <nounPhrase><noun>thoughts</noun></nounPhrase>, no <nounPhrase><noun>thoughts</noun> <prep>of</prep> <det>the</det> <noun>morrow</noun></nounPhrase></line>
+            <line><!--Negation-->No <nounPhrase><noun>thoughts</noun></nounPhrase>, no <nounPhrase><noun>thoughts</noun></nounPhrase><prepPhrase><prep>of</prep> <nounPhrase><det>the</det> <noun>morrow</noun></nounPhrase></prepPhrase></line>
             <line> <nounPhrase><det>As</det> <noun>they</noun></nounPhrase> <verbPhrase><verb>come,</verb></verbPhrase> ..but <nounPhrase><noun>they</noun></nounPhrase><verbPhrase><verb>'ll go</verb></verbPhrase></line>
             <line><nounPhrase><adjective>Leaving</adjective> <adjective>Handsome</adjective><noun> Gigolo</noun></nounPhrase></line>
-            <line><nounPhrase><det>A</det> <noun>heart</noun> <det>that</det></nounPhrase> <verbPhrase><verb>breaks</verb> <prepPhrase><prep>with</prep> <noun>sorrow</noun></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>A</det> <noun>heart</noun> <det>that</det></nounPhrase> <verbPhrase><verb>breaks</verb> <prepPhrase><prep>with</prep><nounPhrase> <noun>sorrow</noun></nounPhrase></prepPhrase></verbPhrase></line>
         </verse>
 
 

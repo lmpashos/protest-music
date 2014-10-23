@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title></title>
+        <composer>Harold Arlen</composer>
+        <album></album>
+        <year>1939</year>
+        <genre></genre>
+        <notablePerformer>Judy Garland</notablePerformer>
+    </metadata>
+    
+    
+    
+    <line>Somewhere over the rainbow way up high</line>
+    <line>There's a land that I heard of once in a lullaby</line>
+    <line>Somewhere over the rainbow skies are blue</line>
+    <line>And the dreams that you dare to dream really do come true</line>
+    
+    <line>Someday I'll wish upon a star</line>
+    <line>And wake up where the clouds are far
+        Behind me</line>
+    <line>Where troubles melt like lemon drops</line>
+    <line>Away above the chimney tops</line>
+    <line>That's where you'll find me</line>
+    
+    <line>Somewhere over the rainbow bluebirds fly</line>
+    <line>Birds fly over the rainbow. Why then, oh, why can't I?</line>
+    
+    <line>If happy little bluebirds fly</line>
+    <line>Beyond the rainbow why, oh, why can't I?</line>
+
+</song>
