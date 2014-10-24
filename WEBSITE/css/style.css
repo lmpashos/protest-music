@@ -81,18 +81,17 @@ body > .wrapper {
 h1 {
   background-color: #DEDEDE;
   color: #4D4D4D;
-  padding: 20px 20px 20px 0px;
+  padding: 10px 20px 10px 0px;
   text-align: right;
 }
 
 .content {
   background-color: white;
-  /*min-height: 800px;*/
+  min-height: 800px;
   position: relative;
   margin-top: 10px;
-  margin-left: 20px;
-  margin-right: 20px;
-  border: 3px solid #DEDEDE;
+  margin-left: 0px;
+  margin-right: 0px;
   text-align: center;
   overflow: auto;
 }
@@ -103,32 +102,35 @@ h1 {
   background-color: inherit;
 }
 .content div {
-  height: 100%;
   min-height: inherit;
   color: black;
   text-align: left;
+  width:100%;
+  display:inline-block;
+  overflow:auto;
 }
 
 #left {
-  background-color: #33CCFF;	
+  background-color: #4E4E4E;
+  color:white;
   float: left;
-  width: 150px;	
+  width: 10%;	
 }
 
 #right {
-  background-color: #CC33FF;
+  background-color:#4E4E4E;
+  color:white;
   float: right;
-  width: 150px;
+  width: 10%;
 }
 
 #center {
   background-color: inherit;
-  width: 100%;
+  width: 80%;
 }
 
 #center p {
-  margin-right:150px;
-  margin-left:150px;
+  
   font-size:1.5em;
   padding:10px;
 }
@@ -137,7 +139,18 @@ h1 {
   font-size: 1.0em;
   padding: 16px 10px 16px 10px;
 }
-
+#left ul, #right ul{
+  overflow:auto;
+  background-color:inherit;
+  font-size:8pt;
+  list-style:none;
+}
+#left li, #right li{
+  padding-top:5px;
+  padding-bottom:5px;
+  margin-left:-40px;
+  padding-left:3px;
+}
 #center p, #left p, #right p {
   overflow: auto;
 }
@@ -179,6 +192,51 @@ h1 {
 #conclusions {
   padding: 11px 23px 11px 10px
 }
+#protest, #normal{
+	position:relative;
+	height:inherit;
+	width:50%;
+	display:block;
+}
+#protest{
+	float:left;
+	background-color:white;
+}
+#normal{
+	float:right;
+	background-color:white;
+}
+#normal p, #protest p{
+	text-align:center;
+	margin:0;
+	font-size:11pt;
+}
+.listTitle{
+	background-color:inherit;
+	padding:5px 0px 10px 3px;
+}
+.listSubTitle{
+	padding:5px 0px 5px 3px;
+}
+.song{
+	background-color:white;
+}
+.song h2, .song h3{
+	background-color:white;
+	color:black;
+	margin-left:10px;
+}
+li{
+	background-color:inherit;
+}
+#ohioSong,#fortunateSonSong,#theTwistSong,#theBendSong,#silenceSong,#yourHandSong,#locoSong,#blowinInTheWindSong,#hammerSong,#weShallOvercomeSong{
+	display:none;
+}
+
+
+
+
+
 
 
 
