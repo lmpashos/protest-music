@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Dream a Little Dream of Me</title>
+        <composer>Fabian Andre </composer>
+        <album>Miscellaneous</album>
+        <year>1931</year>
+        <genre>Jazz</genre>
+        <notablePerformer>Wayne King</notablePerformer>
+    </metadata>
+
+    <lyrics>
+<!--Quote not tagged-->
+        <verse>
+            <line><nounPhrase><noun>Stars</noun></nounPhrase><verbPhrase><verb>shining</verb> <adjective>bright</adjective> <prepPhrase><prep>above</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><adjective>Night</adjective> <noun>breezes</noun></nounPhrase><verbPhrase><verb>seem</verb> <verb>to whisper</verb> </verbPhrase>"I love you"</line>
+            <line><nounPhrase><noun>Birds</noun></nounPhrase><verbPhrase><verb>singing</verb><prepPhrase> <prep>in</prep> <nounPhrase><det>the</det> <adjective>sycamore</adjective> <noun>tree</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+        <verse>
+            <line>Say "Night-ie night" and kiss me</line>
+            <line>Just hold me tight and tell me you'll miss me</line>
+            <line>While I'm alone and blue as can be</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+        <verse>
+            <line>Stars fading but I linger on, dear</line>
+            <line>Still craving your kiss</line>
+            <line>I'm longing to linger till dawn, dear</line>
+            <line>Just saying this</line>
+        </verse>
+
+        <verse>
+            <line>Sweet dreams till sunbeams find you</line>
+            <line>Sweet dreams that leave all worries behind you</line>
+            <line>But in your dreams whatever they be</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+
+        <refrainLine lineID="1">Dream a little dream of me</refrainLine>
+
+    </lyrics>
+</song>
