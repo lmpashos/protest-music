@@ -20,23 +20,23 @@
         </verse>
 
         <verse>
-            <line>Say "Night-ie night" and kiss me</line>
-            <line>Just hold me tight and tell me you'll miss me</line>
-            <line>While I'm alone and blue as can be</line>
+            <line><verbPhrase><verb>Say</verb> "Night-ie night"</verbPhrase> and <verbPhrase><verb>kiss</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><adverb>Just </adverb><verb>hold</verb> <nounPhrase><noun>me</noun> </nounPhrase><adverb>tight</adverb></verbPhrase> and <verbPhrase><verb>tell</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><noun>you</noun></nounPhrase><verb>'ll miss</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+            <line>While <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>alone</adjective> and <adjective>blue</adjective> as <verb>can</verb> <verb>be</verb></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
 
         <verse>
-            <line>Stars fading but I linger on, dear</line>
-            <line>Still craving your kiss</line>
-            <line>I'm longing to linger till dawn, dear</line>
-            <line>Just saying this</line>
+            <line><nounPhrase><noun>Stars</noun> </nounPhrase><verbPhrase><verb>fading</verb></verbPhrase> but <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>linger </verb><prepPhrase><prep>on</prep></prepPhrase></verbPhrase>, <nounPhrase><noun>dear</noun></nounPhrase></line>
+            <line>Still <verbPhrase><verb>craving</verb> <nounPhrase><det>your</det> <noun>kiss</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m longing</verb> <verb>to linger</verb> <prepPhrase><prep>till</prep> <nounPhrase><noun>dawn</noun></nounPhrase></prepPhrase></verbPhrase>, dear</line>
+            <line>Just <verbPhrase><verb>saying</verb> <nounPhrase><det>this</det></nounPhrase></verbPhrase></line>
         </verse>
 
         <verse>
-            <line>Sweet dreams till sunbeams find you</line>
-            <line>Sweet dreams that leave all worries behind you</line>
-            <line>But in your dreams whatever they be</line>
+            <line><nounPhrase><adjective>Sweet </adjective><noun>dreams</noun></nounPhrase>  till<nounPhrase><noun>sunbeams</noun></nounPhrase> <verbPhrase><verb>find</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><adjective>Sweet </adjective><noun>dreams</noun></nounPhrase> that <verbPhrase><verb>leave</verb> <nounPhrase><det>all </det><noun>worries</noun> </nounPhrase><prepPhrase><prep>behind</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>But <prepPhrase><prep>in</prep> <nounPhrase><det>your</det> <noun>dreams</noun></nounPhrase></prepPhrase> whatever <nounPhrase><noun>they</noun></nounPhrase> <verbPhrase><verb>be</verb></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
 
@@ -45,7 +45,7 @@
             <refrainLineRef lineRef="1"/>
         </refrainSection>
 
-        <refrainLine lineID="1">Dream a little dream of me</refrainLine>
+        <refrainLine lineID="1"><verbPhrase><verb>Dream</verb> <nounPhrase><det>a</det> <adjective>little</adjective> <noun>dream </noun></nounPhrase><prepPhrase><prep>of</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
 
     </lyrics>
 </song>
