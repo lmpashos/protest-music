@@ -1,36 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<song>Fred Astaire - Night and Day Lyrics
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Night and Day</title>
+        <composer/>
+        <album/>
+        <year>1934</year>
+        <genre>Soundtrack</genre>
+        <notablePerformer>Fred Astaire</notablePerformer>
+    </metadata>
 
-Artist: Fred Astaire
-Album: Miscellaneous
-Genre: Soundtrack
+    <lyrics>
+        <verse>
+            <line>Like the beat beat beat of the tom-tom</line>
+            <line>When the jungle shadows fall</line>
+            <line>Like the tick tick tock of the stately clock</line>
+            <line>As it stands against the wall</line>
+        </verse>
 
-Like the beat beat beat of the tom-tom
-When the jungle shadows fall
-Like the tick tick tock of the stately clock
-As it stands against the wall
+        <verse>
+            <line>Like the drip drip drip of the raindrops</line>
+            <line>When the summer shower is through</line>
+            <line>So a voice within me keeps repeating you, you, you</line>
+        </verse>
 
-Like the drip drip drip of the raindrops
-When the summer shower is through
-So a voice within me keeps repeating you, you, you
+        <verse>
+            <line>Night and day, you are the one</line>
+            <line>Only you beneath the moon and under the sun</line>
+            <line>Whether near to me or far</line>
+            <line>It's no matter, darling, where you are</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <prepPhrase><prep>of</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
 
-Night and day, you are the one
-Only you beneath the moon and under the sun
-Whether near to me or far
-It's no matter, darling, where you are
-I think of you
+        <verse>
+            <line>Night and day, day and night, why is it so</line>
+            <line>That this longing for you follows wherever I go</line>
+            <line>In the roaring traffic's boom</line>
+            <line>In the silence of my lonely room</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <prepPhrase><prep>of</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
 
-Night and day, day and night, why is it so
-That this longing for you follows wherever I go
-In the roaring traffic's boom
-In the silence of my lonely room
-I think of you
-
-Night and day, night and day, under the hide of me
-There's an, oh, such a hungry yearning burning inside of me
-And this torment won't be through
-'Til you let me spend my life making love to you
-Day and night, night and day
+        <verse>
+            <line><nounPhrase><noun>night</noun></nounPhrase> and <nounPhrase><noun>day</noun></nounPhrase>, <nounPhrase><noun>night</noun></nounPhrase> and <nounPhrase><noun>day</noun></nounPhrase>, <prepPhrase><prep>under</prep> <nounPhrase><det>the</det> <noun>hide </noun></nounPhrase></prepPhrase></nounPhrase><prepPhrase><prep>of</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></line>
+            <line>There's an, oh, such a hungry yearning burning inside of me</line>
+            <line>And this torment won't be through</line>
+            <line>'Til you let me spend my life making love to you</line>
+            <line><nounPhrase><noun>Day</noun></nounPhrase> and <nounPhrase><noun>night</noun></nounPhrase>, <nounPhrase><noun>night</noun></nounPhrase> and <nounPhrase><noun>day</noun></nounPhrase></line>
+        </verse>
+    </lyrics>
 
 </song>
