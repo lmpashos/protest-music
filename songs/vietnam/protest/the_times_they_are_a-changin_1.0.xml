@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>The Times They Are a-Changin'</title>
+        <composer>Bob Dylan</composer>
+        <album>The Times They Are a-Changin'</album>
+        <year>1964</year>
+        <genre>folk</genre>
+        <notablePerformer>Bob Dylan</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><verbPhrase><verb>Come</verb> <verb>gather</verb> <adverb>’round</adverb> <nounPhrase><noun>people</noun></nounPhrase></verbPhrase></line>
+            <line>Wherever <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>roam</verb></verbPhrase></line>
+            <line>And <verbPhrase><verb>admit</verb> that <nounPhrase><det>the</det> <noun>waters</noun></nounPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>Around</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase> <verbPhrase><verb>have</verb> <verb>grown</verb></verbPhrase></line>
+            <line>And <verbPhrase><verb>accept</verb> <nounPhrase><noun>it</noun></nounPhrase> that <adverb>soon</adverb></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>’ll</verb> <verb>be</verb> <verb>drenched</verb></verbPhrase> <prepPhrase><prep>to</prep> <nounPhrase><det>the</det> <noun>bone</noun></nounPhrase></prepPhrase></line>
+            <line>If <nounPhrase><det>your</det> <noun>time</noun> to <noun>you</noun></nounPhrase> <verbPhrase><verb>is</verb> <adjective>worth</adjective> <verb>savin’</verb></verbPhrase></line>
+            <line>Then <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><adverb>better</adverb> <verb>start</verb> <verb>swimmin’</verb></verbPhrase> or <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>’ll</verb> <verb>sink</verb></verbPhrase> <prepPhrase><prep>like</prep> <nounPhrase><det>a</det> <noun>stone</noun></nounPhrase></prepPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Come</verb> <nounPhrase><noun>writers</noun> and <noun>critics</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Who</noun></nounPhrase> <verbPhrase><verb>prophesize</verb></verbPhrase> <prepPhrase><prep>with</prep> <nounPhrase><det>your</det> <noun>pen</noun></nounPhrase></prepPhrase></line>
+            <line>And <verbPhrase><verb>keep</verb> <nounPhrase><det>your</det> <noun>eyes</noun></nounPhrase> <adverb>wide</adverb></verbPhrase></line>
+            <line><nounPhrase><det>The</det> <noun>chance</noun></nounPhrase> <verbPhrase neg="true"><verb>won’t</verb> <verb>come</verb> <adverb>again</adverb></verbPhrase></line>
+            <line>And <verbPhrase neg="true"><verb>don’t</verb> <verb>speak</verb> <adverb>too</adverb> <adverb>soon</adverb></verbPhrase></line>
+            <line><prepPhrase><prep>For</prep> <nounPhrase><det>the</det> <noun>wheel</noun></nounPhrase></prepPhrase><verbPhrase><verb>’s</verb> <adverb>still</adverb> <prepPhrase><prep>in</prep> <nounPhrase><noun>spin</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>And <nounPhrase><noun>there</noun></nounPhrase><verbPhrase neg="true"><verb>’s</verb> no <verb>tellin’</verb> <nounPhrase><noun>who</noun></nounPhrase></verbPhrase> that <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>’s</verb> <verb>namin’</verb></verbPhrase></line>
+            <line><prepPhrase><prep>For</prep> <nounPhrase><det>the</det> <noun>loser</noun></nounPhrase> <adverb>now</adverb></prepPhrase> <verbPhrase><verb>will</verb> <verb>be</verb> <adverb>later</adverb> to <verb>win</verb></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Come</verb> <nounPhrase><noun>senators</noun>, <noun>congressmen</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><adverb>Please</adverb> <verb>heed</verb> <nounPhrase><det>the</det> <noun>call</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase neg="true"><verb>Don’t</verb> <verb>stand</verb></verbPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>the</det> <noun>doorway</noun></nounPhrase></prepPhrase></line>
+            <line><verbPhrase neg="true"><verb>Don’t</verb> <verb>block</verb></verbPhrase> <prepPhrase><prep>up</prep> <nounPhrase><det>the</det> <noun>hall</noun></nounPhrase></prepPhrase></line>
+            <line><prepPhrase><prep>For</prep> <nounPhrase><noun>he</noun></nounPhrase></prepPhrase> that <verbPhrase><verb>gets</verb> <verb>hurt</verb></verbPhrase></line>
+            <line><verbPhrase><verb>Will</verb> <verb>be</verb> <nounPhrase><noun>he</noun> <noun>who</noun></nounPhrase> <verb>has</verb> <verb>stalled</verb></verbPhrase></line>
+            <line><nounPhrase><noun>There</noun></nounPhrase><verbPhrase><verb>’s</verb> <nounPhrase><det>a</det> <noun>battle</noun></nounPhrase> <adverb>outside</adverb></verbPhrase> and <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>is</verb> <verb>ragin’</verb></verbPhrase></line>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>’ll</verb> <adverb>soon</adverb> <verb>shake</verb> <nounPhrase><det>your</det> <noun>windows</noun></nounPhrase></verbPhrase> and <verbPhrase><verb>rattle</verb> <nounPhrase><det>your</det> <noun>walls</noun></nounPhrase></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Come</verb> <nounPhrase><noun>mothers</noun> and <noun>fathers</noun></nounPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>Throughout</prep> <nounPhrase><det>the</det> <noun>land</noun></nounPhrase></prepPhrase></line>
+            <line>And <verbPhrase neg="true"><verb>don’t</verb> <verb>criticize</verb></verbPhrase></line>
+            <line><nounPhrase><det>What</det> <noun>you</noun></nounPhrase> <verbPhrase neg="true"><verb>can’t</verb> <verb>understand</verb></verbPhrase></line>
+            <line><nounPhrase><det>Your</det> <noun>sons</noun> and <det>your</det> <noun>daughters</noun></nounPhrase></line>
+            <line><verbPhrase><verb>Are</verb> <prepPhrase><prep>beyond</prep> <nounPhrase><det>your</det> <noun>command</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>Your</det> <adjective>old</adjective> <noun>road</noun></nounPhrase> <verbPhrase><verb>is</verb> <adverb>rapidly</adverb> <verb>agin’</verb></verbPhrase></line>
+            <line><verbPhrase><adverb>Please</adverb> <verb>get</verb> <adjective>out</adjective> <prepPhrase><prep>of</prep> <nounPhrase><det>the</det> <adjective>new</adjective> <noun>one</noun></nounPhrase></prepPhrase></verbPhrase> if <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase neg="true"><verb>can’t</verb> <verb>lend</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><det>The</det> <noun>line</noun> <noun>it</noun></nounPhrase> <verbPhrase><verb>is</verb> <verb>drawn</verb></verbPhrase></line>
+            <line><nounPhrase><det>The</det> <noun>curse</noun> <noun>it</noun></nounPhrase> <verbPhrase><verb>is</verb> <verb>cast</verb></verbPhrase></line>
+            <line><nounPhrase><det>The</det> <adjective>slow</adjective> <noun>one</noun></nounPhrase> now</line>
+            <line><verbPhrase><verb>Will</verb> <adverb>later</adverb> <verb>be</verb> <adjective>fast</adjective></verbPhrase></line>
+            <line><prepPhrase><prep>As</prep> <nounPhrase><det>the</det> <noun>present</noun></nounPhrase> now</prepPhrase></line>
+            <line><verbPhrase><verb>Will</verb> <adverb>later</adverb> <verb>be</verb> <adjective>past</adjective></verbPhrase></line>
+            <line><nounPhrase><det>The</det> <noun>order</noun></nounPhrase> <verbPhrase><verb>is</verb> <adverb>rapidly</adverb> <verb>fadin’</verb></verbPhrase></line>
+            <line>And <nounPhrase><det>the</det> <adjective>first</adjective> <noun>one</noun></nounPhrase> now <verbPhrase><verb>will</verb> <adverb>later</adverb> <verb>be</verb> <adjective>last</adjective></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        
+        <refrainLine lineID="1"><prepPhrase><prep>For</prep> <nounPhrase><det>the</det> <noun>times</noun></nounPhrase></prepPhrase> <nounPhrase><noun>they</noun></nounPhrase> <verbPhrase><verb>are</verb> <verb>a-changin’</verb></verbPhrase></refrainLine>
+    </lyrics>
+</song>
