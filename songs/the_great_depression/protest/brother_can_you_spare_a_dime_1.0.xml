@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_0.2.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>Brother Can You Spare a Dime</title>
@@ -35,21 +35,21 @@
             <line>Once in <adjective>khaki</adjective> <noun type="thing">suits</noun>, gee, we looked <adjective>swell</adjective></line>
             <line>Full of that <adjective>Yankee Doodly</adjective> <noun type="thing">Dum</noun></line>
             <line><adjective>Half a million</adjective> <noun type="thing">boots</noun> went slogging through <noun type="place">Hell</noun></line>
-            <line>And <noun type="person">I</noun>was the <noun type="thing">kid</noun> with the <noun type="thing">drum</noun></line>
+            <line>And <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>was</verb> <nounPhrase><det>the</det> <noun>kid</noun></nounPhrase><prepPhrase><prep>with </prep><nounPhrase><det>the</det> <noun>drum</noun></nounPhrase></prepPhrase></verbPhrase></line>
 
-            <line>Say, don't <noun type="person">you</noun> remember? They called me <noun type="person">'Al'</noun></line>
+            <line>Say, <verbPhrase><verb>don't</verb><nounPhrase><noun>you</noun></nounPhrase></verbPhrase><verbPhrase><verb>remember</verb></verbPhrase>? They called me <noun type="person">'Al'</noun></line>
             <line>It was <noun type="person">'Al'</noun> all the time</line>
-            <line>Why don't <noun type="person">you</noun> remember? <noun type="person">I</noun>m your <noun type="thing">pal</noun></line>
+            <line>Why<verbPhrase><verb>don't</verb><nounPhrase><noun>you</noun></nounPhrase></verbPhrase><verbPhrase><verb>remember</verb></verbPhrase>? <noun type="person">I</noun>m your <noun type="thing">pal</noun></line>
             <refrainSectionRef sectionRef="2"/>
 
             <line>Once in <adjective>khaki</adjective> <noun type="thing">suits</noun>, ah, gee, we looked <adjective>swell</adjective></line>
             <line>Full of that <adjective>Yankee Doodly</adjective> <noun type="thing">Dum</noun></line>
             <line><adjective>Half a million</adjective> <noun type="thing">boots</noun> went slogging through <noun type="place">Hell</noun></line>
-            <line>And <noun type="person">I</noun>was the <noun type="thing">kid</noun> with the <noun type="thing">drum</noun></line>
+            <line>And <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>was</verb> <nounPhrase><det>the</det> <noun>kid</noun></nounPhrase><prepPhrase><prep>with </prep><nounPhrase><det>the</det> <noun>drum</noun></nounPhrase></prepPhrase></verbPhrase></line>
 
-            <line>Oh, say, don't <noun type="person">you</noun> remember? They called me <noun type="person">'Al'</noun></line>
+            <line>Oh, say,<verbPhrase><verb>don't</verb><nounPhrase><noun>you</noun></nounPhrase></verbPhrase><verbPhrase><verb>remember</verb></verbPhrase>? They called me <noun type="person">'Al'</noun></line>
             <line>It was <noun type="person">'Al'</noun> all the <noun type="thing">time</noun></line>
-            <line>Say, don't <noun type="person">you</noun> remember? <noun type="person">I</noun>m your <noun type="thing">pal</noun></line>
+            <line>Say,<verbPhrase><verb>don't</verb><nounPhrase><noun>you</noun></nounPhrase></verbPhrase><verbPhrase><verb>remember</verb></verbPhrase>? <noun type="person">I</noun>m your <noun type="thing">pal</noun></line>
             <refrainSectionRef sectionRef="3"/>
         </verse>
 
@@ -62,9 +62,9 @@
         <refrainSection sectionID="3">
             <refrainLineRef lineRef="3"/>
         </refrainSection>
-        <refrainLine lineID="1">Brother, can <noun type="person">you</noun> spare a dime?</refrainLine>
-        <refrainLine lineID="2">Say buddy, can <noun type="person">you</noun> spare a dime?</refrainLine>
-        <refrainLine lineID="3">Buddy, can <noun type="person">you</noun> spare a dime?</refrainLine>
+        <refrainLine lineID="1"><nounPhrase><noun>Brother</noun></nounPhrase>, <verbPhrase><verb>can</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase> <verbPhrase><verb>spare</verb> <nounPhrase><det>a</det> <noun>dime</noun></nounPhrase></verbPhrase>?</refrainLine>
+        <refrainLine lineID="2">Say<nounPhrase><noun>buddy</noun></nounPhrase>, <verbPhrase><verb>can</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase> <verbPhrase><verb>spare</verb> <nounPhrase><det>a</det> <noun>dime</noun></nounPhrase></verbPhrase>?</refrainLine>
+        <refrainLine lineID="3"><nounPhrase><noun>buddy</noun></nounPhrase>, <verbPhrase><verb>can</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase> <verbPhrase><verb>spare</verb> <nounPhrase><det>a</det> <noun>dime</noun></nounPhrase></verbPhrase>?</refrainLine>
 
     </lyrics>
 </song>

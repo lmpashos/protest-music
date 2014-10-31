@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+<metadata>
+<title>Strange Fruit</title>
+<composer>Abel Meeropol</composer>    
+<album/>
+<year>1937</year>
+<genre/>
+<notablePerformer>Billie Holiday</notablePerformer>
+</metadata>
+<!-- Have verb Phrases in prep phrases left untagged-->
+<lyrics>
+<verse>
+<line><nounPhrase><adjective>Southern</adjective> <noun>trees</noun></nounPhrase><verbPhrase><verb>bear</verb> <nounPhrase><adjective>strange</adjective> <noun>fruit</noun></nounPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>Blood</noun></nounPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>the</det> <noun>leaves</noun></nounPhrase></prepPhrase> and <nounPhrase><noun>blood</noun></nounPhrase> <prepPhrase><prep>at</prep> <nounPhrase><det>the</det> <noun>root</noun></nounPhrase></prepPhrase>,</line>
+<line><nounPhrase><adjective>Black</adjective><noun>bodies</noun></nounPhrase> <verbPhrase><verb>swinging</verb><prepPhrase><prep> in</prep> <nounPhrase><det>the</det> <adjective>southern</adjective><noun> breeze</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+<line><nounPhrase><adjective>Strange</adjective> <noun>fruit</noun></nounPhrase> <verbPhrase><verb>hanging</verb> <prepPhrase><prep>from</prep> <nounPhrase><det>the</det> <adjective>poplar</adjective> <noun>trees</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+<line><nounPhrase><adjective>Pastoral</adjective> <noun>scene</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><det>the</det> <adjective>gallant</adjective> <noun>south</noun></nounPhrase></prepPhrase>,</line>
+<line><nounPhrase><det>The</det> <adjective>bulging</adjective> <noun>eyes</noun></nounPhrase> and <nounPhrase><det>the</det> <adjective>twisted</adjective> <noun>mouth</noun></nounPhrase>,</line>
+<line><nounPhrase><noun>Scent</noun> </nounPhrase><prepPhrase><prep>of</prep> <nounPhrase><noun>magnolias</noun>, <adjective>sweet</adjective> and <adjective>fresh</adjective></nounPhrase></prepPhrase>,</line>
+<line>Then <nounPhrase><det>the</det> <adjective>sudden</adjective> <noun>smell</noun></nounPhrase> <prepPhrase><prep>of</prep><nounPhrase><adjective>burning</adjective> <noun>flesh</noun></nounPhrase></prepPhrase>.</line>
+<line><verbPhrase><adverb>Here</adverb> <verb>is</verb> <nounPhrase><det>the</det> <noun>fruit</noun></nounPhrase></verbPhrase> <prepPhrase><prep>for</prep> <nounPhrase><det>the</det> <noun>crows</noun></nounPhrase>to pluck</prepPhrase>,</line>
+<line><prepPhrase><prep>For</prep> <nounPhrase><det>the</det> <noun>rain</noun> </nounPhrase>to gather</prepPhrase>, <prepPhrase><prep>for</prep> <nounPhrase><det>the</det> <noun>wind</noun></nounPhrase>to suck</prepPhrase>,</line>
+<line><prepPhrase><prep>For</prep><nounPhrase><det>the</det> <noun>sun</noun></nounPhrase> to rot</prepPhrase>, <prepPhrase><prep>for</prep> <nounPhrase><det>the</det> <noun>trees</noun></nounPhrase> to drop</prepPhrase>,</line>
+<line><verbPhrase><adverb>Here</adverb> <verb>is</verb></verbPhrase> <nounPhrase><det>a</det> <adjective>strange</adjective> and <adjective>bitter</adjective> <noun>crop</noun></nounPhrase></line>
+</verse>
+</lyrics>
+</song>
