@@ -1,0 +1,241 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                   SCHEMA VERSION 1.0                                  #
+#                                 For songs and lyrics                                  #
+#                                      10/16/2014                                       #         
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                                                       
+#       -----------------------------------------------------
+#          !! UPDATE THIS SECTION WHEN YOU MAKE CHANGES !!
+#       -----------------------------------------------------
+#
+#       UPDATE HISTORY:                                                             
+#
+#           VERSION:    1.0
+#               author: Leonidas Pashos
+#               updates:
+#                   - verbPhrase, nounPhrase, prepPhrase instead of noun, adj in line
+#                   - various component elements to phrases
+#
+#           VERSION:    1.1
+#               author: Leonidas Pashos
+#               updates:
+#                   - changed neg datatyoe to boolean
+#                   - adverbs not in phrases
+#                   - negation added to nounPhrases
+#                   - recursive definition for verbPhrases and nounPhrases
+#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                                                   #
+#                                     Structure                                     #
+#                                                                                   #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = song
+song = element song
+{
+    element metadata
+    {
+        element title
+        {
+            text
+        },
+        element composer
+        {
+            text
+        }+,
+        element album
+        {
+            text
+        },
+        element year
+        {
+            xsd:int
+        },
+        element genre
+        {
+            text
+        }+,
+        element notablePerformer
+        {
+            text
+        }+,
+        element notablePerformance
+        {
+            text
+        }*,
+        element notableEvent
+        {
+            text
+        }*
+    },
+    
+    #   END metadata
+    
+    element lyrics
+    {
+        element verse
+        {(
+        # should allow to freely interchange lines and refrains
+            element line
+            {(
+                text
+                |
+                nounPhrase              # defined below
+                |
+                verbPhrase              # defined below
+                |
+                prepPhrase              # defined below
+                |
+                adverb                  # defined below
+            )+}+
+            |
+            #   or reference to a refrainSection
+            element refrainSectionRef
+            {
+               attribute sectionRef {xsd:int}
+            }
+            |
+            #   or reference to a refrainLine
+            element refrainLineRef
+            {
+               attribute lineRef {xsd:int}
+            }+
+        )+}+,
+        
+        element refrainSection
+        {
+            # sectionID should match sectionRef if equal
+            attribute sectionID {xsd:int},
+            element refrainLineRef
+            {
+                attribute lineRef {xsd:int}
+            }+
+        }*,
+        
+        element refrainLine
+        {
+            # lineID should match lineRef if equal
+            attribute lineID {xsd:int},
+            (
+                text
+                |
+                nounPhrase              # defined below
+                |
+                verbPhrase              # defined below
+                |
+                prepPhrase              # defined below
+                |
+                adverb                  # defined below
+            )+
+        }*
+    }
+    
+    #   END lyrics
+    
+}
+
+#   END song
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                                                   #
+#                                 Linguistic Elements                               #
+#                                                                                   #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+# # # # # # 
+# Phrases #
+# # # # # #
+
+nounPhrase = element nounPhrase
+{
+    neg?,
+(
+    text
+    |
+    noun
+    |
+    det
+    |
+    adjective
+    |
+    adverb
+)+}
+
+verbPhrase = element verbPhrase
+{
+    neg?,
+(
+    text
+    |
+    verb
+    |
+    prepPhrase
+    |
+    nounPhrase
+    |
+    adverb
+    |
+    adjective
+    |
+    det
+    |
+    verbPhrase
+)+}
+
+prepPhrase = element prepPhrase
+{(
+    text
+    |
+    prep
+    |
+    det
+    |
+    adjective
+    |
+    adverb
+    |
+    nounPhrase
+    |
+    prepPhrase
+)+}
+
+# # # # # # # # # # # # 
+# Component elements  #
+# # # # # # # # # # # #
+
+noun = element noun
+{
+    text
+}
+
+det = element det            # Articles Demonstratives Possessives Quantifiers Numerals Distributives Interrogatives
+{
+    text
+}
+
+adjective = element adjective
+{
+    text
+}
+
+adverb = element adverb
+{
+    text
+}
+
+verb = element verb
+{
+    text
+}
+prep = element prep
+{
+    text
+}
+neg = attribute neg
+{
+    xsd:boolean
+}
