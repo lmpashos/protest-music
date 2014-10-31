@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song><metadata><title>BLOWIN' DOWN THIS ROAD (I AIN'T GOING TO BE TREATED THIS WAY) </title>
+    <composer>Woodie Guthrie and Lee Hays</composer>
+    <album>Dust Bowl Ballads</album>
+    <year>1940</year>
+    <genre>Folk and Country</genre>
+    <notablePerformer>WOODY GUTHRIE</notablePerformer></metadata>
+
+<lyrics>
+<verse>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>blowin'</verb> <prepPhrase><prep>down</prep> <nounPhrase><det>this</det> <adjective>old</adjective> <adjective>dusty</adjective> <noun>road</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>a-blowin'</verb> <prepPhrase><prep>down</prep> <nounPhrase><det>this</det> <adjective>old</adjective> <adjective>dusty</adjective> <noun>road</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>blowin'</verb> <prepPhrase><prep>down</prep> <nounPhrase><det>this</det> <adjective>old</adjective> <adjective>dusty</adjective> <noun>road</noun></nounPhrase></prepPhrase></verbPhrase>,<nounPhrase><noun>Lord</noun></nounPhrase>,</line>
+<refrainSectionRef sectionRef="1"/>       
+
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>a-goin'</verb><adverb> where</adverb></verbPhrase> <nounPhrase><det>the</det> <noun>water</noun></nounPhrase> <verbPhrase><verb>taste</verb> <adverb>like</adverb> <nounPhrase><noun>wine</noun></nounPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>a-goin'</verb><adverb> where</adverb></verbPhrase> <nounPhrase><det>the</det> <noun>water</noun></nounPhrase> <verbPhrase><verb>taste</verb> <adverb>like</adverb> <nounPhrase><noun>wine</noun></nounPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>a-goin'</verb><adverb> where</adverb></verbPhrase> <nounPhrase><det>the</det> <noun>water</noun></nounPhrase> <verbPhrase><verb>taste</verb> <adverb>like</adverb> <nounPhrase><noun>wine</noun></nounPhrase></verbPhrase>,</line>
+<refrainSectionRef sectionRef="1"/>
+
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>a-goin'</verb> <adverb>where</adverb></verbPhrase> <nounPhrase><det>the</det> <adjective>dust</adjective> <noun>storms</noun></nounPhrase><verbPhrase> <adverb>never</adverb> <verb>blow</verb></verbPhrase>,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>a-goin'</verb> <adverb>where</adverb></verbPhrase> <nounPhrase><det>the</det> <adjective>dust</adjective> <noun>storms</noun></nounPhrase><verbPhrase> <adverb>never</adverb> <verb>blow</verb></verbPhrase>,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>a-goin'</verb> <adverb>where</adverb></verbPhrase> <nounPhrase><det>the</det> <adjective>dust</adjective> <noun>storms</noun></nounPhrase><verbPhrase> <adverb>never</adverb> <verb>blow</verb></verbPhrase>, <verbPhrase><verb>blow</verb></verbPhrase>, <verbPhrase><verb>blow</verb></verbPhrase>,</line>
+<refrainSectionRef sectionRef="1"/>
+
+<line><nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>say</verb></verbPhrase> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <nounPhrase><det>a</det> <noun>dust bowl</noun> <noun>refugee</noun></nounPhrase></verbPhrase>,</line>
+<line>Yes,<nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>say</verb></verbPhrase> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <nounPhrase><det>a</det> <noun>dust bowl</noun> <noun>refugee</noun></nounPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>say</verb></verbPhrase> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <nounPhrase><det>a</det> <noun>dust bowl</noun> <noun>refugee</noun></nounPhrase></verbPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase>,</line>
+<refrainSectionRef sectionRef="1"/>
+
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>a-lookin'</verb> <prepPhrase><prep>for</prep><nounPhrase><det>a</det> <noun>job</noun></nounPhrase></prepPhrase> <prepPhrase><prep>at</prep> <nounPhrase><adjective>honest</adjective> <noun>pay</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>a-lookin'</verb> <prepPhrase><prep>for</prep><nounPhrase><det>a</det> <noun>job</noun></nounPhrase></prepPhrase> <prepPhrase><prep>at</prep> <nounPhrase><adjective>honest</adjective> <noun>pay</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>a-lookin'</verb> <prepPhrase><prep>for</prep><nounPhrase><det>a</det> <noun>job</noun></nounPhrase></prepPhrase> <prepPhrase><prep>at</prep> <nounPhrase><adjective>honest</adjective> <noun>pay</noun></nounPhrase></prepPhrase></verbPhrase>,<nounPhrase><noun>Lord</noun></nounPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase>,</line>
+<refrainSectionRef sectionRef="1"/>
+
+<line><nounPhrase><det>My</det> <noun>children</noun></nounPhrase> <verbPhrase><verb>need</verb> <nounPhrase><det>three</det> <adjective>square</adjective> <noun>meals</noun></nounPhrase> <adverb>a</adverb> <nounPhrase><noun>day</noun></nounPhrase></verbPhrase>,</line>
+<line>Now,<nounPhrase><det>My</det> <noun>children</noun></nounPhrase> <verbPhrase><verb>need</verb> <nounPhrase><det>three</det> <adjective>square</adjective> <noun>meals</noun></nounPhrase> <adverb>a</adverb> <nounPhrase><noun>day</noun></nounPhrase></verbPhrase>,</line>
+<line><nounPhrase><det>My</det> <noun>children</noun></nounPhrase> <verbPhrase><verb>need</verb> <nounPhrase><det>three</det> <adjective>square</adjective> <noun>meals</noun></nounPhrase> <adverb>a</adverb> <nounPhrase><noun>day</noun></nounPhrase></verbPhrase>,</line>
+<refrainSectionRef sectionRef="1"/>
+
+<line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase><verb>takes</verb> <nounPhrase><det>a</det> <adjective>ten-dollar</adjective> <noun>shoe</noun></nounPhrase></verbPhrase> <verbPhrase><verb>to fit</verb> <nounPhrase><det>my</det> <noun>feet</noun></nounPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase><verb>takes</verb> <nounPhrase><det>a</det> <adjective>ten-dollar</adjective> <noun>shoe</noun></nounPhrase></verbPhrase> <verbPhrase><verb>to fit</verb> <nounPhrase><det>my</det> <noun>feet</noun></nounPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase><verb>takes</verb> <nounPhrase><det>a</det> <adjective>ten-dollar</adjective> <noun>shoe</noun></nounPhrase></verbPhrase> <verbPhrase><verb>to fit</verb> <nounPhrase><det>my</det> <noun>feet</noun></nounPhrase></verbPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase>,</line>
+<refrainSectionRef sectionRef="1"/>
+
+<line><nounPhrase><det>Your</det> <det>a-</det><adjective>two-dollar</adjective> <noun>shoe</noun></nounPhrase> <verbPhrase><verb>hurts</verb> <nounPhrase><det>my</det> <noun>feet</noun></nounPhrase></verbPhrase>,</line>
+<line><nounPhrase><det>Your</det><adjective>two-dollar</adjective> <noun>shoe</noun></nounPhrase> <verbPhrase><verb>hurts</verb> <nounPhrase><det>my</det> <noun>feet</noun></nounPhrase></verbPhrase>,</line>
+<line>Yes,<nounPhrase><det>Your</det> <det>a-</det><adjective>two-dollar</adjective> <noun>shoe</noun></nounPhrase> <verbPhrase><verb>hurts</verb> <nounPhrase><det>my</det> <noun>feet</noun></nounPhrase></verbPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase>,</line>
+<refrainSectionRef sectionRef="1"/>
+
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>a-goin'</verb> <prepPhrase><prep>down</prep> <nounPhrase><det>this</det> <adjective>old</adjective> <adjective>dusty</adjective> <noun>road</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>blowin'</verb> <prepPhrase><prep>down</prep> <nounPhrase><det>this</det> <adjective>old</adjective> <adjective>dusty</adjective> <noun>road</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb></verbPhrase> <verbPhrase><verb>a-blowin'</verb> <prepPhrase><prep>down</prep> <nounPhrase><det>this</det> <adjective>old</adjective> <adjective>dusty</adjective> <noun>road</noun></nounPhrase></prepPhrase></verbPhrase>,<nounPhrase><noun>Lord</noun></nounPhrase>,<nounPhrase><noun>Lord</noun></nounPhrase></line>
+<refrainSectionRef sectionRef="1"/>
+</verse>
+
+
+    <refrainSection sectionID="1">
+        <refrainLineRef lineRef="1"/>
+    </refrainSection>
+    
+    <refrainLine lineID="1">An'<nounPhrase><noun>I </noun></nounPhrase><verbPhrase><verb>ain't a-gonna</verb></verbPhrase> <verbPhrase><verb>be treated</verb> <nounPhrase><det>this</det> <noun>way</noun></nounPhrase></verbPhrase>.</refrainLine>   
+</lyrics>
+</song>
