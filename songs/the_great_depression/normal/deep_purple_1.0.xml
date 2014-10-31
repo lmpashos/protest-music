@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Deep Purple</title>
+        <composer>Peter DeRose</composer>
+        <album/>
+        <year>1938</year>
+        <genre>Jazz</genre>
+        <notablePerformer>Bea Wain</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>When <nounPhrase><det>the</det> <adjective>deep</adjective> <noun>purple</noun></nounPhrase><verbPhrase><verb>falls</verb> <prepPhrase><prep>over</prep> <nounPhrase><adjective>sleepy</adjective> <noun>garden walls</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>And <nounPhrase><det>the</det> <noun>stars</noun></nounPhrase> <verbPhrase><verb>begin</verb> <verb>to flicker</verb> <prepPhrase><prep>in</prep> <nounPhrase><det>the</det> <noun>sky</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>Through</prep> <nounPhrase><det>the</det> <noun>mist</noun></nounPhrase></prepPhrase> <prepPhrase><prep>of</prep><nounPhrase> <det>a </det><noun>memory</noun></nounPhrase></prepPhrase> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>wander</verb> <adverb>back</adverb> <prepPhrase><prep>to</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Breathing</verb> <nounPhrase><det>my</det> <noun>name</noun></nounPhrase> <prepPhrase><prep>with</prep> <nounPhrase><det>a</det> <noun>sigh</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>In</prep> <nounPhrase><det>the</det> <noun>still</noun></nounPhrase></prepPhrase> <prepPhrase><prep>of</prep> <nounPhrase><det>the</det> <noun>night</noun></nounPhrase></prepPhrase> once again <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>hold </verb><nounPhrase><noun>you</noun></nounPhrase> <adverb>tight</adverb></verbPhrase></line>
+            <line>Though <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb> <adverb>gone</adverb></verbPhrase>, <nounPhrase><det>your</det> <noun>love</noun> </nounPhrase><verbPhrase><verb>lives</verb> <adverb>on</adverb></verbPhrase> when <nounPhrase><noun>moonlight</noun> </nounPhrase><verbPhrase><verb>beams</verb></verbPhrase></line>
+            <line>And as long as <nounPhrase><det>my</det> <noun>heart</noun></nounPhrase> <verbPhrase><verb>will beat</verb></verbPhrase>, <nounPhrase><noun>lover</noun> </nounPhrase><nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>'ll </verb><adverb>always</adverb> <verb>meet</verb></verbPhrase></line>
+            <line>Here <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <adjective>deep</adjective> <adjective>purple </adjective><noun>dreams</noun></nounPhrase></prepPhrase></line>
+            <line>Here <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <adjective>deep</adjective> <adjective>purple </adjective><noun>dreams</noun></nounPhrase></prepPhrase></line>
+        </verse>
+    </lyrics>
+</song>
