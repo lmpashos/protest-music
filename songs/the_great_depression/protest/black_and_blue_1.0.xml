@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>(what Did I Do to be So) Black and Blue</title>
+        <composer>Thomas "Fats" Waller and Harry Brooks</composer>
+        <album></album>
+        <year>1929</year>
+        <genre>Jazz</genre>
+        <notablePerformer>Louis Armstrong</notablePerformer>
+    </metadata>
+
+    <lyrics>
+        <verse>
+            <line><nounPhrase><adjective>Cold</adjective>, <adjective>empty</adjective> <noun>bed</noun></nounPhrase>,</line>
+            <line><nounPhrase><noun>Springs</noun></nounPhrase> hard as <nounPhrase><noun>lead</noun></nounPhrase>,</line>
+            <line><nounPhrase><noun>Pains</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>head</noun></nounPhrase></prepPhrase>,</line>
+            <line><verbPhrase><verb>Feel</verb> <prepPhrase><prep>like</prep> <nounPhrase><adjective>old</adjective> <noun>Ned</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <refrainSectionRef sectionRef="1"/>
+
+            <line>Even <nounPhrase><det>the</det> <noun>mouse</noun></nounPhrase></line>
+            <line><verbPhrase><verb>Ran</verb> <prepPhrase><prep>from</prep> <nounPhrase><det>my</det> <noun>house</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+            <line><nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>laugh</verb> <prepPhrase><prep>at</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase> and <verbPhrase><verb>scorn</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase> too</line>
+            <refrainSectionRef sectionRef="1"/>
+
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>white</adjective> <adverb>inside</adverb></verbPhrase></line>
+            <line>But <nounPhrase><det>that</det></nounPhrase> <verbPhrase><verb>don't</verb> <verb>help</verb> <nounPhrase><det>my</det> <noun>case</noun></nounPhrase></verbPhrase></line>
+            <line>Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase> <verb>can't</verb> <verb>hide</verb></verbPhrase></line>
+            <line><nounPhrase><det>What</det></nounPhrase> <verbPhrase><verb>is</verb> <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>face</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>How <verbPhrase><verb>will</verb> <nounPhrase><noun>it</noun></nounPhrase> <verb>end</verb></verbPhrase></line>
+            <line>Ain't <verbPhrase><verb>got</verb> <nounPhrase><det>a </det><noun>friend</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>My</det><adjective>only</adjective> <noun>sin</noun></nounPhrase></line>
+            <line>is <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>skin</noun></nounPhrase></prepPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+
+            <line>How <verbPhrase><verb>will</verb> <nounPhrase><noun>it</noun></nounPhrase> <verb>end</verb></verbPhrase></line>
+            <line>Ain't <verbPhrase><verb>got</verb> <nounPhrase><det>a </det><noun>friend</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>My</det><adjective>only</adjective> <noun>sin</noun></nounPhrase></line>
+            <line>is <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>skin</noun></nounPhrase></prepPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+
+        <refrainLine lineID="1">What <verbPhrase><verb>did</verb> <nounPhrase><noun>I</noun></nounPhrase> <verb>do</verb> </verbPhrase><verbPhrase><verb>to be</verb> <adverb>so</adverb> <adjective>black</adjective> and <adjective>blue</adjective></verbPhrase>?</refrainLine>
+
+    </lyrics>
+</song>
