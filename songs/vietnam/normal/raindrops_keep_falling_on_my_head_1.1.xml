@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
 <metadata>
     <title>Raindrops Keep Falling on My Head</title>
-    <composer></composer>
-    <album></album>
-    <year></year>
-    <genre></genre>
-    <notablePerformer></notablePerformer>
+    <composer>Hal David</composer>
+    <composer>Burt Bacharach</composer>
+    <album>single</album>
+    <year>1969</year>
+    <genre>soft rock</genre>
+    <notablePerformer>B. J. Thomas</notablePerformer>
 </metadata>
     <lyrics><verse>
 <refrainLineRef lineRef="1"/>
@@ -51,11 +52,11 @@
     </refrainSection>
         
         <refrainLine lineID="1"><nounPhrase><noun>Raindrops</noun></nounPhrase> <verbPhrase><adverb>keep</adverb> <verb>fallin'</verb></verbPhrase> <prepPhrase><adverb>on</adverb> <nounPhrase>my head</nounPhrase></prepPhrase></refrainLine>
-        <refrainLine lineID="2">But that doesn't mean my eyes will soon be turning red</refrainLine>
-        <refrainLine lineID="3">Crying's not for me</refrainLine>
-        <refrainLine lineID="4">Cause I ain't gonna stop the rain by complaining</refrainLine>
-        <refrainLine lineID="5">Because I'm free</refrainLine>
-        <refrainLine lineID="6">Nothing's bothering me</refrainLine>
+        <refrainLine lineID="2">But <nounPhrase><noun>that</noun></nounPhrase> <verbPhrase neg="true"><verb>doesn't</verb> <verb>mean</verb> <nounPhrase><det>my</det> <noun>eyes</noun></nounPhrase></verbPhrase> <verbPhrase><verb>will</verb> <adverb>soon</adverb> <verb>be</verb> <verb>turning</verb> <adjective>red</adjective></verbPhrase></refrainLine>
+        <refrainLine lineID="3"><nounPhrase><noun>Crying</noun></nounPhrase><verbPhrase><verb>'s</verb> not <prepPhrase><prep>for</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="4">Cause <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> <verb>gonna</verb> <verb>stop</verb> <nounPhrase><det>the</det> <noun>rain</noun></nounPhrase></verbPhrase> <prepPhrase><prep>by</prep> <verb>complaining</verb></prepPhrase></refrainLine>
+        <refrainLine lineID="5">Because <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>free</adjective></verbPhrase></refrainLine>
+        <refrainLine lineID="6"><nounPhrase><noun>Nothing</noun></nounPhrase><verbPhrase><verb>'s</verb> <verb>bothering</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></refrainLine>
     </lyrics>
     
 </song>
