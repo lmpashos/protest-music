@@ -13,10 +13,10 @@
     <lyrics>
 
         <verse>
-            <line><nounPhrase><adverb>Just</adverb><det>a</det><noun>gigolo</noun></nounPhrase></line>
+            <line>Just<nounPhrase><det>a</det><noun>gigolo</noun></nounPhrase></line>
             <line><!--tagging error--><adverb>Everywhere</adverb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>go</verb></verbPhrase></line>
             <line><nounPhrase><det>The</det> <noun>people</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><det>the</det> <noun>part</noun></nounPhrase></verbPhrase> <nounPhrase><det>that</det> <noun>I</noun></nounPhrase> <verbPhrase><verb>am playing</verb></verbPhrase></line>
-            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>am paid</verb> <prepPhrase><prep>for</prep> <nounPhrase><det>every</det> <noun>dance</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>am</verb></verbPhrase> <verbPhrase><verb>paid</verb> <prepPhrase><prep>for</prep> <nounPhrase><det>every</det> <noun>dance</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun> </nounPhrase><verbPhrase><verb>sell</verb> <nounPhrase><det>each </det><noun>romance</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><det>Every</det> <noun>night</noun></nounPhrase>, <nounPhrase><det>some</det> <noun>heart</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>am betraying;</verb></verbPhrase> yes, sir.</line>
         </verse>
@@ -36,8 +36,8 @@
             <line><!-- tagging error--><adjective>Dressed up</adjective> <prepPhrase><det>all</det> <prep>for </prep><nounPhrase><noun>show</noun></nounPhrase></prepPhrase></line>
             <line> Oh <nounPhrase><det>what</det> <det>a</det> <noun>life</noun> </nounPhrase><nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re leading</verb></verbPhrase></line>
             <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>dance</verb> <prepPhrase><prep>till</prep> <nounPhrase><det>every</det> <noun>dawn</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line><nounPhrase><det>Your</det> <noun>youth!</noun></nounPhrase> <nounPhrase><det>your </det><noun>future!</noun></nounPhrase> <adjective>Gone!</adjective></line>
-            <line><adjective>Gone</adjective> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>tell</verb> <nounPhrase><noun>ya</noun></nounPhrase></verbPhrase>,</line>
+            <line><nounPhrase><det>Your</det> <noun>youth!</noun></nounPhrase> <nounPhrase><det>your </det><noun>future!</noun></nounPhrase> <adverb>Gone!</adverb></line>
+            <line><adverb>Gone</adverb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>tell</verb> <nounPhrase><noun>ya</noun></nounPhrase></verbPhrase>,</line>
             <line><nounPhrase><noun>Love </noun></nounPhrase><verbPhrase><verb>will pass</verb> <nounPhrase><noun>you</noun></nounPhrase> <prepPhrase><prep>by</prep></prepPhrase> <adverb>unheeding</adverb></verbPhrase></line>
         </verse>
 
