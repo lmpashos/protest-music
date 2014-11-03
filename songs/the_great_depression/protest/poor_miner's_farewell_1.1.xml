@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+<metadata>
+    <title>Poor Miner's Farewell</title>
+    <composer>Aunt Molly Jackson</composer>
+    <album></album>
+    <year>1932</year>
+    <genre>Folk</genre>
+    <notablePerformer>Aunt Molly Jackson</notablePerformer>
+</metadata>
+ 
+<lyrics>
+<verse>
+<line><nounPhrase><adjective>Poor</adjective> <adjective>hard working</adjective> <noun>miners</noun></nounPhrase>, <nounPhrase><det>their</det> <noun>troubles</noun></nounPhrase> <verbPhrase><verb>are</verb> <adjective>great</adjective></verbPhrase>,</line>
+<line>So <adverb>often</adverb> <adverb>while</adverb> <verbPhrase><verb>mining</verb></verbPhrase><nounPhrase><noun> they</noun></nounPhrase> <verbPhrase><verb>meet</verb> <nounPhrase><det>their </det><adjective>sad</adjective> <noun>fate</noun></nounPhrase></verbPhrase>.</line>
+<line><verbPhrase><verb>Killed</verb><prepPhrase><prep> by</prep> <nounPhrase><det>some</det> <noun>accident</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><noun>there</noun></nounPhrase><verbPhrase><verb>'s</verb> no <nounPhrase neg="true"><noun>one</noun></nounPhrase> <verbPhrase><verb>can</verb><verbPhrase> <verb>tell</verb></verbPhrase></verbPhrase></verbPhrase>,</line>
+<line><nounPhrase><det>Their</det> <noun>mining</noun></nounPhrase><verbPhrase><verb>'s</verb> <adverb>all</adverb> <adverb>over</adverb></verbPhrase>, <nounPhrase><adjective>poor</adjective> <noun>miners</noun></nounPhrase> <nounPhrase><noun>farewell</noun></nounPhrase>!</line>
+<line><adverb>Only</adverb> <nounPhrase><det>a </det><noun>miner</noun></nounPhrase>, <verbPhrase><verb>killed</verb> <prepPhrase><prep>under</prep> <nounPhrase><det>the</det> <noun>ground</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+<line><adverb>Only</adverb> <nounPhrase><det>a </det><noun>miner</noun></nounPhrase>, but <nounPhrase><det>one</det> <adjective>more</adjective></nounPhrase> <verbPhrase><verb>is</verb> <adverb>gone</adverb></verbPhrase>.</line>
+<line><adverb>Only</adverb> <nounPhrase><det>a </det><noun>miner</noun></nounPhrase> but <nounPhrase><det>one</det> <adjective>more</adjective></nounPhrase> <verbPhrase><verb>is</verb> <adverb>gone</adverb></verbPhrase>,</line>
+<line><verbPhrase><verb>Leaving</verb> <nounPhrase><det>his</det> <noun>wife</noun></nounPhrase>> and <nounPhrase><adjective>dear </adjective><noun>children</noun></nounPhrase> <adverb>alone</adverb></verbPhrase>.</line>
+<line><nounPhrase><noun>They</noun> </nounPhrase><verbPhrase><verb>leave</verb> <nounPhrase><det>their</det> <adjective>dear</adjective> <noun>wives</noun></nounPhrase> and <nounPhrase><adjective>little</adjective> <noun>ones</noun></nounPhrase>, too,</verbPhrase></line>
+<line><verbPhrase><verb>To earn</verb> <nounPhrase><noun>them</noun></nounPhrase>> <nounPhrase><det>a</det> <noun>living</noun></nounPhrase> <prepPhrase><prep>as</prep> <nounPhrase><noun>miners</noun></nounPhrase></prepPhrase> <adverb>all</adverb><verbPhrase><verb>do</verb></verbPhrase></verbPhrase>.</line>
+<line><verbPhrase><verb>Killed</verb><prepPhrase> <prep>by</prep> <nounPhrase><det>some</det><noun> accident</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><noun>there</noun></nounPhrase><verbPhrase><verb>'s</verb> no <nounPhrase neg="true"><noun>one</noun></nounPhrase> <verbPhrase><verb>can</verb><verbPhrase> <verb>tell</verb></verbPhrase></verbPhrase></verbPhrase></line>
+<line><nounPhrase><det>Their</det> <noun>mining</noun></nounPhrase><verbPhrase><verb>'s</verb> <adverb>all</adverb> <adverb>over</adverb></verbPhrase>, <nounPhrase><adjective>poor</adjective> <noun>miners</noun></nounPhrase> <nounPhrase><noun>farewell</noun></nounPhrase>!</line>
+</verse>
+
+<verse>
+<line><verbPhrase><verb>Leaving</verb> <nounPhrase><det>his</det> <noun>children</noun></nounPhrase> <verbPhrase><verb>thrown out</verb> <prepPhrase><prep>on</prep><nounPhrase> <det>the</det> <noun>street</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>,</line>
+<line><verbPhrase><adjective>Barefoot</adjective> and <adjective>ragged </adjective></verbPhrase>and <nounPhrase neg="true"><noun>nothing</noun></nounPhrase><verbPhrase><verb>to eat</verb></verbPhrase>,</line>
+<line><nounPhrase><noun>Mother</noun></nounPhrase> <verbPhrase><verb>is</verb> <adjective>jobless</adjective></verbPhrase>, <nounPhrase><det>my</det> <noun>father</noun></nounPhrase> <verbPhrase><verb>is</verb> <adjective>dead</adjective></verbPhrase>,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>am</verb> <nounPhrase><det>a</det> <adjective>poor</adjective> <noun>orphan</noun></nounPhrase></verbPhrase>, <verbPhrase><verb>begging</verb> <prepPhrase><prep>for</prep><nounPhrase> <noun>bread</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+</verse>
+
+<verse>
+<line><adverb>When</adverb> <nounPhrase><noun>I </noun></nounPhrase><verbPhrase><verb>am</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun>Kentucky</noun></nounPhrase></prepPhrase></verbPhrase> <adverb>so</adverb> <adverb>often</adverb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>meet</verb></verbPhrase>,</line>
+<line><nounPhrase><adjective>Poor</adjective> <noun>coal</noun> <noun>miners</noun></nounPhrase>' <nounPhrase><noun>children</noun></nounPhrase> <adverb>out</adverb> <prepPhrase><prep>on</prep><nounPhrase> <det>the</det> <noun>street</noun></nounPhrase></prepPhrase>.</line>
+<line>"What are you doing?" <prepPhrase><prep>to</prep> <nounPhrase><noun>them</noun></nounPhrase></prepPhrase><nounPhrase><noun> I</noun></nounPhrase> <verbPhrase><verb>have said</verb></verbPhrase>,</line>
+<line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>are</verb> <adjective>hungry</adjective></verbPhrase>,<nounPhrase> <noun>Aunt Molly</noun></nounPhrase>, and <nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>'re</verb> <verbPhrase><verb>begging</verb> <prepPhrase><prep>for</prep><nounPhrase> <noun>bread</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>."</line>
+</verse>
+
+<verse>
+<line><verbPhrase>"Will <nounPhrase><noun>you</noun></nounPhrase> please <verb>help</verb> <nounPhrase><noun>us</noun></nounPhrase> <verbPhrase><verb>to get</verb> <nounPhrase><noun>something</noun></nounPhrase> <verbPhrase><verb>to eat</verb></verbPhrase></verbPhrase></verbPhrase>?</line>
+<line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>are</verb> <adjective>ragged </adjective>and <adjective>hungry</adjective></verbPhrase>, <verbPhrase><verb>thrown</verb> <adverb>out</adverb> <prepPhrase><prep>on</prep><nounPhrase> <det>the</det> <noun>street</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+<line>"Yes, <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>will help</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase>," <prepPhrase><prep>to</prep> <nounPhrase><noun>them</noun></nounPhrase></prepPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>have said</verb></verbPhrase>,</line>
+<line>"<verbPhrase><verb>To beg</verb> <nounPhrase><noun>food</noun></nounPhrase> and<nounPhrase><noun> clothing,</noun></nounPhrase></verbPhrase> <nounPhrase><noun>I </noun></nounPhrase><verbPhrase><verb>will help</verb> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>to get</verb> <nounPhrase><noun>bread</noun></nounPhrase></verbPhrase></verbPhrase>."</line>
+</verse>
+</lyrics>
+</song>
