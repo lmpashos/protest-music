@@ -1,48 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<b>"Man In Black"</b><br />
-
-<br />
-
-<div style="margin-left:10px;margin-right:10px;">
-    <!-- start of lyrics -->
-    Well, you wonder why I always dress in black,<br />
-    Why you never see bright colors on my back,<br />
-    And why does my appearance seem to have a somber tone.<br />
-    Well, there's a reason for the things that I have on.<br />
-    <br />
-    I wear the black for the poor and the beaten down,<br />
-    Livin' in the hopeless, hungry side of town,<br />
-    I wear it for the prisoner who has long paid for his crime,<br />
-    But is there because he's a victim of the times.<br />
-    <br />
-    I wear the black for those who never read,<br />
-    Or listened to the words that Jesus said,<br />
-    About the road to happiness through love and charity,<br />
-    Why, you'd think He's talking straight to you and me.<br />
-    <br />
-    Well, we're doin' mighty fine, I do suppose,<br />
-    In our streak of lightnin' cars and fancy clothes,<br />
-    But just so we're reminded of the ones who are held back,<br />
-    Up front there ought 'a be a Man In Black.<br />
-    <br />
-    I wear it for the sick and lonely old,<br />
-    For the reckless ones whose bad trip left them cold,<br />
-    I wear the black in mournin' for the lives that could have been,<br />
-    Each week we lose a hundred fine young men.<br />
-    <br />
-    And, I wear it for the thousands who have died,<br />
-    Believen' that the Lord was on their side,<br />
-    I wear it for another hundred thousand who have died,<br />
-    Believen' that we all were on their side.<br />
-    <br />
-    Well, there's things that never will be right I know,<br />
-    And things need changin' everywhere you go,<br />
-    But 'til we start to make a move to make a few things right,<br />
-    You'll never see me wear a suit of white.<br />
-    <br />
-    Ah, I'd love to wear a rainbow every day,<br />
-    And tell the world that everything's OK,<br />
-    But I'll try to carry off a little darkness on my back,<br />
-    'Till things are brighter, I'm the Man In Black.
-    <!-- end of lyrics -->
-</div>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Man in Black</title>
+        <composer>Johnny Cash</composer>
+        <album>Man in Black</album>
+        <year>1971</year>
+        <genre>Country</genre>
+        <notablePerformer>Johnny Cash</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>Well, you wonder why I always dress in black,</line>
+            <line>Why you never see bright colors on my back,</line>
+            <line>And why does my appearance seem to have a somber tone.</line>
+            <line>Well, there's a reason for the things that I have on.</line>
+        </verse>
+        <verse>
+            <line>I wear the black for the poor and the beaten down,</line>
+            <line>Livin' in the hopeless, hungry side of town,</line>
+            <line>I wear it for the prisoner who has long paid for his crime,</line>
+            <line>But is there because he's a victim of the times.</line>
+        </verse>
+        <verse>
+            <line>I wear the black for those who never read,</line>
+            <line>Or listened to the words that Jesus said,</line>
+            <line>About the road to happiness through love and charity,</line>
+            <line>Why, you'd think He's talking straight to you and me.</line>
+        </verse>
+        <verse>
+            <line>Well, we're doin' mighty fine, I do suppose,</line>
+            <line>In our streak of lightnin' cars and fancy clothes,</line>
+            <line>But just so we're reminded of the ones who are held back,</line>
+            <line>Up front there ought 'a be a Man In Black.</line>
+        </verse>
+        <verse>
+            <line>I wear it for the sick and lonely old,</line>
+            <line>For the reckless ones whose bad trip left them cold,</line>
+            <line>I wear the black in mournin' for the lives that could have been,</line>
+            <line>Each week we lose a hundred fine young men.</line>
+        </verse>
+        <verse>
+            <line>And, I wear it for the thousands who have died,</line>
+            <line>Believen' that the Lord was on their side,</line>
+            <line>I wear it for another hundred thousand who have died,</line>
+            <line>Believen' that we all were on their side.</line>
+        </verse>
+        <verse>
+            <line>Well, there's things that never will be right I know,</line>
+            <line>And things need changin' everywhere you go,</line>
+            <line>But 'til we start to make a move to make a few things right,</line>
+            <line>You'll never see me wear a suit of white.</line>
+        </verse>
+        <verse>
+            <line>Ah, I'd love to wear a rainbow every day,</line>
+            <line>And tell the world that everything's OK,</line>
+            <line>But I'll try to carry off a little darkness on my back,</line>
+            <line>'Till things are brighter, I'm the Man In Black. </line>
+        </verse>
+    </lyrics>
+</song>

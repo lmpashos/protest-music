@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>California Uber Alles</title>
+        <composer>Jello Biafra</composer>
+        <composer>John Greenway</composer>
+        <album>Fresh Fruit for Rotting Vegetables</album>
+        <year>1979</year>
+        <genre>Punk</genre>
+        <notablePerformer>Dead Kennedys</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>am</verb>
+                    <nounPhrase><adjective>Governor</adjective>
+                        <noun>Jerry Brown</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>My</det>
+                    <noun>aura</noun></nounPhrase>
+                <verbPhrase><verb>smiles</verb></verbPhrase></line>
+            <line>And <verbPhrase><adverb>never</adverb>
+                    <verb>frowns</verb></verbPhrase></line>
+            <line><adverb>Soon</adverb>
+                <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>will be</verb>
+                    <nounPhrase><noun>president</noun></nounPhrase></verbPhrase>...</line>
+        </verse>
+        <verse>
+            <line><nounPhrase><adjective>Carter</adjective>
+                    <noun>Power</noun></nounPhrase>
+                <verbPhrase><verb>will</verb>
+                    <adverb>soon</adverb>
+                    <verb>go</verb>
+                    <adverb>away</adverb></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>will be</verb>
+                    <nounPhrase><noun>Fuhrer</noun></nounPhrase>
+                    <nounPhrase><det>one</det>
+                        <noun>day</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> will command all of you</line>
+            <line><nounPhrase><det>Your</det>
+                    <noun>kids</noun></nounPhrase>
+                <verbPhrase><verb>will meditate</verb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><noun>school</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>Your</det>
+                    <noun>kids</noun></nounPhrase>
+                <verbPhrase><verb>will meditate</verb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><noun>school</noun></nounPhrase></prepPhrase></verbPhrase>!</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><adjective>Zen</adjective>
+                    <noun>fascists</noun></nounPhrase>
+                <verbPhrase><verb>will control</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><adjective>100%</adjective>
+                    <noun>natural</noun></nounPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>will jog</verb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><det>the</det>
+                            <adjective>master</adjective>
+                            <noun>race</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>And <verbPhrase><adverb>always</adverb>
+                    <verb>wear</verb>
+                    <nounPhrase><det>the</det>
+                        <adjective>happy</adjective>
+                        <noun>face</noun></nounPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Close</verb>
+                    <nounPhrase><det>your</det>
+                        <noun>eyes</noun></nounPhrase></verbPhrase>, <verbPhrase neg="true"
+                        ><verb>can't happen</verb>
+                    <adverb>here</adverb></verbPhrase></line>
+            <line><nounPhrase><noun>Big</noun>
+                    <noun>Bro</noun></nounPhrase>' <prepPhrase><prep>on</prep>
+                    <nounPhrase><adjective>white</adjective>
+                        <noun>horse</noun></nounPhrase></prepPhrase>
+                <verbPhrase><verb>is</verb>
+                    <adjective>near</adjective></verbPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>hippies</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>won't come</verb>
+                    <adverb>back</adverb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verbPhrase><verb>say</verb></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Mellow</verb>
+                    <adverb>out</adverb></verbPhrase> or <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>will pay</verb></verbPhrase></line>
+            <line><verbPhrase><verb>Mellow</verb>
+                    <adverb>out</adverb></verbPhrase> or <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>will pay</verb></verbPhrase>!</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>Now <nounPhrase><noun>it</noun></nounPhrase>
+                <verbPhrase><verb>is</verb>
+                    <nounPhrase><noun>1984</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Knock-knock</verb>
+                    <prepPhrase><prep>at</prep>
+                        <nounPhrase><det>your</det>
+                            <adjective>front</adjective>
+                            <noun>door</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>the</det>
+                        <adverb>suede/denim</adverb>
+                        <adjective>secret</adjective>
+                        <noun>police</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>They</noun></nounPhrase>
+                <verbPhrase><verb>have come</verb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><det>your</det>
+                            <adjective>uncool</adjective>
+                            <noun>niece</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Come</verb>
+                    <adverb>quietly</adverb>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>camp</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'d look</verb>
+                    <adjective>nice</adjective>
+                    <prepPhrase><prep>as</prep>
+                        <nounPhrase><det>a</det>
+                            <adjective>drawstring</adjective>
+                            <noun>lamp</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase neg="true"><verb>Do</verb>n't
+                        <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>worry</verb></verbPhrase>,
+                        <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <prepPhrase><prep>only</prep>
+                        <nounPhrase><det>a</det>
+                            <noun>shower</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>For</prep>
+                    <nounPhrase><det>your</det>
+                        <noun>clothes</noun></nounPhrase></prepPhrase>
+                <adverb>here</adverb><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>a</det>
+                        <adjective>pretty</adjective>
+                        <noun>flower</noun></nounPhrase></verbPhrase>.</line>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>DIE</verb>
+                    <prepPhrase><prep>on</prep>
+                        <adverb>organic</adverb>
+                        <adjective>poison</adjective>
+                        <nounPhrase>gas</nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Serpent</noun><det>'s</det>
+                    <noun>egg</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adverb>already</adverb>
+                    <verb>hatched</verb></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>will croak</verb></verbPhrase>, <nounPhrase><noun>you</noun>
+                    <adjective>little</adjective>
+                    <noun>clown</noun></nounPhrase></line>
+            <line>When <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>mess</verb>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><adjective>President</adjective>
+                            <noun>Brown</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>When <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>mess</verb>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><adjective>President</adjective>
+                            <noun>Brown</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="2"/>
+        </refrainSection>
+        <refrainLine lineID="1"><nounPhrase><noun>California</noun></nounPhrase>
+            <prepPhrase><prep>Uber</prep>
+                <nounPhrase><noun>Alles</noun></nounPhrase></prepPhrase></refrainLine>
+        <refrainLine lineID="2"><prepPhrase><prep>Uber</prep>
+                <nounPhrase><noun>Alles</noun></nounPhrase></prepPhrase>
+            <nounPhrase><noun>California</noun></nounPhrase></refrainLine>
+    </lyrics>
+</song>

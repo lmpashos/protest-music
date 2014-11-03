@@ -1,52 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div style="margin-left:10px;margin-right:10px;">
-    <!-- start of lyrics -->
-    Look into my eyes – you will see<br />
-    What you mean to me.<br />
-    Search your heart, search your soul<br />
-    And when you find me there you'll search no more.<br />
-    <br />
-    Don't tell me it's not worth tryin' for.<br />
-    You can't tell me it's not worth dyin' for.<br />
-    You know it's true:<br />
-    Everything I do, I do it for you.<br />
-    <br />
-    Look into your heart – you will find<br />
-    There's nothin' there to hide.<br />
-    Take me as I am, take my life.<br />
-    I would give it all, I would sacrifice.<br />
-    <br />
-    Don't tell me it's not worth fightin' for<br />
-    I can't help it, there's nothin' I want more<br />
-    You know it's true:<br />
-    Everything I do, I do it for you, oh, yeah.<br />
-    <br />
-    There's no love like your love<br />
-    And no other could give more love.<br />
-    There's nowhere unless you're there<br />
-    All the time, all the way, yeah.<br />
-    <br />
-    Look into your heart, baby...<br />
-    <br />
-    Oh, you can't tell me it's not worth tryin' for.<br />
-    I can't help it, there's nothin' I want more.<br />
-    <br />
-    Yeah, I would fight for you, I'd lie for you,<br />
-    Walk the wire for you, yeah, I'd die for you.<br />
-    <br />
-    You know it's true:<br />
-    Everything I do, oh, I do it for you.<br />
-    <br />
-    Everything I do, darling.<br />
-    You will see it's true.<br />
-    You will see it's true.<br />
-    Yeah!<br />
-    Search your heart and your soul<br />
-    You can't tell it's not worth dying for<br />
-    I'll be there<br />
-    I'd walk the fire for you<br />
-    I'd die for you<br />
-    Oh, yeah.<br />
-    I'm going all the time, all the way.
-    <!-- end of lyrics -->
-</div>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Everything I Do I Do It for You</title>
+        <composer>Bryan Adams</composer>
+        <composer>Michael Kamen</composer>
+        <composer>Robert John "Mutt" Lange</composer>
+        <album>Robin Hood: Prince of Thieves Soudtrack</album>
+        <year>1991</year>
+        <genre>Pop</genre>
+        <genre>Rock</genre>
+        <notablePerformer>Bryan Adams</notablePerformer>
+        <notablePerformer>Brandy</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>Look into my eyes – you will see</line>
+            <line>What you mean to me.</line>
+            <line>Search your heart, search your soul</line>
+            <line>And when you find me there you'll search no more.</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>Look into your heart – you will find</line>
+            <line>There's nothin' there to hide.</line>
+            <line>Take me as I am, take my life.</line>
+            <line>I would give it all, I would sacrifice.</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="2"/>
+        </verse>
+        <verse>
+            <line>There's no love like your love</line>
+            <line>And no other could give more love.</line>
+            <line>There's nowhere unless you're there</line>
+            <line>All the time, all the way, yeah.</line>
+        </verse>
+        <verse>
+            <line>Look into your heart, baby...</line>
+            <line>Oh, you can't tell me it's not worth tryin' for.</line>
+            <line>I can't help it, there's nothin' I want more.</line>
+            <line>Yeah, I would fight for you, I'd lie for you,</line>
+            <line>Walk the wire for you, yeah, I'd die for you.</line>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <line>Everything I do, darling.</line>
+            <line>You will see it's true.</line>
+            <line>You will see it's true.</line>
+            <line>Yeah!</line>
+            <line>Search your heart and your soul</line>
+            <line>You can't tell it's not worth dying for</line>
+            <line>I'll be there</line>
+            <line>I'd walk the fire for you</line>
+            <line>I'd die for you</line>
+            <line>Oh, yeah.</line>
+            <line>I'm going all the time, all the way.</line>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+        </refrainSection>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="5"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+        </refrainSection>
+        <refrainLine lineID="1">Don't tell me it's not worth tryin' for.</refrainLine>
+        <refrainLine lineID="2">You can't tell me it's not worth dyin' for.</refrainLine>
+        <refrainLine lineID="3">You know it's true:</refrainLine>
+        <refrainLine lineID="4">Everything I do, I do it for you.</refrainLine>
+        <refrainLine lineID="5">I can't help it, there's nothin' I want more</refrainLine>
+    </lyrics>
+</song>

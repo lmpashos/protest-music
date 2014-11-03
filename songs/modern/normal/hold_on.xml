@@ -1,73 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div style="margin-left:10px;margin-right:10px;">
-    <!-- start of lyrics -->
-    I know this pain<br />
-    Why do lock yourself up in these chains?<br />
-    No one can change your life except for you<br />
-    Don't ever let anyone step all over you<br />
-    Just open your heart and your mind<br />
-    Is it really fair to feel this way inside?<br />
-    <br />
-    <i>[Chorus:]</i><br />
-    Some day somebody's gonna make you want to<br />
-    Turn around and say goodbye<br />
-    Until then baby are you going to let them<br />
-    Hold you down and make you cry<br />
-    Don't you know?<br />
-    Don't you know things can change<br />
-    Things'll go your way<br />
-    If you hold on for one more day<br />
-    Can you hold on for one more day<br />
-    Things'll go your way<br />
-    Hold on for one more day<br />
-    <br />
-    You could sustain<br />
-    Or are you comfortable with the pain?<br />
-    You've got no one to blame for your unhappiness<br />
-    You got yourself into your own mess<br />
-    Lettin' your worries pass you by<br />
-    Don't you think it's worth your time<br />
-    To change your mind?<br />
-    <br />
-    <i>[Chorus]</i><br />
-    <br />
-    I know that there is pain<br />
-    But you hold on for one more day and<br />
-    Break free the chains<br />
-    Yeah I know that there is pain<br />
-    But you hold on for one more day and you<br />
-    Break free, break from the chains<br />
-    <br />
-    Some day somebody's gonna make you want to<br />
-    Turn around and say goodbye<br />
-    Until then baby are you going to let them<br />
-    Hold you down and make you cry<br />
-    Don't you know?<br />
-    Don't you know things can change<br />
-    Things'll go your way<br />
-    If you hold on for one more day yeah<br />
-    If you hold on<br />
-    <br />
-    Don't you know things can change<br />
-    Things'll go your way<br />
-    If you hold on for one more day,<br />
-    If you hold on<br />
-    Can you hold on<br />
-    Hold on baby<br />
-    Won't you tell me now<br />
-    Hold on for one more day 'Cause<br />
-    It's gonna go your way<br />
-    <br />
-    Don't you know things can change<br />
-    Things'll go your way<br />
-    If you hold on for one more day<br />
-    Can't you change it this time<br />
-    <br />
-    Make up your mind<br />
-    Hold on<br />
-    Hold on<br />
-    Baby hold on
-    <!-- end of lyrics -->
-</div>
-
-
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Hold On</title>
+        <composer>Chynna Phillips</composer>
+        <composer>Glen Ballard</composer>
+        <composer>Carnie Wilson</composer>
+        <album>Wilson Phillips</album>
+        <year>1990</year>
+        <genre>Pop</genre>
+        <notablePerformer>Wilson Phillips</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>I know this pain</line>
+            <line>Why do lock yourself up in these chains?</line>
+            <line>No one can change your life except for you</line>
+            <line>Don't ever let anyone step all over you</line>
+            <line>Just open your heart and your mind</line>
+            <line>Is it really fair to feel this way inside?</line>
+        </verse>
+        <verse>
+            <line>Some day somebody's gonna make you want to</line>
+            <line>Turn around and say goodbye</line>
+            <line>Until then baby are you going to let them</line>
+            <line>Hold you down and make you cry</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>You could sustain</line>
+            <line>Or are you comfortable with the pain?</line>
+            <line>You've got no one to blame for your unhappiness</line>
+            <line>You got yourself into your own mess</line>
+            <line>Lettin' your worries pass you by</line>
+            <line>Don't you think it's worth your time</line>
+            <line>To change your mind?</line>
+        </verse>
+        <verse>
+            <line>I know that there is pain</line>
+            <line>But you hold on for one more day and</line>
+            <line>Break free the chains</line>
+            <line>Yeah I know that there is pain</line>
+            <line>But you hold on for one more day and you</line>
+            <line>Break free, break from the chains</line>
+        </verse>
+        <verse>
+            <line>Some day somebody's gonna make you want to</line>
+            <line>Turn around and say goodbye</line>
+            <line>Until then baby are you going to let them</line>
+            <line>Hold you down and make you cry</line>
+            <refrainSectionRef sectionRef="2"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="3"/>
+            <line>Hold on baby</line>
+            <line>Won't you tell me now</line>
+            <line>Hold on for one more day 'Cause</line>
+            <line>It's gonna go your way</line>
+        </verse>
+        <verse>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <line>Can't you change it this time</line>
+        </verse>
+        <verse>
+            <line>Make up your mind</line>
+            <line>Hold on</line>
+            <line>Hold on</line>
+            <line>Baby hold on </line>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="5"/>
+            <refrainLineRef lineRef="6"/>
+        </refrainSection>
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="8"/>
+        </refrainSection>
+        <refrainSection sectionID="3">
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="8"/>
+            <refrainLineRef lineRef="9"/>
+        </refrainSection>
+        <refrainLine lineID="1">Don't you know?</refrainLine>
+        <refrainLine lineID="2">Don't you know things can change</refrainLine>
+        <refrainLine lineID="3">Things'll go your way</refrainLine>
+        <refrainLine lineID="4">If you hold on for one more day</refrainLine>
+        <refrainLine lineID="5">Can you hold on for one more day</refrainLine>
+        <refrainLine lineID="6">Things'll go your way</refrainLine>
+        <refrainLine lineID="7">Hold on for one more day</refrainLine>
+        <refrainLine lineID="8">If you hold on</refrainLine>
+        <refrainLine lineID="8">Can you hold on</refrainLine>
+    </lyrics>
+</song>

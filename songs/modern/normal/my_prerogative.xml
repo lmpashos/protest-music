@@ -1,91 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div style="margin-left:10px;margin-right:10px;">
-    <!-- start of lyrics -->
-    It's love...<br />
-    It's love...<br />
-    Love... get busy<br />
-    Everybody's talkin all this stuff about me (Now now)<br />
-    Why don't they just let me live (Oh oh oh)<br />
-    I don't need permission<br />
-    Make my own decisions (Oh!)<br />
-    That's my prerogative<br />
-    <br />
-    They say I'm crazy<br />
-    I really don't care<br />
-    That's my prerogative<br />
-    They say I'm nasty<br />
-    But I don't give a damn<br />
-    Gettin girls is how I live<br />
-    Some ask me questions<br />
-    Why am I so real<br />
-    But they don't understand me<br />
-    I really don't know the deal<br />
-    About a brother<br />
-    Trying hard to make it right<br />
-    Not long ago<br />
-    Befo' I win this fight<br />
-    SING!<br />
-    <br />
-    Everybody's talkin all this stuff about me<br />
-    Why don't they just let me live (Tell me why)<br />
-    I don't need permission<br />
-    Make my own decisions (Oh!)<br />
-    That's my prerogative<br />
-    It's my prerogative <br />
-    (It's my prerogative)<br />
-    <br />
-    It's the way that I wanna live (It's my prerogative)<br />
-    I can do just what I feel (It's my prerogative)<br />
-    No one can tell me what to do (It's my prerogative)<br />
-    Cause what I'm doin<br />
-    I'm doin for you now<br />
-    <br />
-    Don't get me wrong<br />
-    I'm really not zooped<br />
-    Ego trips is not my thing<br />
-    All these strange relationships<br />
-    Really gets me down<br />
-    I see nothin wrong<br />
-    With spreadin myself around<br />
-    SING!<br />
-    <br />
-    Everybody's talkin all this stuff about me (yeah) <br />
-    Why don't they just let me live (Tell me why) <br />
-    I don't need permission (I don't need) <br />
-    Make my own decisions (my own decisions) <br />
-    That's my prerogative<br />
-    It's my prerogative<br />
-    (It's my prerogative)<br />
-    <br />
-    I can do what I wanna do (It's my prerogative)<br />
-    Truly live my life (It's my prerogative)<br />
-    I'm doin it just for you (It's my prerogative)<br />
-    Tell me, tell me<br />
-    <br />
-    Why can't I live my life (Live my life)<br />
-    Without all of the things that people say (Ohhh Ohhh)<br />
-    <br />
-    Yo tell it, kick it like this<br />
-    Oh no nooo<br />
-    <br />
-    I can do what I wanna do<br />
-    Me and you<br />
-    Together, together, together, together, together<br />
-    <br />
-    Everybody's talkin all this stuff about me (everybody's talkin)<br />
-    Why don't they just let me live (why)<br />
-    (Why don't they just let me live girl)<br />
-    I don't need permission (I don't need permission)<br />
-    Make my own decisions<br />
-    That's my prerogative<br />
-    <br />
-    Everybody's talkin all this stuff about me (Everybody's talkin)<br />
-    Why don't they just let me live<br />
-    (Why don't they just let me live)<br />
-    I don't need permission (I don't need)<br />
-    Make my own decisions (My own decisions)<br />
-    That's my prerogative<br />
-    <br />
-    <i>[Ad libs]</i>
-    <!-- end of lyrics -->
-</div>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>My Prerogative</title>
+        <composer>Bobby Brown</composer>
+        <composer>Gene Griffin</composer>
+        <album>Don't Be Cruel </album>
+        <year>1988</year>
+        <genre>R&amp;B</genre>
+        <notablePerformer>Bobby Brown</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>It's <nounPhrase><noun>love</noun></nounPhrase>...</line>
+            <line>It's <nounPhrase><noun>love</noun></nounPhrase>...</line>
+            <line><nounPhrase><noun>Love</noun></nounPhrase>... get busy</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>They say I'm crazy</line>
+            <line>I really don't care</line>
+            <line>That's my prerogative</line>
+            <line>They say I'm nasty</line>
+            <line>But I don't give a damn</line>
+            <line>Gettin girls is how I live</line>
+            <line><nounPhrase><noun>Some</noun></nounPhrase><verbPhrase><verb>ask</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <nounPhrase><noun>questions</noun></nounPhrase></verbPhrase></line>
+            <line>Why am I so real</line>
+            <line>But they don't understand me</line>
+            <line>I really don't know the deal</line>
+            <line>About a brother</line>
+            <line>Trying hard to make it right</line>
+            <line>Not long ago</line>
+            <line>Befo' I win this fight</line>
+            <line>SING!</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>It's the way that I wanna live</line>
+            <line>I can do just what I feel</line>
+            <line>No one can tell me what to do</line>
+            <line>Cause what I'm doin</line>
+            <line>I'm doin for you now</line>
+        </verse>
+        <verse>
+            <line>Don't get me wrong</line>
+            <line>I'm really not zooped</line>
+            <line>Ego trips is not my thing</line>
+            <line>All these strange relationships</line>
+            <line>Really gets me down</line>
+            <line>I see nothin wrong</line>
+            <line>With spreadin myself around</line>
+            <line>SING!</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>I can do what I wanna do (It's my prerogative)</line>
+            <line>Truly live my life (It's my prerogative)</line>
+            <line>I'm doin it just for you (It's my prerogative)</line>
+            <line>Tell me, tell me</line>
+        </verse>
+        <verse>
+            <line>Why can't I live my life (Live my life)</line>
+            <line>Without all of the things that people say (Ohhh Ohhh)</line>
+            <line>Yo tell it, kick it like this</line>
+            <line>Oh no nooo</line>
+        </verse>
+        <verse>
+            <line>I can do what I wanna do</line>
+            <line>Me and you</line>
+            <line>Together, together, together, together, together</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="5"/>
+        </refrainSection>
+        <!-- Everybody's talkin all this stuff about me -->
+        <refrainLine lineID="1"><nounPhrase><noun>Everybody</noun></nounPhrase>
+            <verbPhrase><verb>is talking</verb>
+                <prepPhrase><prep>all</prep>
+                    <nounPhrase><det>this</det>
+                        <noun>stuff</noun></nounPhrase></prepPhrase>
+                <prepPhrase><prep>about</prep>
+                    <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <!-- Why don't they just let me live -->
+        <refrainLine lineID="2">Why they<verbPhrase>
+                <verb>do not just let</verb>
+                <nounPhrase><noun>me</noun></nounPhrase>
+                <nounPhrase><noun>live</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="3">I don't need permission</refrainLine>
+        <refrainLine lineID="4"><verbPhrase><verb>Make</verb>
+                <nounPhrase><det>my</det>
+                    <det>own</det>
+                    <noun>decisions</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="5">That's <nounPhrase><det>my</det>
+                <noun>prerogative</noun></nounPhrase></refrainLine>
+    </lyrics>
+</song>

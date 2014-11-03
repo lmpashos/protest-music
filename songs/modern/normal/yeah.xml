@@ -1,80 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<b>"Yeah!"</b><br />
-<span class="feat">(feat. Lil' Jon, Ludacris)</span><br />
-<br />
-
-<div style="margin-left:10px;margin-right:10px;">
-    <!-- start of lyrics -->
-    <i>[Usher:]</i> <br />
-    Peace up! A Town Down! <br />
-    <br />
-    <i>[Lil' Jon:]</i> <br />
-    Yeah, (Yeah!) OK!<br />
-    <br />
-    (Usher! Usher! Usher! Usher!)<br />
-    <br />
-    <i>[Lil' Jon:]</i> <br />
-    Lil' Jon!<br />
-    <br />
-    <i>[Usher:]</i><br />
-    Yeah, Yeah, Yeah! Yeah, Yeah! Yeaah!<br />
-    Yeah, Yeah, Yeah! Yeah, Yeah! Yeaah!<br />
-    <br />
-    <i>[Usher (Verse 1):]</i><br />
-    Up in the club with my homies, tryna get a lil' V-I, but keep it down on the low key, 'cause you know how it is.<br />
-    I saw shorty she was checkin' up on me, from the game she was spittin' in my ear you would think that she knew me.<br />
-    So we decided to chill <br />
-    <br />
-    Conversation got heavy, she had me feelin' like she's ready to blow!<br />
-    (Watch Out! Oh! Watch Out!)<br />
-    She's saying "Come get me! Come get me",<br />
-    So I got up and followed her to the floor, she said "Baby, let's go",<br />
-    That's when I told her I said <br />
-    <br />
-    <i>[Usher (Chorus):]</i><br />
-    Yeah (yeah) Shorty got down low and said come and get me <br />
-    Yeah (yeah) I got so caught up I forgot she told me <br />
-    Yeah (yeah) Her and my girl used to be the best of homies<br />
-    Yeah (yeah) Next thing I knew she was all up on me screaming: <br />
-    <br />
-    Yeah, Yeah, Yeah! Yeah, Yeah! Yeaah!<br />
-    Yeah, Yeah, Yeah! Yeah, Yeah! Yeaah!<br />
-    <br />
-    <i>[Usher (Verse 2):]</i><br />
-    So she's all up in my head now, got me thinking that it might good idea to take her with me,<br />
-    'Cause she's ready to leave (ready to leave)<br />
-    But I gotta keep it real now, 'cause on a one to ten she's a certified twenty, but that just ain't me. Hey.<br />
-    <br />
-    Because I don't know if I take that chance just where it's gonna lead,<br />
-    But what I do know is the way she dance makes shorty alright with me.<br />
-    The way she (get low!)<br />
-    I'm like yeah, just work that out for me.<br />
-    She asked for one more dance and I'm<br />
-    Like yeah, how the hell am I supposed to leave?<br />
-    And I said <br />
-    <br />
-    <i>[Chorus]</i><br />
-    <br />
-    <i>[Lil' Jon:]</i><br />
-    Hey, Luda! <br />
-    <br />
-    <i>[Ludacris (Verse 3):]</i><br />
-    Watch out!<br />
-    My outfit's ridiculous, in the club lookin' so conspicuous.<br />
-    And Rowl! These women all on the prowl, if you hold the head steady I'm a milk the cow.<br />
-    Forget about the game, I'm a spit the truth, I won't stop till I get 'em in they birthday suits. <br />
-    So gimmie the rhythm and it'll be off with their clothes, then bend over to the front and touch your toes.<br />
-    I left the Jag and I took the Rolls, if they aint cutting then I put em on foot patrol.<br />
-    How you like me now, when my pinky's valued over three hundred thousand,<br />
-    Lets drank you the one to please, Ludacris fill cups like double D's.<br />
-    Me and Ursh once more and we leave 'em dead, we want a lady in the street but a freak in the bed to say <br />
-    <br />
-    <i>[Chorus]</i><br />
-    <br />
-    <i>[Ludacris (Bridge):]</i><br />
-    Take that and rewind it back, Lil' Jon got the beat to make ya booty go (clap) <br />
-    Take that and rewind it back, Ursher got the voice to make ya booty go (clap) <br />
-    Take that and rewind it back, Ludacris got the flow to make ya booty go (clap) <br />
-    Take that and rewind it back, Lil' Jon got the beat to make ya booty go (clap)
-    <!-- end of lyrics -->
-</div>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Yeah</title>
+        <composer>Usher</composer>
+        <composer>Lil Jon</composer>
+        <composer>Sean Garrett</composer>
+        <composer>Patrick J. Que Smith</composer>
+        <composer>Ludacris</composer>
+        <composer>Robert McDowell</composer>
+        <composer>LRoc</composer>
+        <album>Confessions</album>
+        <year>2004</year>
+        <genre>Pop</genre>
+        <genre>R&amp;B</genre>
+        <genre>Rap</genre>
+        <notablePerformer>Usher</notablePerformer>
+        <notablePerformer>Lil Jon</notablePerformer>
+        <notablePerformer>Ludacris</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>Peace up! A Town Down! </line>
+            <line>Yeah, (Yeah!) OK!</line>
+            <line>(Usher! Usher! Usher! Usher!)</line>
+            <line>Lil' Jon!</line>
+            <line>Yeah, Yeah, Yeah! Yeah, Yeah! Yeaah!</line>
+            <line>Yeah, Yeah, Yeah! Yeah, Yeah! Yeaah!</line>
+        </verse>
+        <verse>
+            <line>Up in the club with my homies, tryna get a lil' V-I, but keep it down on the low
+                key, 'cause you know how it is.</line>
+            <line>I saw shorty she was checkin' up on me, from the game she was spittin' in my ear
+                you would think that she knew me.</line>
+            <line>So we decided to chill </line>
+            <line>Conversation got heavy, she had me feelin' like she's ready to blow!</line>
+            <line>(Watch Out! Oh! Watch Out!)</line>
+            <line>She's saying "Come get me! Come get me",</line>
+            <line>So I got up and followed her to the floor, she said "Baby, let's go",</line>
+            <line>That's when I told her I said </line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>So she's all up in my head now, got me thinking that it might good idea to take
+                her with me,</line>
+            <line>'Cause she's ready to leave (ready to leave)</line>
+            <line>But I gotta keep it real now, 'cause on a one to ten she's a certified twenty, but
+                that just ain't me. Hey.</line>
+            <line>Because I don't know if I take that chance just where it's gonna lead,</line>
+            <line>But what I do know is the way she dance makes shorty alright with me.</line>
+            <line>The way she (get low!)</line>
+            <line>I'm like yeah, just work that out for me.</line>
+            <line>She asked for one more dance and I'm</line>
+            <line>Like yeah, how the hell am I supposed to leave?</line>
+            <line>And I said </line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>Hey, Luda! </line>
+            <line>Watch out!</line>
+            <line>My outfit's ridiculous, in the club lookin' so conspicuous.</line>
+            <line>And Rowl! These women all on the prowl, if you hold the head steady I'm a milk the
+                cow.</line>
+            <line>Forget about the game, I'm a spit the truth, I won't stop till I get 'em in they
+                birthday suits. </line>
+            <line>So gimmie the rhythm and it'll be off with their clothes, then bend over to the
+                front and touch your toes.</line>
+            <line>I left the Jag and I took the Rolls, if they aint cutting then I put em on foot
+                patrol.</line>
+            <line>How you like me now, when my pinky's valued over three hundred thousand,</line>
+            <line>Lets drank you the one to please, Ludacris fill cups like double D's.</line>
+            <line>Me and Ursh once more and we leave 'em dead, we want a lady in the street but a
+                freak in the bed to say</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>Take that and rewind it back, Lil' Jon got the beat to make ya booty go</line>
+            <line>Take that and rewind it back, Ursher got the voice to make ya booty go</line>
+            <line>Take that and rewind it back, Ludacris got the flow to make ya booty go</line>
+            <line>Take that and rewind it back, Lil' Jon got the beat to make ya booty go</line>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="5"/>
+            <refrainLineRef lineRef="5"/>
+        </refrainSection>
+        <refrainLine lineID="1">Yeah (yeah) Shorty got down low and said come and get me </refrainLine>
+        <refrainLine lineID="2">Yeah (yeah) I got so caught up I forgot she told me </refrainLine>
+        <refrainLine lineID="3">Yeah (yeah) Her and my girl used to be the best of
+            homies</refrainLine>
+        <refrainLine lineID="4">Yeah (yeah) Next thing I knew she was all up on me screaming: </refrainLine>
+        <refrainLine lineID="5">Yeah, Yeah, Yeah! Yeah, Yeah! Yeaah!</refrainLine>
+    </lyrics>
+</song>

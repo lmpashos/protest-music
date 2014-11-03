@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>The Sign</title>
+        <composer>Jonas "Joker" Berggren</composer>
+        <album>The Sign</album>
+        <year>1993</year>
+        <genre>Pop</genre>
+        <notablePerformer>Ace of Base</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>Shock!</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>got</verb>
+                    <nounPhrase><det>a</det>
+                        <adjective>new</adjective>
+                        <noun>life</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>would</verb>
+                    <adverb>hardly</adverb>
+                    <verb>recognize</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                        <adverb>so</adverb>
+                        <adjective>glad</adjective></verbPhrase></verbPhrase></line>
+            <line>How <verbPhrase><verb>could</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>person</noun></nounPhrase>
+                    <prepPhrase><prep>like</prep>
+                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase>
+                    <verb>care</verb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>Why <verbPhrase><verb>do</verb>
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                    <verb>bother</verb></verbPhrase></line>
+            <line>When <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb> not
+                        <nounPhrase neg="true"><det>the</det>
+                        <noun>one</noun></nounPhrase>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>Oooo, <verbPhrase><verb>is</verb>
+                    <adjective>enough</adjective>, <adjective>enough</adjective></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><prepPhrase><prep>Under</prep>
+                    <nounPhrase><det>the</det>
+                        <adjective>pale</adjective>
+                        <noun>moon</noun></nounPhrase></prepPhrase></line>
+            <line><prepPhrase><prep>For</prep>
+                    <adverb>so</adverb>
+                    <adjective>many</adjective>
+                    <nounPhrase>years</nounPhrase></prepPhrase>
+                <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ve wondered</verb> who
+                            <nounPhrase><noun>you</noun></nounPhrase>
+                    <verbPhrase><verb>are</verb></verbPhrase></verbPhrase></line>
+            <line>How <verbPhrase><verb>can</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>person</noun></nounPhrase>
+                    <prepPhrase><prep>like</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase>
+                    <verb>bring</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <nounPhrase><noun>joy</noun></nounPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>Under</prep>
+                    <nounPhrase><det>the</det>
+                        <adjective>pale</adjective>
+                        <noun>moon</noun></nounPhrase></prepPhrase></line>
+            <line>Where <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>see</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>lot</noun></nounPhrase>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><noun>stars</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Is</verb>
+                    <adjective>enough</adjective>, <adjective>enough</adjective></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="2"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>saw</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>sign</noun></nounPhrase></verbPhrase> -
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>saw</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>sign</noun></nounPhrase></verbPhrase> -
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>saw</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>sign</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>saw</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>sign</noun></nounPhrase></verbPhrase> -
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>saw</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>sign</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>saw</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>sign</noun></nounPhrase></verbPhrase> -
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>saw</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>sign</noun></nounPhrase></verbPhrase> -
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>saw</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>sign</noun></nounPhrase></verbPhrase></line>
+            <line>And <nounPhrase><noun>it</noun></nounPhrase>
+                <verbPhrase><verb>opened</verb>
+                    <prepPhrase><prep>up</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>eyes</noun></nounPhrase></prepPhrase></verbPhrase>
+                <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>saw</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>sign</noun></nounPhrase></verbPhrase>
+            </line>
+        </verse>
+        <refrainSection sectionID="1">
+
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+        </refrainSection>
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="5"/>
+            <refrainLineRef lineRef="6"/>
+            <refrainLineRef lineRef="7"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="3"/>
+        </refrainSection>
+        <refrainLine lineID="1"><nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase><verb>saw</verb>
+                <nounPhrase><det>the</det>
+                    <noun>sign</noun></nounPhrase></verbPhrase> and
+                <nounPhrase><noun>it</noun></nounPhrase>
+            <verbPhrase><verb>opened</verb>
+                <prepPhrase><prep>up</prep>
+                    <nounPhrase><det>my</det>
+                        <noun>eyes</noun></nounPhrase></prepPhrase></verbPhrase>
+            <nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase><verb>saw</verb>
+                <nounPhrase><det>the</det>
+                    <noun>sign</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="2">Life <verbPhrase><verb>is</verb>
+                <nounPhrase><noun>demanding</noun></nounPhrase>
+                <prepPhrase><prep>without</prep>
+                    <nounPhrase><noun>understanding</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="3">No <nounPhrase neg="true"
+                    ><noun>one</noun></nounPhrase><verbPhrase><verb>'s gonna drag</verb>
+                <nounPhrase><noun>you</noun></nounPhrase> up <verb>to get</verb>
+                <prepPhrase><prep>into</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>light</noun></nounPhrase></prepPhrase> where
+                        <nounPhrase><noun>you</noun></nounPhrase>
+                <verb>belong</verb></verbPhrase></refrainLine>
+        <refrainLine lineID="4">But <adverb>where</adverb>
+            <verbPhrase><verb>do</verb>
+                <nounPhrase><noun>you</noun></nounPhrase>
+                <verb>belong</verb></verbPhrase></refrainLine>
+        <refrainLine lineID="5"><nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase><verb>saw</verb>
+                <nounPhrase><det>the</det>
+                    <noun>sign</noun></nounPhrase></verbPhrase> and
+                <nounPhrase><noun>it</noun></nounPhrase>
+            <verbPhrase><verb>opened</verb>
+                <prepPhrase><prep>up</prep>
+                    <nounPhrase><det>my</det>
+                        <noun>mind</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="6">And <nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase><verb>am</verb>
+                <adjective>happy</adjective>
+                <adverb>now</adverb></verbPhrase>
+            <verbPhrase><verb>living</verb>
+                <prepPhrase><prep>without</prep>
+                    <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="7">I<verbPhrase><verb>'ve left</verb>
+                <nounPhrase><noun>you</noun></nounPhrase></verbPhrase>, ooohhh</refrainLine>
+    </lyrics>
+</song>
