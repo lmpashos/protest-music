@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+   <metadata>
+       <title>Nickle Under The Foot</title>
+       <composer>Marc Blitzstein</composer>
+       <album></album>
+       <year>1937</year>
+       <genre>Musical</genre>
+       <notablePerformer/>
+   </metadata>
+<lyrics>    
+    <verse>
+    <line>Maybe <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>wonder</verb> what <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>is</verb></verbPhrase></verbPhrase></line>
+    <line><verbPhrase><verb>Makes</verb> <nounPhrase><noun>people</noun></nounPhrase> <adjective>good </adjective>or <adjective>bad</adjective></verbPhrase></line>
+    <line>Why <nounPhrase><det>some</det> <noun>guy</noun></nounPhrase>, <nounPhrase><det>an</det> <noun>ace</noun></nounPhrase> <prepPhrase><prep>without</prep><nounPhrase><det> a</det> <noun>doubt</noun></nounPhrase></prepPhrase></line>
+    <line><verbPhrase><verb>Turns out</verb> <verbPhrase><verb>to be</verb> <nounPhrase><det>a</det> <noun>bastard</noun></nounPhrase></verbPhrase></verbPhrase></line>
+    <line>And <nounPhrase><det>the</det> <adjective>other</adjective> <noun>way</noun></nounPhrase> <adverb>about</adverb></line>
+    </verse>
+    
+    <verse>
+    <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll tell</verb> <nounPhrase><noun>you</noun></nounPhrase> what <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>feel</verb></verbPhrase></verbPhrase></line>
+    <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <adverb>just</adverb> <nounPhrase><det>the</det> <noun>nickel</noun> </nounPhrase><prepPhrase><prep>under</prep><nounPhrase><det> the</det> <noun>heel</noun></nounPhrase></prepPhrase></verbPhrase></line>
+    </verse>
+    
+    <verse>
+    <line>Oh, <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>can</verb> <verbPhrase><verb>live</verb> <prepPhrase><prep>like</prep> <nounPhrase><noun>hearts</noun></nounPhrase> and <nounPhrase><noun>flowers</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+    <line>And <adverb>everyday</adverb> <verbPhrase><verb>is</verb> <nounPhrase><det>a</det> <adjective>wonderland</adjective> <noun>tour</noun></nounPhrase></verbPhrase></line>
+    <line>Oh, <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>can</verb> <verbPhrase><verb>dream</verb></verbPhrase> and <verbPhrase><verb>scheme</verb></verbPhrase> and <adverb>happily</adverb> <verbPhrase><verb>put</verb></verbPhrase></verbPhrase></line>
+    <line>And <verbPhrase><verb>take</verb></verbPhrase>, <verbPhrase><verb>take</verb></verbPhrase> and<verbPhrase> <verb>put</verb></verbPhrase></line>
+    </verse>
+    
+    <verse>
+    <line>But <adverb>first</adverb> <verbPhrase><verb>be</verb> <adjective>sure</adjective></verbPhrase></line>
+    <line><nounPhrase><det>That</det> <noun>nickel</noun></nounPhrase><verbPhrase><verb>'s</verb> <prepPhrase><prep>under</prep> <nounPhrase><det>your </det><noun>foot</noun></nounPhrase></prepPhrase></verbPhrase></line>
+    </verse>
+    
+    <verse>
+    <line><verbPhrase><verb>Go</verb> <verbPhrase><verb>stand</verb> <prepPhrase><prep>on</prep> <nounPhrase><noun>someone</noun></nounPhrase><nounPhrase><det>'s</det> <noun>neck</noun></nounPhrase></prepPhrase> <adverb>while</adverb> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>take</verb> <nounPhrase><noun>him</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></line>
+    <line><verbPhrase><verb>Cut</verb> <prepPhrase><prep>into</prep><nounPhrase> <noun>somebody</noun></nounPhrase><nounPhrase><det>'s</det> <noun>throat</noun></nounPhrase></prepPhrase> as <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>put</verb></verbPhrase></verbPhrase></line>
+    <line><prepPhrase><prep>For</prep> <nounPhrase><det>every</det> <noun>dream </noun></nounPhrase>and <nounPhrase><noun>scheme</noun></nounPhrase></prepPhrase>, <verbPhrase><verb>depending </verb><prepPhrase><prep>on</prep> whether</prepPhrase></verbPhrase></line>
+    <line>All <prepPhrase><prep>through</prep> <nounPhrase><det>the</det> <noun>storm</noun></nounPhrase></prepPhrase></line>
+    </verse>
+    
+    <verse>
+     <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'ve kept</verb> <nounPhrase><noun>it</noun></nounPhrase> <adjective>warm</adjective></verbPhrase></line>
+    <line><nounPhrase><det>That</det> <noun>nickel</noun></nounPhrase> <prepPhrase><prep>under</prep> <nounPhrase><det>your </det><noun>foot</noun></nounPhrase></prepPhrase></line></verse>
+    
+    <verse>
+    <line>And if <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb> <adjective>sweet</adjective></verbPhrase> then <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ll grow</verb> <adjective>rotten</adjective></verbPhrase></line>
+    <line><nounPhrase><det>Your</det> <adjective>pretty</adjective> <noun>heart</noun></nounPhrase> <verbPhrase><verb>covered </verb><prepPhrase><prep>over</prep> <prepPhrase><prep>with</prep> <nounPhrase><noun>soot</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase></line>
+    <line>And if <prepPhrase><prep>for</prep> <nounPhrase><det>once</det></nounPhrase></prepPhrase> <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb> <adjective>gay</adjective> and <adjective>devil-may-care-less</adjective></verbPhrase></line>
+    <line>And oh so hot</line>
+    </verse>
+    
+    <verse>
+    <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll know</verb> <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ve got</verb></verbPhrase></verbPhrase></line>
+    <line><nounPhrase><det>That</det> <noun>nickel</noun></nounPhrase> <prepPhrase><prep>under</prep> <nounPhrase><det>your </det><noun>foot</noun></nounPhrase></prepPhrase></line>
+    </verse>
+</lyrics>
+
+</song>
