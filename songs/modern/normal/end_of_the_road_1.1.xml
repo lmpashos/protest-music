@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>End of the Road</title>
+        <composer>Antonio "L.A." Reid</composer>
+        <composer>Daryl Simmons</composer>
+        <composer>Kenneth "Babyface" Edmonds</composer>
+        <album>Boomerang Original Soundtrack</album>
+        <year>1992</year>
+        <genre>R&amp;B</genre>
+        <notablePerformer>Boyz 2 Men</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>Girl, <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>know</verb>
+                    <nounPhrase><noun>we</noun></nounPhrase>
+                    <verbPhrase><verb>belong</verb>
+                        <adverb>together</adverb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>have</verb> no <nounPhrase neg="true"
+                        ><noun>time</noun></nounPhrase>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase>
+                    <verb>to be playing</verb>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>heart</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>like</prep>
+                        <nounPhrase><noun>this</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'ll be</verb>
+                    <adjective>mine</adjective>
+                    <adverb>forever</adverb></verbPhrase>, baby, you just see</line>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>We</noun></nounPhrase>
+                <verbPhrase><verb>belong</verb>
+                    <adverb>together</adverb></verbPhrase></line>
+            <line>And <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>know</verb> that
+                            <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                        <nounPhrase><adjective>right</adjective></nounPhrase></verbPhrase></verbPhrase></line>
+            <line>Why <verbPhrase><verb>do</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>play</verb>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>heart</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
+            <line>Why <verbPhrase><verb>do</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>play</verb>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>mind</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
+        </verse>
+        <verse>
+            <line><verbPhrase>Said <nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>'d
+                            be</verb>
+                        <adverb>forever</adverb></verbPhrase></verbPhrase></line>
+            <line><verbPhrase>Said
+                            <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'d</verb>
+                        <adverb>never</adverb>
+                        <verb>die</verb></verbPhrase></verbPhrase></line>
+            <line>How <verbPhrase><verb>could</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>love</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase> and <verb>leave</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+            <line>And <verbPhrase><adverb>never</adverb>
+                    <verb>say</verb>
+                    <nounPhrase><noun>goodbye</noun></nounPhrase></verbPhrase>?</line>
+        </verse>
+        <verse>
+            <line>When <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>can't sleep</verb>
+                    <prepPhrase><prep>at</prep>
+                        <nounPhrase><noun>night</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>without</prep> holding
+                            <nounPhrase><noun>you</noun></nounPhrase>
+                        <adverb>tight</adverb></prepPhrase></verbPhrase></line>
+            <line>Girl, <nounPhrase><adjective>each</adjective>
+                    <noun>time</noun></nounPhrase>
+                <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>try</verb></verbPhrase>
+                <nounPhrase><noun>I</noun></nounPhrase> just <verbPhrase><verb>break</verb>
+                    <adverb>down</adverb> and <verb>cry</verb></verbPhrase></line>
+            <line><nounPhrase><noun>Pain</noun></nounPhrase>
+                <prepPhrase><prep>in</prep>
+                    <nounPhrase><det>my</det>
+                        <noun>head</noun></nounPhrase></prepPhrase> oh
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d</verb> rather
+                        <verb>be</verb>
+                    <nounPhrase><adjective>dead</adjective></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Spinnin'</verb>
+                    <adverb>around</adverb> and <adverb>around</adverb></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>Girl</noun></nounPhrase>,
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>know</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verbPhrase><adverb>really</adverb>
+                        <verb>love</verb>
+                        <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase>,</line>
+            <line><nounPhrase><noun>You</noun></nounPhrase> just <verbPhrase neg="true"><verb>don't
+                        realize</verb></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase neg="true"><verb>'ve never
+                        been</verb>
+                    <nounPhrase><noun>there</noun></nounPhrase>
+                    <adverb>before</adverb></verbPhrase></line>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adverb>only</adverb>
+                    <nounPhrase><det>your</det>
+                        <adjective>first</adjective>
+                        <noun>time</noun></nounPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line>Maybe <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll forgive</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase></verbPhrase>, hmm</line>
+            <line>Maybe <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ll
+                    try</verb></verbPhrase></line>
+            <line><nounPhrase><noun>We</noun></nounPhrase>
+                <verbPhrase><verb>should be</verb>
+                    <nounPhrase><adjective>happy</adjective>
+                        <adjective>together</adjective></nounPhrase></verbPhrase></line>
+            <line><adverb>Forever</adverb>, <nounPhrase><noun>you</noun> and
+                    <noun>I</noun></nounPhrase></line>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Will</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>love</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <adverb>again</adverb> like <nounPhrase><noun>you</noun></nounPhrase>
+                    <verbPhrase><verb>loved</verb>
+                        <nounPhrase><noun>me</noun></nounPhrase>
+                        <adverb>before</adverb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><det>This</det>
+                    <noun>time</noun></nounPhrase>
+                <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>want</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>to love</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <adverb>much</adverb>
+                    <adverb>more</adverb></verbPhrase></line>
+            <line><nounPhrase><det>This</det>
+                    <noun>time</noun></nounPhrase>
+                <verbPhrase><adverb>instead</adverb> just <verb>come</verb>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>bed</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>And, <nounPhrase><noun>baby</noun></nounPhrase>, just <verbPhrase neg="true"
+                        ><verb>don't let</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <adverb>down</adverb></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>Girl</noun></nounPhrase>,
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <nounPhrase><noun>here</noun></nounPhrase>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><adjective>All</adjective>
+                    <det>those</det>
+                    <noun>times</noun></nounPhrase>
+                <prepPhrase><prep>at</prep>
+                    <nounPhrase><noun>night</noun></nounPhrase></prepPhrase> when
+                        <nounPhrase><noun>you</noun></nounPhrase> just <verbPhrase><verb>hurt</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+            <line>And just <verbPhrase><verb>run</verb>
+                    <adverb>out</adverb>
+                    <prepPhrase><prep>with</prep>
+                        <det>that</det>
+                        <adjective>other</adjective>
+                        <nounPhrase>fella</nounPhrase></prepPhrase></verbPhrase></line>
+            <line>Baby, <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>knew</verb>
+                    <prepPhrase><prep>about</prep>
+                        <nounPhrase><noun>it</noun></nounPhrase></prepPhrase></verbPhrase>,
+                        <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true">just <verb>didn't care</verb></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase> just <verbPhrase neg="true"><verb>don't
+                        understand</verb> how <adverb>much</adverb>
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                    <verbPhrase><verb>love</verb>
+                        <nounPhrase><noun>you</noun></nounPhrase></verbPhrase>
+                    <verbPhrase><verb>do</verb>
+                        <nounPhrase><noun>you</noun></nounPhrase></verbPhrase></verbPhrase>?</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <nounPhrase><noun>here</noun></nounPhrase>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> not <nounPhrase
+                        neg="true"><adjective>out</adjective></nounPhrase>
+                    <verb>to go</verb>
+                    <adverb>out</adverb> and <verb>cheat</verb>
+                    <prepPhrase><prep>on</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>all</prep>
+                        <nounPhrase><noun>night</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>Just like <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>did</verb></verbPhrase>,
+                    <nounPhrase><noun>baby</noun></nounPhrase>, but
+                    <nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <prepPhrase><prep>all</prep>
+                        <nounPhrase><noun>right</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>Hey, <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>love</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <adverb>anyway</adverb></verbPhrase></line>
+            <line>And <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <adverb>still</adverb>
+                    <verb>gonna be</verb>
+                    <nounPhrase><noun>here</noun></nounPhrase>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>'till</prep>
+                        <nounPhrase><det>my</det>
+                            <adjective>dying</adjective>
+                            <noun>day</noun></nounPhrase></prepPhrase>,
+                            <nounPhrase><noun>baby</noun></nounPhrase></verbPhrase></line>
+            <line>Right <adverb>now</adverb>,
+                        <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> just
+                            <prepPhrase><prep>in</prep>
+                        <nounPhrase><adverb>so</adverb>
+                            <adjective>much</adjective>
+                            <noun>pain</noun></nounPhrase></prepPhrase></verbPhrase>,
+                        <nounPhrase><noun>baby</noun></nounPhrase></line>
+            <line>'Cause <nounPhrase><noun>you</noun></nounPhrase> just <verbPhrase neg="true"
+                        ><verb>won't come</verb>
+                    <adverb>back</adverb>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Will</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase></verbPhrase>? Just
+                        <verbPhrase><verb>come</verb>
+                    <adverb>back</adverb>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line>(<adverb>Lonely</adverb>)</line>
+            <line>Yes, <nounPhrase><noun>baby</noun></nounPhrase>, <nounPhrase><det>my</det>
+                    <noun>heart</noun></nounPhrase>
+                <verbPhrase><verb>is</verb>
+                    <nounPhrase><adjective>lonely</adjective></nounPhrase></verbPhrase></line>
+            <line>(<adverb>Lonely</adverb>)</line>
+            <line><nounPhrase><det>My</det>
+                    <noun>heart</noun></nounPhrase>
+                <verbPhrase><verb>hurts</verb></verbPhrase>,
+                    <nounPhrase><noun>baby</noun></nounPhrase></line>
+            <line>(<adverb>Lonely</adverb>)</line>
+            <line>Yes <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>feel</verb>
+                    <nounPhrase><noun>pain</noun></nounPhrase>
+                    <adverb>too</adverb></verbPhrase></line>
+            <line><nounPhrase><noun>Baby</noun></nounPhrase>, please</line>
+            <line><nounPhrase><det>This</det>
+                    <noun>time</noun></nounPhrase>
+                <verbPhrase><adverb>instead</adverb> just <verb>come</verb>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>bed</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>And, <nounPhrase><noun>baby</noun></nounPhrase>, just <verbPhrase neg="true"
+                        ><verb>don't let</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <adverb>down</adverb></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+        </refrainSection>
+        <refrainLine lineID="1"><adverb>Although</adverb>
+            <nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>'ve come</verb>
+                <prepPhrase><prep>to</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>end</noun></nounPhrase></prepPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>road</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="2"><adverb>Still</adverb>
+            <nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase neg="true"><verb>can't let</verb>
+                <nounPhrase><noun>you</noun></nounPhrase>
+                <verb>go</verb></verbPhrase></refrainLine>
+        <refrainLine lineID="3"><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                <nounPhrase><adjective>unnatural</adjective></nounPhrase></verbPhrase>,
+                    <nounPhrase><noun>you</noun></nounPhrase>
+            <verbPhrase><verb>belong</verb>
+                <prepPhrase><prep>to</prep>
+                    <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase>,
+                    <nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase><verb>belong</verb>
+                <prepPhrase><prep>to</prep>
+                    <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="4"><verbPhrase><verb>Come</verb>
+                <prepPhrase><prep>to</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>end</noun></nounPhrase></prepPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>road</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+    </lyrics>
+</song>

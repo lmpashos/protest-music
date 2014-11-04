@@ -35,10 +35,15 @@ song_data = element song_data
         {
             text
         },
+        
         element image_filename
         {
             text
         },
+        element youtube_link
+        {
+            xsd:anyURI
+        }?,
         element lyric_source
         {
             xsd:anyURI

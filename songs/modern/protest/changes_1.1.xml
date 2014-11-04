@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Changes</title>
+        <composer>Tupac Shakur</composer>
+        <composer>Deon Evans</composer>
+        <composer>Bruce Hornsby</composer>
+        <album>Greatest Hits</album>
+        <year>1998</year>
+        <genre>Rap</genre>
+        <notablePerformer>2Pac</notablePerformer>
+        <notablePerformer>Talent</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><verbPhrase><verb>Come</verb>
+                    <adverb>on</adverb></verbPhrase>
+                <verbPhrase><verb>come</verb>
+                    <adverb>on</adverb></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>see</verb> no <nounPhrase neg="true"
+                        ><noun>changes</noun></nounPhrase></verbPhrase>.
+                        <verbPhrase><verb>Wake</verb>
+                    <adverb>up</adverb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>morning</noun></nounPhrase></prepPhrase></verbPhrase> and
+                        <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>ask</verb>
+                    <nounPhrase><noun>myself</noun></nounPhrase></verbPhrase>,</line>
+            <line>"<verbPhrase><verb>Is</verb>
+                    <nounPhrase><noun>life</noun></nounPhrase> worth living</verbPhrase>?
+                        <verbPhrase><verb>Should</verb>
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                    <verb>blast</verb>
+                    <nounPhrase><noun>myself</noun></nounPhrase></verbPhrase>?"</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m tired</verb>
+                    <prepPhrase><prep>of</prep> bein'
+                    <adjective>poor</adjective></prepPhrase></verbPhrase> and even worse
+                        <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <adjective>black</adjective></verbPhrase>.</line>
+            <line><nounPhrase><det>My</det>
+                    <noun>stomach</noun></nounPhrase>
+                <verbPhrase><verb>hurts</verb></verbPhrase>, so
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m lookin'</verb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><det>a</det>
+                            <noun>purse</noun></nounPhrase></prepPhrase>
+                    <verb>to snatch</verb></verbPhrase>.</line>
+            <line><nounPhrase><noun>Cops</noun></nounPhrase>
+                <verbPhrase><verb>give</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>damn</noun></nounPhrase>
+                    <prepPhrase><prep>about</prep>
+                        <nounPhrase><det>a</det>
+                            <noun>negro</noun></nounPhrase></prepPhrase></verbPhrase>?
+                        <verbPhrase><verbPhrase>Pull</verbPhrase>
+                    <nounPhrase><det>the</det>
+                        <noun>trigger</noun></nounPhrase></verbPhrase>,
+                        <verbPhrase><verb>kill</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>nigga</noun></nounPhrase></verbPhrase>,
+                    <nounPhrase><noun>he</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>hero</noun></nounPhrase></verbPhrase>.</line>
+            <line><verbPhrase><verb>Give</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>crack</noun></nounPhrase>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>kids</noun></nounPhrase></prepPhrase></verbPhrase>
+                <nounPhrase><noun>who</noun></nounPhrase> the hell
+                    <verbPhrase><verb>cares</verb></verbPhrase>?
+                        <nounPhrase><adjective>One</adjective>
+                    <adjective>less</adjective>
+                    <adjective>hungry</adjective>
+                    <noun>mouth</noun></nounPhrase>
+                <prepPhrase><prep>on</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>welfare</noun></nounPhrase></prepPhrase>.</line>
+            <line>First <verbPhrase><verb>ship</verb>
+                    <nounPhrase><noun>'em</noun></nounPhrase>
+                    <nounPhrase><noun>dope</noun></nounPhrase></verbPhrase> and
+                        <verbPhrase><verb>let</verb>
+                    <nounPhrase><noun>'em</noun></nounPhrase>
+                    <verb>deal</verb>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><noun>brothers</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <line><verbPhrase><verb>Give</verb>
+                    <nounPhrase><noun>'em</noun></nounPhrase>
+                    <nounPhrase><noun>guns</noun></nounPhrase></verbPhrase>,
+                        <verbPhrase><verb>step</verb>
+                    <adverb>back</adverb></verbPhrase>, and <verbPhrase><verb>watch</verb>
+                    <nounPhrase><noun>'em</noun></nounPhrase>
+                    <verb>kill</verb>
+                    <nounPhrase><adjective>each</adjective>
+                        <noun>other</noun></nounPhrase></verbPhrase>.</line>
+            <line>"<nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><noun>time</noun></nounPhrase>
+                    <verb>to fight</verb>
+                    <adverb>back</adverb></verbPhrase>",
+                        <nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>'s</verb> what
+                            <nounPhrase><noun>Huey</noun></nounPhrase>
+                    <verbPhrase><verb>said</verb></verbPhrase></verbPhrase>.</line>
+            <line><nounPhrase><adjective>2</adjective>
+                    <noun>shots</noun></nounPhrase>
+                <prepPhrase><prep>in</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>dark</noun></nounPhrase></prepPhrase>
+                <adverb>now</adverb>
+                <nounPhrase><noun>Huey</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adjective>dead</adjective></verbPhrase>.</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>got</verb>
+                    <nounPhrase><noun>love</noun></nounPhrase>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>brother</noun></nounPhrase></prepPhrase></verbPhrase>, but
+                        <nounPhrase><noun>we</noun></nounPhrase>
+                <verbPhrase><verb>can</verb>
+                    <adverb>never</adverb>
+                    <verb>go</verb>
+                    <adverb>nowhere</adverb></verbPhrase></line>
+            <line>unless <nounPhrase><noun>we</noun></nounPhrase>
+                <verbPhrase>share with each other</verbPhrase>. We <verbPhrase>gotta start makin'
+                    changes</verbPhrase>.</line>
+            <line><verbPhrase><verb>Learn to see</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <prepPhrase><prep>as</prep>
+                        <nounPhrase><det>a</det>
+                            <noun>brother</noun></nounPhrase></prepPhrase></verbPhrase> 'stead
+                        <prepPhrase><prep>of</prep>
+                    <nounPhrase><adjective>2</adjective>
+                        <adjective>distant</adjective>
+                        <noun>strangers</noun></nounPhrase></prepPhrase>.</line>
+            <line>And <nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>'s</verb> how
+                            <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s supposed to
+                            be</verb></verbPhrase></verbPhrase>.</line>
+            <line>How <verbPhrase><verb>can</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>Devil</noun></nounPhrase>
+                    <verb>take</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>brother</noun></nounPhrase></verbPhrase> if
+                        <nounPhrase><noun>he</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adjective>close</adjective>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d love to go</verb>
+                    <adverb>back</adverb>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><noun>when</noun></nounPhrase></prepPhrase>
+                    <nounPhrase><noun>we</noun></nounPhrase>
+                    <verbPhrase><verb>played</verb>
+                        <prepPhrase><prep>as</prep>
+                            <nounPhrase><noun>kids</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <line>but <nounPhrase><noun>things</noun></nounPhrase>
+                <verbPhrase><verb>changed</verb></verbPhrase>, and
+                    <nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>way</noun></nounPhrase>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                    <verb>is</verb></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>see</verb> no <nounPhrase neg="true"
+                        ><noun>changes</noun></nounPhrase></verbPhrase>. All
+                        <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>see</verb></verbPhrase>
+                <verbPhrase><verb>is</verb>
+                    <nounPhrase><adjective>racist</adjective>
+                        <noun>faces</noun></nounPhrase></verbPhrase>.</line>
+            <line><nounPhrase><adjective>Misplaced</adjective>
+                    <noun>hate</noun></nounPhrase>
+                <verbPhrase><verb>makes</verb>
+                    <nounPhrase><noun>disgrace</noun></nounPhrase>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><noun>races</noun></nounPhrase></prepPhrase>
+                    <nounPhrase><noun>we</noun></nounPhrase>
+                    <adverb>under</adverb></verbPhrase>.</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>wonder</verb> what <nounPhrase><noun>it</noun></nounPhrase>
+                    <verbPhrase><verb>takes to make</verb>
+                        <nounPhrase><det>this</det>
+                            <adjective>one</adjective>
+                            <adjective>better</adjective>
+                            <noun>place</noun></nounPhrase></verbPhrase></verbPhrase>...</line>
+            <line>let's <verbPhrase><verb>erase</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>wasted</noun></nounPhrase></verbPhrase>.</line>
+            <line><verbPhrase><verb>Take</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>evil</noun></nounPhrase>
+                    <prepPhrase><prep>out</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>people</noun></nounPhrase></prepPhrase></verbPhrase>,
+                        <nounPhrase><noun>they</noun></nounPhrase><verbPhrase><verb>'ll be
+                        acting</verb>
+                    <adjective>right</adjective></verbPhrase>.</line>
+            <line>'Cause both <nounPhrase><noun>black</noun> and <noun>white</noun></nounPhrase>
+                <verbPhrase><verb>are smokin'</verb>
+                    <nounPhrase><noun>crack</noun></nounPhrase>
+                    <adverb>tonight</adverb></verbPhrase>.</line>
+            <line>And <nounPhrase><adjective>only</adjective>
+                    <noun>time</noun></nounPhrase>
+                <nounPhrase><noun>we</noun></nounPhrase>
+                <verbPhrase>chill <verb>is</verb> when <nounPhrase><noun>we</noun></nounPhrase>
+                    <verbPhrase><verb>kill</verb>
+                        <nounPhrase><adjective>each</adjective>
+                            <noun>other</noun></nounPhrase></verbPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>It</noun></nounPhrase>
+                <verbPhrase><verb>takes</verb>
+                    <nounPhrase><noun>skill</noun></nounPhrase>
+                    <verb>to be</verb>
+                    <adjective>real</adjective>, <nounPhrase><noun>time</noun></nounPhrase>
+                    <verb>to heal</verb>
+                    <nounPhrase><adjective>each</adjective>
+                        <noun>other</noun></nounPhrase></verbPhrase>.</line>
+            <line>And although <nounPhrase><noun>it</noun></nounPhrase>
+                <verbPhrase><verb>seems</verb>
+                    <nounPhrase><adjective>heaven</adjective>
+                        <noun>sent</noun></nounPhrase></verbPhrase>,</line>
+            <line><nounPhrase><noun>we</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>ain't</verb>
+                    <adjective>ready</adjective>
+                    <verb>to see</verb>
+                    <nounPhrase><det>a</det>
+                        <adjective>black</adjective>
+                        <noun>President</noun></nounPhrase></verbPhrase>, uhh.</line>
+            <line><nounPhrase><noun>It</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>ain't</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>secret</noun></nounPhrase></verbPhrase>
+                <verbPhrase neg="true"><verb>don't conceal</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>fact</noun></nounPhrase></verbPhrase>...</line>
+            <line><nounPhrase><det>the</det>
+                    <noun>penitentiary</noun></nounPhrase><verbPhrase><verb>'s
+                    packed</verb></verbPhrase>, and
+                        <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s filled</verb>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><noun>blacks</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <line>But <nounPhrase><adjective>some</adjective>
+                    <noun>things</noun></nounPhrase><verbPhrase><verb>will</verb>
+                    <adverb>never</adverb>
+                    <verb>change</verb></verbPhrase>.</line>
+            <line><verbPhrase><verb>Try to show</verb>
+                    <nounPhrase><adjective>another</adjective>
+                        <noun>way</noun></nounPhrase></verbPhrase>, but
+                        <nounPhrase><noun>they</noun></nounPhrase>
+                <verbPhrase><verb>stayin'</verb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>the</det>
+                            <adjective>dope</adjective>
+                            <noun>game</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <line>Now <verbPhrase><verb>tell</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <nounPhrase><noun>what</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                        <nounPhrase><det>a</det>
+                            <noun>mother</noun></nounPhrase>
+                        <verb>to do</verb></verbPhrase></verbPhrase>?</line>
+            <line><verbPhrase><verb>Bein'</verb>
+                    <adjective>real</adjective>
+                    <verbPhrase neg="true"><verb>don't appeal</verb>
+                        <prepPhrase><prep>to</prep>
+                            <nounPhrase><det>the</det>
+                                <noun>brother</noun></nounPhrase></prepPhrase>
+                        <prepPhrase><prep>in</prep>
+                            <nounPhrase>you</nounPhrase></prepPhrase></verbPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>gotta operate</verb>
+                    <nounPhrase><det>the</det>
+                        <adjective>easy</adjective>
+                        <noun>way</noun></nounPhrase></verbPhrase>.</line>
+            <line>"<nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>made</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>G</noun></nounPhrase>
+                    <adverb>today</adverb></verbPhrase>" But
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>made</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>a</det>
+                            <adjective>sleazy</adjective>
+                            <noun>way</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <line><verbPhrase><verb>Sellin'</verb>
+                    <nounPhrase><noun>crack</noun></nounPhrase>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>kids</noun></nounPhrase></prepPhrase></verbPhrase>.
+                        "<nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>gotta get</verb>
+                    <nounPhrase><noun>paid</noun></nounPhrase></verbPhrase>,"</line>
+            <line>Well hey, well
+                        <nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>way</noun></nounPhrase>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                    <verb>is</verb></verbPhrase>.</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>We</noun></nounPhrase>
+                <verbPhrase><verb>gotta make</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>change</noun></nounPhrase></verbPhrase>...</line>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><noun>time</noun></nounPhrase>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>us</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>as</prep>
+                        <nounPhrase><det>a</det>
+                            <noun>people</noun></nounPhrase></prepPhrase>
+                    <verb>to start makin'</verb>
+                    <nounPhrase><adjective>some</adjective>
+                        <noun>changes</noun></nounPhrase></verbPhrase>.</line>
+            <line>Let's <verbPhrase><verb>change</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>way</noun></nounPhrase>
+                    <nounPhrase><noun>we</noun></nounPhrase>
+                    <verb>eat</verb></verbPhrase>, let's <verbPhrase><verb>change</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>way</noun></nounPhrase>
+                    <nounPhrase><noun>we</noun></nounPhrase>
+                    <verb>live</verb></verbPhrase></line>
+            <line>and let's <verbPhrase><verb>change</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>way</noun></nounPhrase>
+                    <nounPhrase><noun>we</noun></nounPhrase>
+                    <verbPhrase><verb>treat</verb>
+                        <nounPhrase><adjective>each</adjective>
+                            <noun>other</noun></nounPhrase></verbPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>see</verb>
+                    <nounPhrase><det>the</det>
+                        <adjective>old</adjective>
+                        <noun>way</noun></nounPhrase>
+                    <verbPhrase neg="true"><verb>wasn't working</verb></verbPhrase></verbPhrase> so
+                        <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <prepPhrase><prep>on</prep>
+                        <nounPhrase><noun>us</noun></nounPhrase></prepPhrase>
+                    <verb>to do</verb></verbPhrase></line>
+            <line>what <nounPhrase><noun>we</noun></nounPhrase>
+                <verbPhrase><verb>gotta do</verb>, <verb>to survive</verb></verbPhrase>.</line>
+        </verse>
+        <verse>
+            <line>And <adverb>still</adverb>
+                <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>see</verb> no <nounPhrase neg="true"
+                        ><noun>changes</noun></nounPhrase></verbPhrase>. <verbPhrase neg="true"
+                        ><verb>Can</verb>'t <nounPhrase><det>a</det>
+                        <noun>brother</noun></nounPhrase>
+                    <verb>get</verb>
+                    <nounPhrase><det>a</det>
+                        <adjective>little</adjective>
+                        <noun>peace</noun></nounPhrase></verbPhrase>?</line>
+            <line><nounPhrase><noun>There</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><noun>war</noun></nounPhrase>
+                    <prepPhrase><prep>on</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>streets</noun></nounPhrase></prepPhrase> and
+                            <nounPhrase><det>the</det>
+                        <noun>war</noun></nounPhrase>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>Middle East</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <line>Instead <prepPhrase><prep>of</prep>
+                    <nounPhrase><noun>war</noun></nounPhrase></prepPhrase>
+                <prepPhrase><prep>on</prep>
+                    <nounPhrase><noun>poverty</noun></nounPhrase></prepPhrase>,</line>
+            <line><nounPhrase><noun>they</noun></nounPhrase>
+                <verbPhrase><verb>got</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>war</noun></nounPhrase>
+                    <prepPhrase><prep>on</prep>
+                        <nounPhrase><noun>drugs</noun></nounPhrase></prepPhrase></verbPhrase> so
+                        <nounPhrase><det>the</det>
+                    <noun>police</noun></nounPhrase>
+                <verbPhrase><verb>can bother</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase>.</line>
+            <line>And <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>ain't</verb>
+                    <adverb>never</adverb>
+                    <verb>did</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>crime</noun></nounPhrase>
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                    <verbPhrase><verb>ain't have to do</verb></verbPhrase></verbPhrase>.</line>
+            <line>But <adverb>now</adverb>
+                <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <adjective>back</adjective>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>facts</noun></nounPhrase></prepPhrase>
+                    <verbPhrase><verb>givin'</verb>
+                        <nounPhrase><noun>'em</noun></nounPhrase>
+                        <adverb>back</adverb>
+                        <prepPhrase><prep>to</prep>
+                            <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>.</line>
+            <line><verbPhrase neg="true"><verb>Don't let</verb>
+                    <nounPhrase><noun>'em</noun></nounPhrase>
+                    <verb>jack</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <adverb>up</adverb>, <verb>back</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <adverb>up</adverb>, <verb>crack</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <adverb>up</adverb> and <adverb>pimp</adverb>
+                    <verb>smack</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <adverb>up</adverb></verbPhrase>.</line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>gotta learn</verb>
+                    <verb>to hold</verb>
+                    <nounPhrase><det>ya</det>
+                        <noun>own</noun></nounPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>They</noun></nounPhrase>
+                <verbPhrase><verb>get</verb>
+                    <adjective>jealous</adjective> when <nounPhrase><noun>they</noun></nounPhrase>
+                    <verbPhrase><verb>see</verb>
+                        <nounPhrase><noun>ya</noun></nounPhrase>
+                        <prepPhrase><prep>with</prep>
+                            <nounPhrase><det>ya</det>
+                                <adjective>mobile</adjective>
+                                <noun>phone</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>.</line>
+            <line>But <verbPhrase><verb>tell</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>cops</noun></nounPhrase>
+                    <nounPhrase><noun>they</noun></nounPhrase>
+                    <verbPhrase neg="true"><verb>can't touch</verb>
+                        <nounPhrase><noun>this</noun></nounPhrase></verbPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>don't trust</verb>
+                    <nounPhrase><noun>this</noun></nounPhrase></verbPhrase>, when
+                        <nounPhrase><noun>they</noun></nounPhrase>
+                <verbPhrase><verb>try to rush</verb>
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                    <verbPhrase><verb>bust</verb>
+                        <nounPhrase><noun>this</noun></nounPhrase></verbPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>That</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>sound</noun></nounPhrase>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>tool</noun></nounPhrase></prepPhrase></verbPhrase>.
+                        <nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>say</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                    <verbPhrase neg="true"><verb>ain't</verb>
+                        <adjective>cool</adjective></verbPhrase></verbPhrase>, but
+                        <nounPhrase><noun>mama</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>didn't raise</verb> no <nounPhrase neg="true"
+                            ><noun>fool</noun></nounPhrase></verbPhrase>.</line>
+            <line>And <prepPhrase><prep>as</prep>
+                    <nounPhrase><noun>long</noun></nounPhrase></prepPhrase>
+                <prepPhrase><prep>as</prep>
+                    <nounPhrase><noun>I</noun></nounPhrase></prepPhrase>
+                <verbPhrase><verb>stay</verb>
+                    <adjective>black</adjective></verbPhrase>, I gotta stay strapped and I never get
+                to lay back.</line>
+            <line>'Cause <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><adverb>always</adverb>
+                    <verb>got to worry</verb>
+                    <prepPhrase><prep>'bout</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>payback</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <line><nounPhrase><adjective>Some</adjective>
+                    <noun>buck</noun></nounPhrase> that <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>roughed</verb>
+                    <adverb>up</adverb>
+                    <nounPhrase><adjective>way</adjective>
+                        <noun>back</noun></nounPhrase></verbPhrase>...
+                        <verbPhrase><verb>comin'</verb>
+                    <adverb>back</adverb>
+                    <prepPhrase><prep>after</prep>
+                        <nounPhrase><adjective>all</adjective>
+                            <det>these</det>
+                            <noun>years</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <line>Rat-a-tat-tat-tat-tat.
+                        <nounPhrase><noun>That</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>way</noun></nounPhrase>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                    <verb>is</verb></verbPhrase>. uhh</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+            <line><nounPhrase><adjective>Some</adjective>
+                    <noun>things</noun></nounPhrase>
+                <verbPhrase><verb>will</verb>
+                    <adverb>never</adverb>
+                    <verb>change</verb></verbPhrase></line>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="4"/>
+        </refrainSection>
+        <refrainLine lineID="1"><verbPhrase><verb>Come</verb>
+                <adverb>on</adverb></verbPhrase>
+            <verbPhrase><verb>come</verb>
+                <adverb>on</adverb></verbPhrase></refrainLine>
+        <refrainLine lineID="2"
+                    ><nounPhrase><noun>That</noun></nounPhrase><verbPhrase><verb>'s</verb> just
+                        <nounPhrase><det>the</det>
+                    <noun>way</noun></nounPhrase>
+                <nounPhrase><noun>it</noun></nounPhrase>
+                <verb>is</verb></verbPhrase></refrainLine>
+        <refrainLine lineID="3"
+                    ><nounPhrase><noun>Things</noun></nounPhrase><verbPhrase><verb>'ll</verb>
+                <adverb>never</adverb>
+                <verb>be</verb>
+                <nounPhrase><det>the</det>
+                    <noun>same</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="4">aww yeah</refrainLine>
+    </lyrics>
+</song>
