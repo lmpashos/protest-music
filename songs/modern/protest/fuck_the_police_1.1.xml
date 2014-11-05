@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Fuck The Police</title>
+        <composer>Ice Cub</composer>
+        <composer>Eazy-E</composer>
+        <composer>MC Ren</composer>
+        <album>Straight Outta Compton</album>
+        <year>1988</year>
+        <genre>Rap</genre>
+        <notablePerformer>N.W.A.</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><verbPhrase><verb>Fuck</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>police</noun></nounPhrase></verbPhrase>
+                <verbPhrase><verb>comin</verb>
+                    <adverb>straight</adverb>
+                    <prepPhrase><prep>from</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>underground</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>A</det>
+                    <adjective>young</adjective>
+                    <noun>nigga</noun></nounPhrase>
+                <verbPhrase><verb>got</verb>
+                    <nounPhrase><noun>it</noun>
+                        <adjective>bad</adjective></nounPhrase></verbPhrase> cause
+                        <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <adjective>brown</adjective></verbPhrase></line>
+            <line>And not <nounPhrase neg="true"><det>the</det>
+                    <adjective>other</adjective>
+                    <noun>color</noun></nounPhrase> so <nounPhrase><noun>police</noun></nounPhrase>
+                <verbPhrase><verb>think</verb></verbPhrase></line>
+            <line><nounPhrase><noun>they</noun></nounPhrase>
+                <verbPhrase><verb>have</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>authority</noun></nounPhrase>
+                    <verb>to kill</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>minority</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Fuck</verb>
+                    <nounPhrase><det>that</det>
+                        <noun>shit</noun></nounPhrase></verbPhrase>, cause
+                        <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>ain't</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>one</noun></nounPhrase></verbPhrase></line>
+            <line>or <nounPhrase><det>a</det>
+                    <adjective>punk</adjective>
+                    <noun>motherfucker</noun></nounPhrase>
+                <prepPhrase><prep>with</prep>
+                    <nounPhrase><det>a</det>
+                        <noun>badge</noun> and <det>a</det>
+                        <noun>gun</noun></nounPhrase></prepPhrase></line>
+            <line><verbPhrase><verb>to be beatin'</verb>
+                    <adverb>on</adverb>, and <verb>throwin'</verb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><noun>jail</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>We</noun></nounPhrase>
+                <verbPhrase><verb>can go</verb>
+                    <nounPhrase><noun>toe</noun></nounPhrase>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><noun>toe</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>middle</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><det>a</det>
+                            <noun>cell</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Fuckin</verb>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase> cause
+                        <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>teenager</noun></nounPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>with</prep>
+                    <nounPhrase><det>a</det>
+                        <adjective>little</adjective>
+                        <noun>bit</noun></nounPhrase></prepPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><noun>gold</noun> and <det>a</det>
+                        <noun>pager</noun></nounPhrase></prepPhrase></line>
+            <line><verbPhrase>Searchin my car</verbPhrase>, <verbPhrase>lookin for the
+                    product</verbPhrase></line>
+            <line><verbPhrase><verb>Thinkin</verb>
+                    <nounPhrase><adjective>every</adjective>
+                        <noun>nigga</noun></nounPhrase>
+                    <verbPhrase><verb>is sellin</verb>
+                        <nounPhrase><noun>narcotics</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'d</verb> rather
+                        <verb>see</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>pen</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>than <nounPhrase><noun>me</noun> and <noun>Lorenzo</noun></nounPhrase>
+                <verbPhrase><verb>rollin</verb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>a</det>
+                            <noun>Benz-o</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Beat</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>police</noun></nounPhrase>
+                    <adverb>out</adverb>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><noun>shape</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>and when <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
+                        finished</verb></verbPhrase>, <verbPhrase><verb>bring</verb>
+                    <nounPhrase><det>the</det>
+                        <adjective>yellow</adjective>
+                        <noun>tape</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>To tape</verb>
+                    <adverb>off</adverb>
+                    <nounPhrase><det>the</det>
+                        <noun>scene</noun></nounPhrase>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>slaughter</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><adverb>Still</adverb>
+                    <verb>gettin swoll</verb>
+                    <prepPhrase><prep>off</prep>
+                        <nounPhrase><noun>bread</noun> and
+                        <noun>water</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>don't know</verb></verbPhrase> if
+                        <nounPhrase><noun>they</noun></nounPhrase>
+                <nounPhrase><noun>fags</noun></nounPhrase> or what</line>
+            <line><verbPhrase><verb>Search</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>nigga</noun></nounPhrase>
+                    <adverb>down</adverb></verbPhrase>, and <verbPhrase><verb>grabbin</verb>
+                    <nounPhrase><det>his</det>
+                        <noun>nuts</noun></nounPhrase></verbPhrase></line>
+            <line>And <prepPhrase><prep>on</prep>
+                    <nounPhrase><det>the</det>
+                        <adjective>other</adjective>
+                        <noun>hand</noun></nounPhrase></prepPhrase>,
+                        <prepPhrase><prep>without</prep>
+                    <nounPhrase><det>a</det>
+                        <noun>gun</noun></nounPhrase></prepPhrase>
+                <nounPhrase><noun>they</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>can't get</verb>
+                    <nounPhrase><noun>none</noun></nounPhrase></verbPhrase></line>
+            <line>But <verbPhrase neg="true"><verb>don't let</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                    <verb>be</verb>
+                    <nounPhrase><det>a</det>
+                        <adjective>black</adjective> and <det>a</det>
+                        <adjective>white</adjective>
+                        <noun>one</noun></nounPhrase></verbPhrase></line>
+            <line>Cause <nounPhrase><noun>they</noun></nounPhrase><verbPhrase><verb>'ll slam</verb>
+                    <nounPhrase><noun>ya</noun></nounPhrase>
+                    <adverb>down</adverb>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><det>the</det>
+                            <adjective>street</adjective>
+                            <noun>top</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><adjective>Black</adjective>
+                    <noun>police</noun></nounPhrase>
+                <verbPhrase><verb>showin</verb>
+                    <adverb>out</adverb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><det>the</det>
+                            <adjective>white</adjective>
+                            <noun>cop</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Ice Cube</noun></nounPhrase>
+                <verbPhrase><verb>will swarm</verb></verbPhrase></line>
+            <line><prepPhrase><prep>on</prep>
+                    <nounPhrase><adjective>any</adjective>
+                        <noun>motherfucker</noun></nounPhrase></prepPhrase>
+                <prepPhrase><prep>in</prep>
+                    <nounPhrase><det>a</det>
+                        <adjective>blue</adjective>
+                        <noun>uniform</noun></nounPhrase></prepPhrase></line>
+            <line>Just cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <prepPhrase><prep>from</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>CPT</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><adjective>Punk</adjective>
+                    <noun>police</noun></nounPhrase>
+                <verbPhrase><verb>are</verb>
+                    <adjective>afraid</adjective>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase>me</nounPhrase></prepPhrase></verbPhrase>!</line>
+            <line>HUH, <nounPhrase><det>a</det>
+                    <adjective>young</adjective>
+                    <noun>nigga</noun></nounPhrase>
+                <prepPhrase><prep>on</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>warpath</noun></nounPhrase></prepPhrase></line>
+            <line>And when <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
+                        finished</verb>,
+                            <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s gonna
+                            be</verb>
+                        <nounPhrase><det>a</det>
+                            <noun>bloodbath</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>of</prep>
+                    <nounPhrase><noun>cops</noun></nounPhrase></prepPhrase>,
+                        <verbPhrase><verb>dyin</verb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><noun>L.A.</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>Yo <nounPhrase><noun>Dre</noun></nounPhrase>,
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>got</verb>
+                    <nounPhrase><noun>somethin</noun></nounPhrase>
+                    <verb>to say</verb></verbPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Fuck</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>police</noun></nounPhrase></verbPhrase> and
+                        <nounPhrase><noun>Ren</noun></nounPhrase>
+                <verbPhrase><verb>said</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><noun>authority</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>because <nounPhrase><det>the</det>
+                    <noun>niggaz</noun></nounPhrase>
+                <prepPhrase><prep>on</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>street</noun></nounPhrase></prepPhrase>
+                <verbPhrase><verb>is</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>majority</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>A</det>
+                    <noun>gang</noun></nounPhrase>, <verbPhrase><verb>is</verb>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><noun>whoever</noun></nounPhrase></prepPhrase>
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
+                        steppin</verb></verbPhrase></verbPhrase></line>
+            <line>and <nounPhrase><det>the</det>
+                    <adjective>motherfuckin</adjective>
+                    <noun>weapon</noun></nounPhrase>
+                <verbPhrase><verb>is kept</verb>
+                    <prepPhrase><prep>in</prep></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>a</det>
+                    <adjective>stash</adjective>
+                    <noun>box</noun></nounPhrase>, <prepPhrase><prep>for</prep>
+                    <nounPhrase><det>the</det>
+                        <adjective>so-called</adjective>
+                        <noun>law</noun></nounPhrase></prepPhrase></line>
+            <line><verbPhrase><verb>Wishin</verb>
+                    <nounPhrase><noun>Ren</noun></nounPhrase>
+                    <verb>was</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>nigga</noun></nounPhrase> that
+                        <nounPhrase><noun>they</noun></nounPhrase>
+                    <verbPhrase><adverb>never</adverb>
+                        <verb>saw</verb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Lights</noun></nounPhrase>
+                <verbPhrase><verb>start flashin</verb>
+                    <prepPhrase><prep>behind</prep>
+                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>But <nounPhrase><noun>they</noun></nounPhrase><verbPhrase><verb>'re</verb>
+                    <adjective>scared</adjective>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><det>a</det>
+                            <noun>nigga</noun></nounPhrase></prepPhrase></verbPhrase> so
+                        <nounPhrase><noun>they</noun></nounPhrase>
+                <verbPhrase><verb>mace</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <verb>to blind</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+            <line>But <nounPhrase><det>that</det>
+                    <noun>shit</noun></nounPhrase>
+                <verbPhrase neg="true">don't work</verbPhrase>,
+                    <nounPhrase><noun>I</noun></nounPhrase> just
+                    <verbPhrase><verb>laugh</verb></verbPhrase></line>
+            <line>because <nounPhrase><noun>it</noun></nounPhrase>
+                <verbPhrase><verb>gives</verb>
+                    <nounPhrase><noun>em</noun></nounPhrase>
+                    <nounPhrase><det>a</det>
+                        <noun>hint</noun></nounPhrase>, not <verb>to step</verb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>path</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>For</prep>
+                    <nounPhrase><noun>police</noun></nounPhrase></prepPhrase>,
+                        <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m sayin</verb>,
+                            "<verbPhrase><verb>Fuck</verb>
+                        <nounPhrase><noun>you</noun></nounPhrase>
+                        <nounPhrase><noun>punk</noun></nounPhrase></verbPhrase>!"</verbPhrase></line>
+            <line><verbPhrase><verb>Readin</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>rights</noun></nounPhrase> and
+                        <nounPhrase><noun>shit</noun></nounPhrase></verbPhrase>,
+                        <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><adjective>all</adjective>
+                        <noun>junk</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Pullin</verb>
+                    <adjective>out</adjective>
+                    <nounPhrase><det>a</det>
+                        <adjective>silly</adjective>
+                        <noun>club</noun></nounPhrase></verbPhrase>, so
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>stand</verb></verbPhrase></line>
+            <line><prepPhrase><prep>with</prep>
+                    <nounPhrase><det>a</det>
+                        <adjective>fake-assed</adjective>
+                        <noun>badge</noun></nounPhrase> and <nounPhrase><det>a</det>
+                        <noun>gun</noun></nounPhrase></prepPhrase>
+                <prepPhrase><prep>in</prep>
+                    <nounPhrase><det>your</det>
+                        <noun>hand</noun></nounPhrase></prepPhrase></line>
+            <line>But <verbPhrase><verb>take</verb>
+                    <adverb>off</adverb>
+                    <nounPhrase><det>the</det>
+                        <noun>gun</noun></nounPhrase></verbPhrase> so
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>can see</verb>
+                    <nounPhrase><noun>what</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                        <adjective>up</adjective></verbPhrase></verbPhrase></line>
+            <line>And <nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>'ll go</verb>
+                    <prepPhrase><prep>at</prep>
+                        <nounPhrase><noun>it</noun></nounPhrase></prepPhrase>
+                    <nounPhrase><noun>punk</noun></nounPhrase></verbPhrase>, and
+                        <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ma fuck</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <adverb>up</adverb></verbPhrase>!</line>
+            <line><verbPhrase><verb>Make</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>think</verb>
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ma kick</verb>
+                        <nounPhrase><det>your</det>
+                            <noun>ass</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line>but <verbPhrase><verb>drop</verb>
+                    <nounPhrase><det>your</det>
+                        <noun>gat</noun></nounPhrase></verbPhrase>, and
+                    <nounPhrase><noun>Ren</noun></nounPhrase><verbPhrase><verb>'s gonna</verb>
+                    <nounPhrase><noun>blast</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <adjective>sneaky</adjective> as <nounPhrase><noun>fuck</noun></nounPhrase> when
+                            <nounPhrase><noun>it</noun></nounPhrase>
+                    <verbPhrase><verb>comes</verb>
+                        <prepPhrase><prep>to</prep>
+                            <nounPhrase><noun>crime</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <line>But <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ma smoke</verb>
+                    <nounPhrase><noun>'em</noun></nounPhrase>
+                    <adverb>now</adverb> and not <nounPhrase neg="true"><adjective>next</adjective>
+                        <noun>time</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Smoke</verb>
+                    <nounPhrase><adjective>any</adjective>
+                        <noun>motherfucker</noun></nounPhrase>
+                    <nounPhrase><noun>that</noun></nounPhrase>
+                    <verbPhrase><verb>sweats</verb>
+                        <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line>or <nounPhrase><adjective>any</adjective>
+                    <noun>asshole</noun></nounPhrase>, <nounPhrase><noun>that</noun></nounPhrase>
+                <verbPhrase><verb>threatens</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>sniper</noun></nounPhrase>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><det>a</det>
+                            <noun>hell</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><det>a</det>
+                            <noun>scope</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Takin</verb>
+                    <adverb>out</adverb>
+                    <nounPhrase><det>a</det>
+                        <noun>cop</noun> or <noun>two</noun></nounPhrase></verbPhrase>,
+                        <nounPhrase><noun>they</noun></nounPhrase>
+                <verbPhrase><verb>can't cope</verb>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <adjective>motherfuckin</adjective>
+                    <noun>villian</noun></nounPhrase>
+                <nounPhrase><noun>that</noun></nounPhrase><verbPhrase>'s
+                    <adjective>mad</adjective></verbPhrase></line>
+            <line><prepPhrase><prep>With</prep>
+                    <nounPhrase><noun>potential</noun></nounPhrase></prepPhrase>,
+                        <verbPhrase><verb>to get</verb>
+                    <adjective>bad</adjective>
+                    <prepPhrase><prep>as</prep>
+                        <nounPhrase><noun>fuck</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>So <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ma turn</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                    <adverb>around</adverb></verbPhrase></line>
+            <line><verbPhrase><verb>Put</verb>
+                    <adverb>in</adverb>
+                    <nounPhrase><det>my</det>
+                        <noun>clip</noun></nounPhrase></verbPhrase>, yo, and
+                        <nounPhrase><noun>this</noun></nounPhrase>
+                <verbPhrase><verb>is</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>sound</noun></nounPhrase></verbPhrase></line>
+            <line>Yeah, <nounPhrase><noun>somethin</noun></nounPhrase>
+                <prepPhrase><prep>like</prep>
+                    <nounPhrase><noun>that</noun></nounPhrase></prepPhrase></line>
+            <line>but <nounPhrase><noun>it</noun></nounPhrase> all <verbPhrase><verb>depends</verb>
+                    <prepPhrase><prep>on</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>size</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>gat</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Takin</verb>
+                    <adverb>out</adverb>
+                    <nounPhrase><det>a</det>
+                        <noun>police</noun></nounPhrase></verbPhrase>, <verbPhrase><verb>would
+                        make</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>day</noun></nounPhrase></verbPhrase></line>
+            <line>But <nounPhrase><det>a</det>
+                    <noun>nigga</noun></nounPhrase>
+                <prepPhrase><prep>like</prep>
+                    <nounPhrase><noun>Ren</noun></nounPhrase></prepPhrase>
+                <verbPhrase neg="true"><verb>don't give</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>fuck</noun></nounPhrase>
+                    <verb>to say</verb></verbPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <adjective>tired</adjective>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><det>the</det>
+                            <adjective>motherfuckin</adjective>
+                            <noun>jackin</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Sweatin</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>gang</noun></nounPhrase></verbPhrase>, while
+                        <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m chillin</verb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>shack</noun></nounPhrase></prepPhrase></verbPhrase>, and</line>
+            <line><verbPhrase><verb>shinin</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>light</noun></nounPhrase>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>face</noun></nounPhrase></prepPhrase>, and
+                            <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>what</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
+            <line>Maybe <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> because
+                            <nounPhrase><noun>I</noun></nounPhrase>
+                    <verbPhrase><verb>kick</verb>
+                        <nounPhrase><adverb>so</adverb>
+                            <adjective>much</adjective>
+                            <noun>butt</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>kick</verb>
+                    <nounPhrase><noun>ass</noun></nounPhrase></verbPhrase> - or maybe cause
+                        <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>blast</verb></verbPhrase></line>
+            <line><prepPhrase><prep>on</prep>
+                    <nounPhrase><det>a</det>
+                        <adjective>stupid-assed</adjective>
+                        <noun>nigga</noun></nounPhrase></prepPhrase> when
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m playin</verb>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>trigger</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>of</prep>
+                    <nounPhrase><det>an</det>
+                        <noun>Uzi</noun> or <det>an</det>
+                        <noun>AK</noun></nounPhrase></prepPhrase></line>
+            <line>Cause <nounPhrase><det>the</det>
+                    <noun>police</noun></nounPhrase>
+                <verbPhrase><adverb>always</adverb>
+                    <verb>got</verb>
+                    <nounPhrase><noun>somethin</noun>
+                        <adjective>stupid</adjective></nounPhrase>
+                    <verb>to say</verb></verbPhrase></line>
+            <line><nounPhrase><noun>They</noun></nounPhrase>
+                <verbPhrase><verb>put</verb>
+                    <adverb>out</adverb>
+                    <nounPhrase><det>my</det>
+                        <noun>picture</noun></nounPhrase>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><noun>silence</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>Cause <nounPhrase><det>my</det>
+                    <noun>identity</noun></nounPhrase>
+                <prepPhrase><prep>by</prep>
+                    <nounPhrase><noun>itself</noun></nounPhrase></prepPhrase>
+                <verbPhrase><verb>causes</verb>
+                    <nounPhrase><noun>violence</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>E</noun></nounPhrase>
+                <prepPhrase><prep>with</prep>
+                    <nounPhrase><det>the</det>
+                        <adjective>criminal</adjective>
+                        <noun>behavior</noun></nounPhrase></prepPhrase></line>
+            <line>Yeah, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>gangsta</noun></nounPhrase></verbPhrase>, but <adverb>still</adverb>
+                <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>got</verb>
+                    <nounPhrase><noun>flavor</noun></nounPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>Without</prep>
+                    <nounPhrase><det>a</det>
+                        <noun>gun</noun> and <det>a</det>
+                        <noun>badge</noun></nounPhrase></prepPhrase>,
+                    <nounPhrase><noun>what</noun></nounPhrase>
+                <verbPhrase><verb>do</verb>
+                    <nounPhrase><noun>ya</noun></nounPhrase>
+                    <verb>got</verb></verbPhrase>?</line>
+            <line><nounPhrase><det>A</det>
+                    <noun>sucker</noun></nounPhrase>
+                <prepPhrase><prep>in</prep>
+                    <nounPhrase><det>a</det>
+                        <noun>uniform</noun></nounPhrase></prepPhrase>
+                <verbPhrase><verb>waitin</verb>
+                    <verb>to get shot</verb></verbPhrase></line>
+            <line><prepPhrase><prep>by</prep>
+                    <nounPhrase><noun>me</noun></nounPhrase></prepPhrase>, or
+                        <nounPhrase><adjective>another</adjective>
+                    <noun>nigga</noun></nounPhrase></line>
+            <line>And <prepPhrase><prep>with</prep>
+                    <nounPhrase><det>a</det>
+                        <noun>gat</noun></nounPhrase></prepPhrase>
+                <nounPhrase><noun>it</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>don't matter</verb></verbPhrase> if
+                        <nounPhrase><noun>he</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adjective>smaller</adjective> or
+                <adjective>bigger</adjective></verbPhrase></line>
+            <line>(<nounPhrase><noun>Size</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>ain't</verb>
+                    <nounPhrase><noun>shit</noun></nounPhrase></verbPhrase>,
+                        <nounPhrase><noun>he</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <prepPhrase><prep>from</prep>
+                        <nounPhrase><det>the</det>
+                            <adjective>old</adjective>
+                            <noun>school</noun></nounPhrase></prepPhrase>
+                    <nounPhrase><noun>fool</noun></nounPhrase></verbPhrase>)</line>
+            <line>And <prepPhrase><prep>as</prep>
+                    <nounPhrase><noun>you</noun>
+                        <adjective>all</adjective></nounPhrase></prepPhrase>
+                <verbPhrase><verb>know</verb></verbPhrase>,
+                        <nounPhrase><noun>E</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><noun>here</noun></nounPhrase>
+                    <verb>to rule</verb></verbPhrase></line>
+            <line>Whenever <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
+                    rollin</verb></verbPhrase>, <verbPhrase><verb>keep lookin</verb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>mirror</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>And <nounPhrase><noun>ears</noun></nounPhrase>
+                <prepPhrase><prep>on</prep>
+                    <nounPhrase><noun>cue</noun></nounPhrase></prepPhrase>, yo, so
+                        <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>can hear</verb> a</verbPhrase></line>
+            <line><nounPhrase><adjective>dumb</adjective>
+                    <noun>motherfucker</noun></nounPhrase>
+                <prepPhrase><prep>with</prep>
+                    <nounPhrase><det>a</det>
+                        <noun>gun</noun></nounPhrase></prepPhrase></line>
+            <line>And if <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m rollin</verb>
+                    <adverb>off</adverb>
+                    <nounPhrase><det>the</det>
+                        <noun>8</noun></nounPhrase></verbPhrase>, he<verbPhrase><verb>'ll be</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>one</noun></nounPhrase></verbPhrase></line>
+            <line>that <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>take</verb> out</verbPhrase>, and then
+                        <verbPhrase><verb>get</verb>
+                    <adverb>away</adverb></verbPhrase></line>
+            <line>While <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m drivin</verb>
+                    <adverb>off</adverb>
+                    <verb>laughin</verb></verbPhrase>
+                <nounPhrase><noun>this</noun></nounPhrase>
+                <verbPhrase><verb>is</verb> what
+                            <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll
+                        say</verb></verbPhrase></verbPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+        <refrainLine lineID="1"><verbPhrase><verb>Fuck</verb>
+                <nounPhrase><det>the</det>
+                    <noun>police</noun></nounPhrase></verbPhrase></refrainLine>
+    </lyrics>
+</song>
