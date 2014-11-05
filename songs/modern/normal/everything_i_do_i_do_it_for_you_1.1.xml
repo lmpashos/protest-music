@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Everything I Do I Do It for You</title>
+        <composer>Bryan Adams</composer>
+        <composer>Michael Kamen</composer>
+        <composer>Robert John "Mutt" Lange</composer>
+        <album>Robin Hood: Prince of Thieves Soudtrack</album>
+        <year>1991</year>
+        <genre>Pop</genre>
+        <genre>Rock</genre>
+        <notablePerformer>Bryan Adams</notablePerformer>
+        <notablePerformer>Brandy</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><verbPhrase><verb>Look</verb>
+                    <prepPhrase><prep>into</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>eyes</noun></nounPhrase></prepPhrase></verbPhrase> –
+                        <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>will see</verb></verbPhrase></line>
+            <line>What <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>mean</verb>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <line><verbPhrase><verb>Search</verb>
+                    <nounPhrase><det>your</det>
+                        <noun>heart</noun></nounPhrase></verbPhrase>,
+                        <verbPhrase><verb>search</verb>
+                    <nounPhrase><det>your</det>
+                        <noun>soul</noun></nounPhrase></verbPhrase></line>
+            <line>And when <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>find</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <adverb>there</adverb></verbPhrase>
+                <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ll search</verb> no
+                        <nounPhrase neg="true"><noun>more</noun></nounPhrase></verbPhrase>.</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Look</verb>
+                    <prepPhrase><prep>into</prep>
+                        <nounPhrase><det>your</det>
+                            <noun>heart</noun></nounPhrase></prepPhrase></verbPhrase> –
+                        <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>will find</verb></verbPhrase></line>
+            <line><nounPhrase><noun>There</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><noun>nothin'</noun></nounPhrase>
+                    <adverb>there</adverb>
+                    <verb>to hide</verb></verbPhrase>.</line>
+            <line><verbPhrase><verb>Take</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase> as
+                        <nounPhrase><noun>I</noun></nounPhrase>
+                    <verb>am</verb></verbPhrase>, <verbPhrase><verb>take</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>life</noun></nounPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>would give</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase> all</verbPhrase>,
+                        <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>would sacrifice</verb></verbPhrase>.</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="2"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>There</noun></nounPhrase><verbPhrase><verb>'s</verb> no
+                        <nounPhrase neg="true"><noun>love</noun></nounPhrase>
+                    <prepPhrase><prep>like</prep>
+                        <nounPhrase><det>your</det>
+                            <noun>love</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>And no <nounPhrase neg="true"><noun>other</noun></nounPhrase>
+                <verbPhrase><verb>could give</verb>
+                    <nounPhrase><adjective>more</adjective>
+                        <noun>love</noun></nounPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>There</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><noun>nowhere</noun></nounPhrase> unless
+                            <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb>
+                        <nounPhrase><noun>there</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><adjective>All</adjective>
+                    <det>the</det>
+                    <noun>time</noun></nounPhrase>, <nounPhrase><adjective>all</adjective>
+                    <det>the</det>
+                    <noun>way</noun></nounPhrase>, yeah.</line>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Look</verb>
+                    <prepPhrase><prep>into</prep>
+                        <nounPhrase><det>your</det>
+                            <noun>heart</noun></nounPhrase></prepPhrase></verbPhrase>,
+                        <nounPhrase><noun>baby</noun></nounPhrase>...</line>
+            <line>Oh, <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>can't tell</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <nounPhrase><noun>it</noun></nounPhrase><verbPhrase neg="true"><verb>'s</verb>
+                        not worth <verb>tryin'</verb>
+                        <prepPhrase><prep>for</prep></prepPhrase></verbPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>can't help</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase></verbPhrase>,
+                        <nounPhrase><noun>there</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><noun>nothin'</noun></nounPhrase>
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                    <verbPhrase><verb>want</verb>
+                        <adverb>more</adverb></verbPhrase></verbPhrase>.</line>
+            <line>Yeah, <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>would fight</verb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase>,
+                        <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d lie</verb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+            <line><verbPhrase><verb>Walk</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>wire</noun></nounPhrase>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase>, yeah,
+                        <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d die</verb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <line><nounPhrase><noun>Everything</noun></nounPhrase>
+                <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>do</verb></verbPhrase>,
+                    <nounPhrase><noun>darling</noun></nounPhrase>.</line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>will see</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                        <adjective>true</adjective></verbPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>will see</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                        <adjective>true</adjective></verbPhrase></verbPhrase>.</line>
+            <line>Yeah!</line>
+            <line><verbPhrase><verb>Search</verb>
+                    <nounPhrase><det>your</det>
+                        <noun>heart</noun></nounPhrase> and <nounPhrase><det>your</det>
+                        <noun>soul</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>can't tell</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase><verbPhrase neg="true"><verb>'s</verb>
+                        not worth <verb>dyin'</verb>
+                        <prepPhrase><prep>for</prep></prepPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase>'ll be
+                there</verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d walk</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>fire</noun></nounPhrase>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d die</verb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>Oh, yeah.</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m going</verb>
+                    <nounPhrase><adjective>all</adjective>
+                        <det>the</det>
+                        <noun>time</noun></nounPhrase></verbPhrase>,
+                        <nounPhrase><adjective>all</adjective>
+                    <det>the</det>
+                    <noun>way</noun></nounPhrase>.</line>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+        </refrainSection>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="5"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+        </refrainSection>
+        <refrainLine lineID="1"><verbPhrase neg="true"><verb>Don't tell</verb>
+                <nounPhrase><noun>me</noun></nounPhrase>
+                <nounPhrase><noun>it</noun></nounPhrase><verbPhrase neg="true"><verb>'s</verb> not
+                    worth <verb>tryin'</verb>
+                    <prepPhrase><prep>for</prep></prepPhrase></verbPhrase></verbPhrase>.</refrainLine>
+        <refrainLine lineID="2"><nounPhrase><noun>You</noun></nounPhrase>
+            <verbPhrase neg="true"><verb>can't tell</verb>
+                <nounPhrase><noun>me</noun></nounPhrase>
+                <nounPhrase><noun>it</noun></nounPhrase><verbPhrase neg="true"><verb>'s</verb> not
+                    worth <verb>dyin'</verb>
+                    <prepPhrase><prep>for</prep></prepPhrase></verbPhrase></verbPhrase>.</refrainLine>
+        <refrainLine lineID="3"><nounPhrase><noun>You</noun></nounPhrase>
+            <verbPhrase><verb>know</verb>
+                <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adjective>true</adjective></verbPhrase></verbPhrase>:</refrainLine>
+        <refrainLine lineID="4"><nounPhrase><noun>Everything</noun></nounPhrase>
+            <nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase><verb>do</verb></verbPhrase>, <nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase><verb>do</verb>
+                <nounPhrase><noun>it</noun></nounPhrase>
+                <prepPhrase><prep>for</prep>
+                    <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase>.</refrainLine>
+        <refrainLine lineID="5"><nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase neg="true"><verb>can't help</verb>
+                <nounPhrase><noun>it</noun></nounPhrase></verbPhrase>,
+                    <nounPhrase><noun>there</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                <nounPhrase><noun>nothin'</noun></nounPhrase>
+                <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>want</verb>
+                    <adverb>more</adverb></verbPhrase></verbPhrase></refrainLine>
+    </lyrics>
+</song>
