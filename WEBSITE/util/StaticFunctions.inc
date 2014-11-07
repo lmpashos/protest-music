@@ -49,6 +49,9 @@ class StaticFunctions {
     return 'http://' . $_SERVER["HTTP_HOST"] . '/protest';
   }
 
+  public static function string_to_bool($string) {
+    return (mb_strtoupper(trim( $string)) === mb_strtoupper("true")) ? TRUE : FALSE;
+  }
 }
 
 ?>

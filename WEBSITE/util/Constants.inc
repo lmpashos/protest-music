@@ -27,6 +27,23 @@ class Constants {
   const LINUX_OS = 3;
   const OTHER_OS = 4;
   
+  const DATA_DIR = 'data/';
+  const SONG_LIST_FILENAME = 'data/master_song_list.xml';
+  const SONG_XML_TO_LYRIC_HTML_XSL = 'data/song_xml_to_lyric_html.xsl';
+  const SONG_XML_TO_META_HTML_XSL = 'data/song_xml_to_meta_html.xsl';
+  
+  const ERA_NONE = 'none';
+  const ERA_MODERN = 'modern';
+  const ERA_VIETNAM = 'vietnam';
+  const ERA_GREAT_DEPRESSION = 'the_great_depression';
+  
+  static $ERA_TO_ERA_STRING = array(
+      Constants::ERA_MODERN => 'Modern',
+      Constants::ERA_VIETNAM => 'Vietnam',
+      Constants::ERA_GREAT_DEPRESSION => 'The Great Depression',
+      Constants::ERA_NONE => 'All'
+  );
+  
   static $PAGES_TO_HREF = array(
     'index' => 'index.php',
     'index_subsection1' => 'index.php#subsection1',
@@ -38,11 +55,9 @@ class Constants {
     'about_subsection3' => 'about.php#subsection3',
     'about_subsection4' => 'about.php#subsection4',
     'data' => 'data.php',
-    'data_subsection1' => 'data.php#subsection1',
-    'data_subsection2' => 'data.php#subsection2',
-    'data_subsection3' => 'data.php#subsection3',
-    'data_subsection4' => 'data.php#subsection4',
-    'data_subsection5' => 'data.php#subsection5',
+    'data_the_great_depression' => 'data.php?era=the_great_depression',
+    'data_vietnam' => 'data.php?era=vietnam',
+    'data_modern' => 'data.php?era=modern',
     'conclusions' => 'conclusions.php',
     'conclusions_subsection1' => 'conclusions.php#subsection1',
     'conclusions_subsection2' => 'conclusions.php#subsection2',
@@ -65,11 +80,9 @@ class Constants {
       'subsection4'
     ), 
     'data' => array(
-      'subsection1', 
-      'subsection2',
-      'subsection3',
-      'subsection4',
-      'subsection5'
+      Constants::ERA_GREAT_DEPRESSION, 
+      Constants::ERA_VIETNAM,
+      Constants::ERA_MODERN
     ), 
     'conclusions' => array(
       'subsection1',
@@ -79,6 +92,18 @@ class Constants {
       'subsection5',
       'subsection6'
     )
+  );
+  
+  static $PAGE_KEY_TO_PAGE_STRING = array(
+      Constants::ERA_MODERN => 'Modern',
+      Constants::ERA_VIETNAM => 'Vietnam',
+      Constants::ERA_GREAT_DEPRESSION => 'The Great Depression',
+      'subsection1' => 'Subsection 1', 
+      'subsection2' => 'Subsection 2',
+      'subsection3' => 'Subsection 3',
+      'subsection4' => 'Subsection 4',
+      'subsection5' => 'Subsection 5',
+      'subsection6' => 'Subsection 6',
   );
 }
 

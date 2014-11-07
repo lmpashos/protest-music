@@ -1,8 +1,8 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-#                                   SCHEMA VERSION 0.0
+#                                   SCHEMA VERSION 1.1
 #                       For tracking information about the various
 #                          song files, associated image files, and source info
-#                                      10/10/2014 
+#                                      11/06/2014 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                                       
 #   UPDATE HISTORY:                                                             
@@ -13,7 +13,10 @@
 #                   - wrote initial schema 
 #                   - just put in things that the website might need
 #                   - think that lyric source info should be kept here rather than with the song
-#
+#           VERSION:    1.1
+#               author: David Galloway
+#               updates:
+#                   - Added youtube link
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
@@ -35,11 +38,10 @@ song_data = element song_data
         {
             text
         },
-        
         element image_filename
         {
             text
-        },
+        }?,
         element youtube_link
         {
             xsd:anyURI
