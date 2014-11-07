@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+
+#protest, #non_protest {
+  position: relative;
+  height: inherit;
+  width: 50%;
+  display: block;
+  background-color: white;
+}
+
+#protest {
+  float: left;
+}
+
+#non_protest {
+  float: right;
+}
+
+#non_protest p, #protest p {
+  text-align: center;
+  margin: 0;
+  font-size: 11pt;
+  background-color: white;
+}
+
+#protest span, #non_protest span {
+  color: black;
+  background-color: white;
+}
+
+.listTitle {
+  background-color: inherit;
+  padding: 5px 0px 10px 3px;
+}
+
+.listSubTitle {
+  padding: 5px 0px 5px 3px;
+}
+
+.song {
+  background-color: white;
+}
+
+.song h2, .song h3 {
+  background-color: white;
+  color: black;
+  margin-left: 10px;
+}

@@ -1,23 +1,26 @@
 @charset "utf-8";
 /* CSS Document */
-*{
+* {
   color: white;
   margin: 0 auto;
   background-color: #ADAFB2;
 }
-html, body{
+
+html, body {
   min-width: 900px;
   font-family: Century Gothic, Arial;
   height: 100%;	
 }
 	
-html, body, .wrapper{
+html, body, .wrapper {
   height: 100%; 
 }
+
 body > .wrapper { 
   height: auto; 
   min-height: 100%;
 }
+
 .menu {
   background-color: #FF3419;
   padding: 10px;
@@ -101,6 +104,7 @@ h1 {
   color: inherit;
   background-color: inherit;
 }
+
 .content div {
   min-height: inherit;
   color: black;
@@ -129,8 +133,7 @@ h1 {
   width: 80%;
 }
 
-#center p {
-  
+#center p { 
   font-size:1.5em;
   padding:10px;
 }
@@ -139,18 +142,21 @@ h1 {
   font-size: 1.0em;
   padding: 16px 10px 16px 10px;
 }
+
 #left ul, #right ul{
   overflow:auto;
   background-color:inherit;
   font-size:8pt;
   list-style:none;
 }
+
 #left li, #right li{
   padding-top:5px;
   padding-bottom:5px;
   margin-left:-40px;
   padding-left:3px;
 }
+
 #center p, #left p, #right p {
   overflow: auto;
 }
@@ -192,46 +198,11 @@ h1 {
 #conclusions {
   padding: 11px 23px 11px 10px
 }
-#protest, #normal{
-	position:relative;
-	height:inherit;
-	width:50%;
-	display:block;
+
+li {
+  background-color: inherit;
 }
-#protest{
-	float:left;
-	background-color:white;
-}
-#normal{
-	float:right;
-	background-color:white;
-}
-#normal p, #protest p{
-	text-align:center;
-	margin:0;
-	font-size:11pt;
-}
-.listTitle{
-	background-color:inherit;
-	padding:5px 0px 10px 3px;
-}
-.listSubTitle{
-	padding:5px 0px 5px 3px;
-}
-.song{
-	background-color:white;
-}
-.song h2, .song h3{
-	background-color:white;
-	color:black;
-	margin-left:10px;
-}
-li{
-	background-color:inherit;
-}
-#ohioSong,#fortunateSonSong,#theTwistSong,#theBendSong,#silenceSong,#yourHandSong,#locoSong,#blowinInTheWindSong,#hammerSong,#weShallOvercomeSong{
-	display:none;
-}
+
 
 
 

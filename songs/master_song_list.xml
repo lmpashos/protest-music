@@ -1,107 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schemas/song_list/song_list_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song_data>
+    <song era="the_great_depression" is_protest="false">
+        <title>Cheek to Cheek</title>
+        <lyric_filename>cheek_to_cheek_1.0.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source></lyric_source>
+    </song>
+    <song era="the_great_depression" is_protest="false">
+        <title>Deep Purple</title>
+        <lyric_filename>deep_purple_1.0.xml</lyric_filename>
+        <image_filename></image_filename>
+        <lyric_source></lyric_source>
+    </song>
     <song era="modern" is_protest="false">
-        <lyric_filename>billie_jean.xml</lyric_filename>
+        <title>Billie Jean</title>
+        <lyric_filename>billie_jean_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/michaeljackson/billiejean.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
-        <lyric_filename>boom_boom_pow.xml</lyric_filename>
+        <title>Boom Boom Pow</title>
+        <lyric_filename>boom_boom_pow_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/blackeyedpeas/boomboompow.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
-        <lyric_filename>end_of_the_road.xml</lyric_filename>
+        <title>The End of the Road</title>  
+        <lyric_filename>end_of_the_road_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/boyziimen/endoftheroad.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
-        <lyric_filename>everything_i_do_i_do_it_for_you.xml</lyric_filename>
+        <title>Everything I Do I Do It for You</title> 
+        <lyric_filename>everything_i_do_i_do_it_for_you_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/bryanadams/everythingidoidoitforyou.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
-        <lyric_filename>hold_on.xml</lyric_filename>
+        <title>Hold On</title>  
+        <lyric_filename>hold_on_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/wilsonphillips/holdon.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
-        <lyric_filename>my_prerogative.xml</lyric_filename>
+        <title>My Prerogative</title>    
+        <lyric_filename>my_prerogative_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/bobbybrown/myprerogative.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
-        <lyric_filename>staying_alive.xml</lyric_filename>
+        <title>Staying Alive</title> 
+        <lyric_filename>staying_alive_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/beegees/stayinalive.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
-        <lyric_filename>the_sign.xml</lyric_filename>
+        <title>The Sign</title> 
+        <lyric_filename>the_sign_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/aceofbase/thesign.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
-        <lyric_filename>tik_tok.xml</lyric_filename>
+        <title>Tik Tok</title>     
+        <lyric_filename>tik_tok_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/keha/tiktok.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
-        <lyric_filename>when_doves_cry.xml</lyric_filename>
+        <title>When Doves Cry</title>     
+        <lyric_filename>when_doves_cry_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/prince/whendovescry.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
-        <lyric_filename>american_skin_41_shots.xml</lyric_filename>
+        <title>American Skin (41 Shots)</title>     
+        <lyric_filename>american_skin_41_shots_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <youtube_link></youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/brucespringsteen/americanskin41shots.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
-        <lyric_filename>born_in_the_usa.xml</lyric_filename>
+        <title>Born in the U.S.A.</title>     
+        <lyric_filename>born_in_the_usa_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <youtube_link></youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/brucespringsteen/bornintheusa.html</lyric_source>
     </song>    
     <song era="modern" is_protest="true">
-        <lyric_filename>by_the_time_i_get_to_arizona.xml</lyric_filename>
+        <title>By the Time I Get to Arizona</title>     
+        <lyric_filename>by_the_time_i_get_to_arizona_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/publicenemy/bythetimeigettoarizona.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
-        <lyric_filename>california_uber_alles.xml</lyric_filename>
+        <title>California Uber Alles</title>     
+        <lyric_filename>california_uber_alles_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <youtube_link>http://youtu.be/eIqESwzCGg4</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/deadkennedys/californiauberalles.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
-        <lyric_filename>changes.xml</lyric_filename>
+        <title>Changes</title>     
+        <lyric_filename>changes_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <youtube_link>http://youtu.be/eXvBjCO19QY</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/2pac/changes.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
-        <lyric_filename>fight_the_power.xml</lyric_filename>
+        <title>Fight the Power</title>     
+        <lyric_filename>fight_the_power_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/publicenemy/fightthepower.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
-        <lyric_filename>fuck_the_police.xml</lyric_filename>
+        <title>Fuck the Police</title>    
+        <lyric_filename>fuck_the_police_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/nwa/fuckthepolice.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
-        <lyric_filename>god_save_the_queen.xml</lyric_filename>
+        <title>God Save the Queen</title>     
+        <lyric_filename>god_save_the_queen_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/sexpistols/godsavethequeen.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
-        <lyric_filename>sleep_now_in_the_fire.xml</lyric_filename>
+        <title>Sleep Now in the Fire</title> 
+        <lyric_filename>sleep_now_in_the_fire_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source>http://www.absolutelyrics.com/lyrics/view/rage_against_the_machine/sleep_now_in_the_fire</lyric_source>
     </song>
     <song era="modern" is_protest="true">
-        <lyric_filename>youth_against_fascism_hate_song.xml</lyric_filename>
+        <title>Youth against Fascism (Hate Song)</title>     
+        <lyric_filename>youth_against_fascism_hate_song_1.1.xml</lyric_filename>
         <image_filename>http://youtu.be/eWzIlCJAw-o</image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/sonicyouth/youthagainstfascismhatesong.html</lyric_source>
     </song>
