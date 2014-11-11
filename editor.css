@@ -1,0 +1,24 @@
+span.nounPhrase{
+  color:red;
+}
+span.verbPhrase{
+  color:blue;
+}
+span.prepPhrase{
+  color:green;
+}
+span.adjective{
+  color:orange;
+}
+span.noun{
+  font-style:oblique;
+}
+span.verb{
+  font-style:italic;
+}
+span.det{
+  font-size: 40px;
+}
+span.adverb{
+    color:pink
+}
