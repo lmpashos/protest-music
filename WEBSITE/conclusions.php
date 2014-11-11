@@ -15,7 +15,7 @@ $current_page = 'conclusions';
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title><?php echo ucfirst($current_page); ?></title>
     <link href="css/style.css" rel="stylesheet" type="text/css" />
-    <script src="js/index.js"></script>
+    <script src="js/main.js"></script>
 </head>
 <body>
     <div class="wrapper">

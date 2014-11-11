@@ -14,6 +14,7 @@ $current_page = 'index';
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Protest Music</title>
     <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <script src="js/main.js"></script>
     <script src="js/index.js"></script>
 </head>
 

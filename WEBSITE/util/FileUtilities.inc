@@ -26,7 +26,7 @@ class FileUtilities {
     
     $sdir = NULL;
     
-    if (!isset(self::$dir[$path]) || $nocache) { 
+    if(!isset(self::$dir[$path]) || $nocache) { 
       self::$dir[$path] = scandir($path); 
     } 
     

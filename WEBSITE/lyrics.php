@@ -1,11 +1,13 @@
 <?php 
+require_once('util/Constants.inc');
 require_once('util/CommonHTML.inc');
+require_once('util/Lyrics.inc');
 
 ini_set('display_startup_errors',1);
 ini_set('display_errors',1);
 error_reporting(-1);
 
-$current_page = 'data';
+$current_page = 'lyrics';
 
 $era = Constants::ERA_NONE;
 
@@ -24,9 +26,9 @@ if(isset($_GET['era'])) {
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title><?php echo ucfirst($current_page); ?></title>
     <link href="css/style.css" rel="stylesheet" type="text/css" />
-    <link href="css/data.css" rel="stylesheet" type="text/css" />
+    <link href="css/lyrics.css" rel="stylesheet" type="text/css" />
     <script src="js/main.js"></script>
-    <script src="js/data.js"></script>
+    <script src="js/lyrics.js"></script>
 </head>
 <body>
     <div class="wrapper">
@@ -34,10 +36,10 @@ if(isset($_GET['era'])) {
         <h1><?php echo ucfirst($current_page); ?></h1>
         <div class="content">
             <div id="left">
-            	<?php echo CommonHTML::get_song_list($era, true); ?>
+            	<?php echo Lyrics::get_song_list($era, true); ?>
             </div>
             <div id="right">
-            	<?php echo CommonHTML::get_song_list($era, false); ?>
+            	<?php echo Lyrics::get_song_list($era, false); ?>
             </div>
             <div id="center">
             	<div id="protest">
@@ -54,7 +56,6 @@ if(isset($_GET['era'])) {
     </div>
     <form>
         <input type="hidden" value="<?php echo $current_page; ?>" id="current_page_name" />
-        <input type="hidden" value="<?php echo $era; ?>" id="music_era" />
     </form>
 </body>
 </html>
