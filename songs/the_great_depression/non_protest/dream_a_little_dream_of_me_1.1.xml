@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>Dream a Little Dream of Me</title>
@@ -11,25 +11,24 @@
     </metadata>
 
     <lyrics>
-<!--Quote not tagged-->
         <verse>
             <line><nounPhrase><noun>Stars</noun></nounPhrase><verbPhrase><verb>shining</verb> <adjective>bright</adjective> <prepPhrase><prep>above</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line><nounPhrase><adjective>Night</adjective> <noun>breezes</noun></nounPhrase><verbPhrase><verb>seem</verb> <verb>to whisper</verb> </verbPhrase>"I love you"</line>
+            <line><nounPhrase><adjective>Night</adjective> <noun>breezes</noun></nounPhrase><verbPhrase><verb>seem</verb> <verbPhrase><verb>to whisper</verb> "I love you"</verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Birds</noun></nounPhrase><verbPhrase><verb>singing</verb><prepPhrase> <prep>in</prep> <nounPhrase><det>the</det> <adjective>sycamore</adjective> <noun>tree</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
 
         <verse>
-            <line><verbPhrase><verb>Say</verb> "Night-ie night"</verbPhrase> and <verbPhrase><verb>kiss</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
-            <line><verbPhrase><adverb>Just </adverb><verb>hold</verb> <nounPhrase><noun>me</noun> </nounPhrase><adverb>tight</adverb></verbPhrase> and <verbPhrase><verb>tell</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><noun>you</noun></nounPhrase><verb>'ll miss</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
-            <line>While <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>alone</adjective> and <adjective>blue</adjective> as <verb>can</verb> <verb>be</verb></verbPhrase></line>
+            <line><verbPhrase><verb>Say</verb> "Night-ie night" and <verbPhrase><verb>kiss</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><adverb>Just </adverb><verbPhrase><verb>hold</verb> <nounPhrase><noun>me</noun> </nounPhrase><adverb>tight</adverb> and <verbPhrase><verb>tell</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ll miss</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></line>
+            <line>While <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>alone</adjective> and <adjective>blue</adjective> as <verbPhrase><verb>can</verb> <verbPhrase><verb>be</verb></verbPhrase></verbPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
 
         <verse>
-            <line><nounPhrase><noun>Stars</noun> </nounPhrase><verbPhrase><verb>fading</verb></verbPhrase> but <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>linger </verb><prepPhrase><prep>on</prep></prepPhrase></verbPhrase>, <nounPhrase><noun>dear</noun></nounPhrase></line>
+            <line><nounPhrase><noun>Stars</noun> </nounPhrase><verbPhrase><verb>fading</verb> but <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>linger </verb><prepPhrase><prep>on</prep></prepPhrase></verbPhrase></verbPhrase>, <nounPhrase><noun>dear</noun></nounPhrase></line>
             <line>Still <verbPhrase><verb>craving</verb> <nounPhrase><det>your</det> <noun>kiss</noun></nounPhrase></verbPhrase></line>
-            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m longing</verb> <verb>to linger</verb> <prepPhrase><prep>till</prep> <nounPhrase><noun>dawn</noun></nounPhrase></prepPhrase></verbPhrase>, dear</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <verbPhrase><verb>longing</verb> <verbPhrase><verb>to linger</verb> <prepPhrase><prep>till</prep> <nounPhrase><noun>dawn</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></verbPhrase>, dear</line>
             <line>Just <verbPhrase><verb>saying</verb> <nounPhrase><det>this</det></nounPhrase></verbPhrase></line>
         </verse>
 
