@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>Lovely To Look At</title>
@@ -10,19 +10,15 @@
         <notablePerformer>Irene Dunne</notablePerformer>
 
     </metadata>
-<!-- Tagging error - can't have det stand-alone "like this" in prep phrase  -->
     <lyrics>
         <verse>
-            <line><nounPhrase><noun>Clothes</noun></nounPhrase><verbPhrase><verb>must play</verb> <nounPhrase><det>a</det> <noun>part</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Clothes</noun></nounPhrase><verbPhrase><verb>must</verb> <verbPhrase><verb>play</verb> <nounPhrase><det>a</det> <noun>part</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>To light</verb> <nounPhrase><det>an </det><noun>eye</noun></nounPhrase></verbPhrase>, <verbPhrase><verb>to win</verb> <nounPhrase><det>a</det> <noun>heart;</noun></nounPhrase></verbPhrase></line>
-            <!-- schema error - need to allow verb phrases in verb phrases (or tag as quote?) -->
             <line><nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>say</verb> <nounPhrase><det>a</det> <noun>gown</noun></nounPhrase> <verbPhrase><verb>can</verb> <adverb>almost</adverb> <verb>speak,</verb></verbPhrase></verbPhrase> </line>
             <line>If <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>is</verb> <adjective>chic.</adjective></verbPhrase> </line>
-            <!-- tagging ambiguity "should select" or "should" "select"-->
             <line><verbPhrase><verb>Should</verb> <nounPhrase><noun>you</noun> </nounPhrase><verbPhrase><verb>select</verb> <nounPhrase><det>the </det><adjective>right</adjective> <noun>effect,</noun></nounPhrase></verbPhrase></verbPhrase> </line>
-            <!--Negation here-->
-            <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>cannot miss</verb></verbPhrase>, </line>
-            <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>may be</verb> <adjective>sure</adjective></verbPhrase>, </line>
+            <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase neg="true"><verb>cannot</verb> <verbPhrase><verb>miss</verb></verbPhrase></verbPhrase>, </line>
+            <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>may</verb> <verbPhrase><verb>be</verb> <adjective>sure</adjective></verbPhrase></verbPhrase>, </line>
             <line><nounPhrase><noun>He</noun></nounPhrase> <verbPhrase><verb>will tell</verb> <nounPhrase><noun>you</noun> <det>this</det></nounPhrase></verbPhrase>.</line>
 
             <refrainSectionRef sectionRef="1"/>
@@ -31,8 +27,7 @@
         <verse>
             <line><nounPhrase><det>What</det></nounPhrase> <verbPhrase><verb>appeals</verb> <nounPhrase><det>to</det> <noun>me</noun></nounPhrase></verbPhrase> </line>
             <line><verbPhrase><verb>Is</verb> <adjective>just</adjective> <nounPhrase><det>your</det> <noun>charm</noun> and <noun>dignity</noun></nounPhrase></verbPhrase>,</line>
-            <!--Negation-->
-            <line>Not <nounPhrase><det>what</det> <noun>you</noun></nounPhrase><verbPhrase><verb>wear</verb></verbPhrase>, </line>
+            <line>Not <nounPhrase neg="true"><det>what</det> <noun>you</noun></nounPhrase><verbPhrase><verb>wear</verb></verbPhrase>, </line>
             <line>But <nounPhrase><adjective>just</adjective><det> an</det> <noun>air</noun></nounPhrase>, <prepPhrase><prep>of</prep> <adjective>great</adjective> <nounPhrase><noun>repose</noun></nounPhrase></prepPhrase>.</line>
             <line><nounPhrase><noun>You </noun></nounPhrase><verbPhrase><verb>are</verb> <adjective>quite</adjective> <adjective>perfect</adjective> <prepPhrase><prep>from</prep> <nounPhrase><det>your</det> <noun>head</noun></nounPhrase></prepPhrase> <prepPhrase><prep>down</prep> <nounPhrase><det>to</det> <det>your</det> <noun>toes</noun></nounPhrase></prepPhrase></verbPhrase> </line>
             <line>Both <nounPhrase><noun>night</noun> </nounPhrase>and <nounPhrase><noun>day</noun></nounPhrase>, </line>
@@ -59,11 +54,11 @@
         <refrainLine lineID="2"><verbPhrase><adjective>Delightful</adjective> <verb>to know</verb></verbPhrase> and <verbPhrase><adjective>heaven</adjective> <verb>to kiss</verb></verbPhrase>.</refrainLine>
         <refrainLine lineID="3"><nounPhrase><det>A</det> <noun>combination</noun></nounPhrase> <prepPhrase><prep>like </prep><nounPhrase><det>this</det></nounPhrase></prepPhrase>, </refrainLine>
         <refrainLine lineID="4"><verbPhrase><verb>Is</verb> <adjective>quite</adjective> <nounPhrase><det>my</det> <adjective>most</adjective> <adjective>impossible</adjective> <noun>scheme</noun></nounPhrase> <verbPhrase><verb>come</verb> <adjective>true</adjective></verbPhrase></verbPhrase>, </refrainLine>
-        <refrainLine lineID="5"><verbPhrase><verb>Imagine </verb><verb>finding</verb> <nounPhrase><det>a </det><noun>dream</noun></nounPhrase> <prepPhrase><prep>like</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase>! </refrainLine>
-        <refrainLine lineID="6"><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'re</verb> <adjective>lovely</adjective></verbPhrase> <verbPhrase><verb>to look</verb> <prepPhrase><prep>at</prep></prepPhrase></verbPhrase>, </refrainLine>
-        <refrainLine lineID="7"><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <adjective>thrilling</adjective></verbPhrase> to hold you terribly tight. </refrainLine>
+        <refrainLine lineID="5"><verbPhrase><verb>Imagine </verb><verbPhrase><verb>finding</verb> <nounPhrase><det>a </det><noun>dream</noun></nounPhrase> <prepPhrase><prep>like</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>! </refrainLine>
+        <refrainLine lineID="6"><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'re</verb> <adjective>lovely</adjective> <verbPhrase><verb>to look</verb> <prepPhrase><prep>at</prep></prepPhrase></verbPhrase></verbPhrase>, </refrainLine>
+        <refrainLine lineID="7"><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <adjective>thrilling</adjective> <verbPhrase><verb>to hold</verb> <nounPhrase><noun>you</noun></nounPhrase> <adverb>terribly</adverb> <adjective>tight</adjective></verbPhrase></verbPhrase>. </refrainLine>
         <refrainLine lineID="8"><prepPhrase><prep>For</prep> <nounPhrase><noun>we</noun></nounPhrase></prepPhrase><verbPhrase><verb>'re</verb> <adjective>together</adjective></verbPhrase>, <nounPhrase><det>the</det> <noun>moon</noun></nounPhrase> <verbPhrase><verb>is</verb> <adjective>new</adjective></verbPhrase>, </refrainLine>
-        <refrainLine lineID="9">And oh, <nounPhrase><det>it</det></nounPhrase><verbPhrase><verb>'s</verb> <adjective>lovely</adjective></verbPhrase> <verbPhrase><verb>to look</verb> <prepPhrase><prep>at</prep> <nounPhrase><noun>you</noun></nounPhrase> <adverb>tonight!</adverb></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="9">And oh, <nounPhrase><det>it</det></nounPhrase><verbPhrase><verb>'s</verb> <adjective>lovely</adjective> <verbPhrase><verb>to look</verb> <prepPhrase><prep>at</prep> <nounPhrase><noun>you</noun></nounPhrase> <adverb>tonight!</adverb></prepPhrase></verbPhrase></verbPhrase></refrainLine>
 
     </lyrics>
 </song>
