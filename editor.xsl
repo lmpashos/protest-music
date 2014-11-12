@@ -10,9 +10,26 @@
                 <link rel="stylesheet" type="text/css" href="editor.css"/>
             </head>
             <body>
-                <xsl:apply-templates/>
+                <ul>
+                    <xsl:for-each select="song/metadata/*">
+                        <li>
+                            <xsl:value-of select="current()"></xsl:value-of>
+                        </li>
+                    </xsl:for-each>
+                </ul>
+                <xsl:apply-templates select="song/lyrics"/>
             </body>
         </html>
+    </xsl:template>
+    <xsl:template match="lyrics">
+        <xsl:for-each select="verse">
+            <xsl:for-each select="line">
+                <p>
+                    <xsl:apply-templates/>
+                </p>
+            </xsl:for-each>
+            <br/>
+        </xsl:for-each>
     </xsl:template>
     <xsl:template match="nounPhrase">
         <span class="nounPhrase">
