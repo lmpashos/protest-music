@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>(what Did I Do to be So) Black and Blue</title>
@@ -20,21 +20,21 @@
 
             <line>Even <nounPhrase><det>the</det> <noun>mouse</noun></nounPhrase></line>
             <line><verbPhrase><verb>Ran</verb> <prepPhrase><prep>from</prep> <nounPhrase><det>my</det> <noun>house</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
-            <line><nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>laugh</verb> <prepPhrase><prep>at</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase> and <verbPhrase><verb>scorn</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase> too</line>
+            <line><nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>laugh</verb> <prepPhrase><prep>at</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase> and <verbPhrase><verb>scorn</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase></verbPhrase> too</line>
             <refrainSectionRef sectionRef="1"/>
 
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>white</adjective> <adverb>inside</adverb></verbPhrase></line>
-            <line>But <nounPhrase><det>that</det></nounPhrase> <verbPhrase><verb>don't</verb> <verb>help</verb> <nounPhrase><det>my</det> <noun>case</noun></nounPhrase></verbPhrase></line>
-            <line>Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase> <verb>can't</verb> <verb>hide</verb></verbPhrase></line>
+            <line>But <nounPhrase><det>that</det></nounPhrase> <verbPhrase neg="true"><verb>don't</verb> <verbPhrase><verb>help</verb> <nounPhrase><det>my</det> <noun>case</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line>Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase neg="true"> <verb>can't</verb> <verbPhrase><verb>hide</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><det>What</det></nounPhrase> <verbPhrase><verb>is</verb> <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>face</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>How <verbPhrase><verb>will</verb> <nounPhrase><noun>it</noun></nounPhrase> <verb>end</verb></verbPhrase></line>
-            <line>Ain't <verbPhrase><verb>got</verb> <nounPhrase><det>a </det><noun>friend</noun></nounPhrase></verbPhrase></line>
+            <line>How <verbPhrase><verb>will</verb> <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>end</verb></verbPhrase></verbPhrase></line>
+            <line><verbPhrase neg="true"><verb>Ain't</verb> <verbPhrase><verb>got</verb> <nounPhrase><det>a </det><noun>friend</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><det>My</det><adjective>only</adjective> <noun>sin</noun></nounPhrase></line>
             <line>is <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>skin</noun></nounPhrase></prepPhrase></line>
             <refrainSectionRef sectionRef="1"/>
 
-            <line>How <verbPhrase><verb>will</verb> <nounPhrase><noun>it</noun></nounPhrase> <verb>end</verb></verbPhrase></line>
-            <line>Ain't <verbPhrase><verb>got</verb> <nounPhrase><det>a </det><noun>friend</noun></nounPhrase></verbPhrase></line>
+            <line>How <verbPhrase><verb>will</verb> <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>end</verb></verbPhrase></verbPhrase></line>
+            <line><verbPhrase neg="true"><verb>Ain't</verb> <verbPhrase><verb>got</verb> <nounPhrase><det>a </det><noun>friend</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><det>My</det><adjective>only</adjective> <noun>sin</noun></nounPhrase></line>
             <line>is <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>skin</noun></nounPhrase></prepPhrase></line>
             <refrainSectionRef sectionRef="1"/>
@@ -44,7 +44,7 @@
             <refrainLineRef lineRef="1"/>
         </refrainSection>
 
-        <refrainLine lineID="1">What <verbPhrase><verb>did</verb> <nounPhrase><noun>I</noun></nounPhrase> <verb>do</verb> </verbPhrase><verbPhrase><verb>to be</verb> <adverb>so</adverb> <adjective>black</adjective> and <adjective>blue</adjective></verbPhrase>?</refrainLine>
+        <refrainLine lineID="1">What <verbPhrase><verb>did</verb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>do</verb> <verbPhrase><verb>to be</verb> <adverb>so</adverb> <adjective>black</adjective> and <adjective>blue</adjective></verbPhrase></verbPhrase></verbPhrase>?</refrainLine>
 
     </lyrics>
 </song>
