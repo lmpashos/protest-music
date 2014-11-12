@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>Night and Day</title>
@@ -31,13 +30,13 @@
             <line><nounPhrase><noun>night</noun></nounPhrase> and <nounPhrase><noun>day</noun></nounPhrase>, <nounPhrase><noun>you</noun> </nounPhrase><verbPhrase><verb>are</verb> <nounPhrase><det>the</det> <noun>one</noun></nounPhrase></verbPhrase></line>
             <line>Only <nounPhrase><noun>you</noun></nounPhrase><prepPhrase><prep>beneath </prep><nounPhrase><det>the</det> <noun>moon</noun></nounPhrase> </prepPhrase>and <prepPhrase><prep>under </prep><nounPhrase><det>the</det> <noun>sun</noun></nounPhrase></prepPhrase></line>
             <line>Whether <prepPhrase><prep>near to</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase> or <prepPhrase><prep>far</prep></prepPhrase></line>
-            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> no <nounPhrase><noun>matter</noun>,</nounPhrase></verbPhrase> <nounPhrase><noun>darling</noun></nounPhrase>, where <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>are</verb></verbPhrase></line>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> no <nounPhrase neg="true"><noun>matter</noun>,</nounPhrase> <nounPhrase><noun>darling</noun></nounPhrase>, where <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>are</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <prepPhrase><prep>of</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
         </verse>
 
         <verse>
-            <line><nounPhrase><noun>night</noun></nounPhrase> and <nounPhrase><noun>day</noun></nounPhrase>, <nounPhrase><noun>day</noun></nounPhrase> and <nounPhrase><noun>night</noun></nounPhrase>, why is it so</line>
-            <line>That <nounPhrase><det>this</det> <noun>longing</noun></nounPhrase> <prepPhrase><prep>for</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase> <verbPhrase><verb>follows</verb> <adverb>wherever</adverb><nounPhrase><noun>I</noun></nounPhrase><verb>go</verb></verbPhrase></line>
+            <line><nounPhrase><noun>night</noun></nounPhrase> and <nounPhrase><noun>day</noun></nounPhrase>, <nounPhrase><noun>day</noun></nounPhrase> and <nounPhrase><noun>night</noun></nounPhrase>, why <verbPhrase><verb>is</verb> <nounPhrase><det>it</det></nounPhrase> <adverb>so</adverb></verbPhrase></line>
+            <line>That <nounPhrase><det>this</det> <noun>longing</noun></nounPhrase> <prepPhrase><prep>for</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase> <verbPhrase><verb>follows</verb> <adverb>wherever</adverb><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>go</verb></verbPhrase></verbPhrase></line>
             <line><prepPhrase><prep>In</prep> <nounPhrase><det>the</det> <adjective>roaring</adjective> <noun>traffic</noun></nounPhrase><nounPhrase><det>'s</det> <noun>boom</noun></nounPhrase></prepPhrase></line>
             <line><prepPhrase><prep>In</prep> <nounPhrase><det>the</det> <noun>silence</noun></nounPhrase></prepPhrase> <prepPhrase><prep>of</prep> <nounPhrase><det>my</det> <adjective>lonely</adjective> <noun>room</noun></nounPhrase></prepPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <prepPhrase><prep>of</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
@@ -45,10 +44,9 @@
 
         <verse>
             <line><nounPhrase><noun>night</noun></nounPhrase> and <nounPhrase><noun>day</noun></nounPhrase>, <nounPhrase><noun>night</noun></nounPhrase> and <nounPhrase><noun>day</noun></nounPhrase>, <prepPhrase><prep>under</prep> <nounPhrase><det>the</det> <noun>hide </noun></nounPhrase></prepPhrase><prepPhrase><prep>of</prep><nounPhrase><noun>me</noun></nounPhrase></prepPhrase></line>
-            <line><nounPhrase><det>There</det></nounPhrase><verbPhrase><verb>'s</verb> an, oh, <nounPhrase><adjective>such</adjective> <det>a</det> <adjective>hungry</adjective> <noun>yearning</noun></nounPhrase></verbPhrase> <verbPhrase><verb>burning</verb> <prepPhrase><prep>inside</prep> <prep>of</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>And <nounPhrase><det>this</det> <noun>torment</noun></nounPhrase> <verbPhrase><verb>won't be</verb> <adverb>through</adverb></verbPhrase></line>
-          <!--Verb tagged wrong-->  
-            <line>'Til <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>let</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase><verbPhrase> <verb>spend</verb> <nounPhrase><det>my</det> <noun>life</noun></nounPhrase></verbPhrase> <verbPhrase><verb>making love</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>There</det></nounPhrase><verbPhrase><verb>'s</verb> an, oh, <nounPhrase><adjective>such</adjective> <det>a</det> <adjective>hungry</adjective> <noun>yearning</noun></nounPhrase> <verbPhrase><verb>burning</verb> <prepPhrase><prep>inside</prep> <prep>of</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <line>And <nounPhrase><det>this</det> <noun>torment</noun></nounPhrase> <verbPhrase neg="true"><verb>won't be</verb> <adverb>through</adverb></verbPhrase></line>
+            <line>'Til <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>let</verb> <nounPhrase><noun>me</noun></nounPhrase><verbPhrase> <verb>spend</verb> <nounPhrase><det>my</det> <noun>life</noun></nounPhrase> <verbPhrase><verb>making love</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Day</noun></nounPhrase> and <nounPhrase><noun>night</noun></nounPhrase>, <nounPhrase><noun>night</noun></nounPhrase> and <nounPhrase><noun>day</noun></nounPhrase></line>
         </verse>
     </lyrics>
