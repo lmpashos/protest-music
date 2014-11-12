@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
 <metadata>
 <title>The Way You Look Tonight</title>
@@ -14,14 +14,14 @@
 <verse>
 <line>Some day, when <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adverb>awfully</adverb> <adjective>low</adjective></verbPhrase></line>
 <line>When <nounPhrase><det>the </det><noun>world</noun></nounPhrase><verbPhrase><verb>is</verb> <adjective>cold</adjective></verbPhrase></line>
-<line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>will feel</verb> <nounPhrase><det>a</det> <noun>glow</noun> </nounPhrase></verbPhrase>just <verbPhrase><verb>thinking</verb> <prepPhrase><prep>of</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+<line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>will feel</verb> <nounPhrase><det>a</det> <noun>glow</noun> </nounPhrase><adverb>just</adverb> <verbPhrase><verb>thinking</verb> <prepPhrase><prep>of</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
 <line>And <nounPhrase><det>the</det> <noun>way</noun></nounPhrase> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>look</verb> <adverb>tonight</adverb></verbPhrase></line>
 </verse>
 
 <verse>
 <line>Oh but <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb> <adjective>lovely</adjective> <prepPhrase><prep>with</prep> <nounPhrase><det>your</det> <noun>smile</noun> <adjective>so</adjective> <adjective>warm</adjective></nounPhrase></prepPhrase></verbPhrase></line>
 <line>And <nounPhrase><det>your</det> <noun>cheeks</noun> <adjective>so</adjective> <adjective>soft</adjective></nounPhrase></line>
-<line><nounPhrase><det>There</det></nounPhrase><verbPhrase><verb> is</verb> nothing <prepPhrase><prep>for</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase> but <verbPhrase><verb>to love</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase></line>
+<line><nounPhrase><det>There</det></nounPhrase><verbPhrase><verb> is</verb> <nounPhrase neg="true"><noun>nothing</noun></nounPhrase> <prepPhrase><prep>for</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase> but <verbPhrase><verb>to love</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase></verbPhrase></line>
 <line>Just <nounPhrase><det>the</det> <noun>way</noun></nounPhrase><nounPhrase> <noun>you</noun> </nounPhrase><verbPhrase><verb>look</verb> <adverb>tonight</adverb></verbPhrase></line>
 </verse>
 
@@ -35,9 +35,9 @@
 <verse>
 <line><nounPhrase><noun>Lovely</noun> </nounPhrase><verbPhrase><adverb>never</adverb>, <adverb>never </adverb><verb>change</verb></verbPhrase></line>
 <line><verbPhrase><verb>Keep</verb> </verbPhrase><nounPhrase><det>that</det> <adjective>breathless</adjective> <noun>charm</noun></nounPhrase></line>
-<line>Oh <verbPhrase><verb>won't</verb> <nounPhrase><noun>you</noun></nounPhrase> <adverb>please</adverb><verb> arrange</verb> <nounPhrase><noun>it</noun></nounPhrase></verbPhrase>?</line>
-<line>'Cause <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>love</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase> just <nounPhrase><det>the</det> <noun>way</noun> </nounPhrase><nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>look</verb> <adverb>tonight</adverb></verbPhrase></line>
-    <line>just <nounPhrase><det>the</det> <noun>way</noun> </nounPhrase><nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>look</verb> <adverb>tonight</adverb></verbPhrase></line>
+<line>Oh <verbPhrase neg="true"><verb>won't</verb> <nounPhrase><noun>you</noun></nounPhrase> <adverb>please</adverb><verbPhrase><verb> arrange</verb> <nounPhrase><noun>it</noun></nounPhrase></verbPhrase></verbPhrase>?</line>
+<line>'Cause <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>love</verb> <nounPhrase><noun>you</noun></nounPhrase> <adverb>just</adverb> <nounPhrase><det>the</det> <noun>way</noun> </nounPhrase><nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>look</verb> <adverb>tonight</adverb></verbPhrase></verbPhrase></line>
+<line><adverb>just</adverb><nounPhrase><det>the</det> <noun>way</noun> </nounPhrase><nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>look</verb> <adverb>tonight</adverb></verbPhrase></line>
 </verse>
 
 </lyrics>
