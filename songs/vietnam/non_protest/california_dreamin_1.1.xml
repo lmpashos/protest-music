@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../Documents/School%20Work/Digital%20Humanities/protest-music/schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>California Dreamin'</title>
@@ -13,26 +13,26 @@
     <lyrics>
         <verse>
             <line><nounPhrase><det>All</det> <det>the</det> <noun>leaves</noun></nounPhrase> <verbPhrase><verb>are</verb> <adjective>brown</adjective></verbPhrase> and <nounPhrase><det>the</det> <noun>sky</noun></nounPhrase> <verbPhrase><verb>is</verb> <adjective>gray</adjective></verbPhrase>.</line>
-            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ve</verb> <verb>been</verb></verbPhrase> <prepPhrase><prep>for</prep> <nounPhrase><det>a</det> <noun>walk</noun></nounPhrase></prepPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>a</det> <adjective>winter's</adjective> <noun>day</noun></nounPhrase></prepPhrase>.</line>
-            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d</verb> <verb>be</verb> <adjective>safe</adjective> and <adjective>warm</adjective></verbPhrase> if <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun>L.A</noun></nounPhrase></prepPhrase></verbPhrase>.;</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ve been </verb> <prepPhrase><prep>for</prep> <nounPhrase><det>a</det> <noun>walk</noun></nounPhrase></prepPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>a</det> <adjective>winter</adjective></nounPhrase><nounPhrase><det>'s</det> <noun>day</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d be </verb> <adjective>safe</adjective> and <adjective>warm</adjective></verbPhrase> if <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun>L.A</noun></nounPhrase></prepPhrase></verbPhrase>.;</line>
             <refrainLineRef lineRef="1"/>
         </verse>
         <verse>
             <line><verbPhrase><verb>Stopped</verb> <prepPhrase><prep>into</prep> <nounPhrase><det>a</det> <noun>church</noun></nounPhrase></prepPhrase></verbPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>passed</verb> <prepPhrase><prep>along</prep> <nounPhrase><det>the</det> <noun>way</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
-            <line>Well <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>got</verb> <adverb>down</adverb></verbPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>knees</noun></nounPhrase></prepPhrase> and <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>pretend</verb> to <verb>pray</verb></verbPhrase>.</line>
-            <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><det>the</det> <noun>preacher</noun></nounPhrase></verbPhrase> <verbPhrase><verb>liked</verb> <nounPhrase><det>the</det> <noun>cold</noun></nounPhrase></verbPhrase>;</line>
-            <line><nounPhrase><noun>He</noun></nounPhrase> <verbPhrase><verb>knows</verb></verbPhrase> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <verb>gonna</verb> <verb>stay</verb></verbPhrase>.</line>
+            <line>Well <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>got</verb> <adverb>down</adverb> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>knees</noun></nounPhrase></prepPhrase></verbPhrase> and <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>pretend</verb><verbPhrase><verb>to pray</verb></verbPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><det>the</det> <noun>preacher</noun></nounPhrase> <verbPhrase><verb>liked</verb> <nounPhrase><det>the</det> <noun>cold</noun></nounPhrase></verbPhrase></verbPhrase>;</line>
+            <line><nounPhrase><noun>He</noun></nounPhrase> <verbPhrase><verb>knows</verb> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <verbPhrase><verb>gonna</verb> <verbPhrase><verb>stay</verb></verbPhrase></verbPhrase></verbPhrase></verbPhrase>.</line>
             <refrainLineRef lineRef="1"/>
         </verse>
         <verse>
             <line><nounPhrase><det>All</det> <det>the</det> <noun>leaves</noun></nounPhrase> <verbPhrase><verb>are</verb> <adjective>brown</adjective></verbPhrase> and <nounPhrase><det>the</det> <noun>sky</noun></nounPhrase> <verbPhrase><verb>is</verb> <adjective>gray</adjective></verbPhrase>.</line>
-            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ve</verb> <verb>been</verb> <prepPhrase><prep>for</prep> <nounPhrase><det>a</det> <noun>walk</noun></nounPhrase></prepPhrase></verbPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>a</det> <adjective>winter's</adjective> <noun>day</noun></nounPhrase></prepPhrase>.</line>
-            <line>If <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>didn't</verb> <verb>tell</verb> <nounPhrase><noun>her</noun></nounPhrase></verbPhrase> <nounPhrase>I</nounPhrase> <verbPhrase><verb>could</verb> <verb>leave</verb> <adverb>today</adverb></verbPhrase>;</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ve been</verb> <prepPhrase><prep>for</prep> <nounPhrase><det>a</det> <noun>walk</noun></nounPhrase></prepPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>a</det> <adjective>winter</adjective></nounPhrase><nounPhrase><det>'s</det> <noun>day</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <line>If <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>didn't</verb> <verbPhrase><verb>tell</verb> <nounPhrase><noun>her</noun></nounPhrase></verbPhrase></verbPhrase> <nounPhrase>I</nounPhrase> <verbPhrase><verb>could</verb> <verbPhrase><verb>leave</verb> <adverb>today</adverb></verbPhrase></verbPhrase>;</line>
             <refrainLineRef lineRef="1"/>
             <refrainLineRef lineRef="1"/>
             <refrainLineRef lineRef="1"/>
         </verse>
         
-        <refrainLine lineID="1"><nounPhrase><adjective>California</adjective> <noun>dreamin'</noun></nounPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>such</det> <det>a</det> <adjective>winter's</adjective> <noun>day</noun></nounPhrase></prepPhrase>.</refrainLine>
+        <refrainLine lineID="1"><nounPhrase><adjective>California</adjective> <noun>dreamin'</noun></nounPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>such</det> <det>a</det> <adjective>winter</adjective></nounPhrase> <nounPhrase><det>'s</det><noun>day</noun></nounPhrase></prepPhrase>.</refrainLine>
     </lyrics>
 </song>
