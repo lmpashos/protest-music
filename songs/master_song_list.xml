@@ -68,7 +68,7 @@
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Blowin' down This Road</title>
-        <lyric_filename> blowin'_down_this_road_1.1.xml</lyric_filename>
+        <lyric_filename>blowin_down_this_road_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source></lyric_source>
     </song>
@@ -134,7 +134,7 @@
     </song>
     <song era="vietnam" is_protest="false">
         <title>I Want To Hold Your Hand</title>
-        <lyric_filename>i_want_to_hold_your_hand_1.0.xml</lyric_filename>
+        <lyric_filename>i_want_to_hold_your_hand_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source></lyric_source>
     </song>
