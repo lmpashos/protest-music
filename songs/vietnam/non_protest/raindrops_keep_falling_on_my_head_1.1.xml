@@ -10,25 +10,31 @@
     <genre>soft rock</genre>
     <notablePerformer>B. J. Thomas</notablePerformer>
 </metadata>
-    <lyrics><verse>
+    <lyrics>
+        
+<verse>
 <refrainLineRef lineRef="1"/>
 <line>Just like the guy whose feet are too big for his bed</line>
-<line><nounPhrase><noun>Nothing</noun></nounPhrase> <verbPhrase><verb>seems</verb> to <verb>fit</verb></verbPhrase></line>
-<line>Oh, <nounPhrase><noun>raindrops</noun></nounPhrase> <verbPhrase><verb>keep</verb> <verb>fallin'</verb></verbPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>head</noun></nounPhrase></prepPhrase></line>
-<line><verbPhrase><verb>Keep</verb> a-<verb>fallin'</verb></verbPhrase></line>
-</verse><verse>
-<line>Cause <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><adverb>just</adverb> <verb>done</verb> <nounPhrase><noun>me</noun></nounPhrase> <adverb>some</adverb> <verb>talking</verb></verbPhrase> <prepPhrase><prep>to</prep> <nounPhrase><det>the</det> <noun>sun</noun></nounPhrase></prepPhrase></line>
-<line>And <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>said</verb> <nounPhrase>I</nounPhrase> <verb>didn't</verb> <verb>like</verb> <nounPhrase><det>the</det> <noun>way</noun></nounPhrase></verbPhrase> <nounPhrase><noun>he</noun></nounPhrase> <verbPhrase><verb>got</verb> <nounPhrase><noun>things</noun></nounPhrase> <verb>done</verb></verbPhrase></line>
+<line><nounPhrase><noun>Nothing</noun></nounPhrase> <verbPhrase><verb>seems</verb> <verbPhrase><verb>to fit</verb></verbPhrase></verbPhrase></line>
+<line>Oh, <nounPhrase><noun>raindrops</noun></nounPhrase> <verbPhrase><verb>keep</verb> <verbPhrase><verb>fallin'</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>head</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+<line><verbPhrase><verb>Keep</verb> <verbPhrase><verb>a-fallin'</verb></verbPhrase></verbPhrase></line>
+</verse>
+
+<verse>
+<line>Cause <nounPhrase><noun>I</noun></nounPhrase> <adverb>just</adverb> <verbPhrase><verb>done</verb> <nounPhrase><noun>me</noun></nounPhrase> <adverb>some</adverb> <verbPhrase><verb>talking</verb> <prepPhrase><prep>to</prep> <nounPhrase><det>the</det> <noun>sun</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+<line>And <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>said</verb> <nounPhrase>I</nounPhrase> <verbPhrase neg="true"><verb>didn't</verb> <verbPhrase><verb>like</verb> <nounPhrase><det>the</det> <noun>way</noun></nounPhrase> <nounPhrase><noun>he</noun></nounPhrase> <verbPhrase><verb>got</verb> <nounPhrase><noun>things</noun></nounPhrase> <verbPhrase><verb>done</verb></verbPhrase></verbPhrase></verbPhrase></verbPhrase></verbPhrase></line>
 <line><verbPhrase><verb>Sleeping</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>the</det> <noun>job</noun></nounPhrase></prepPhrase></verbPhrase></line>
-    <line>Oh, <nounPhrase><noun>raindrops</noun></nounPhrase> <verbPhrase><verb>keep</verb> <verb>fallin'</verb></verbPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>head</noun></nounPhrase></prepPhrase></line>
-    <line><verbPhrase><verb>Keep</verb> a-<verb>fallin'</verb></verbPhrase></line>
-</verse><verse>
-<line>But <nounPhrase><noun>there</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><adjective>one</adjective> <noun>thing</noun></nounPhrase></verbPhrase> <nounPhrase><adjective>I</adjective></nounPhrase> <verbPhrase><verb>know</verb></verbPhrase></line>
-<line><nounPhrase><det>The</det> <noun>blues</noun> they</nounPhrase> <verbPhrase><verb>send</verb> to <verb>meet</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
-<line><verbPhrase neg="true"><verb>Won't</verb> <verb>defeat</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
-<line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase neg="true"><verb>won't</verb> <verb>be</verb> <nounPhrase><noun>long</noun></nounPhrase></verbPhrase> <prepPhrase><prep>till</prep> <nounPhrase><noun>happiness</noun></nounPhrase></prepPhrase></line>
-<line><verbPhrase><verb>Comes</verb> <adverb>up</adverb> to <verb>greet</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
-<line><verbPhrase>To <verb>greet</verb> <verb>greet</verb> <verb>greet</verb> <verb>greet</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+<line>Oh, <nounPhrase><noun>raindrops</noun></nounPhrase> <verbPhrase><verb>keep</verb> <verbPhrase><verb>fallin'</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>head</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+<line><verbPhrase><verb>Keep</verb> <verbPhrase><verb>a-fallin'</verb></verbPhrase></verbPhrase></line>
+</verse>
+
+<verse>
+<line>But <nounPhrase><noun>there</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>one</det> <noun>thing</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>know</verb></verbPhrase></verbPhrase></line>
+<line><nounPhrase><det>The</det> <noun>blues</noun></nounPhrase> <nounPhrase><noun>they</noun></nounPhrase> <verbPhrase><verb>send</verb> <verbPhrase><verb>to meet</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></line>
+<line><verbPhrase neg="true"><verb>Won't</verb> <verbPhrase><verb>defeat</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></line>
+<line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase neg="true"><verb>won't</verb> <verbPhrase><verb>be</verb> <adverb>long</adverb> <prepPhrase><prep>till</prep> <nounPhrase><noun>happiness</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+<line><verbPhrase><verb>Comes</verb> <adverb>up</adverb> <verbPhrase><verb>to greet</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></line>
+<line><verbPhrase><verb>To greet</verb> <verbPhrase><verb>greet</verb> <verbPhrase><verb>greet</verb> <verbPhrase><verb>greet</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></verbPhrase></line>
 </verse><verse>
 <refrainSectionRef sectionRef="1"/>
 </verse><verse>
@@ -51,12 +57,12 @@
         <refrainLineRef lineRef="4"/>
     </refrainSection>
         
-        <refrainLine lineID="1"><nounPhrase><noun>Raindrops</noun></nounPhrase> <verbPhrase><adverb>keep</adverb> <verb>fallin'</verb></verbPhrase> <prepPhrase><adverb>on</adverb> <nounPhrase>my head</nounPhrase></prepPhrase></refrainLine>
-        <refrainLine lineID="2">But <nounPhrase><noun>that</noun></nounPhrase> <verbPhrase neg="true"><verb>doesn't</verb> <verb>mean</verb> <nounPhrase><det>my</det> <noun>eyes</noun></nounPhrase></verbPhrase> <verbPhrase><verb>will</verb> <adverb>soon</adverb> <verb>be</verb> <verb>turning</verb> <adjective>red</adjective></verbPhrase></refrainLine>
-        <refrainLine lineID="3"><nounPhrase><noun>Crying</noun></nounPhrase><verbPhrase><verb>'s</verb> not <prepPhrase><prep>for</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
-        <refrainLine lineID="4">Cause <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> <verb>gonna</verb> <verb>stop</verb> <nounPhrase><det>the</det> <noun>rain</noun></nounPhrase></verbPhrase> <prepPhrase><prep>by</prep> <verb>complaining</verb></prepPhrase></refrainLine>
+        <refrainLine lineID="1"><nounPhrase><noun>Raindrops</noun></nounPhrase> <adverb>keep</adverb> <verbPhrase><verb>fallin'</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>head</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="2">But <nounPhrase><noun>that</noun></nounPhrase> <verbPhrase neg="true"><verb>doesn't</verb> <verbPhrase><verb>mean</verb> <nounPhrase><det>my</det> <noun>eyes</noun></nounPhrase></verbPhrase> <verbPhrase><verb>will</verb> <adverb>soon</adverb> <verb>be</verb> <verbPhrase><verb>turning</verb> <adjective>red</adjective></verbPhrase></verbPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="3"><nounPhrase><noun>Crying</noun></nounPhrase><verbPhrase neg="true"><verb>'s</verb> not <prepPhrase><prep>for</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="4">Cause <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> <verbPhrase><verb>gonna</verb> <verbPhrase><verb>stop</verb> <nounPhrase><det>the</det> <noun>rain</noun></nounPhrase> by <verbPhrase><verb>complaining</verb></verbPhrase></verbPhrase></verbPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="5">Because <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>free</adjective></verbPhrase></refrainLine>
-        <refrainLine lineID="6"><nounPhrase><noun>Nothing</noun></nounPhrase><verbPhrase><verb>'s</verb> <verb>bothering</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="6"><nounPhrase><noun>Nothing</noun></nounPhrase><verbPhrase><verb>'s bothering</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></refrainLine>
     </lyrics>
     
 </song>
