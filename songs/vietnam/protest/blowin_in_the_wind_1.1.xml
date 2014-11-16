@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>Blowin' in the Wind"</title>
@@ -14,11 +14,11 @@
             <line><nounPhrase>How many <noun>roads</noun></nounPhrase>
                 <verbPhrase><verb>must</verb>
                     <det>a</det>
-                    <nounPhrase><noun>man</noun></nounPhrase></verbPhrase>
+                    <nounPhrase><noun>man</noun></nounPhrase>
                 <verbPhrase><verb>walk</verb>
-                    <det>down</det></verbPhrase></line>
-            <line><prepPhrase><prep>Before</prep>
-                    <nounPhrase><noun>you</noun></nounPhrase></prepPhrase>
+                    <det>down</det></verbPhrase></verbPhrase></line>
+            <line><adverb>Before</adverb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
                 <verbPhrase><verb>call</verb>
                     <nounPhrase><noun>him</noun>
                         <det>a</det>
@@ -29,9 +29,9 @@
                     <nounPhrase><det>a</det>
                         <adjective>white</adjective>
                         <noun>dove</noun></nounPhrase>
-                    <verb>sail</verb></verbPhrase></line>
-            <line><prepPhrase><prep>Before</prep>
-                    <nounPhrase><noun>she</noun></nounPhrase></prepPhrase>
+                    <verbPhrase><verb>sail</verb></verbPhrase></verbPhrase></line>
+            <line><adverb>Before</adverb>
+                    <nounPhrase><noun>she</noun></nounPhrase>
                 <verbPhrase><verb>sleeps</verb>
                     <prepPhrase><prep>in</prep>
                         <nounPhrase><det>the</det>
@@ -42,7 +42,7 @@
                     <nounPhrase><det>the</det>
                         <noun>cannonballs</noun></nounPhrase>
                     <verb>fly</verb></verbPhrase></line>
-            <line>Before they’re forever banned?</line>
+            <line><adverb>Before</adverb> <nounPhrase><noun>they</noun></nounPhrase><verbPhrase><verb>’re</verb> <adverb>forever</adverb> <verbPhrase><verb>banned</verb></verbPhrase></verbPhrase>?</line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
 
@@ -53,34 +53,34 @@
                     <nounPhrase><det>a</det>
                         <noun>mountain</noun></nounPhrase>
                     <verb>exist</verb></verbPhrase></line>
-            <line><prepPhrase><prep>Before</prep>
-                    <nounPhrase><noun>it</noun></nounPhrase></prepPhrase><verbPhrase><verb>’s</verb>
-                    <verb>washed</verb></verbPhrase>
+            <line><adverb>Before</adverb>
+                    <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>’s
+                    washed</verb>
                 <prepPhrase><prep>to</prep>
                     <nounPhrase><det>the</det>
-                        <noun>sea</noun></nounPhrase></prepPhrase>?</line>
+                        <noun>sea</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
             <line><nounPhrase>Yes, ’n’ how <det>many</det>
                     <noun>years</noun></nounPhrase>
                 <verbPhrase><verb>can</verb>
                     <nounPhrase><det>some</det>
                         <noun>people</noun></nounPhrase>
                     <verb>exist</verb></verbPhrase></line>
-            <line><prepPhrase><prep>Before</prep>
-                    <nounPhrase><noun>they</noun></nounPhrase></prepPhrase><verbPhrase><verb>’re</verb>
-                    <verb>allowed</verb></verbPhrase>
-                <prepPhrase><prep>to</prep> be <adverb>free</adverb></prepPhrase>?</line>
+            <line><adverb>Before</adverb>
+                    <nounPhrase><noun>they</noun></nounPhrase><verbPhrase><verb>’re</verb>
+                    <verbPhrase><verb>allowed</verb>
+                <verbPhrase><verb>to be</verb> <adverb>free</adverb></verbPhrase></verbPhrase></verbPhrase>?</line>
             <line><nounPhrase>Yes, ’n’ how <det>many</det>
                     <noun>times</noun></nounPhrase>
                 <verbPhrase><verb>can</verb>
                     <nounPhrase><det>a</det>
-                        <noun>man</noun></nounPhrase></verbPhrase>
-                <verbPhrase>turn <nounPhrase><det>his</det>
-                        <noun>head</noun></nounPhrase></verbPhrase></line>
+                        <noun>man</noun></nounPhrase>
+                <verbPhrase><verb>turn</verb> <nounPhrase><det>his</det>
+                        <noun>head</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Pretending</verb>
-                    <nounPhrase><noun>he</noun></nounPhrase></verbPhrase>
-                <verbPhrase neg="true"><adverb>just</adverb>
+                    <nounPhrase><noun>he</noun></nounPhrase></verbPhrase><adverb>just</adverb>
+                <verbPhrase neg="true">
                     <verb>doesn’t</verb>
-                    <verb>see</verb></verbPhrase>?</line>
+                    <verbPhrase><verb>see</verb></verbPhrase></verbPhrase>?</line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
 
@@ -89,34 +89,34 @@
                     <noun>times</noun></nounPhrase>
                 <verbPhrase><verb>must</verb>
                     <nounPhrase><det>a</det>
-                        <noun>man</noun></nounPhrase></verbPhrase>
+                        <noun>man</noun></nounPhrase>
                 <verbPhrase><verb>look</verb>
-                    <adverb>up</adverb></verbPhrase></line>
-            <line><prepPhrase><prep>Before</prep>
-                    <nounPhrase><noun>he</noun></nounPhrase></prepPhrase>
+                    <adverb>up</adverb></verbPhrase></verbPhrase></line>
+            <line><adverb>Before</adverb>
+                    <nounPhrase><noun>he</noun></nounPhrase>
                 <verbPhrase><verb>can</verb>
-                    <verb>see</verb>
-                    <det>the</det>
-                    <nounPhrase><noun>sky</noun></nounPhrase></verbPhrase>?</line>
+                    <verbPhrase><verb>see</verb>
+                    <nounPhrase><det>the</det>
+                    <noun>sky</noun></nounPhrase></verbPhrase></verbPhrase>?</line>
             <line><nounPhrase>Yes, ’n’ how <det>many</det>
                     <noun>ears</noun></nounPhrase>
                 <verbPhrase><verb>must</verb>
                     <nounPhrase><det>one</det>
                         <noun>man</noun></nounPhrase>
-                    <verb>have</verb></verbPhrase></line>
-            <line><prepPhrase><prep>Before</prep>
-                    <nounPhrase><noun>he</noun></nounPhrase></prepPhrase>
+                    <verbPhrase><verb>have</verb></verbPhrase></verbPhrase></line>
+            <line><adverb>Before</adverb>
+                    <nounPhrase><noun>he</noun></nounPhrase>
                 <verbPhrase><verb>can</verb>
-                    <verb>hear</verb>
+                    <verbPhrase><verb>hear</verb>
                     <nounPhrase><noun>people</noun></nounPhrase>
-                    <verb>cry</verb></verbPhrase>?</line>
+                    <verbPhrase><verb>cry</verb></verbPhrase></verbPhrase></verbPhrase>?</line>
             <line><nounPhrase>Yes, ’n’ how <det>many</det>
-                    <noun>deaths</noun></nounPhrase> will it take till he knows</line>
+                    <noun>deaths</noun></nounPhrase> <verbPhrase><verb>will it take</verb></verbPhrase> <adverb>till</adverb> <nounPhrase><noun>he</noun></nounPhrase> <verbPhrase><verb>knows</verb></verbPhrase></line>
             <line><nounPhrase>That <adjective>too</adjective>
                     <adjective>many</adjective>
                     <noun>people</noun></nounPhrase>
-                <verbPhrase><verb>have</verb>
-                    <verb>died</verb></verbPhrase>?</line>
+                <verbPhrase><verb>have
+                    died</verb></verbPhrase>?</line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
 
@@ -128,16 +128,16 @@
         <refrainLine lineID="1"><nounPhrase><det>The</det>
                 <noun>answer</noun></nounPhrase>, <nounPhrase><det>my</det>
                 <noun>friend</noun></nounPhrase>, <verbPhrase><verb>is</verb>
-                <verb>blowin’</verb></verbPhrase>
+                <verbPhrase><verb>blowin’</verb>
             <prepPhrase><prep>in</prep>
                 <nounPhrase><det>the</det>
-                    <noun>wind</noun></nounPhrase></prepPhrase></refrainLine>
+                    <noun>wind</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="2"><nounPhrase><det>The</det>
                 <noun>answer</noun></nounPhrase>
             <verbPhrase><verb>is</verb>
-                <verb>blowin’</verb></verbPhrase>
+                <verbPhrase><verb>blowin’</verb>
             <prepPhrase><prep>in</prep>
                 <nounPhrase><det>the</det>
-                    <noun>wind</noun></nounPhrase></prepPhrase></refrainLine>
+                    <noun>wind</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></refrainLine>
     </lyrics>
 </song>
