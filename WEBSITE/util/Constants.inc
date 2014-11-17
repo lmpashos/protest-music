@@ -28,9 +28,9 @@ class Constants {
   const OTHER_OS = 4;
   
   const DATA_DIR = 'data/';
-  const SONG_LIST_FILENAME = 'data/master_song_list.xml';
-  const SONG_XML_TO_LYRIC_HTML_XSL = 'data/song_xml_to_lyric_html.xsl';
-  const SONG_XML_TO_META_HTML_XSL = 'data/song_xml_to_meta_html.xsl';
+  const SONG_LIST_FILENAME = 'data/songs/master_song_list.xml';
+  const SONG_XML_TO_LYRIC_HTML_XSL = 'data/songs/song_xml_to_lyric_html.xsl';
+ // const SONG_XML_TO_META_HTML_XSL = 'data/song_xml_to_meta_html.xsl';
   
   const ERA_NONE = 'none';
   const ERA_MODERN = 'modern';
@@ -59,9 +59,9 @@ class Constants {
     'lyrics_vietnam' => 'lyrics.php?era=vietnam',
     'lyrics_modern' => 'lyrics.php?era=modern',
     'data' => 'data.php',
-    'data_the_great_depression' => 'data.php?era=the_great_depression',
-    'data_vietnam' => 'data.php?era=vietnam',
-    'data_modern' => 'data.php?era=modern',
+    'data_xml' => 'data.php#xml_data',
+    'data_schema' => 'data.php#schemas',
+    'data_xslt' => 'data.php#xslt',
     'conclusions' => 'conclusions.php',
     'conclusions_subsection1' => 'conclusions.php#subsection1',
     'conclusions_subsection2' => 'conclusions.php#subsection2',
@@ -84,14 +84,14 @@ class Constants {
       'subsection4'
     ), 
     'lyrics' => array(
-        Constants::ERA_GREAT_DEPRESSION,
-        Constants::ERA_VIETNAM,
-        Constants::ERA_MODERN
-    ),      
-    'data' => array(
-      Constants::ERA_GREAT_DEPRESSION, 
+      Constants::ERA_GREAT_DEPRESSION,
       Constants::ERA_VIETNAM,
       Constants::ERA_MODERN
+    ),      
+    'data' => array(
+      'xml', 
+      'schema',
+      'xslt'
     ), 
     'conclusions' => array(
       'subsection1',
@@ -107,6 +107,9 @@ class Constants {
       Constants::ERA_MODERN => 'Modern',
       Constants::ERA_VIETNAM => 'Vietnam',
       Constants::ERA_GREAT_DEPRESSION => 'The Great Depression',
+      'xml' => 'XML Data',
+      'schema' => 'Schemas',
+      'xslt' => 'XSLT',
       'subsection1' => 'Subsection 1', 
       'subsection2' => 'Subsection 2',
       'subsection3' => 'Subsection 3',

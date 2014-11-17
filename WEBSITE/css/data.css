@@ -1,48 +1,64 @@
 @CHARSET "UTF-8";
 
-#protest, #non_protest {
+#center div.sub_section div.song_list_protest {
   position: relative;
   height: inherit;
-  width: 50%;
   display: block;
-  background-color: white;
-}
-
-#protest {
+  width: 50%;
   float: left;
+  background-color: white;
+  color: black;
+  min-height: initial; 
+  padding: none; 
 }
 
-#non_protest {
+#center div.sub_section div.song_list_non_protest {
+  position: relative;
+  height: inherit;
+  display: block;
+  width: 50%;
   float: right;
+  background-color: white;
+  color: black;
+  min-height: initial; 
+  padding: none; 
 }
 
-#non_protest p, #protest p {
-  text-align: center;
-  margin: 0;
+#xml_great_depression, #xml_vietnam, #xml_modern  {
+  display: none;
+  min-height: initial;
+  text-align: left;
   font-size: 11pt;
   background-color: white;
-}
-
-#protest span, #non_protest span {
   color: black;
-  background-color: white;
 }
 
-.listTitle {
-  background-color: inherit;
-  padding: 5px 0px 10px 3px;
+#center {
+  width: 80%;
 }
 
-.listSubTitle {
-  padding: 5px 0px 5px 3px;
-}
-
-.song {
-  background-color: white;
-}
-
-.song h2, .song h3 {
-  background-color: white;
+/* #center div { 
+  background-color: #DDDDDD;
   color: black;
-  margin-left: 10px;
+} */
+
+/* #center h1 { 
+  background-color: #ADAFB2;
+  color: #DEDEDE;
+}
+
+#center h2 { 
+  background-color: #4E4E4E;
+  color: white;
+} */
+
+
+#left a.toc_title {
+  background-color: #ADAFB2;
+  font-size: 10pt;
+  font-weight: bold;
+}
+
+#center div, #left p, #right p {
+  overflow: auto;
 }

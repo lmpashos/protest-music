@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Hold On</title>
+        <composer>Chynna Phillips</composer>
+        <composer>Glen Ballard</composer>
+        <composer>Carnie Wilson</composer>
+        <album>Wilson Phillips</album>
+        <year>1990</year>
+        <genre>Pop</genre>
+        <notablePerformer>Wilson Phillips</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>know</verb>
+                    <nounPhrase><det>this</det>
+                        <noun>pain</noun></nounPhrase></verbPhrase></line>
+            <line>Why <verbPhrase><verb>do lock</verb>
+                    <nounPhrase><noun>yourself</noun></nounPhrase>
+                    <adverb>up</adverb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>these</det>
+                            <noun>chains</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
+            <line><nounPhrase neg="true"><noun>No one</noun></nounPhrase> can change your life
+                except for you</line>
+            <line><verbPhrase neg="true"><verb>Do</verb>n't <adverb>ever</adverb>
+                    <verb>let</verb>
+                    <nounPhrase><noun>anyone</noun></nounPhrase>
+                    <verb>step</verb> all <prepPhrase><prep>over</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>Just <verbPhrase><verb>open</verb>
+                    <nounPhrase><det>your</det>
+                        <noun>heart</noun> and <det>your</det>
+                        <noun>mind</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Is</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                    <nounPhrase><adverb>really</adverb>
+                        <adjective>fair</adjective></nounPhrase>
+                    <verbPhrase><verb>to feel</verb>
+                        <nounPhrase><det>this</det>
+                            <noun>way</noun></nounPhrase>
+                        <adverb>inside</adverb></verbPhrase></verbPhrase>?</line>
+        </verse>
+        <verse>
+            <line><adverb>Someday</adverb>
+                <nounPhrase><noun>somebody</noun></nounPhrase><verbPhrase><verb>'s gonna make</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>want</verb></verbPhrase> to</line>
+            <line><verbPhrase><verb>Turn</verb>
+                    <adverb>around</adverb> and <verbPhrase><verb>say</verb>
+                        <nounPhrase><noun>goodbye</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>Until</prep>
+                    <nounPhrase><noun>then</noun></nounPhrase></prepPhrase> baby
+                        <verbPhrase><verb>are</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>going to let</verb>
+                    <nounPhrase><noun>them</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Hold</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <adverb>down</adverb> and <verb>make</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>cry</verb></verbPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>could sustain</verb></verbPhrase></line>
+            <line>Or <verbPhrase><verb>are</verb>
+                    <nounPhrase><noun>you</noun>
+                        <adjective>comfortable</adjective></nounPhrase>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>pain</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
+            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'ve got</verb>
+                    <nounPhrase><noun>no one</noun></nounPhrase>
+                    <verb>to blame</verb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><det>your</det>
+                            <noun>unhappiness</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>got</verb>
+                    <nounPhrase><noun>yourself</noun></nounPhrase>
+                    <prepPhrase><prep>into</prep>
+                        <det>your</det>
+                        <adjective>own</adjective>
+                        <nounPhrase>mess</nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Lettin'</verb>
+                    <nounPhrase><det>your</det>
+                        <noun>worries</noun></nounPhrase>
+                    <verb>pass</verb>
+                    <prepPhrase><nounPhrase><noun>you</noun></nounPhrase>
+                        <prep>by</prep></prepPhrase></verbPhrase></line>
+            <line><verbPhrase neg="true"><verb>Do</verb>n't
+                        <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>think</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                        <nounPhrase><adjective>worth</adjective>
+                            <det>your</det>
+                            <noun>time</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>To change</verb>
+                    <nounPhrase><det>your</det>
+                        <noun>mind</noun></nounPhrase></verbPhrase>?</line>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>know</verb> that
+                            <verbPhrase><nounPhrase><noun>there</noun></nounPhrase>
+                        <verb>is</verb>
+                        <nounPhrase><noun>pain</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line>But <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>hold</verb>
+                    <adverb>on</adverb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><adverb>one</adverb>
+                            <adjective>more</adjective>
+                            <noun>day</noun></nounPhrase></prepPhrase></verbPhrase> and</line>
+            <line><verbPhrase><verb>Break</verb>
+                    <adverb>free</adverb>
+                    <nounPhrase><det>the</det>
+                        <noun>chains</noun></nounPhrase></verbPhrase></line>
+            <line>Yeah <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>know</verb> that
+                            <verbPhrase><nounPhrase><noun>there</noun></nounPhrase>
+                        <verb>is</verb>
+                        <nounPhrase><noun>pain</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line>But <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>hold</verb>
+                    <adverb>on</adverb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><adverb>one</adverb>
+                            <adjective>more</adjective>
+                            <noun>day</noun></nounPhrase></prepPhrase></verbPhrase> and
+                        <nounPhrase><noun>you</noun></nounPhrase></line>
+            <line><verbPhrase><verb>Break</verb>
+                    <adverb>free</adverb></verbPhrase>, <verbPhrase><verb>break</verb>
+                    <prepPhrase><prep>from</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>chains</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line><adverb>Someday</adverb>
+                <nounPhrase><noun>somebody</noun></nounPhrase><verbPhrase><verb>'s gonna make</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verbPhrase><verb>want to</verb></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Turn</verb>
+                    <adverb>around</adverb> and <verbPhrase><verb>say</verb>
+                        <nounPhrase><noun>goodbye</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>Until</prep>
+                    <nounPhrase><noun>then</noun></nounPhrase></prepPhrase> baby
+                        <verbPhrase><verb>are</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>going to let</verb>
+                    <nounPhrase><noun>them</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Hold</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <adverb>down</adverb> and <verb>make</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>cry</verb></verbPhrase></line>
+            <refrainSectionRef sectionRef="2"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="3"/>
+            <line><verbPhrase><verb>Hold</verb>
+                    <adverb>on</adverb>
+                    <nounPhrase><noun>baby</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase neg="true"><verb>Won't</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>tell</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <adverb>now</adverb></verbPhrase></line>
+            <line><verbPhrase><verb>Hold</verb>
+                    <adverb>on</adverb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><adverb>one</adverb>
+                            <adjective>more</adjective>
+                            <noun>day</noun></nounPhrase></prepPhrase></verbPhrase> 'Cause</line>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s gonna go</verb>
+                    <nounPhrase><det>your</det>
+                        <noun>way</noun></nounPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <line><verbPhrase neg="true"><verb>Can</verb>'t
+                        <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>change</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                    <nounPhrase><det>this</det>
+                        <noun>time</noun></nounPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Make</verb>
+                    <adverb>up</adverb>
+                    <nounPhrase><det>your</det>
+                        <noun>mind</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Hold</verb>
+                    <adverb>on</adverb></verbPhrase></line>
+            <line><verbPhrase><verb>Hold</verb>
+                    <adverb>on</adverb></verbPhrase></line>
+            <line><nounPhrase><noun>Baby</noun></nounPhrase>
+                <verbPhrase><verb>hold</verb>
+                    <adverb>on</adverb></verbPhrase></line>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="5"/>
+            <refrainLineRef lineRef="3"/>
+        </refrainSection>
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="7"/>
+        </refrainSection>
+        <refrainSection sectionID="3">
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="7"/>
+            <refrainLineRef lineRef="8"/>
+        </refrainSection>
+        <refrainLine lineID="1"><verbPhrase neg="true"><verb>Do</verb>n't
+                        <nounPhrase><noun>you</noun></nounPhrase>
+                <verb>know</verb></verbPhrase>?</refrainLine>
+        <refrainLine lineID="2"><verbPhrase neg="true"><verb>Do</verb>n't
+                        <nounPhrase><noun>you</noun></nounPhrase>
+                <verb>know</verb>
+                <nounPhrase><noun>things</noun></nounPhrase>
+                <verbPhrase><verb>can change</verb></verbPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="3"><nounPhrase><noun>Things</noun></nounPhrase><verbPhrase><verb>'ll
+                    go</verb>
+                <nounPhrase><det>your</det>
+                    <noun>way</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="4">If <nounPhrase><noun>you</noun></nounPhrase>
+            <verbPhrase><verb>hold</verb>
+                <adverb>on</adverb>
+                <prepPhrase><prep>for</prep>
+                    <nounPhrase><adverb>one</adverb>
+                        <adjective>more</adjective>
+                        <noun>day</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="5"><verbPhrase><verb>Can</verb>
+                <nounPhrase><noun>you</noun></nounPhrase>
+                <verb>hold</verb>
+                <adverb>on</adverb>
+                <prepPhrase><prep>for</prep>
+                    <nounPhrase><adverb>one</adverb>
+                        <adjective>more</adjective>
+                        <noun>day</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="6"><nounPhrase><noun>Things</noun></nounPhrase><verbPhrase><verb>'ll
+                    go</verb>
+                <nounPhrase><det>your</det>
+                    <noun>way</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="7">If <verbPhrase><nounPhrase><noun>you</noun></nounPhrase>
+                <verb>hold</verb>
+                <adverb>on</adverb></verbPhrase></refrainLine>
+        <refrainLine lineID="8"><verbPhrase><verb>Can</verb>
+                <nounPhrase><noun>you</noun></nounPhrase>
+                <verb>hold</verb>
+                <adverb>on</adverb></verbPhrase></refrainLine>
+    </lyrics>
+</song>

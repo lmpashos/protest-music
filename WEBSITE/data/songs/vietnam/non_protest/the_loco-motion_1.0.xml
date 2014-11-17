@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata> 
+        <title>The Loco-Motion</title>
+        <composer>Gerry Goffin</composer>
+        <composer>Carole King </composer>
+        <album>single</album> 
+        <year>1962</year>
+        <genre>Pop</genre>
+        <notablePerformer>Little Eva</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><nounPhrase><noun>Everybody</noun></nounPhrase> <verbPhrase><verb>is</verb> <verb>doin'</verb> <nounPhrase><det>a</det> <adverb>brand</adverb> <adjective>new</adjective> <noun>dance</noun></nounPhrase>, <adverb>now</adverb></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase><verbPhrase><verb>'ll</verb> <verb>get</verb> to <verb>like</verb> <nounPhrase><noun>it</noun></nounPhrase></verbPhrase> if <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>give</verb> <nounPhrase><noun>it</noun></nounPhrase> <nounPhrase><det>a</det> <noun>chance</noun></nounPhrase> <adverb>now</adverb></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+
+        <verse>
+            <line><nounPhrase><det>My</det> <adjective>little</adjective> <adjective>baby</adjective> <noun>sister</noun></nounPhrase> <verbPhrase><verb>can</verb> <verb>do</verb> <nounPhrase><noun>it</noun></nounPhrase></verbPhrase> <prepPhrase><prep>with</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <adverb>easier</adverb></verbPhrase> than <verbPhrase><verb>learning</verb> <nounPhrase><det>your</det> <noun>ABC's</noun></nounPhrase></verbPhrase></line>
+            <refrainLineRef lineRef="2"/>
+        </verse>
+
+        <verse>
+            <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>gotta</verb> <verb>swing</verb> <nounPhrase><det>your</det> <noun>hips</noun></nounPhrase>, <adverb>now</adverb></verbPhrase></line>
+            <line><verbPhrase><verb>Come</verb> <adverb>on</adverb>, <nounPhrase><noun>baby</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Jump</verb> <adverb>up</adverb></verbPhrase>, <verbPhrase><verb>jump</verb> <adverb>back</adverb></verbPhrase></line>
+            <line>Well, now, <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <nounPhrase><noun>you</noun></nounPhrase><verb>'ve</verb> <verb>got</verb> <nounPhrase><det>the</det> <noun>knack</noun></nounPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line>Now that <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>can</verb> <verb>do</verb> <nounPhrase><noun>it</noun></nounPhrase></verbPhrase>, <verbPhrase><verb>let</verb><nounPhrase><noun>'s</noun></nounPhrase></verbPhrase> <verbPhrase><verb>make</verb> <nounPhrase><det>a</det> <noun>chain</noun></nounPhrase>, <adverb>now</adverb></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <line><nounPhrase><det>A</det> <adjective>chug-a</adjective> <adjective>chug-a</adjective> <noun>motion</noun></nounPhrase> <prepPhrase><prep>like</prep> <nounPhrase><det>a</det> <adjective>railroad</adjective> <noun>train</noun></nounPhrase>, <adverb>now</adverb></prepPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Do</verb> <nounPhrase><noun>it</noun></nounPhrase> <adverb>nice</adverb> and <adverb>easy</adverb></verbPhrase>, now, <verbPhrase neg="true"><verb>don't</verb> <verb>lose</verb> <nounPhrase><noun>control</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>A</det> <adjective>little</adjective> <noun>bit</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>rhythm</noun></nounPhrase></prepPhrase> and <nounPhrase><det>a</det> <noun>lot</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>soul</noun></nounPhrase></prepPhrase></line>
+            <refrainLineRef lineRef="2"/>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Move</verb> <prepPhrase><prep>around</prep> <nounPhrase><det>the</det> <noun>floor</noun></nounPhrase></prepPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>a</det> <noun>Loco-motion</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <line><verbPhrase><verb>Do</verb> <nounPhrase><noun>it</noun></nounPhrase></verbPhrase> <verbPhrase><verb>holding</verb> <nounPhrase><noun>hands</noun></nounPhrase></verbPhrase> if <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>get</verb> <nounPhrase><det>the</det> <noun>notion</noun></nounPhrase></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>There</noun></nounPhrase><verbPhrase neg="true"><verb>'s</verb> never <verb>been</verb> <nounPhrase><det>a</det> <noun>dance</noun></nounPhrase></verbPhrase> that<verbPhrase><verb>'s</verb> <adverb>so</adverb> <adverb>easy</adverb></verbPhrase> <verbPhrase>to <verb>do</verb></verbPhrase></line>
+            <line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase><adverb>even</adverb> <verb>makes</verb> <nounPhrase><noun>you</noun></nounPhrase> <adverb>happy</adverb></verbPhrase> when <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb> <verb>feeling</verb> <adverb>blue</adverb></verbPhrase></line>
+            <refrainLineRef lineRef="2"/>
+        </verse>
+        
+        <refrainLine lineID="1"><verbPhrase><verb>Come</verb> <adverb>on</adverb> <nounPhrase><noun>baby</noun></nounPhrase></verbPhrase>, <verbPhrase><verb>do</verb> <nounPhrase><det>the</det> <noun>Loco-motion</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="2">So <verbPhrase><verb>come</verb> <adverb>on</adverb></verbPhrase>, <verbPhrase><verb>come</verb> <adverb>on</adverb></verbPhrase>, <verbPhrase><verb>do</verb> <nounPhrase><det>the</det> <noun>Loco-motion</noun></nounPhrase></verbPhrase> <prepPhrase><prep>with</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></refrainLine>
+    </lyrics>
+</song>

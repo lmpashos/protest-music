@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>CHEEK TO CHEEK</title>
+        <composer>Irving Berlin</composer>
+        <album>Cheek to Cheek</album>
+        <year>1935</year>
+        <genre>movie soundtrack</genre>
+        <notablePerformer>Fred Astaire</notablePerformer>
+    </metadata>
+
+    <lyrics>
+        <verse>
+            <line><nounPhrase><noun>Heaven</noun></nounPhrase>, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun>Heaven</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+            <line>And <nounPhrase><det>my</det> <noun>heart</noun></nounPhrase> <verbPhrase><verb>beats</verb></verbPhrase> so that <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>can</verb> <adverb>hardly</adverb> <verbPhrase><verb>speak</verb></verbPhrase></verbPhrase>;</line>
+            <line>And <nounPhrase><noun>I </noun></nounPhrase><verbPhrase><verb>seem </verb><verbPhrase><verb>to find</verb> <nounPhrase><det>the</det> <noun>happiness</noun></nounPhrase><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>seek</verb></verbPhrase></verbPhrase></verbPhrase></line>
+            <refrainSectionRef sectionRef="1"/></verse>
+        
+        <verse>
+            <line><nounPhrase><noun>Heaven</noun></nounPhrase>, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun>Heaven</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+            <line>And <nounPhrase><det>the</det> <noun>cares</noun> <det>that</det></nounPhrase> <verbPhrase><verb>hang</verb> <prepPhrase><prep>around</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase> <prepPhrase><prep>thro'</prep> <nounPhrase><det>the</det> <noun>week</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Seem</verb> <verbPhrase><verb>to vanish</verb> <prepPhrase><prep>like </prep><det>a</det> <nounPhrase><noun>gambler</noun><det>'s</det></nounPhrase> <adjective>lucky </adjective><nounPhrase><noun>streak</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <refrainSectionRef sectionRef="1"/></verse>
+            
+            <verse>
+            <line>Oh! <nounPhrase><noun>I </noun></nounPhrase><verbPhrase><verb>love</verb> <verbPhrase><verb>to climb</verb> <nounPhrase><det>a</det> <noun>mountain</noun></nounPhrase></verbPhrase></verbPhrase>,</line>
+            <line>And <verbPhrase><verb>to reach</verb> <nounPhrase><det>the</det> <adjective>highest</adjective> <noun>peak</noun></nounPhrase></verbPhrase>,</line>
+            <line>But <nounPhrase><noun>it</noun> </nounPhrase><verbPhrase neg="true"><verb>doesn't thrill</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><det>half</det> <det>as</det> <noun>much</noun></nounPhrase></verbPhrase></line>
+            <refrainSectionRef sectionRef="2"/></verse>
+
+<verse>
+    <line>Oh! <nounPhrase><noun>I </noun></nounPhrase><verbPhrase><verb>love</verb></verbPhrase> <verbPhrase><verb>to go</verb> <prepPhrase><prep>out</prep></prepPhrase><verbPhrase><verb>fishing</verb></verbPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>In</prep> <nounPhrase><det>a </det><noun>river</noun></nounPhrase></prepPhrase> or <nounPhrase><det>a</det> <noun>creek</noun></nounPhrase>,</line>
+    <line>But <nounPhrase><noun>I </noun></nounPhrase><verbPhrase neg="true"><verb>don't</verb><verbPhrase><verb>enjoy</verb> <nounPhrase><noun>it</noun></nounPhrase></verbPhrase> <nounPhrase><det>half</det> <det>as</det> <noun>much</noun></nounPhrase></verbPhrase></line>
+
+            <refrainSectionRef sectionRef="2"/></verse>
+    <verse>
+            <line><verbPhrase><verb>Dance</verb> <prepPhrase><prep>with</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I </noun></nounPhrase><verbPhrase><verb>want</verb> <nounPhrase><det>my</det> <noun>arm</noun></nounPhrase> <prepPhrase><prep>about</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase>;</line>
+            <line><nounPhrase><det>The</det> <noun>charm</noun></nounPhrase><prepPhrase><prep>about</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></line>
+            <line><verbPhrase><verb>Will carry</verb> <nounPhrase><noun>me</noun></nounPhrase> <adverb>thro'</adverb> <prepPhrase><prep>to</prep> <nounPhrase><noun>Heaven</noun></nounPhrase></prepPhrase>,</verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun>Heaven</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+            <line>And <nounPhrase><det>my</det> <noun>heart</noun></nounPhrase> <verbPhrase><verb>beats</verb></verbPhrase> so <nounPhrase>that <noun>I </noun></nounPhrase><verbPhrase><verb>can </verb></verbPhrase><verbPhrase><adverb>hardly</adverb> <verbPhrase><verb>speak</verb></verbPhrase></verbPhrase>;</line>
+        <line>And <nounPhrase><noun>I </noun></nounPhrase><verbPhrase><verb>seem</verb> <verbPhrase><verb>to find</verb> <nounPhrase><det>the</det> <noun>happiness</noun></nounPhrase> <nounPhrase><noun>I </noun></nounPhrase><verbPhrase><verb>seek</verb></verbPhrase></verbPhrase></verbPhrase></line>
+            
+                <refrainSectionRef sectionRef="1"/></verse>
+       
+
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="2"/>
+        </refrainSection>
+
+        <refrainLine lineID="1"><nounPhrase><det>When</det> <noun>we</noun></nounPhrase><verbPhrase><verb>'re</verb> <prepPhrase><prep>out</prep> <adjective>together</adjective></prepPhrase><verbPhrase><verb>dancing</verb>, <prepPhrase><nounPhrase><noun>cheek</noun></nounPhrase> <prep>to</prep> <nounPhrase><noun>cheek</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase> .</refrainLine>
+        <refrainLine lineID="2"><nounPhrase><det>As</det></nounPhrase> <verbPhrase><verb>dancing </verb><prepPhrase><nounPhrase><noun>cheek</noun></nounPhrase> <prep>to</prep> <nounPhrase><noun>cheek</noun></nounPhrase></prepPhrase>.</verbPhrase></refrainLine>
+    </lyrics>
+</song>

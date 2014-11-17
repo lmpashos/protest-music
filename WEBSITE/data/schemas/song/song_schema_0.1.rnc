@@ -1,0 +1,100 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                   SCHEMA VERSION 0.1                                  #
+#                                 For songs and lyrics                                  #
+#                                      10/9/2014                                        #         
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                                                       
+#   UPDATE HISTORY:                                                             
+#
+#           VERSION:    0.0
+#               author: Leonidas Pashos
+#               updates:
+#                   - wrote initial schema 
+#                   - two major elements - metadata and lyrics                          
+#                   - only structure for now
+#
+#
+#           VERSION:    0.1
+#               author: Leonidas Pashos
+#               updates:
+#                   - added refrain handler ala David's idea
+#                       - refrainSection, refrainLine, associated references
+#                   - minor name changes to a few elements
+#                   - more metadata elements added
+#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = song
+song = element song
+{
+    element metadata
+    {
+        element title
+        {
+            text
+        },
+        element composer
+        {
+            text
+        }+,
+        element album
+        {
+            text
+        },
+        element year
+        {
+            xsd:int
+        },
+        element genre
+        {
+            text
+        }+,
+        element notablePerformer
+        {
+            text
+        }+,
+        element notablePerformance
+        {
+            text
+        }*,
+        element notableEvent
+        {
+            text
+        }*
+    },
+    element lyrics
+    {
+        element verse
+        {(
+        # should allow to freely interchange lines and refrains
+            element line
+            {
+                text
+            }+
+            |
+            #   or reference to a refrain
+            element refrainSectionRef
+            {
+               attribute sectionRef {xsd:int}
+            }
+        )+}+,
+        
+        element refrainSection
+        {
+            # sectionID should match sectionRef if equal
+            attribute sectionID {xsd:int},
+            element refrainLineRef
+            {
+                attribute lineRef {xsd:int}
+            }+
+        }*,
+        
+        element refrainLine
+        {
+            # lineID should match lineRef if equal
+            attribute lineID {xsd:int},
+            text
+        }*
+    }
+}

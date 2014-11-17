@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>My Prerogative</title>
+        <composer>Bobby Brown</composer>
+        <composer>Gene Griffin</composer>
+        <album>Don't Be Cruel </album>
+        <year>1988</year>
+        <genre>R&amp;B</genre>
+        <notablePerformer>Bobby Brown</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><noun>love</noun></nounPhrase></verbPhrase>...</line>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase>'s
+                            <nounPhrase><noun>love</noun></nounPhrase></verbPhrase>...</line>
+            <line><nounPhrase><noun>Love</noun></nounPhrase>... <verbPhrase><verb>get</verb>
+                    <adverb>busy</adverb></verbPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>They</noun></nounPhrase>
+                <verbPhrase><verb>say</verb>
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                        <nounPhrase><adjective>crazy</adjective></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true"><adverb>really</adverb>
+                    <verb>don't care</verb></verbPhrase></line>
+            <line><nounPhrase><noun>That</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>prerogative</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>They</noun></nounPhrase>
+                <verbPhrase><verb>say</verb>
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                        <nounPhrase><adjective>nasty</adjective></nounPhrase></verbPhrase></verbPhrase></line>
+            <line>But <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>don't give</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>damn</noun></nounPhrase></verbPhrase></line>
+            <line>Gettin girls is how I live</line>
+            <line><nounPhrase><noun>Some</noun></nounPhrase><verbPhrase><verb>ask</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <nounPhrase><noun>questions</noun></nounPhrase></verbPhrase></line>
+            <line>Why <verbPhrase><verb>am</verb>
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                    <nounPhrase><adverb>so</adverb>
+                        <adjective>real</adjective></nounPhrase></verbPhrase></line>
+            <line>But <nounPhrase><noun>they</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>don't understand</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true"><adverb>really</adverb>
+                    <verb>don't know</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>deal</noun></nounPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>About</prep>
+                    <nounPhrase><det>a</det>
+                        <noun>brother</noun></nounPhrase></prepPhrase></line>
+            <line><verbPhrase><verb>Trying</verb>
+                    <adverb>hard</adverb>
+                    <verb>to make</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                    <nounPhrase><noun>right</noun></nounPhrase></verbPhrase></line>
+            <line>Not <nounPhrase neg="true"><adjective>long</adjective>
+                    <noun>ago</noun></nounPhrase></line>
+            <line>Befo' <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>win</verb>
+                    <nounPhrase><det>this</det>
+                        <noun>fight</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>SING</verb></verbPhrase>!</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>way</noun></nounPhrase> that <nounPhrase><noun>I</noun></nounPhrase>
+                    <verbPhrase><verb>wanna live</verb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>can do</verb> just what <nounPhrase><noun>I</noun></nounPhrase>
+                    <verbPhrase><verb>feel</verb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase neg="true"><noun>No one</noun></nounPhrase>
+                <verbPhrase><verb>can tell</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase> what <verb>to
+                do</verb></verbPhrase></line>
+            <line>Cause <nounPhrase><noun>what</noun></nounPhrase>
+                <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
+                doin</verb></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m doin</verb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase>
+                    <adverb>now</adverb></verbPhrase></line>
+        </verse>
+        <verse>
+            <line><verbPhrase neg="true"><verb>Don't get</verb>
+                    <nounPhrase><noun>me</noun>
+                        <adjective>wrong</adjective></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <nounPhrase neg="true"><adverb>really</adverb> not
+                        <adjective>zooped</adjective></nounPhrase></verbPhrase></line>
+            <line>Ego trips is not my thing</line>
+            <line>All these strange relationships</line>
+            <line>Really gets me down</line>
+            <line>I see nothin wrong</line>
+            <line>With spreadin myself around</line>
+            <line><verbPhrase><verb>SING</verb></verbPhrase>!</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>I<nounPhrase><noun> </noun></nounPhrase><verbPhrase><verb>can do</verb> what
+                            <nounPhrase><noun>I</noun></nounPhrase>
+                    <verbPhrase><verb>wanna do</verb></verbPhrase></verbPhrase>
+                        (<nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>prerogative</noun></nounPhrase></verbPhrase>)</line>
+            <line><verbPhrase><adverb>Truly</adverb>
+                    <verb>live</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>life</noun></nounPhrase></verbPhrase>
+                    (<nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>prerogative</noun></nounPhrase></verbPhrase>)</line>
+            <line>I<verbPhrase><verb>'m doin</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase> just <prepPhrase><prep>for</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase>
+                        (<nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>prerogative</noun></nounPhrase></verbPhrase>)</line>
+            <line><verbPhrase><verb>Tell</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase>,
+                        <verbPhrase><verb>Tell</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line>Why <verbPhrase neg="true"><verb>can</verb>'t
+                        <nounPhrase><noun>I</noun></nounPhrase>
+                    <verb>live</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>life</noun></nounPhrase></verbPhrase> (<verbPhrase><verb>Live</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>life</noun></nounPhrase></verbPhrase>)</line>
+            <line><prepPhrase><prep>Without</prep>
+                    <nounPhrase><noun>all</noun></nounPhrase></prepPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>things</noun></nounPhrase></prepPhrase> that
+                        <nounPhrase><noun>people</noun></nounPhrase>
+                <verbPhrase><verb>say</verb></verbPhrase> (Ohhh Ohhh)</line>
+            <line>Yo <verbPhrase><verb>tell</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase></verbPhrase>,
+                        <verbPhrase><verb>kick</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase></verbPhrase>
+                <prepPhrase><prep>like</prep>
+                    <nounPhrase><noun>this</noun></nounPhrase></prepPhrase></line>
+            <line>Oh no nooo</line>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>can do</verb> what <nounPhrase><noun>I</noun></nounPhrase>
+                    <verbPhrase><verb>wanna do</verb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Me</noun> and <noun>you</noun></nounPhrase></line>
+            <line><nounPhrase><adjective>Together</adjective>, <adjective>together</adjective>,
+                        <adjective>together</adjective>, <adjective>together</adjective>,
+                        <adjective>together</adjective></nounPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="5"/>
+        </refrainSection>
+        <refrainLine lineID="1"><nounPhrase><noun>Everybody</noun></nounPhrase>
+            <verbPhrase><verb>'s talking</verb>
+                <prepPhrase><prep>all</prep>
+                    <nounPhrase><det>this</det>
+                        <noun>stuff</noun></nounPhrase></prepPhrase>
+                <prepPhrase><prep>about</prep>
+                    <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="2">Why <verbPhrase><verb>do</verb>'nt
+                    <nounPhrase><noun>they</noun></nounPhrase> just <verb>let</verb>
+                <nounPhrase><noun>me</noun></nounPhrase>
+                <nounPhrase><noun>live</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="3"><nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase neg="true"><verb>don't need</verb>
+                <nounPhrase><noun>permission</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="4"><verbPhrase><verb>Make</verb>
+                <nounPhrase><det>my</det>
+                    <det>own</det>
+                    <noun>decisions</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="5"
+                    ><nounPhrase><noun>That</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                <nounPhrase><det>my</det>
+                    <noun>prerogative</noun></nounPhrase></verbPhrase></refrainLine>
+    </lyrics>
+</song>

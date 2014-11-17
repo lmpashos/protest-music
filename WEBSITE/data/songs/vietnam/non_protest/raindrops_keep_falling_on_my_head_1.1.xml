@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+<metadata>
+    <title>Raindrops Keep Falling on My Head</title>
+    <composer>Hal David</composer>
+    <composer>Burt Bacharach</composer>
+    <album>single</album>
+    <year>1969</year>
+    <genre>soft rock</genre>
+    <notablePerformer>B. J. Thomas</notablePerformer>
+</metadata>
+    <lyrics>
+        
+<verse>
+<refrainLineRef lineRef="1"/>
+<line>Just like the guy whose feet are too big for his bed</line>
+<line><nounPhrase><noun>Nothing</noun></nounPhrase> <verbPhrase><verb>seems</verb> <verbPhrase><verb>to fit</verb></verbPhrase></verbPhrase></line>
+<line>Oh, <nounPhrase><noun>raindrops</noun></nounPhrase> <verbPhrase><verb>keep</verb> <verbPhrase><verb>fallin'</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>head</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+<line><verbPhrase><verb>Keep</verb> <verbPhrase><verb>a-fallin'</verb></verbPhrase></verbPhrase></line>
+</verse>
+
+<verse>
+<line>Cause <nounPhrase><noun>I</noun></nounPhrase> <adverb>just</adverb> <verbPhrase><verb>done</verb> <nounPhrase><noun>me</noun></nounPhrase> <adverb>some</adverb> <verbPhrase><verb>talking</verb> <prepPhrase><prep>to</prep> <nounPhrase><det>the</det> <noun>sun</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+<line>And <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>said</verb> <nounPhrase>I</nounPhrase> <verbPhrase neg="true"><verb>didn't</verb> <verbPhrase><verb>like</verb> <nounPhrase><det>the</det> <noun>way</noun></nounPhrase> <nounPhrase><noun>he</noun></nounPhrase> <verbPhrase><verb>got</verb> <nounPhrase><noun>things</noun></nounPhrase> <verbPhrase><verb>done</verb></verbPhrase></verbPhrase></verbPhrase></verbPhrase></verbPhrase></line>
+<line><verbPhrase><verb>Sleeping</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>the</det> <noun>job</noun></nounPhrase></prepPhrase></verbPhrase></line>
+<line>Oh, <nounPhrase><noun>raindrops</noun></nounPhrase> <verbPhrase><verb>keep</verb> <verbPhrase><verb>fallin'</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>head</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+<line><verbPhrase><verb>Keep</verb> <verbPhrase><verb>a-fallin'</verb></verbPhrase></verbPhrase></line>
+</verse>
+
+<verse>
+<line>But <nounPhrase><noun>there</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>one</det> <noun>thing</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>know</verb></verbPhrase></verbPhrase></line>
+<line><nounPhrase><det>The</det> <noun>blues</noun></nounPhrase> <nounPhrase><noun>they</noun></nounPhrase> <verbPhrase><verb>send</verb> <verbPhrase><verb>to meet</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></line>
+<line><verbPhrase neg="true"><verb>Won't</verb> <verbPhrase><verb>defeat</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></line>
+<line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase neg="true"><verb>won't</verb> <verbPhrase><verb>be</verb> <adverb>long</adverb> <prepPhrase><prep>till</prep> <nounPhrase><noun>happiness</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+<line><verbPhrase><verb>Comes</verb> <adverb>up</adverb> <verbPhrase><verb>to greet</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></line>
+<line><verbPhrase><verb>To greet</verb> <verbPhrase><verb>greet</verb> <verbPhrase><verb>greet</verb> <verbPhrase><verb>greet</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></verbPhrase></line>
+</verse><verse>
+<refrainSectionRef sectionRef="1"/>
+</verse><verse>
+<refrainSectionRef sectionRef="1"/>
+</verse><verse>
+    <refrainLineRef lineRef="5"/>
+    <refrainLineRef lineRef="6"/>
+    <refrainLineRef lineRef="5"/>
+    <refrainLineRef lineRef="6"/>
+    <refrainLineRef lineRef="5"/>
+    <refrainLineRef lineRef="6"/>
+    <refrainLineRef lineRef="5"/>
+    <refrainLineRef lineRef="6"/>
+</verse>
+    
+    <refrainSection sectionID="1">
+        <refrainLineRef lineRef="1"/>
+        <refrainLineRef lineRef="2"/>
+        <refrainLineRef lineRef="3"/>
+        <refrainLineRef lineRef="4"/>
+    </refrainSection>
+        
+        <refrainLine lineID="1"><nounPhrase><noun>Raindrops</noun></nounPhrase> <adverb>keep</adverb> <verbPhrase><verb>fallin'</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>head</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="2">But <nounPhrase><noun>that</noun></nounPhrase> <verbPhrase neg="true"><verb>doesn't</verb> <verbPhrase><verb>mean</verb> <nounPhrase><det>my</det> <noun>eyes</noun></nounPhrase></verbPhrase> <verbPhrase><verb>will</verb> <adverb>soon</adverb> <verb>be</verb> <verbPhrase><verb>turning</verb> <adjective>red</adjective></verbPhrase></verbPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="3"><nounPhrase><noun>Crying</noun></nounPhrase><verbPhrase neg="true"><verb>'s</verb> not <prepPhrase><prep>for</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="4">Cause <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> <verbPhrase><verb>gonna</verb> <verbPhrase><verb>stop</verb> <nounPhrase><det>the</det> <noun>rain</noun></nounPhrase> by <verbPhrase><verb>complaining</verb></verbPhrase></verbPhrase></verbPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="5">Because <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>free</adjective></verbPhrase></refrainLine>
+        <refrainLine lineID="6"><nounPhrase><noun>Nothing</noun></nounPhrase><verbPhrase><verb>'s bothering</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></refrainLine>
+    </lyrics>
+    
+</song>

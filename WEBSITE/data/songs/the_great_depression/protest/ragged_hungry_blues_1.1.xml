@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+<metadata>
+    <title>Ragged Hungry Blues</title>
+    <composer>Aunt Molly Jackson</composer>
+    <album></album>
+    <year>1930</year>
+    <genre>Folk</genre>
+    <notablePerformer>Aunt Molly Jackson</notablePerformer>
+</metadata>
+
+<lyrics>
+<verse>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>sad</adjective> and <adjective>weary</adjective></verbPhrase>, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ve got</verb> <nounPhrase><det>the</det> <adjective>hungry</adjective>, <adjective>ragged</adjective> <noun>blues</noun></nounPhrase></verbPhrase>.</line>
+<line>Not <nounPhrase neg="true"><det>one</det> <noun>penny</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>the </det><noun>pocket</noun></nounPhrase></prepPhrase> <verbPhrase><verb>to buy</verb> <nounPhrase><det>one</det> <noun>thing</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>need</verb> <verbPhrase><verb>to use</verb></verbPhrase></verbPhrase></verbPhrase>.</line>
+<line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>woke up</verb> <nounPhrase><det>this</det> <noun>morning</noun></nounPhrase></verbPhrase>, <prepPhrase><prep>with</prep> <nounPhrase><det>the </det><adjective>worst</adjective> <noun>blues</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase> <adverb>ever</adverb>had <prepPhrase><prep>in</prep><nounPhrase><det> my</det> <noun>life</noun></nounPhrase></prepPhrase></prepPhrase>;</line>
+<line>Not <nounPhrase neg="true"><det>a</det> <noun>bite</noun></nounPhrase> <verbPhrase><verb>to eat</verb> <prepPhrase><prep>for</prep> <nounPhrase><noun>breakfast</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><det>a</det> <adjective>poor</adjective> <noun>coal miner</noun></nounPhrase><nounPhrase><det>'s</det> <noun>wife</noun></nounPhrase>!</line>
+</verse>
+
+<verse>
+<line>When <nounPhrase><det>my</det> <noun>husband</noun></nounPhrase> <verbPhrase><verb>works</verb> <prepPhrase><prep>in</prep> <nounPhrase><det>the</det> <noun>coalmines</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><noun>he</noun></nounPhrase> <verbPhrase><verb>loads</verb><nounPhrase><det> a</det> <noun>carload </noun></nounPhrase><nounPhrase><adjective>every</adjective> <noun>trip</noun></nounPhrase></verbPhrase>;</line>
+<line>Then <nounPhrase><noun>he</noun></nounPhrase> <verbPhrase><verb>goes</verb> <prepPhrase><prep>to</prep> <nounPhrase><det>the</det> <noun>office</noun></nounPhrase></prepPhrase> <prepPhrase><prep>at</prep> <nounPhrase><det>the</det> <noun>evening</noun></nounPhrase></prepPhrase> <verbPhrase><verb>to get</verb> <verbPhrase><verb>denied</verb> <prepPhrase><prep>of</prep> <nounPhrase><noun>scrip</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></verbPhrase>.</line>
+</verse>
+
+<verse>
+<line>Just because <nounPhrase><noun>they</noun></nounPhrase> <verbPhrase><verb>took</verb> <adverb>all</adverb> <nounPhrase><noun>he</noun></nounPhrase> <verbPhrase><verb>made </verb><nounPhrase><det>that</det> <noun>day</noun></nounPhrase></verbPhrase> <verbPhrase><verb>to pay</verb> <nounPhrase><det>his</det> <noun>mine</noun> <noun>expense</noun></nounPhrase></verbPhrase></verbPhrase>,</line>
+<line><nounPhrase><det>A </det><noun>man</noun></nounPhrase> that <verbPhrase><verb>will work</verb> <prepPhrase><prep>for</prep> <adjective>just</adjective> coal <nounPhrase><noun>oil</noun></nounPhrase> and <nounPhrase><noun>carbide</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><noun>he</noun></nounPhrase> ain't <verbPhrase neg="true"><verb>got</verb> <nounPhrase><det>a</det> <noun>stack</noun></nounPhrase> of <nounPhrase><noun>sense</noun></nounPhrase></verbPhrase>.</line>
+</verse>
+
+<verse>
+<line>All <nounPhrase><det>the</det> <noun>women</noun></nounPhrase> <prepPhrase>in <nounPhrase><det>the</det> <noun>coal</noun> <noun>camps</noun></nounPhrase></prepPhrase> <verbPhrase><verb>are</verb> <verbPhrase><verb>sitting</verb> <prepPhrase><prep>with</prep> <adjective>bowed down</adjective> <nounPhrase><noun>heads</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>,</line>
+<line><verbPhrase><adjective>Ragged</adjective> and <adjective>bare-footed</adjective></verbPhrase>, and <nounPhrase><det>the</det> <noun>children</noun></nounPhrase> <verbPhrase><verb>cryin'</verb> <prepPhrase><prep>for</prep> <nounPhrase><noun>bread</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+</verse>
+
+<verse>
+<line>No <nounPhrase neg="true"><noun>food</noun></nounPhrase>, no <nounPhrase neg="true"><noun>clothes</noun></nounPhrase> <prepPhrase><prep>for</prep> <nounPhrase><det>our</det> <noun>children</noun></nounPhrase></prepPhrase>, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>sure</adjective> <nounPhrase><det>this</det> <noun>head</noun></nounPhrase> <verbPhrase neg="true">don't <verbPhrase><verb>lie</verb></verbPhrase></verbPhrase>;</verbPhrase></line>
+<line>If <nounPhrase><noun>we</noun></nounPhrase> <verbPhrase neg="true"><verb>can't</verb> <verbPhrase><verb>get</verb> <adverb>more</adverb> <prepPhrase><prep>for</prep> <nounPhrase><det>our</det> <noun>labor</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase> <nounPhrase><noun>we</noun></nounPhrase>'<verbPhrase><verb>ll starve</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>death</noun></nounPhrase></prepPhrase> and <verbPhrase><verb>die</verb></verbPhrase></verbPhrase>!</line>
+</verse>
+
+<verse>
+<line>Don't <verbPhrase neg="true"><verb>go</verb> <prepPhrase><prep>under</prep> <nounPhrase><det>the </det><noun>mountain</noun></nounPhrase></prepPhrase>, <prepPhrase><prep>with</prep><nounPhrase><det> a </det><noun>slate</noun></nounPhrase> hangin' <prepPhrase><prep>o'er</prep> <nounPhrase><det>your</det> <noun>head</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase>;</line>
+<line>And <verbPhrase><verb>work</verb> <prepPhrase><prep>for</prep> <adjective>just</adjective> <nounPhrase><noun>coal</noun></nounPhrase> <nounPhrase><noun>oil</noun></nounPhrase> and <nounPhrase><noun>carbide</noun></nounPhrase></prepPhrase></verbPhrase>, and <nounPhrase><det>your</det> <noun>children</noun></nounPhrase> <verbPhrase><verb>cryin'</verb> <prepPhrase><prep>for</prep> <nounPhrase><noun>bread</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+</verse>
+
+<verse>
+<line><nounPhrase><det>This</det> <adjective>mining</adjective> <noun>town</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>live</verb> <prepPhrase><prep>in</prep></prepPhrase></verbPhrase> <verbPhrase><verb>is </verb><nounPhrase><det>a</det> <adjective>sad</adjective> and <adjective>lonely</adjective> <noun>place</noun></nounPhrase></verbPhrase></line>
+<line>Where <nounPhrase><noun>pity</noun></nounPhrase> and <nounPhrase><noun>starvation</noun></nounPhrase> <verbPhrase><verb>is</verb> <verbPhrase><verb>pictured</verb> <prepPhrase><prep>on</prep> <adjective>every</adjective> <nounPhrase><noun>face</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>!</line>
+</verse>
+
+<verse>
+<line><nounPhrase><det>Some</det> <noun>coal</noun> <noun>operators</noun></nounPhrase> <verbPhrase><verb>might</verb> <verbPhrase><verb>tell</verb> <nounPhrase><noun>you</noun></nounPhrase> <nounPhrase><det>the</det> <adjective>hungry</adjective> <noun>blues</noun></nounPhrase> <verbPhrase neg="true"><verb>are</verb> not <adverb>there</adverb></verbPhrase></verbPhrase></verbPhrase>.</line>
+<line>They're <nounPhrase><det>the</det> <adjective>worst</adjective> <noun>kind</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>blues</noun></nounPhrase></prepPhrase> <nounPhrase><det>this</det> <adjective>poor</adjective> <noun>woman</noun> </nounPhrase><adverb>ever</adverb> <verbPhrase><verb>had</verb></verbPhrase>.</line>
+</verse>
+</lyrics>
+</song>

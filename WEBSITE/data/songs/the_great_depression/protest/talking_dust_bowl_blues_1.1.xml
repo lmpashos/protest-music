@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+<metadata>
+    <title>Talking Dust Bowl Blues</title>
+    <composer>Woody Guthrie</composer>
+    <album></album>
+    <year>1940</year>
+    <genre></genre>
+    <notablePerformer>Woody Guthrie</notablePerformer>
+</metadata>
+<lyrics>
+<verse>
+<line>Back in Nineteen Twenty-Seven,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>had</verb> <nounPhrase><det>a </det><adjective>little</adjective> <noun>farm</noun></nounPhrase></verbPhrase> and <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>called</verb> that <nounPhrase><noun>heaven</noun></nounPhrase></verbPhrase>.</line>
+<line>Well, <nounPhrase><det>the</det> <noun>prices</noun></nounPhrase> up and <nounPhrase><det>the</det> <noun>rain</noun></nounPhrase> <verbPhrase><verb>come</verb> <prepPhrase><prep>down</prep></prepPhrase></verbPhrase>,</line>
+<line>And <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>hauled</verb> <nounPhrase><det>my</det> <noun>crops</noun></nounPhrase> <adverb>all</adverb> <prepPhrase><prep>into </prep><nounPhrase><noun>town</noun></nounPhrase></prepPhrase></verbPhrase> --</line>
+<line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>got</verb> <nounPhrase><det>the</det> <noun>money</noun></nounPhrase></verbPhrase>, <verbPhrase><verb>bought</verb> <nounPhrase><noun>clothes</noun></nounPhrase> and <nounPhrase><noun>groceries</noun></nounPhrase></verbPhrase>,</line>
+<line><verbPhrase><verb>Fed</verb> <nounPhrase><det>the</det> <noun>kids</noun></nounPhrase></verbPhrase>, and <verbPhrase><verb>raised</verb> <nounPhrase><det>a</det> <noun>family</noun></nounPhrase></verbPhrase>.</line>
+</verse>
+
+<verse>
+<line><nounPhrase><noun>Rain</noun></nounPhrase> <verbPhrase><verb>quit</verb></verbPhrase> and <nounPhrase><det>the</det> <noun>wind</noun></nounPhrase> <verbPhrase><verb>got</verb> <adverb>high</adverb></verbPhrase>,</line>
+<line>And <nounPhrase><det>the</det> <adjective>black</adjective> <adjective>ol'</adjective> <noun>dust storm</noun></nounPhrase> <verbPhrase><verb>filled</verb> <nounPhrase><det>the</det> <noun>sky</noun></nounPhrase></verbPhrase>.</line>
+<line>And <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>swapped</verb> <nounPhrase><det>my</det> <noun>farm</noun></nounPhrase> <prepPhrase><prep>for</prep> <det>a</det> <nounPhrase><noun>Ford</noun></nounPhrase> <nounPhrase><noun>machine</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+<line>And<nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>poured </verb><nounPhrase><noun>it</noun></nounPhrase> <adverb>full</adverb> <prepPhrase><prep>of</prep> <nounPhrase><det>this</det> <noun>gas-i-line</noun></nounPhrase></prepPhrase></verbPhrase> --</line>
+<line>And <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>started</verb></verbPhrase>, <verbPhrase><verb>rockin'</verb></verbPhrase> an' <verbPhrase><verb>a-rollin'</verb></verbPhrase>,</line>
+<line><prepPhrase><prep>Over</prep> <nounPhrase><det>the</det> <noun>mountains</noun></nounPhrase></prepPhrase>, <prepPhrase>out <prep>towards</prep> <nounPhrase><det>the</det> <adjective>old</adjective> <noun>Peach Bowl</noun></nounPhrase></prepPhrase>.</line>
+</verse>
+
+<verse>
+<line>Way up yonder <prepPhrase><prep>on</prep> <nounPhrase><det>a</det> <adjective>mountain</adjective> <noun>road</noun></nounPhrase></prepPhrase>,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>had</verb> <nounPhrase><det>a</det> <adjective>hot</adjective> <noun>motor</noun></nounPhrase> and <nounPhrase><det>a</det> <adjective>heavy</adjective> <noun>load</noun></nounPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'s</verb> <verbPhrase><verb>a-goin'</verb> <adjective>pretty</adjective> <adverb>fast</adverb></verbPhrase></verbPhrase>, there <verbPhrase neg="true"><verb>wasn't</verb> <adverb>even</adverb> <verbPhrase><verb>stoppin</verb></verbPhrase></verbPhrase>',</line>
+<line><verbPhrase><verb>A-bouncin'</verb> <prepPhrase><prep>up </prep></prepPhrase>and <prepPhrase><prep>down</prep></prepPhrase>, <adjective>like</adjective> <nounPhrase><noun>popcorn</noun></nounPhrase> <verbPhrase><verb>poppin'</verb></verbPhrase></verbPhrase> -- </line>
+<line><verbPhrase><verb>Had</verb> <nounPhrase><det>a</det> <noun>breakdown</noun></nounPhrase></verbPhrase>, sort of<nounPhrase> <det>a</det> <adjective>nervous</adjective> <noun>bustdown</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><adjective>some</adjective> <noun>kind</noun></nounPhrase>,</prepPhrase></line>
+<line>There <verbPhrase><verb>was</verb> <nounPhrase><det>a</det> <noun>feller</noun></nounPhrase> there</verbPhrase>, <nounPhrase><det>a</det> <adjective>mechanic</adjective><noun> feller</noun></nounPhrase>, </line>
+<line><verbPhrase><verb>Said</verb> <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>was</verb> <nounPhrase><noun>en-gine trouble</noun></nounPhrase>.</verbPhrase></verbPhrase></line>
+</verse>
+<verse>
+<line>Way up yonder <prepPhrase><prep>on</prep> <nounPhrase><det>a</det> <adjective>mountain</adjective> <noun>curve</noun></nounPhrase></prepPhrase>,</line>
+<line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s </verb>way up yonder <prepPhrase><prep>in</prep> <nounPhrase><det>the</det> <adjective>piney</adjective> <noun>wood</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+<line>An' <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>give</verb> <nounPhrase><det>that</det> <adjective>rollin'</adjective> <noun>Ford</noun></nounPhrase><nounPhrase><det> a</det> <noun>shove</noun></nounPhrase></verbPhrase>,</line>
+<line>An' <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'s</verb> <verb>a-gonna coast</verb> as <adverb>far</adverb> as <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>could</verb></verbPhrase></verbPhrase> --</line>
+<line><verbPhrase><verb>Commence</verb> <verbPhrase><verb>coastin'</verb></verbPhrase></verbPhrase>, <verbPhrase><verb>pickin'</verb> <prepPhrase><prep>up</prep> <nounPhrase><noun>speed</noun></nounPhrase></prepPhrase>,</verbPhrase></line>
+<line><verbPhrase><verb>Was</verb> <nounPhrase><det>a</det> <adjective>hairpin</adjective> <noun>turn</noun></nounPhrase></verbPhrase>, <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>didn't</verb> <verbPhrase>make <nounPhrase><det>it</det></nounPhrase></verbPhrase></verbPhrase>.</line>
+</verse>
+
+<verse>
+<line><nounPhrase><noun>Man</noun> <adjective>alive</adjective></nounPhrase>, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <verb>a-tellin'</verb> <nounPhrase><noun>you</noun></nounPhrase>,</verbPhrase></line>
+<line><nounPhrase><det>The</det> <noun>fiddles</noun></nounPhrase> and <nounPhrase><det>the</det> <noun>guitars</noun></nounPhrase> <adverb>really</adverb><verbPhrase><verb> flew</verb></verbPhrase>.</line>
+<line><nounPhrase><det>That</det> <noun>Ford</noun></nounPhrase> <verbPhrase><verb>took off</verb> <prepPhrase><prep>like</prep> <nounPhrase><det>a </det><noun>flying squirrel</noun></nounPhrase></prepPhrase></verbPhrase></line>
+<line>An' <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>flew </verb><adverb>halfway</adverb> <prepPhrase><prep>around</prep> <nounPhrase><det>the</det> <noun>world</noun></nounPhrase></prepPhrase></verbPhrase> --</line>
+<line><nounPhrase><adjective>Scattered</adjective> <noun>wives</noun></nounPhrase> and <nounPhrase><noun>childrens</noun></nounPhrase></line>
+<line>All <prepPhrase><prep>over</prep> <nounPhrase><det>the</det> <noun>side</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><det>that</det> <noun>mountain</noun></nounPhrase></prepPhrase></prepPhrase>.</line>
+</verse>
+
+<verse>
+<line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>got</verb> <adverb>out</adverb> <prepPhrase><prep>to</prep> <nounPhrase><det>the</det> <noun>West Coast</noun></nounPhrase></prepPhrase> <adjective>broke</adjective></verbPhrase>,</line>
+<line>So dad-gum hungry <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>thought</verb> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d</verb> <verbPhrase><verb>croak</verb></verbPhrase></verbPhrase></verbPhrase>,</line>
+<line>An' <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>bummed </verb><adverb>up</adverb> <nounPhrase><det>a</det> <noun>spud</noun> or <det>two</det></nounPhrase></verbPhrase>,</line>
+<line>An' <nounPhrase><det>my </det><noun>wife</noun></nounPhrase> <verbPhrase><verb>fixed</verb> <adverb>up </adverb><nounPhrase><det>a</det> <adjective>tater</adjective> <noun>stew</noun></nounPhrase> </verbPhrase>--</line>
+<line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>poured</verb> <nounPhrase><det>the</det> <noun>kids</noun></nounPhrase> <adjective>full</adjective><prepPhrase> <prep>of</prep> <nounPhrase><noun>it</noun></nounPhrase></prepPhrase></verbPhrase>, </line>
+<line><nounPhrase><adjective>Mighty</adjective> <adjective>thin</adjective> <noun>stew</noun></nounPhrase>, though,</line>
+<line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>could</verb> <verbPhrase><verb>read </verb><nounPhrase><det>a</det> <noun>magazine</noun></nounPhrase> <adverb>right</adverb> <prepPhrase><prep>through</prep> <nounPhrase><noun>it</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>.</line>
+<line><adverb>Always</adverb> <verbPhrase><verb>have figured</verb></verbPhrase></line>
+<line>That if<nounPhrase><noun> it</noun></nounPhrase>'<verbPhrase><verb>d been</verb> <adverb>just</adverb> <nounPhrase><det>a</det> <adjective>little</adjective> <noun>bit</noun></nounPhrase> <adjective>thinner</adjective></verbPhrase>,</line>
+<line><nounPhrase><det>Some</det></nounPhrase> <prepPhrase><prep>of </prep><nounPhrase><det>these</det> <adverb>here</adverb> <noun>politicians</noun></nounPhrase></prepPhrase></line>
+<line><verbPhrase><verb>Coulda</verb> <verbPhrase>seen <prepPhrase><prep>through</prep> <nounPhrase><noun>it</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>.</line>
+</verse></lyrics>
+</song>

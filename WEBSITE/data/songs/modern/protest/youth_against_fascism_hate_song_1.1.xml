@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Youth Against Fascism (Hate Song)</title>
+        <composer>Kim Gordon</composer>
+        <composer>Thurston Moore</composer>
+        <composer>Lee Ranaldo</composer>
+        <composer>Steve Shelley</composer>
+        <album>Dirty</album>
+        <year>1992</year>
+        <genre>Pop</genre>
+        <genre>Rock</genre>
+        <notablePerformer>Sonic Youth</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><nounPhrase><adjective>Another</adjective>
+                    <noun>can</noun></nounPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><noun>worms</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><adjective>Another</adjective>
+                    <noun>stomach</noun></nounPhrase>
+                <verbPhrase><verb>turns</verb></verbPhrase></line>
+            <line>Yeh <nounPhrase><det>yr</det>
+                    <noun>ghetto</noun></nounPhrase>
+                <verbPhrase><verb>burns</verb></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>got</verb>
+                    <nounPhrase><det>a</det>
+                        <adjective>stupid</adjective>
+                        <noun>man</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>got</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>Ku Klux Klan</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>Yr</det>
+                    <adjective>fuckin'</adjective>
+                    <adjective>battle</adjective>
+                    <noun>plan</noun></nounPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><det>A</det>
+                    <adjective>sieg heil-in'</adjective>
+                    <noun>squirt</noun></nounPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'re</verb>
+                    <nounPhrase><det>an</det>
+                        <adjective>impotent</adjective>
+                        <noun>jerk</noun></nounPhrase></verbPhrase></line>
+            <line>Yeh <nounPhrase><det>a</det>
+                    <adjective>fascist</adjective>
+                    <noun>twerp</noun></nounPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><adjective>Black</adjective>
+                    <noun>robe</noun> and <noun>swill</noun></nounPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>believe</verb>
+                    <nounPhrase><noun>Anita Hill</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Judge</noun></nounPhrase>
+                <verbPhrase><verb>will rot</verb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><noun>hell</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line>Yeah <nounPhrase><det>a</det>
+                    <noun>cross</noun></nounPhrase>
+                <prepPhrase><prep>on</prep>
+                    <nounPhrase><noun>fire</noun></nounPhrase></prepPhrase></line>
+            <line><prepPhrase><prep>By</prep>
+                    <nounPhrase><det>a</det>
+                        <adjective>Christian</adjective>
+                        <noun>liar</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><det>A</det>
+                    <adjective>black</adjective>
+                    <noun>attack</noun></nounPhrase>
+                <prepPhrase><prep>on</prep>
+                    <nounPhrase><noun>fire</noun></nounPhrase></prepPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line>Yeah <nounPhrase><det>the</det>
+                    <noun>president</noun></nounPhrase>
+                <verbPhrase><verb>sucks</verb></verbPhrase></line>
+            <line><nounPhrase><noun>He</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>a</det>
+                        <adjective>war pig</adjective>
+                        <noun>fuck</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>His</det>
+                    <noun>shit</noun></nounPhrase>
+                <verbPhrase><verb>is</verb>
+                    <adverb>out</adverb>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><noun>luck</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line><prepPhrase><prep>Another</prep>
+                    <nounPhrase><adjective>Nazi</adjective>
+                        <noun>attack</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><det>A</det>
+                    <noun>skinhead</noun></nounPhrase>
+                <verbPhrase><verb>is cracked</verb></verbPhrase></line>
+            <line><nounPhrase><det>My</det>
+                    <noun>blood</noun></nounPhrase>
+                <verbPhrase><verb>is</verb>
+                    <nounPhrase><adjective>black</adjective></nounPhrase></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>We</noun></nounPhrase><verbPhrase><verb>'re banging</verb>
+                    <nounPhrase><noun>pots</noun> and
+                <noun>pans</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>To make</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>understand</verb></verbPhrase></line>
+            <line><nounPhrase><noun>We</noun></nounPhrase>
+                <verbPhrase><verb>gonna bury</verb>
+                    <nounPhrase><noun>you</noun>
+                        <noun>man</noun></nounPhrase></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <nounPhrase><det>a</det>
+                        <adjective>human</adjective>
+                        <noun>wreck</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>A</det>
+                    <noun>redneck</noun></nounPhrase>
+                <prepPhrase><prep>in</prep>
+                    <nounPhrase><noun>check</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>killed</verb>
+                    <nounPhrase><det>the</det>
+                        <adjective>teacher</adjective><det>'s</det>
+                        <noun>pet</noun></nounPhrase></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <refrainLine lineID="1"><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                <nounPhrase><det>the</det>
+                    <noun>song</noun></nounPhrase>
+                <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>hate</verb></verbPhrase></verbPhrase>,
+                <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                <nounPhrase><det>the</det>
+                    <noun>song</noun></nounPhrase>
+                <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>hate</verb></verbPhrase></verbPhrase></refrainLine>
+    </lyrics>
+</song>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Tossin' and Turnin'</title>
+        <composer>Ritchie Adams</composer>
+        <composer>Malou Rene</composer>
+        <album>single</album>
+        <year>1961</year>
+        <genre>R&amp;B</genre>
+        <notablePerformer>Bobby Lewis</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>couldn't</verb>
+                    <verb>sleep</verb>
+                    <adverb>at</adverb>
+                    <adverb>all</adverb>
+                    <nounPhrase><adjective>last</adjective>
+                        <noun>night</noun></nounPhrase></verbPhrase></line>
+            <line><adverb>Just</adverb>
+                <verbPhrase>a-<verb>thinkin'</verb>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Baby</noun></nounPhrase>,
+                    <nounPhrase><noun>things</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>weren't</verb>
+                    <adjective>right</adjective></verbPhrase></line>
+        </verse>
+        <verse>
+            <line>Well <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>was</verb>
+                    <verb>tossin'</verb> and <verb>turnin'</verb></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>kicked</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>blankets</noun></nounPhrase></verbPhrase>
+                <prepPhrase><prep>on</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>floor</noun></nounPhrase></prepPhrase></line>
+            <line><verbPhrase><verb>Turned</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>pillow</noun></nounPhrase>
+                    <adverb>upside</adverb>
+                    <adjective>down</adjective></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true">never, never <verb>did</verb>
+                    <adverb>before</adverb></verbPhrase></line>
+        </verse>
+        <verse>
+            <line>'Cause <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>was</verb>
+                    <verb>tossin'</verb> and <verb>turnin'</verb></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Jumped</verb>
+                    <adverb>out</adverb>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><noun>bed</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Turned</verb>
+                    <adverb>on</adverb>
+                    <nounPhrase><det>the</det>
+                        <noun>light</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>pulled</verb>
+                    <adverb>down</adverb>
+                    <nounPhrase><det>the</det>
+                        <noun>shade</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Went</verb>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>kitchen</noun></nounPhrase></prepPhrase></verbPhrase>
+                <prepPhrase><prep>for</prep>
+                    <nounPhrase><det>a</det>
+                        <noun>bite</noun></nounPhrase></prepPhrase></line>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Rolled</verb>
+                    <adverb>up</adverb>
+                    <nounPhrase><det>the</det>
+                        <noun>shade</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Turned</verb>
+                    <adverb>out</adverb>
+                    <nounPhrase><det>the</det>
+                        <noun>light</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>jumped</verb>
+                    <adverb>back</adverb></verbPhrase>
+                <prepPhrase><prep>into</prep>
+                    <nounPhrase><noun>bed</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><noun>It</noun></nounPhrase>
+                <verbPhrase><verb>was</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>middle</noun></nounPhrase></verbPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>night</noun></nounPhrase></prepPhrase></line>
+        </verse>
+        <verse>
+            <line><nounPhrase><det>The</det>
+                    <noun>clock</noun>
+                    <adjective>downstairs</adjective></nounPhrase>
+                <verbPhrase><verb>was</verb>
+                    <verb>strikin'</verb>
+                    <nounPhrase><noun>four</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase neg="true"><verb>Couldn't</verb>
+                    <verb>get</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase></verbPhrase>
+                <prepPhrase><prep>off</prep>
+                    <nounPhrase><det>my</det>
+                        <noun>mind</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>heard</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>milkman</noun></nounPhrase></verbPhrase>
+                <prepPhrase><prep>at</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>door</noun></nounPhrase></prepPhrase></line>
+        </verse>
+        <verse>
+            <line>'Cause <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>was</verb>
+                    <verb>tossin'</verb> and <verb>turnin'</verb></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Jumped</verb>
+                    <adverb>out</adverb>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><noun>bed</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Turned</verb>
+                    <adverb>on</adverb>
+                    <nounPhrase><det>the</det>
+                        <noun>light</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>pulled</verb>
+                    <adverb>down</adverb>
+                    <nounPhrase><det>the</det>
+                        <noun>shade</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Went</verb>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>kitchen</noun></nounPhrase></prepPhrase></verbPhrase>
+                <prepPhrase><prep>for</prep>
+                    <nounPhrase><det>a</det>
+                        <noun>bite</noun></nounPhrase></prepPhrase></line>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Rolled</verb>
+                    <adverb>up</adverb>
+                    <nounPhrase><det>the</det>
+                        <noun>shade</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Turned</verb>
+                    <adverb>out</adverb>
+                    <nounPhrase><det>the</det>
+                        <noun>light</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>jumped</verb>
+                    <adverb>back</adverb></verbPhrase>
+                <prepPhrase><prep>into</prep>
+                    <nounPhrase><noun>bed</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><noun>It</noun></nounPhrase>
+                <verbPhrase><verb>was</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>middle</noun></nounPhrase></verbPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>night</noun></nounPhrase></prepPhrase></line>
+        </verse>
+        <verse>
+            <line><nounPhrase><det>The</det>
+                    <noun>clock</noun>
+                    <adjective>downstairs</adjective></nounPhrase>
+                <verbPhrase><verb>was</verb>
+                    <verb>strikin'</verb>
+                    <nounPhrase><noun>four</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase neg="true"><verb>Couldn't</verb>
+                    <verb>get</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase></verbPhrase>
+                <prepPhrase><prep>off</prep>
+                    <nounPhrase><det>my</det>
+                        <noun>mind</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>heard</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>milkman</noun></nounPhrase></verbPhrase>
+                <prepPhrase><prep>at</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>door</noun></nounPhrase></prepPhrase></line>
+        </verse>
+        <verse>
+            <line>'Cause <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>was</verb>
+                    <verb>tossin'</verb> and <verb>turnin'</verb></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+        </verse>
+        <verse>
+            <line>I was tossin' and turnin' </line>
+            <line>Turnin' and Tossin' </line>
+            <line>A<verbPhrase><verb>Tossin'</verb> and <verb>turnin'</verb>
+                    <nounPhrase><det>all</det>
+                        <noun>day</noun></nounPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line>'Cause <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>was</verb>
+                    <verb>tossin'</verb> and <verb>turnin'</verb></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+        </verse>
+
+        <refrainLine lineID="1"><verbPhrase><verb>Turnin'</verb> and
+                <verb>tossin'</verb></verbPhrase></refrainLine>
+        <refrainLine lineID="2"><verbPhrase><verb>Tossin'</verb> and <verb>turnin'</verb>
+                <nounPhrase><det>all</det>
+                    <noun>night</noun></nounPhrase></verbPhrase></refrainLine>
+    </lyrics>
+</song>

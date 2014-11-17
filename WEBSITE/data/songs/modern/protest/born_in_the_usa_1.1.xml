@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Born in the U.S.A.</title>
+        <composer>Bruce Springsteen</composer>
+        <album>Born in the U.S.A.</album>
+        <year>1984</year>
+        <genre>Pop</genre>
+        <genre>Rock</genre>
+        <notablePerformer>Bruce Springsteen</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><verbPhrase><verb>Born</verb>
+                    <adverb>down</adverb><prepPhrase>
+                        <prep>in</prep>
+                        <nounPhrase>
+                            <det>a</det>
+                            <adjective>dead man's</adjective>
+                            <noun>town</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <adjective>first</adjective>
+                    <noun>kick</noun></nounPhrase>
+                <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>took</verb></verbPhrase> was when
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>hit</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>ground</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>end</verb>
+                    <adverb>up</adverb>
+                    <prepPhrase><prep>like</prep><nounPhrase><det>a</det>
+                            <noun>dog</noun></nounPhrase></prepPhrase> that<verbPhrase><verb>'s been
+                            beat</verb>
+                        <adverb>too</adverb>
+                        <adjective>much</adjective></verbPhrase></verbPhrase></line>
+            <line>Till <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>spend</verb>
+                    <nounPhrase><adverb>half</adverb>
+                        <det>your</det>
+                        <noun>life</noun></nounPhrase> just <verbPhrase><verb>covering</verb>
+                        <adverb>up</adverb></verbPhrase></verbPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+            <line><verbPhrase><verb>Got</verb>
+                    <prepPhrase>
+                        <prep>in</prep><nounPhrase>
+                            <det>a</det>
+                            <adjective>little</adjective>
+                            <adjective>hometown</adjective>
+                            <noun>jam</noun></nounPhrase></prepPhrase></verbPhrase> so they
+                        <verbPhrase><verb>put</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>rifle</noun></nounPhrase><prepPhrase>
+                        <prep>in</prep><nounPhrase>
+                            <det>my</det>
+                            <noun>hand</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Sent</verb> me off <prepPhrase><prep>to</prep>
+                        <nounPhrase><det>a</det>
+                            <adjective>foreign</adjective>
+                            <noun>land</noun></nounPhrase></prepPhrase></verbPhrase>
+                <verbPhrase><verb>to go</verb> and <verb>kill</verb><nounPhrase>
+                        <det>the</det>
+                        <adjective>yellow</adjective>
+                        <noun>man</noun></nounPhrase></verbPhrase></line>
+            <refrainSectionRef sectionRef="2"/>
+            <line><verbPhrase><verb>Come</verb>
+                    <adverb>back</adverb>
+                    <nounPhrase><noun>home</noun></nounPhrase></verbPhrase>
+                <prepPhrase><prep>to</prep>
+                    <nounPhrase><noun>the</noun>
+                        <noun>refinery</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><adjective>Hiring</adjective>
+                    <noun>man</noun></nounPhrase>
+                <verbPhrase><verb>says</verb></verbPhrase>
+                    "<nounPhrase><noun>son</noun></nounPhrase> if
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                <verbPhrase><verb>was</verb> up to me</verbPhrase>"</line>
+            <line><verbPhrase><verb>Went</verb>
+                    <adverb>down</adverb>
+                    <verb>to see</verb><nounPhrase><det>my</det>
+                        <adjective>V.A.</adjective>
+                        <noun>man</noun></nounPhrase></verbPhrase></line>
+            <line>He <verbPhrase><verb>said</verb></verbPhrase> "son <verbPhrase neg="true"
+                        ><verb>do</verb>n't <nounPhrase><noun>you</noun></nounPhrase>
+                    <verb>understand</verb>
+                    <adverb>now</adverb></verbPhrase>"</line>
+            <line><verbPhrase><verb>Had</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>brother</noun></nounPhrase>
+                    <prepPhrase><prep>at</prep><nounPhrase>
+                            <noun>Khe Sahn</noun></nounPhrase>
+                    </prepPhrase></verbPhrase><verbPhrase><verb>fighting</verb></verbPhrase><prepPhrase>
+                    <prep>off</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>Viet Cong</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><noun>They</noun></nounPhrase><verbPhrase><verb>'re</verb>
+                    <adverb>still</adverb>
+                    <adjective>there</adjective></verbPhrase>
+                <nounPhrase><noun>he</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adverb>all</adverb>
+                    <adjective>gone</adjective></verbPhrase></line>
+            <line><nounPhrase><noun>He</noun></nounPhrase><verbPhrase>
+                    <verb>had</verb><nounPhrase><det>a</det>
+                        <noun>woman</noun></nounPhrase>
+                    <nounPhrase><noun>he</noun></nounPhrase>
+                    <verbPhrase><verb>loved</verb>
+                        <prepPhrase><prep>in</prep><nounPhrase>
+                                <noun>Saigon</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <line>I <verbPhrase><verb>got</verb><nounPhrase>
+                        <det>a</det>
+                        <noun>picture</noun></nounPhrase>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><noun>him</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>in</prep><nounPhrase><det>her</det><noun>arms</noun></nounPhrase></prepPhrase>
+                    <adverb>now</adverb></verbPhrase></line>
+            <line>Down<prepPhrase>
+                    <prep>in</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>shadow</noun>
+                    </nounPhrase></prepPhrase><prepPhrase><prep>of</prep>
+                    <nounPhrase><noun>penitentiary</noun></nounPhrase></prepPhrase></line>
+            <line>Out<prepPhrase>
+                    <prep>by</prep>
+                    <nounPhrase><det>the</det>
+                        <adjective>gas</adjective>
+                        <noun>fires</noun></nounPhrase></prepPhrase><prepPhrase>
+                    <prep>of</prep><nounPhrase>
+                        <det>the</det>
+                        <noun>refinery</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <nounPhrase><adjective>ten</adjective>
+                        <noun>years</noun></nounPhrase>
+                    <verb>burning</verb>
+                    <prepPhrase><prep>down</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>road</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Nowhere</noun></nounPhrase>
+                <verbPhrase><verb>to run</verb></verbPhrase>
+                <verbPhrase><verb>ain't got</verb></verbPhrase>
+                <nounPhrase><noun>nowhere</noun></nounPhrase>
+                <verbPhrase><verb>to go</verb></verbPhrase></line>
+            <refrainSectionRef sectionRef="3"/>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+        <refrainSection sectionID="3">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="4"/>
+        </refrainSection>
+        <refrainLine lineID="1"><verbPhrase><verb>Born</verb><prepPhrase>
+                    <prep>in</prep>
+                    <nounPhrase>
+                        <det>the</det>
+                        <noun>U.S.A.</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="2"><nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase><verb>was</verb> born <prepPhrase>
+                    <prep>in</prep><nounPhrase>
+                        <det>the</det>
+                        <noun>U.S.A.</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="3"><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                <nounPhrase><det>a</det>
+                    <adjective>long</adjective>
+                    <adjective>gone</adjective>
+                    <noun>daddy</noun></nounPhrase>
+                <prepPhrase><prep>in</prep><nounPhrase>
+                        <det>the</det>
+                        <noun>U.S.A.</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="4"><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                <nounPhrase><det>a</det>
+                    <adjective>cool</adjective>
+                    <adjective>rocking</adjective>
+                    <noun>daddy</noun></nounPhrase><prepPhrase><prep>in</prep><nounPhrase>
+                        <det>the</det>
+                        <noun>U.S.A.</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+    </lyrics>
+</song>

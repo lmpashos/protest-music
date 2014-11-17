@@ -1,15 +1,19 @@
 @charset "utf-8";
+
 /* CSS Document */
-* {
+/* * {
   color: white;
   margin: 0 auto;
   background-color: #ADAFB2;
-}
+} */
 
 html, body {
   min-width: 900px;
   font-family: Century Gothic, Arial;
   height: 100%;	
+  color: white;
+  margin: 0 auto;
+  background-color: #ADAFB2;
 }
 	
 html, body, .wrapper {
@@ -36,8 +40,9 @@ body > .wrapper {
 
 .menu_button a {
   background: rgba(0,0,0,0.2);
-  font-weight:bold;
-  text-decoration:none;
+  font-weight: bold;
+  text-decoration: none;
+  color: inherit;
   /*
     border-top-left-radius:10px;
     border-top-right-radius:10px;
@@ -49,7 +54,7 @@ body > .wrapper {
 }
 
 .menu_button a:active {
-  color:#FF3419;	
+  color: #FF3419;	
 }
 
 .menu_panel {
@@ -62,6 +67,7 @@ body > .wrapper {
 }
 
 .menu_panel li {
+  background-color: inherit;
   background: none;
   padding: 10px;
   list-style: none;
@@ -69,7 +75,7 @@ body > .wrapper {
 }
 
 .menu_panel li a {
-  background:none;
+  background: none;
   padding: 8px 23px 8px 10px;
 }
 
@@ -78,7 +84,7 @@ body > .wrapper {
 }
 
 .menu_panel li a:active {
-  color:#4D4D4D;
+  color: #4D4D4D;
 }
 
 h1 {
@@ -116,14 +122,14 @@ h1 {
 
 #left {
   background-color: #4E4E4E;
-  color:white;
+  color: white;
   float: left;
   width: 10%;	
 }
 
 #right {
-  background-color:#4E4E4E;
-  color:white;
+  background-color: #4E4E4E;
+  color: white;
   float: right;
   width: 10%;
 }
@@ -134,8 +140,8 @@ h1 {
 }
 
 #center p { 
-  font-size:1.5em;
-  padding:10px;
+  font-size: 1.5em;
+  padding: 10px;
 }
 
 #left p, #right p {
@@ -143,18 +149,23 @@ h1 {
   padding: 16px 10px 16px 10px;
 }
 
-#left ul, #right ul{
-  overflow:auto;
-  background-color:inherit;
-  font-size:8pt;
-  list-style:none;
+#left ul, #right ul {
+  overflow: auto;
+  background-color: inherit;
+  font-size: 8pt;
+  list-style: none;
 }
 
-#left li, #right li{
-  padding-top:5px;
-  padding-bottom:5px;
-  margin-left:-40px;
-  padding-left:3px;
+#left li, #right li {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: -40px;
+  padding-left: 3px;
+}
+
+#left li a, #right li a {
+  text-decoration: none;
+  color: inherit;
 }
 
 #center p, #left p, #right p {
@@ -203,9 +214,6 @@ h1 {
   padding: 11px 23px 11px 10px
 }
 
-li {
-  background-color: inherit;
-}
 
 
 

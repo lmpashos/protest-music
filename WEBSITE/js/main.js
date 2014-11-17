@@ -65,9 +65,7 @@
     var leftHeight = document.getElementById("left").clientHeight;
     var centerHeight = document.getElementById("center").clientHeight;
     var rightHeight = document.getElementById("right").clientHeight;
-    console.log(leftHeight);
-    console.log(centerHeight);
-    console.log(rightHeight);
+ 
     var biggest = Math.max(leftHeight,centerHeight,rightHeight);
     if(biggest === leftHeight) {
       document.getElementById("center").style.height = leftHeight + "px";

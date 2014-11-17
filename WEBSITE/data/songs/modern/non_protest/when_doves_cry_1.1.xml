@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>When Doves Cry</title>
+        <composer>Prince</composer>
+        <album>Purple Rain</album>
+        <year>1984</year>
+        <genre>Pop</genre>
+        <notablePerformer>Prince</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><verbPhrase><verb>Dig</verb> if u will <nounPhrase><det>the</det>
+                        <noun>picture</noun></nounPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>Of</prep>
+                    <nounPhrase><noun>u</noun></nounPhrase> and
+                        <nounPhrase><noun>I</noun></nounPhrase></prepPhrase>
+                <verbPhrase><verb>engaged</verb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>a</det>
+                            <noun>kiss</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>sweat</noun></nounPhrase>
+                <prepPhrase><prep>of</prep>
+                    <det>your</det>
+                    <nounPhrase>body</nounPhrase></prepPhrase>
+                <verbPhrase><verb>covers</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Can</verb>
+                    <nounPhrase><noun>u</noun></nounPhrase>
+                    <nounPhrase><det>my</det>
+                        <noun>darling</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Can</verb>
+                    <nounPhrase><noun>u</noun></nounPhrase>
+                    <verb>picture</verb>
+                    <nounPhrase><noun>this</noun></nounPhrase></verbPhrase>?</line>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Dream</verb> if u can <nounPhrase><det>a</det>
+                        <noun>courtyard</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>An</det>
+                    <noun>ocean</noun></nounPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><noun>violets</noun></nounPhrase></prepPhrase>
+                <prepPhrase><prep>in</prep>
+                    <nounPhrase><noun>bloom</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><noun>Animals</noun></nounPhrase>
+                <verbPhrase><verb>strike</verb>
+                    <nounPhrase><adjective>curious</adjective>
+                        <noun>poses</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>They</noun></nounPhrase>
+                <verbPhrase><verb>feel</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>heat</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>heat</noun></nounPhrase>
+                <prepPhrase><prep>between</prep>
+                    <nounPhrase><noun>me</noun></nounPhrase> and
+                        <nounPhrase><noun>u</noun></nounPhrase></prepPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Touch</verb> if u will <nounPhrase><det>my</det>
+                        <noun>stomach</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Feel</verb> how <nounPhrase><noun>it</noun></nounPhrase>
+                    <verbPhrase><verb>trembles</verb>
+                        <adverb>inside</adverb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'ve got</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>butterflies</noun></nounPhrase>
+                    <nounPhrase><adverb>all</adverb>
+                        <adjective>tied</adjective>
+                        <noun>up</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase neg="true"><verb>Don't make</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <verb>chase</verb>
+                    <nounPhrase><noun>u</noun></nounPhrase></verbPhrase></line>
+            <line>Even <nounPhrase><noun>doves</noun></nounPhrase>
+                <verbPhrase><verb>have</verb>
+                    <adjective>pride</adjective></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <refrainLineRef lineRef="9"/>
+            <line>When <nounPhrase><noun>doves</noun></nounPhrase>
+                <verbPhrase><verb>cry</verb></verbPhrase>
+                    (<nounPhrase><noun>Doves</noun></nounPhrase>
+                <verbPhrase><verb>cry</verb></verbPhrase>,
+                    <nounPhrase><noun>doves</noun></nounPhrase>
+                <verbPhrase><verb>cry</verb></verbPhrase>)</line>
+            <line>When <nounPhrase><noun>doves</noun></nounPhrase>
+                <verbPhrase><verb>cry</verb></verbPhrase>
+                    (<nounPhrase><noun>Doves</noun></nounPhrase>
+                <verbPhrase><verb>cry</verb></verbPhrase>,
+                    <nounPhrase><noun>doves</noun></nounPhrase>
+                <verbPhrase><verb>cry</verb></verbPhrase>)</line>
+            <line><verbPhrase neg="true"><verb>Don't Cry</verb></verbPhrase> (<verbPhrase neg="true"
+                        ><verb>Don't Cry</verb></verbPhrase>)</line>
+            <refrainLineRef lineRef="9"/>
+            <refrainLineRef lineRef="9"/>
+            <refrainLineRef lineRef="9"/>
+            <line>When <nounPhrase><noun>Doves</noun></nounPhrase>
+                <verbPhrase><verb>cry</verb></verbPhrase>
+                    (<nounPhrase><noun>Doves</noun></nounPhrase>
+                <verbPhrase><verb>cry</verb></verbPhrase>,
+                    <nounPhrase><noun>doves</noun></nounPhrase>
+                <verbPhrase><verb>cry</verb></verbPhrase>,
+                    <nounPhrase><noun>doves</noun></nounPhrase>
+                <verbPhrase><verb>cry</verb></verbPhrase>)</line>
+            <line><verbPhrase neg="true"><verb>Don't Cry</verb></verbPhrase></line>
+            <line>Darling <verbPhrase neg="true"><verb>Don't Cry</verb></verbPhrase></line>
+            <line><verbPhrase neg="true"><verb>Don't Cry</verb></verbPhrase></line>
+            <line><verbPhrase neg="true"><verb>Don't Cry</verb></verbPhrase></line>
+            <line>Don't <verbPhrase neg="true"><verb>don't Cry</verb></verbPhrase></line>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="5"/>
+            <refrainLineRef lineRef="6"/>
+            <refrainLineRef lineRef="7"/>
+            <refrainLineRef lineRef="8"/>
+            <refrainLineRef lineRef="9"/>
+        </refrainSection>
+        <refrainLine lineID="1">How <verbPhrase><verb>can</verb>
+                <nounPhrase><noun>u</noun></nounPhrase> just <verb>leave</verb>
+                <nounPhrase><noun>me</noun>
+                    <adjective>standing</adjective></nounPhrase></verbPhrase>?</refrainLine>
+        <refrainLine lineID="2"><adverb>Alone</adverb>
+            <prepPhrase><prep>in</prep>
+                <nounPhrase><det>a</det>
+                    <noun>world</noun></nounPhrase></prepPhrase> that<verbPhrase><verb>'s</verb>
+                <adverb>so</adverb>
+                <adjective>cold</adjective>? (<adverb>so</adverb>
+                <adjective>cold</adjective>)</verbPhrase></refrainLine>
+        <refrainLine lineID="3">Maybe
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> just
+                    <adverb>2</adverb>
+                <verb>demanding</verb></verbPhrase></refrainLine>
+        <refrainLine lineID="4">Maybe
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> just
+                        <prepPhrase><prep>like</prep>
+                    <nounPhrase><det>my</det>
+                        <noun>father</noun></nounPhrase></prepPhrase> 2
+            bold</verbPhrase></refrainLine>
+        <refrainLine lineID="5">Maybe
+                    <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb> just
+                        <prepPhrase><prep>like</prep>
+                    <nounPhrase><det>my</det>
+                        <noun>mother</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="6"><nounPhrase><noun>She</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                <adverb>never</adverb>
+                <adjective>satisfied</adjective></verbPhrase>
+                (<nounPhrase><noun>She</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                <adverb>never</adverb>
+                <adjective>satisfied</adjective></verbPhrase>)</refrainLine>
+        <refrainLine lineID="7">Why <verbPhrase><verb>do</verb>
+                <nounPhrase><noun>we</noun></nounPhrase>
+                <verb>scream</verb>
+                <prepPhrase><prep>at</prep>
+                    <nounPhrase><adjective>each</adjective>
+                        <noun>other</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="8"><nounPhrase><noun>This</noun></nounPhrase>
+            <verbPhrase><verb>is</verb> what <nounPhrase><noun>it</noun></nounPhrase>
+                <verbPhrase><verb>sounds</verb> like</verbPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="9">When <nounPhrase><noun>doves</noun></nounPhrase>
+            <verbPhrase><verb>cry</verb></verbPhrase></refrainLine>
+    </lyrics>
+</song>

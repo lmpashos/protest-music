@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Tik Tok</title>
+        <composer>Lukasz "Dr. Luke" Gottwald</composer>
+        <composer>Benjamin Levin</composer>
+        <composer>Kesha Sebert</composer>
+        <album>Animal</album>
+        <year>2010</year>
+        <genre>Pop</genre>
+        <notablePerformer>Ke$ha</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><verbPhrase><verb>Wake up</verb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>mornin'</noun></nounPhrase></prepPhrase></verbPhrase> feelin' like
+                P-Diddy (hey what's up girl)</line>
+            <line><verbPhrase><verb>Grab</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>glasses</noun></nounPhrase></verbPhrase> I<verbPhrase><verb>'m</verb>
+                    <prepPhrase><prep>out</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>door</noun></nounPhrase></prepPhrase></verbPhrase>
+                        I<verbPhrase><verb>'m gonna hit</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>city</noun></nounPhrase></verbPhrase> (let's go)</line>
+            <line>Before <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>leave</verb></verbPhrase>
+                <verbPhrase><verb>brush</verb>
+                    <nounPhrase><det>ma</det>
+                        <noun>teeth</noun></nounPhrase>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><det>a</det>
+                            <noun>bottle</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><noun>Jack</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>'Cause when <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>leave</verb>
+                    <prepPhrase><prep>for</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>night</noun></nounPhrase></prepPhrase></verbPhrase>
+                <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>ain't comin'</verb>
+                    <adverb>back</adverb></verbPhrase></line>
+        </verse>
+        <verse>
+            <line>I<verbPhrase><verb>'m talking</verb>
+                    <nounPhrase><noun>pedicure</noun></nounPhrase>
+                    <prepPhrase><prep>on</prep>
+                        <nounPhrase><det>our</det>
+                            <noun>toes</noun>
+                            <noun>toes</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Trying</verb>
+                    <prepPhrase><prep>on</prep>
+                        <adverb>all</adverb>
+                        <nounPhrase><det>our</det>
+                            <noun>clothes</noun>
+                            <noun>clothes</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Boys</noun></nounPhrase>
+                <verbPhrase><verb>blowin'</verb>
+                    <prepPhrase><prep>up</prep>
+                        <nounPhrase><det>our</det>
+                            <noun>phones</noun>
+                            <noun>phones</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line><verbPhrase><verb>Drop</verb>
+                    <nounPhrase><noun>top</noun></nounPhrase></verbPhrase> and
+                        <verbPhrase><verb>playin'</verb>
+                    <nounPhrase><det>our</det>
+                        <adjective>favorite</adjective>
+                        <noun>CD's</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Pullin' up</verb>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>parties</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Tryna get</verb>
+                    <nounPhrase><det>a</det>
+                        <adverb>little</adverb>
+                        <adjective>bit</adjective>
+                        <noun>tipsy</noun></nounPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><verbPhrase neg="true"><verb>Ain't got</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>care</noun></nounPhrase>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><noun>world</noun></nounPhrase></prepPhrase></verbPhrase>, but
+                        <verbPhrase><verb>got</verb>
+                    <adjective>plenty</adjective>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><noun>beer</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase neg="true"><verb>Ain't got</verb> no <nounPhrase neg="true"
+                            ><noun>money</noun></nounPhrase>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>pocket</noun></nounPhrase></prepPhrase></verbPhrase>, but
+                        <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <adverb>already</adverb>
+                    <adjective>here</adjective></verbPhrase></line>
+            <line>Now, <nounPhrase><det>the</det>
+                    <noun>dudes</noun></nounPhrase>
+                <verbPhrase><verb>are lining</verb>
+                    <adverb>up</adverb></verbPhrase> 'cause
+                    <nounPhrase><noun>they</noun></nounPhrase>
+                <verbPhrase><verb>hear</verb>
+                    <nounPhrase><noun>we</noun></nounPhrase>
+                    <verbPhrase><verb>got</verb>
+                        <nounPhrase><noun>swagger</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line>But <nounPhrase><noun>we</noun></nounPhrase>
+                <verbPhrase><verb>kick</verb>
+                    <nounPhrase><noun>'em</noun></nounPhrase>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>curb</noun></nounPhrase></prepPhrase></verbPhrase> unless
+                        <nounPhrase><noun>they</noun></nounPhrase>
+                <verbPhrase><verb>look</verb>
+                    <prepPhrase><prep>like</prep>
+                        <nounPhrase><noun>Mick
+                Jagger</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m talkin'</verb>
+                    <prepPhrase><prep>'bout</prep> -
+                        <nounPhrase><noun>everybody</noun></nounPhrase></prepPhrase>
+                    <verbPhrase><verb>getting</verb>
+                        <adjective>crunk</adjective>,
+                    <adjective>crunk</adjective></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Boys</noun></nounPhrase>
+                <verbPhrase><verb>tryna touch</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>junk</noun>, <noun>junk</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Gonna smack</verb>
+                    <nounPhrase><noun>him</noun></nounPhrase></verbPhrase> if
+                        <nounPhrase><noun>he</noun></nounPhrase>
+                <verbPhrase><verb>getting</verb>
+                    <adverb>too</adverb>
+                    <adjective>drunk</adjective>, <adjective>drunk</adjective></verbPhrase></line>
+            <line>Now, now - <nounPhrase><noun>we</noun></nounPhrase>
+                <verbPhrase><verb>goin'</verb> 'til <nounPhrase><noun>they</noun></nounPhrase>
+                    <verbPhrase><verb>kick</verb>
+                        <nounPhrase><noun>us</noun></nounPhrase>
+                        <adverb>out</adverb>, <adverb>out</adverb></verbPhrase></verbPhrase></line>
+            <line>Or <nounPhrase><det>the</det>
+                    <noun>police</noun></nounPhrase> shut us down, down</line>
+            <line><nounPhrase><noun>Police</noun></nounPhrase>
+                <verbPhrase><verb>shut</verb>
+                    <nounPhrase><noun>us</noun></nounPhrase>
+                    <adverb>down</adverb>, <adverb>down</adverb></verbPhrase></line>
+            <line><nounPhrase><noun>Po-po</noun></nounPhrase>
+                <verbPhrase><verb>shut</verb>
+                    <nounPhrase><noun>us</noun></nounPhrase> -
+                    (<adverb>down</adverb>)-man</verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>DJ, <nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>build</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <adverb>up</adverb></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>break</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <adverb>down</adverb></verbPhrase></line>
+            <line><nounPhrase><det>My</det>
+                    <noun>heart</noun></nounPhrase>, <nounPhrase><noun>it</noun></nounPhrase>
+                <verbPhrase><verb>pounds</verb></verbPhrase></line>
+            <line>Yeah, <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>got</verb> me<nounPhrase><noun/></nounPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>With</prep>
+                    <nounPhrase><det>my</det>
+                        <noun>hands</noun></nounPhrase></prepPhrase>
+                <adverb>up</adverb></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>got</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase> now</verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>got</verb>
+                    <nounPhrase><det>that</det>
+                        <noun>sound</noun></nounPhrase></verbPhrase></line>
+            <line>Yeah, <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>got</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>build</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <adverb>up</adverb></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>
+                <verbPhrase><verb>break</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <adverb>down</adverb></verbPhrase></line>
+            <line><nounPhrase><det>My</det>
+                    <noun>heart</noun></nounPhrase>, <nounPhrase><noun>it</noun></nounPhrase>
+                <verbPhrase><verb>pounds</verb></verbPhrase></line>
+            <line>Yeah, <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>got</verb> me<nounPhrase><noun/></nounPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>With</prep>
+                    <nounPhrase><det>my</det>
+                        <noun>hands</noun></nounPhrase></prepPhrase>
+                <adverb>up</adverb></line>
+            <line><verbPhrase><verb>Put</verb>
+                    <nounPhrase><det>your</det>
+                        <noun>hands</noun></nounPhrase>
+                    <adverb>up</adverb></verbPhrase></line>
+            <line><verbPhrase><verb>Put</verb>
+                    <nounPhrase><det>your</det>
+                        <noun>hands</noun></nounPhrase>
+                    <adverb>up</adverb></verbPhrase></line>
+            <line>Now, <nounPhrase><det>the</det>
+                    <noun>party</noun>
+                </nounPhrase><verbPhrase neg="true"><verb>don't start</verb></verbPhrase> 'til
+                        <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>walk</verb>
+                    <adverb>in</adverb></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="5"/>
+            <refrainLineRef lineRef="6"/>
+            <refrainLineRef lineRef="7"/>
+            <refrainLineRef lineRef="8"/>
+        </refrainSection>
+        <refrainLine lineID="1"><verbPhrase neg="true"><verb>Don't stop</verb></verbPhrase>,
+                    <verbPhrase><verb>make</verb>
+                <nounPhrase><noun>it</noun></nounPhrase>
+                <verb>pop</verb></verbPhrase></refrainLine>
+        <refrainLine lineID="2">DJ, <verbPhrase><verb>blow</verb>
+                <nounPhrase><det>my</det>
+                    <noun>speakers</noun></nounPhrase>
+                <adverb>up</adverb></verbPhrase></refrainLine>
+        <refrainLine lineID="3"><nounPhrase><noun>Tonight</noun></nounPhrase>,
+                    <verbPhrase><verb>Imma fight</verb></verbPhrase></refrainLine>
+        <refrainLine lineID="4">'Til <nounPhrase><noun>we</noun></nounPhrase>
+            <verbPhrase><verb>see</verb>
+                <nounPhrase><det>the</det>
+                    <noun>sunlight</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="5"><nounPhrase><noun>TiK ToK</noun></nounPhrase>,
+                    <prepPhrase><prep>on</prep>
+                <nounPhrase><det>the</det>
+                    <noun>clock</noun></nounPhrase></prepPhrase></refrainLine>
+        <refrainLine lineID="6">But <nounPhrase><noun>the party</noun></nounPhrase>
+            <verbPhrase neg="true"><verb>don't stop</verb></verbPhrase> no</refrainLine>
+        <refrainLine lineID="7">Whoa-oh oh oh</refrainLine>
+        <refrainLine lineID="8">Whoa-oh oh oh</refrainLine>
+    </lyrics>
+</song>

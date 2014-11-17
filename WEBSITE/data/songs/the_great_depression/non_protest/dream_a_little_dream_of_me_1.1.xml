@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Dream a Little Dream of Me</title>
+        <composer>Fabian Andre </composer>
+        <album>Miscellaneous</album>
+        <year>1931</year>
+        <genre>Jazz</genre>
+        <notablePerformer>Wayne King</notablePerformer>
+    </metadata>
+
+    <lyrics>
+        <verse>
+            <line><nounPhrase><noun>Stars</noun></nounPhrase><verbPhrase><verb>shining</verb> <adjective>bright</adjective> <prepPhrase><prep>above</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><adjective>Night</adjective> <noun>breezes</noun></nounPhrase><verbPhrase><verb>seem</verb> <verbPhrase><verb>to whisper</verb> "I love you"</verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Birds</noun></nounPhrase><verbPhrase><verb>singing</verb><prepPhrase> <prep>in</prep> <nounPhrase><det>the</det> <adjective>sycamore</adjective> <noun>tree</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+        <verse>
+            <line><verbPhrase><verb>Say</verb> "Night-ie night" and <verbPhrase><verb>kiss</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><adverb>Just </adverb><verbPhrase><verb>hold</verb> <nounPhrase><noun>me</noun> </nounPhrase><adverb>tight</adverb> and <verbPhrase><verb>tell</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ll miss</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></line>
+            <line>While <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>alone</adjective> and <adjective>blue</adjective> as <verbPhrase><verb>can</verb> <verbPhrase><verb>be</verb></verbPhrase></verbPhrase></verbPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+        <verse>
+            <line><nounPhrase><noun>Stars</noun> </nounPhrase><verbPhrase><verb>fading</verb> but <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>linger </verb><prepPhrase><prep>on</prep></prepPhrase></verbPhrase></verbPhrase>, <nounPhrase><noun>dear</noun></nounPhrase></line>
+            <line>Still <verbPhrase><verb>craving</verb> <nounPhrase><det>your</det> <noun>kiss</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <verbPhrase><verb>longing</verb> <verbPhrase><verb>to linger</verb> <prepPhrase><prep>till</prep> <nounPhrase><noun>dawn</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></verbPhrase>, dear</line>
+            <line>Just <verbPhrase><verb>saying</verb> <nounPhrase><det>this</det></nounPhrase></verbPhrase></line>
+        </verse>
+
+        <verse>
+            <line><nounPhrase><adjective>Sweet </adjective><noun>dreams</noun></nounPhrase>  till<nounPhrase><noun>sunbeams</noun></nounPhrase> <verbPhrase><verb>find</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><adjective>Sweet </adjective><noun>dreams</noun></nounPhrase> that <verbPhrase><verb>leave</verb> <nounPhrase><det>all </det><noun>worries</noun> </nounPhrase><prepPhrase><prep>behind</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>But <prepPhrase><prep>in</prep> <nounPhrase><det>your</det> <noun>dreams</noun></nounPhrase></prepPhrase> whatever <nounPhrase><noun>they</noun></nounPhrase> <verbPhrase><verb>be</verb></verbPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+
+        <refrainLine lineID="1"><verbPhrase><verb>Dream</verb> <nounPhrase><det>a</det> <adjective>little</adjective> <noun>dream </noun></nounPhrase><prepPhrase><prep>of</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+
+    </lyrics>
+</song>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Billie Jean</title>
+        <composer>Michael Jackson</composer>
+        <album>Thriller</album>
+        <year>1982</year>
+        <genre>Pop</genre>
+        <genre>Rock</genre>
+        <notablePerformer>Michael Jackson</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><nounPhrase><noun>She</noun></nounPhrase>
+                <verbPhrase><verb>Was</verb> More <prepPhrase><prep>Like</prep>
+                        <nounPhrase><det>A</det>
+                            <adjective>Beauty</adjective>
+                            <noun>Queen</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>From</prep>
+                        <nounPhrase><det>A</det>
+                            <adjective>Movie</adjective>
+                            <noun>Scene</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>Said</verb></verbPhrase>
+                <verbPhrase neg="true"><verb>Do</verb>n't <adverb>Mind</adverb></verbPhrase>, But
+                What Do <nounPhrase><noun>You</noun></nounPhrase> Mean
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>Am</verb>
+                    <nounPhrase><det>The</det>
+                        <noun>One</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Who</noun></nounPhrase>
+                <verbPhrase><verb>Will Dance</verb>
+                    <prepPhrase><prep>On</prep>
+                        <nounPhrase><det>The</det>
+                            <noun>Floor</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>In</prep>
+                        <nounPhrase><det>The</det>
+                            <noun>Round</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>She</noun></nounPhrase>
+                <verbPhrase><verb>Said</verb></verbPhrase>
+                <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>Am</verb>
+                    <nounPhrase><noun>The</noun>
+                        <noun>One</noun></nounPhrase> Who <verbPhrase><verb>Will Dance</verb>
+                        <prepPhrase><prep>On</prep>
+                            <nounPhrase><det>The</det>
+                                <noun>Floor</noun></nounPhrase></prepPhrase>
+                        <prepPhrase><prep>In</prep>
+                            <nounPhrase><det>The</det>
+                                <noun>Round</noun></nounPhrase>
+                        </prepPhrase></verbPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>She</noun></nounPhrase>
+                <verbPhrase><verb>Told</verb>
+                    <nounPhrase><noun>Me</noun></nounPhrase></verbPhrase>
+                <nounPhrase><det>Her</det>
+                    <noun>Name</noun></nounPhrase>
+                <verbPhrase><verb>Was</verb>
+                    <nounPhrase>Billie Jean</nounPhrase>, As
+                        <nounPhrase><noun>She</noun></nounPhrase>
+                    <verbPhrase><verb>Caused</verb>
+                        <nounPhrase><det>A</det>
+                            <noun>Scene</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line>Then <nounPhrase><adjective>Every</adjective>
+                    <noun>Head</noun></nounPhrase>
+                <verbPhrase><verb>Turned</verb>
+                    <prepPhrase><prep>With</prep>
+                        <nounPhrase><noun>Eyes</noun></nounPhrase></prepPhrase> That
+                            <verbPhrase><verb>Dreamed</verb>
+                        <prepPhrase><prep>Of</prep> Being <nounPhrase><det>The</det>
+                                <noun>One</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Who</noun></nounPhrase>
+                <verbPhrase><verb>Will Dance</verb>
+                    <prepPhrase><prep>On</prep>
+                        <nounPhrase><det>The</det>
+                            <noun>Floor</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>In</prep>
+                        <nounPhrase><det>The</det>
+                            <noun>Round</noun></nounPhrase>
+                    </prepPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>People</noun></nounPhrase> Always <verbPhrase><verb>Told</verb>
+                    <nounPhrase><noun>Me</noun></nounPhrase></verbPhrase>
+                <verbPhrase><verb>Be</verb>
+                    <adjective>Careful</adjective>
+                    <prepPhrase><prep>Of</prep>
+                        <nounPhrase><noun>What</noun></nounPhrase>
+                        <nounPhrase><noun>You</noun></nounPhrase>
+                Do</prepPhrase></verbPhrase></line>
+            <line>And <verbPhrase neg="true"><verb>Do</verb>n't <verb>Go</verb> Around
+                        <verb>Breaking</verb>
+                    <nounPhrase><adjective>Young</adjective>
+                        <noun>Girls</noun><det>'</det>
+                        <noun>Hearts</noun></nounPhrase></verbPhrase></line>
+            <line>And <nounPhrase><noun>Mother</noun></nounPhrase>
+                <verbPhrase><adverb>Always</adverb>
+                    <verb>Told</verb>
+                    <nounPhrase><noun>Me</noun></nounPhrase>
+                    <verb>Be</verb>
+                    <adjective>Careful</adjective>
+                    <prepPhrase><prep>Of</prep>
+                        <nounPhrase><noun>Who</noun></nounPhrase>
+                        <nounPhrase><noun>You</noun></nounPhrase>
+                Love</prepPhrase></verbPhrase></line>
+            <line>And <verbPhrase><verb>Be</verb>
+                    <adjective>Careful</adjective>
+                    <prepPhrase><prep>Of</prep>
+                        <nounPhrase><noun>What</noun></nounPhrase>
+                        <nounPhrase><noun>You</noun></nounPhrase> Do</prepPhrase></verbPhrase>
+                'Cause <nounPhrase><det>The</det>
+                    <noun>Lie</noun></nounPhrase>
+                <verbPhrase><verb>Becomes</verb>
+                    <nounPhrase><det>The</det>
+                        <noun>Truth</noun></nounPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><prepPhrase><prep>For</prep>
+                    <nounPhrase><adjective>Forty</adjective>
+                        <noun>Days</noun></nounPhrase></prepPhrase> And <prepPhrase><prep>for</prep>
+                    <nounPhrase><adjective>Forty</adjective>
+                        <noun>Nights</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>Law</noun></nounPhrase>
+                <verbPhrase><verb>was</verb>
+                    <prepPhrase><prep>on</prep>
+                        <nounPhrase><det>her</det>
+                            <noun>Side</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>But <nounPhrase><noun>Who</noun></nounPhrase>
+                <verbPhrase><verb>Can Stand</verb></verbPhrase> When She<verbPhrase><verb>'s</verb>
+                    <prepPhrase><prep>In</prep>
+                        <nounPhrase><noun>Demand</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>Her</det>
+                    <noun>Schemes</noun> And <noun>Plans</noun></nounPhrase></line>
+            <line>'Cause <nounPhrase><noun>We</noun></nounPhrase>
+                <verbPhrase><verb>Danced</verb>
+                    <prepPhrase><prep>On</prep>
+                        <nounPhrase><det>The</det>
+                            <noun>Floor</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>In</prep>
+                        <nounPhrase><det>The</det>
+                            <noun>Round</noun></nounPhrase>
+                    </prepPhrase></verbPhrase></line>
+            <line>So <verbPhrase><verb>Take</verb>
+                    <nounPhrase><det>My</det>
+                        <adjective>Strong</adjective>
+                        <noun>Advice</noun></nounPhrase></verbPhrase>, Just
+                        <verbPhrase><verb>Remember</verb> To <adverb>Always</adverb>
+                    <verb>Think</verb>
+                    <adverb>Twice</adverb></verbPhrase></line>
+            <line><verbPhrase><verb>Do think</verb>
+                    <adverb>Twice</adverb></verbPhrase></line>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>She</noun></nounPhrase>
+                <verbPhrase><verb>Told</verb>
+                    <nounPhrase><det>My</det>
+                        <noun>Baby</noun></nounPhrase></verbPhrase>
+                <nounPhrase><noun>We</noun></nounPhrase><verbPhrase><verb>'d Danced</verb>
+                    <prepPhrase><prep>'Til</prep>
+                        <nounPhrase><noun>Three</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>Then <nounPhrase><noun>She</noun></nounPhrase>
+                <verbPhrase><verb>Looked</verb>
+                    <prepPhrase><prep>At</prep>
+                        <nounPhrase><noun>Me</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>She</noun></nounPhrase>
+                <verbPhrase><verb>Showed</verb>
+                    <nounPhrase><det>A</det>
+                        <noun>Photo</noun></nounPhrase>
+                    <prepPhrase><prep>Of</prep>
+                        <nounPhrase><det>A</det>
+                            <noun>Baby</noun>
+                            <adjective>Crying</adjective></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>His</det>
+                    <noun>Eyes</noun></nounPhrase>
+                <verbPhrase><verb>Looked</verb>
+                    <prepPhrase><prep>Like</prep>
+                        <nounPhrase><noun>Mine</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Go</verb> On <verb>Dance</verb>
+                    <prepPhrase><prep>On</prep>
+                        <nounPhrase><det>The</det>
+                            <noun>Floor</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>In</prep>
+                        <nounPhrase><det>The</det>
+                            <noun>Round</noun></nounPhrase>
+                    </prepPhrase></verbPhrase>, <nounPhrase><noun>Baby</noun></nounPhrase></line>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>People</noun></nounPhrase> Always <verbPhrase><verb>Told</verb>
+                    <nounPhrase><noun>Me</noun></nounPhrase></verbPhrase>
+                <verbPhrase><verb>Be</verb>
+                    <adjective>Careful</adjective>
+                    <prepPhrase><prep>Of</prep>
+                        <nounPhrase><noun>What</noun></nounPhrase>
+                        <nounPhrase><noun>You</noun></nounPhrase>
+                Do</prepPhrase></verbPhrase></line>
+            <line>And <verbPhrase neg="true"><verb>Do</verb>n't <verb>Go</verb> Around
+                        <verb>Breaking</verb>
+                    <nounPhrase><adjective>Young</adjective>
+                        <noun>Girls</noun><det>'</det>
+                        <noun>Hearts</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>She</noun></nounPhrase>
+                <verbPhrase><verb>Came</verb></verbPhrase> And <verbPhrase><verb>Stood</verb> Right
+                            <prepPhrase><prep>By</prep>
+                        <nounPhrase><noun>Me</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>Then <nounPhrase><det>The</det>
+                    <noun>Smell</noun></nounPhrase>
+                <prepPhrase><prep>Of</prep>
+                    <nounPhrase><adjective>Sweet</adjective>
+                        <noun>Perfume</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><noun>This</noun></nounPhrase>
+                <verbPhrase><verb>Happened</verb>
+                    <adverb>Much</adverb>
+                    <adverb>Too</adverb>
+                    <adverb>Soon</adverb></verbPhrase></line>
+            <line><nounPhrase><noun>She</noun></nounPhrase>
+                <verbPhrase><verb>Called</verb>
+                    <nounPhrase><noun>Me</noun></nounPhrase>
+                    <prepPhrase><prep>To</prep>
+                        <nounPhrase><det>Her</det>
+                            <noun>Room</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="2"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="3"/>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+        </refrainSection>
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="4"/>
+        </refrainSection>
+        <refrainSection sectionID="3">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="5"/>
+            <refrainLineRef lineRef="6"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+        <refrainLine lineID="1"><nounPhrase><noun>Billie Jean</noun></nounPhrase>
+            <verbPhrase neg="true"><verb>Is</verb> Not <nounPhrase><det>My</det>
+                    <noun>Lover</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="2"><nounPhrase><noun>She</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                <nounPhrase><adjective>Just</adjective>
+                    <det>A</det>
+                    <noun>Girl</noun></nounPhrase></verbPhrase>
+            <nounPhrase>Who</nounPhrase>
+            <verbPhrase><verb>Claims</verb></verbPhrase> That
+                <nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase><verb>Am</verb>
+                <nounPhrase><det>The</det>
+                    <noun>One</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="3">But <nounPhrase><det>The</det>
+                <noun>Kid</noun></nounPhrase>
+            <verbPhrase neg="true"><verb>Is</verb> Not <nounPhrase><det>My</det>
+                    <noun>Son</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="4"><nounPhrase><noun>She</noun></nounPhrase>
+            <verbPhrase><verb>Says</verb></verbPhrase>
+            <nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase><verb>Am</verb>
+                <nounPhrase><det>The</det>
+                    <noun>One</noun></nounPhrase></verbPhrase>, But <nounPhrase><det>The</det>
+                <noun>Kid</noun></nounPhrase>
+            <verbPhrase neg="true"><verb>Is</verb> Not <nounPhrase><det>My</det>
+                    <noun>Son</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="5"><nounPhrase><noun>She</noun></nounPhrase>
+            <verbPhrase><verb>Says</verb></verbPhrase>
+            <nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase><verb>Am</verb>
+                <nounPhrase><det>The</det>
+                    <noun>One</noun></nounPhrase></verbPhrase>, <nounPhrase><noun>She</noun></nounPhrase>
+            <verbPhrase><verb>Says</verb></verbPhrase> <nounPhrase><noun>He</noun></nounPhrase> <verbPhrase><verb>Is</verb> <nounPhrase><det>My</det> <noun>Son</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="6"><nounPhrase><noun>She</noun></nounPhrase>
+            <verbPhrase><verb>Says</verb></verbPhrase>
+            <nounPhrase><noun>I</noun></nounPhrase>
+            <verbPhrase><verb>Am</verb>
+                <nounPhrase><det>The</det>
+                    <noun>One</noun></nounPhrase></verbPhrase></refrainLine>
+    </lyrics>
+
+</song>

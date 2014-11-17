@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Blowin' in the Wind"</title>
+        <composer>Bob Dylan </composer>
+        <album>The Freewheelin' Bob Dylan</album>
+        <year>1963</year>
+        <genre>folk</genre>
+        <notablePerformer>Bob Dylan, Peter Paul and Mary</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><nounPhrase>How many <noun>roads</noun></nounPhrase>
+                <verbPhrase><verb>must</verb>
+                    <det>a</det>
+                    <nounPhrase><noun>man</noun></nounPhrase></verbPhrase>
+                <verbPhrase><verb>walk</verb>
+                    <det>down</det></verbPhrase></line>
+            <line><prepPhrase><prep>Before</prep>
+                    <nounPhrase><noun>you</noun></nounPhrase></prepPhrase>
+                <verbPhrase><verb>call</verb>
+                    <nounPhrase><noun>him</noun>
+                        <det>a</det>
+                        <noun>man</noun></nounPhrase></verbPhrase>?</line>
+            <line><nounPhrase>Yes, ’n’ how <det>many</det>
+                    <noun>seas</noun></nounPhrase>
+                <verbPhrase><verb>must</verb>
+                    <nounPhrase><det>a</det>
+                        <adjective>white</adjective>
+                        <noun>dove</noun></nounPhrase>
+                    <verb>sail</verb></verbPhrase></line>
+            <line><prepPhrase><prep>Before</prep>
+                    <nounPhrase><noun>she</noun></nounPhrase></prepPhrase>
+                <verbPhrase><verb>sleeps</verb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>sand</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
+            <line><nounPhrase>Yes, ’n’ how <det>many</det>
+                    <noun>times</noun></nounPhrase>
+                <verbPhrase><verb>must</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>cannonballs</noun></nounPhrase>
+                    <verb>fly</verb></verbPhrase></line>
+            <line>Before they’re forever banned?</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+        <verse>
+            <line><nounPhrase>How <det>many</det>
+                    <noun>years</noun></nounPhrase>
+                <verbPhrase><verb>can</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>mountain</noun></nounPhrase>
+                    <verb>exist</verb></verbPhrase></line>
+            <line><prepPhrase><prep>Before</prep>
+                    <nounPhrase><noun>it</noun></nounPhrase></prepPhrase><verbPhrase><verb>’s</verb>
+                    <verb>washed</verb></verbPhrase>
+                <prepPhrase><prep>to</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>sea</noun></nounPhrase></prepPhrase>?</line>
+            <line><nounPhrase>Yes, ’n’ how <det>many</det>
+                    <noun>years</noun></nounPhrase>
+                <verbPhrase><verb>can</verb>
+                    <nounPhrase><det>some</det>
+                        <noun>people</noun></nounPhrase>
+                    <verb>exist</verb></verbPhrase></line>
+            <line><prepPhrase><prep>Before</prep>
+                    <nounPhrase><noun>they</noun></nounPhrase></prepPhrase><verbPhrase><verb>’re</verb>
+                    <verb>allowed</verb></verbPhrase>
+                <prepPhrase><prep>to</prep> be <adverb>free</adverb></prepPhrase>?</line>
+            <line><nounPhrase>Yes, ’n’ how <det>many</det>
+                    <noun>times</noun></nounPhrase>
+                <verbPhrase><verb>can</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>man</noun></nounPhrase></verbPhrase>
+                <verbPhrase>turn <nounPhrase><det>his</det>
+                        <noun>head</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Pretending</verb>
+                    <nounPhrase><noun>he</noun></nounPhrase></verbPhrase>
+                <verbPhrase neg="true"><adverb>just</adverb>
+                    <verb>doesn’t</verb>
+                    <verb>see</verb></verbPhrase>?</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+        <verse>
+            <line><nounPhrase>How <det>many</det>
+                    <noun>times</noun></nounPhrase>
+                <verbPhrase><verb>must</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>man</noun></nounPhrase></verbPhrase>
+                <verbPhrase><verb>look</verb>
+                    <adverb>up</adverb></verbPhrase></line>
+            <line><prepPhrase><prep>Before</prep>
+                    <nounPhrase><noun>he</noun></nounPhrase></prepPhrase>
+                <verbPhrase><verb>can</verb>
+                    <verb>see</verb>
+                    <det>the</det>
+                    <nounPhrase><noun>sky</noun></nounPhrase></verbPhrase>?</line>
+            <line><nounPhrase>Yes, ’n’ how <det>many</det>
+                    <noun>ears</noun></nounPhrase>
+                <verbPhrase><verb>must</verb>
+                    <nounPhrase><det>one</det>
+                        <noun>man</noun></nounPhrase>
+                    <verb>have</verb></verbPhrase></line>
+            <line><prepPhrase><prep>Before</prep>
+                    <nounPhrase><noun>he</noun></nounPhrase></prepPhrase>
+                <verbPhrase><verb>can</verb>
+                    <verb>hear</verb>
+                    <nounPhrase><noun>people</noun></nounPhrase>
+                    <verb>cry</verb></verbPhrase>?</line>
+            <line><nounPhrase>Yes, ’n’ how <det>many</det>
+                    <noun>deaths</noun></nounPhrase> will it take till he knows</line>
+            <line><nounPhrase>That <adjective>too</adjective>
+                    <adjective>many</adjective>
+                    <noun>people</noun></nounPhrase>
+                <verbPhrase><verb>have</verb>
+                    <verb>died</verb></verbPhrase>?</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+        </refrainSection>
+
+        <refrainLine lineID="1"><nounPhrase><det>The</det>
+                <noun>answer</noun></nounPhrase>, <nounPhrase><det>my</det>
+                <noun>friend</noun></nounPhrase>, <verbPhrase><verb>is</verb>
+                <verb>blowin’</verb></verbPhrase>
+            <prepPhrase><prep>in</prep>
+                <nounPhrase><det>the</det>
+                    <noun>wind</noun></nounPhrase></prepPhrase></refrainLine>
+        <refrainLine lineID="2"><nounPhrase><det>The</det>
+                <noun>answer</noun></nounPhrase>
+            <verbPhrase><verb>is</verb>
+                <verb>blowin’</verb></verbPhrase>
+            <prepPhrase><prep>in</prep>
+                <nounPhrase><det>the</det>
+                    <noun>wind</noun></nounPhrase></prepPhrase></refrainLine>
+    </lyrics>
+</song>

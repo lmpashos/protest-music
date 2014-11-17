@@ -1,6 +1,6 @@
 <?php
 
-require_once("util/Constants.php");
+require_once("util/Constants.inc");
 
 // place this code inside a php file and call it f.e. "download.php"
 //$path = Constants::FILE_DIR; // change the path to fit your websites document structure

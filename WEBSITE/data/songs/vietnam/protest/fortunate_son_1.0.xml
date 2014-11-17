@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Fortunate Son</title>
+        <composer>John Fogerty</composer>
+        <album>Willy and the Poor Boys</album>
+        <year>1969</year>
+        <genre>blues rock</genre>
+        <notablePerformer>Creedence Clearwater Rivival</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><nounPhrase><det>Some</det> <noun>folks</noun></nounPhrase> <verbPhrase><verb>are</verb> <verb>born</verb> <verb>made</verb></verbPhrase> <verbPhrase>to <verb>wave</verb> <nounPhrase>the <noun>flag</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase>Ooh, <noun>they</noun></nounPhrase><verbPhrase><verb>'re</verb> <adjective>red</adjective>, <adjective>white</adjective> and <adjective>blue</adjective></verbPhrase></line>
+            <line><nounPhrase>And when <det>the</det> <noun>band</noun></nounPhrase> <verbPhrase><verb>plays</verb> <nounPhrase><noun>"Hail to the Chief"</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase>Oh, <noun>they</noun></nounPhrase> <verbPhrase><verb>point</verb> <det>the</det> <nounPhrase><noun>cannon</noun></nounPhrase></verbPhrase> <nounPhrase>at <noun>you</noun>, <noun>Lord</noun></nounPhrase></line>
+        </verse>
+        <verse>
+            <refrainLineRef lineRef="1"/>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase><adjective>Senator's</adjective> <noun>son</noun></nounPhrase></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><det>Some</det> <noun>folks</noun></nounPhrase> <verbPhrase><verb>are</verb> <verb>born</verb></verbPhrase> <nounPhrase><adjective>silver</adjective> <noun>spoon</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><noun>hand</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><noun>Lord</noun></nounPhrase>, <verbPhrase neg="true"><verb>do</verb>n't <nounPhrase><noun>they</noun></nounPhrase> <verb>help</verb> <nounPhrase><noun>themselves</noun></nounPhrase>, oh</verbPhrase></line>
+            <line><nounPhrase>But when <det>the</det> <adjective>tax</adjective> <noun>men</noun></nounPhrase> <verbPhrase><verb>come</verb> <prepPhrase><prep>to</prep> <nounPhrase><det>the</det> <noun>door</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Lord</noun>, <det>the</det> <noun>house</noun></nounPhrase> <verbPhrase><verb>look</verb> a <prepPhrase><prep>like</prep> <nounPhrase><det>a</det> <adjective>rummage</adjective> <noun>sale</noun></nounPhrase></prepPhrase></verbPhrase>, yes</line>
+        </verse>
+
+        <verse>
+            <refrainLineRef lineRef="1"/>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase><adjective>millionaire's</adjective> <noun>son</noun></nounPhrase></verbPhrase>, no, no</line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+        </verse>
+        <verse>
+            <line><nounPhrase>Yeah, <det>some</det> <noun>folks</noun></nounPhrase> <verbPhrase><verb>inherit</verb> <adjective>star-spangled</adjective> <nounPhrase><noun>eyes</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase>Ooh, <noun>they</noun></nounPhrase> <verbPhrase><verb>send</verb> <nounPhrase><noun>you</noun></nounPhrase> <prepPhrase><prep>down</prep> to <nounPhrase><noun>war</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase></line>
+            <line><nounPhrase>And when <noun>you</noun></nounPhrase> <verbPhrase><verb>ask</verb> <nounPhrase><noun>them</noun></nounPhrase></verbPhrase>, "<verbPhrase>How much <verb>should</verb> <nounPhrase><noun>we</noun></nounPhrase> <nounPhrase>give</nounPhrase></verbPhrase>?"</line>
+            <line><nounPhrase>Oh, <noun>they</noun></nounPhrase> <verbPhrase><adverb>only</adverb> <verb>answer</verb>, <nounPhrase><noun>more</noun>, <noun>more</noun>, <noun>more</noun></nounPhrase>, oh</verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainLineRef lineRef="1"/>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase><adjective>military</adjective> <noun>son</noun></nounPhrase></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+        </verse>
+
+        <verse>
+            <refrainLineRef lineRef="1"/>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase><adjective>fortunate</adjective> <noun>one</noun></nounPhrase></verbPhrase>, no, no, no</line>
+            <refrainLineRef lineRef="1"/>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase><adjective>fortunate</adjective> <noun>son</noun></nounPhrase></verbPhrase>, no, no </line>
+        </verse>
+        
+        <refrainLine lineID="1"><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase>, <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase></refrainLine>
+        <refrainLine lineID="2"><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase><adjective>fortunate</adjective> <noun>one</noun></nounPhrase></verbPhrase>, no</refrainLine>
+        
+    </lyrics>
+</song>

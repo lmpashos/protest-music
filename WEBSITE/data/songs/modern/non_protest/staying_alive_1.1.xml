@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Staying Alive</title>
+        <composer>Barry Gibb</composer>
+        <composer>Robin Gibb</composer>
+        <composer>Maurice Gibb</composer>
+        <album>Saturday Night Fever Soundtrack</album>
+        <year>1977</year>
+        <genre>Pop</genre>
+        <genre>Disco</genre>
+        <notablePerformer>Bee Gees</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>Well, <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>can tell</verb>
+                    <prepPhrase><prep>by</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>way</noun></nounPhrase></prepPhrase>
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                    <verbPhrase><verb>use</verb>
+                        <nounPhrase><det>my</det>
+                            <noun>walk</noun></nounPhrase></verbPhrase></verbPhrase>,</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>woman</noun><det>'s</det>
+                        <noun>man</noun></nounPhrase></verbPhrase>: no <nounPhrase neg="true"
+                        ><noun>time</noun></nounPhrase>
+                <verbPhrase><verb>to talk</verb></verbPhrase>.</line>
+            <line><nounPhrase><noun>Music</noun>
+                    <adjective>loud</adjective></nounPhrase> and <nounPhrase><noun>women</noun>
+                    warm<adjective/></nounPhrase>,</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ve been kicked</verb>
+                    <adverb>around</adverb></verbPhrase> since
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>was born</verb></verbPhrase>.</line>
+            <line>And now <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adverb>all</adverb>
+                    <adjective>right</adjective></verbPhrase>.
+                    <nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adjective>OK</adjective></verbPhrase>.</line>
+            <line>And <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>may look</verb>
+                    <nounPhrase><det>the</det>
+                        <adjective>other</adjective>
+                        <noun>way</noun></nounPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>We</noun></nounPhrase>
+                <verbPhrase><verb>can try</verb>
+                    <verb>to understand</verb></verbPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>New York Times</noun><det>'</det>
+                    <noun>effect</noun></nounPhrase>
+                <prepPhrase><prep>on</prep>
+                    <nounPhrase><noun>man</noun></nounPhrase></prepPhrase>.</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>Well now, <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>get</verb>
+                    <adverb>low</adverb></verbPhrase> and <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>get</verb>
+                    <adverb>high</adverb></verbPhrase>,</line>
+            <line>And if <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>can't get</verb>
+                    <nounPhrase><noun>either</noun></nounPhrase></verbPhrase>,
+                        <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><adverb>really</adverb>
+                    <verb>try</verb></verbPhrase>.</line>
+            <line><verbPhrase><verb>Got</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>wings</noun></nounPhrase>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase>heaven</nounPhrase></prepPhrase>
+                    <prepPhrase><prep>on</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>shoes</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <nounPhrase><det>a</det>
+                        <adjective>dancin</adjective>' <noun>man</noun></nounPhrase></verbPhrase>
+                and <nounPhrase><noun>I</noun></nounPhrase> just <verbPhrase neg="true"><verb>can't
+                        lose</verb></verbPhrase>.</line>
+            <line>And now <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adverb>all</adverb>
+                    <adjective>right</adjective></verbPhrase>.
+                    <nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adjective>OK</adjective></verbPhrase>.</line>
+            <line>I<verbPhrase><verbPhrase>'ll live</verbPhrase>
+                    <verb>to see</verb>
+                    <nounPhrase><adjective>another</adjective>
+                        <noun>day</noun></nounPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>We</noun></nounPhrase>
+                <verbPhrase><verb>can try</verb>
+                    <verb>to understand</verb></verbPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>New York Times</noun><det>'</det>
+                    <noun>effect</noun></nounPhrase>
+                <prepPhrase><prep>on</prep>
+                    <nounPhrase><noun>man</noun></nounPhrase></prepPhrase>.</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>Life</noun></nounPhrase>
+                <verbPhrase><verb>goin</verb>' <adverb>nowhere</adverb></verbPhrase>.
+                        <nounPhrase><noun>Somebody</noun></nounPhrase>
+                <verbPhrase><verb>help</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>Somebody</noun></nounPhrase>
+                <verbPhrase><verb>help</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase>, yeah.</line>
+            <line><nounPhrase><noun>Life</noun></nounPhrase>
+                <verbPhrase><verb>goin</verb>' <adverb>nowhere</adverb></verbPhrase>.
+                        <nounPhrase><noun>Somebody</noun></nounPhrase>
+                <verbPhrase><verb>help</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase>, yeah.</line>
+            <line><verbPhrase><verb>Stayin</verb>' <adjective>alive</adjective></verbPhrase>.</line>
+        </verse>
+        <verse>
+            <line>Well, <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>can tell</verb>
+                    <prepPhrase><prep>by</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>way</noun></nounPhrase></prepPhrase>
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                    <verbPhrase><verb>use</verb>
+                        <nounPhrase><det>my</det>
+                            <noun>walk</noun></nounPhrase></verbPhrase></verbPhrase>,</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <nounPhrase><det>a</det>
+                        <noun>woman</noun><det>'s</det>
+                        <noun>man</noun></nounPhrase></verbPhrase>: no <nounPhrase neg="true"
+                        ><noun>time</noun></nounPhrase>
+                <verbPhrase><verb>to talk</verb></verbPhrase>.</line>
+            <line><nounPhrase><noun>Music</noun>
+                    <adjective>loud</adjective></nounPhrase> and <nounPhrase><noun>women</noun>
+                    warm<adjective/></nounPhrase>,</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ve been kicked</verb>
+                    <adverb>around</adverb></verbPhrase> since
+                    <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>was born</verb></verbPhrase>.</line>
+            <line>And now <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adverb>all</adverb>
+                    <adjective>right</adjective></verbPhrase>.
+                    <nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adjective>OK</adjective></verbPhrase>.</line>
+            <line>And <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>may look</verb>
+                    <nounPhrase><det>the</det>
+                        <adjective>other</adjective>
+                        <noun>way</noun></nounPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>We</noun></nounPhrase>
+                <verbPhrase><verb>can try</verb>
+                    <verb>to understand</verb></verbPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>New York Times</noun><det>'</det>
+                    <noun>effect</noun></nounPhrase>
+                <prepPhrase><prep>on</prep>
+                    <nounPhrase><noun>man</noun></nounPhrase></prepPhrase>.</line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="2"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="2"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="2"/>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="2"/>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="5"/>
+            <refrainLineRef lineRef="6"/>
+        </refrainSection>
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="7"/>
+            <refrainLineRef lineRef="8"/>
+            <refrainLineRef lineRef="9"/>
+            <refrainLineRef lineRef="10"/>
+        </refrainSection>
+        <refrainLine lineID="1">Whether
+                    <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb>
+                <nounPhrase><det>a</det>
+                    <noun>brother</noun></nounPhrase></verbPhrase> or whether
+                    <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb>
+                <nounPhrase><det>a</det>
+                    <noun>mother</noun></nounPhrase></verbPhrase>,</refrainLine>
+        <refrainLine lineID="2"><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'re
+                    stayin</verb>' <adjective>alive</adjective></verbPhrase>,
+                    <verbPhrase><verb>stayin</verb>'
+            <adjective>alive</adjective></verbPhrase>.</refrainLine>
+        <refrainLine lineID="3"><verbPhrase><verb>Feel</verb>
+                <nounPhrase><det>the</det>
+                    <noun>city</noun></nounPhrase>
+                <verb>breakin'</verb> and <nounPhrase><noun>everybody</noun></nounPhrase>
+                <verb>shakin'</verb></verbPhrase>,</refrainLine>
+        <refrainLine lineID="4">And <nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>'re
+                    stayin</verb>' <adjective>alive</adjective></verbPhrase>,
+                    <verbPhrase><verb>stayin</verb>'
+            <adjective>alive</adjective></verbPhrase>.</refrainLine>
+        <refrainLine lineID="5">Ah, ha, ha, ha, <verbPhrase><verb>stayin</verb>'
+                    <adjective>alive</adjective></verbPhrase>, <verbPhrase><verb>stayin</verb>'
+                    <adjective>alive</adjective></verbPhrase>.</refrainLine>
+        <refrainLine lineID="6">Ah, ha, ha, ha, <verbPhrase><verb>stayin</verb>'
+                    <adjective>alive</adjective></verbPhrase>.</refrainLine>
+        <refrainLine lineID="7">Life <verbPhrase><verb>goin</verb>'
+                <adverb>nowhere</adverb></verbPhrase>.
+                <nounPhrase><noun>Somebody</noun></nounPhrase>
+            <verbPhrase><verb>help</verb>
+                <nounPhrase><noun>me</noun></nounPhrase></verbPhrase>.</refrainLine>
+        <refrainLine lineID="8"><nounPhrase><noun>Somebody</noun></nounPhrase>
+            <verbPhrase><verb>help</verb>
+                <nounPhrase><noun>me</noun></nounPhrase></verbPhrase>, yeah.</refrainLine>
+        <refrainLine lineID="9"><nounPhrase><noun>Life</noun></nounPhrase>
+            <verbPhrase><verb>goin</verb>' <adverb>nowhere</adverb></verbPhrase>. Somebody help me,
+            yeah.</refrainLine>
+        <refrainLine lineID="10"><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
+                    stayin</verb>' <adjective>alive</adjective></verbPhrase>.</refrainLine>
+    </lyrics>
+</song>

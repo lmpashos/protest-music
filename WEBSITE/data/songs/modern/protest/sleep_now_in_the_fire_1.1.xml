@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Sleep Now in the Fire</title>
+        <composer>Rage Against the Machine</composer>
+        <album>The Battle of Los Angeles</album>
+        <year>1999</year>
+        <genre>Metal</genre>
+        <notablePerformer>Rage Against the Machine</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><nounPhrase><det>The</det>
+                    <noun>world</noun></nounPhrase>
+                <verbPhrase><verb>is</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>expense</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>cost</noun></nounPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><det>my</det>
+                        <noun>desire</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><noun>Jesus</noun></nounPhrase>
+                <verbPhrase><verb>blessed</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <prepPhrase><prep>with</prep>
+                        <det>its</det>
+                        <nounPhrase>future</nounPhrase></prepPhrase></verbPhrase></line>
+            <line>And <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>protect</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><noun>fire</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>So <verbPhrase><verb>raise</verb>
+                    <nounPhrase><det>your</det>
+                        <noun>fists</noun></nounPhrase></verbPhrase></line>
+            <line>And <verbPhrase><verb>march</verb>
+                    <adverb>around</adverb></verbPhrase></line>
+            <line>Just <verbPhrase neg="true"><verb>dont take</verb> what
+                            <nounPhrase><noun>you</noun></nounPhrase>
+                    <verbPhrase><verb>need</verb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll jail</verb> and
+                        <verb>bury</verb>
+                    <nounPhrase><noun>those</noun>
+                        <adjective>committed</adjective></nounPhrase></verbPhrase></line>
+            <line>And <verbPhrase><verb>smother</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>rest</noun></nounPhrase>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><noun>greed</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Crawl</verb>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>into</prep>
+                        <nounPhrase><noun>tomorrow</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>Or <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll drag</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <prepPhrase><prep>to</prep>
+                        <nounPhrase><det>your</det>
+                            <noun>grave</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
+                    <adjective>deep</adjective>
+                    <prepPhrase><prep>inside</prep>
+                        <nounPhrase><det>your</det>
+                            <noun>children</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>They</noun></nounPhrase><verbPhrase><verb>'ll betray</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>my</det>
+                            <noun>name</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><det>The</det>
+                    <noun>lie</noun></nounPhrase>
+                <verbPhrase><verb>is</verb>
+                    <nounPhrase><det>my</det>
+                        <noun>expense</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>scope</noun></nounPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><det>my</det>
+                        <noun>desire</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>party</noun></nounPhrase>
+                <verbPhrase><verb>blessed</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><det>its</det>
+                            <noun>future</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>And <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>protect</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                    <prepPhrase><prep>with</prep>
+                        <nounPhrase><noun>fire</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase>am<verb> </verb><nounPhrase><det>the</det>
+                        <noun>Nina</noun></nounPhrase>
+                    <nounPhrase><det>The</det>
+                        <noun>Pinta</noun></nounPhrase>
+                    <nounPhrase><det>The</det>
+                        <noun>Santa Maria</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>noose</noun></nounPhrase> and <nounPhrase><det>the</det>
+                    <noun>rapist</noun></nounPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>field</noun><det>'s</det>
+                    <noun>overseer</noun></nounPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>agents</noun></nounPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><noun>orange</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>priests</noun></nounPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><noun>Hiroshima</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>cost</noun></nounPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><det>my</det>
+                        <noun>desire</noun></nounPhrase></prepPhrase></line>
+            <line><verbPhrase><verb>Sleep</verb>
+                    <adverb>now</adverb>
+                    <prepPhrase><prep>in</prep>
+                        <nounPhrase><det>the</det>
+                            <noun>fire</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>For <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>end</noun></nounPhrase>
+                    <prepPhrase><prep>of</prep>
+                        <nounPhrase><noun>history</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <nounPhrase><noun>caged</noun></nounPhrase> and
+                        <nounPhrase><noun>frozen</noun></nounPhrase> still</verbPhrase></line>
+            <line><adverb>There</adverb>
+                <verbPhrase><verb>is</verb> no <nounPhrase neg="true"><adjective>other</adjective>
+                        <noun>pill</noun></nounPhrase>
+                    <verb>to take</verb></verbPhrase></line>
+            <line>So <verbPhrase><verb>swallow</verb>
+                    <nounPhrase><det>the</det>
+                        <noun>one</noun></nounPhrase></verbPhrase></line>
+            <line>That <verbPhrase><verb>made</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase>
+                    <nounPhrase><noun>ill</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>Nina</noun></nounPhrase>
+                <nounPhrase><det>The</det>
+                    <noun>Pinta</noun></nounPhrase>
+                <nounPhrase><det>The</det>
+                    <noun>Santa Maria</noun></nounPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>noose</noun></nounPhrase> and <nounPhrase><det>the</det>
+                    <noun>rapist</noun></nounPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>field</noun><det>'s</det>
+                    <noun>overseer</noun></nounPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>agents</noun></nounPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><noun>orange</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>priests</noun></nounPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><noun>Hiroshima</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><det>The</det>
+                    <noun>cost</noun></nounPhrase>
+                <prepPhrase><prep>of</prep>
+                    <nounPhrase><det>my</det>
+                        <noun>desire</noun></nounPhrase></prepPhrase></line>
+            <refrainLineRef lineRef="1"/>
+        </verse>
+        <verse>
+            <line>Yeaaaaaah</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+        </refrainSection>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+        <refrainLine lineID="1">Hey, Hey</refrainLine>
+        <refrainLine lineID="2"><verbPhrase><verb>Sleep</verb>
+                <adverb>now</adverb>
+                <prepPhrase><prep>in</prep>
+                    <nounPhrase><det>the</det>
+                        <noun>fire</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+    </lyrics>
+</song>

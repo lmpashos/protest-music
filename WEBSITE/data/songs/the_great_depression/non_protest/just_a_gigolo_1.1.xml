@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>Just a Gigolo</title>
+        <composer>Leonello Casucci</composer>
+        <album> Lewis, Ted: Is Everybody Happy? (1923-1931)</album>
+        <year>1931</year>
+        <genre>Jazz</genre>
+        <notablePerformer>Ted Lewis</notablePerformer>
+    </metadata>
+
+    <lyrics>
+
+        <verse>
+            <line>Just<nounPhrase><det>a</det><noun>gigolo</noun></nounPhrase></line>
+            <line><adverb>Everywhere</adverb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>go</verb></verbPhrase></line>
+            <line><nounPhrase><det>The</det> <noun>people</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><det>the</det> <noun>part</noun></nounPhrase> <nounPhrase><det>that</det> <noun>I</noun></nounPhrase> <verbPhrase><verb>am</verb> <verbPhrase><verb>playing</verb></verbPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>am</verb> <verbPhrase><verb>paid</verb> <prepPhrase><prep>for</prep> <nounPhrase><det>every</det> <noun>dance</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun> </nounPhrase><verbPhrase><verb>sell</verb> <nounPhrase><det>each </det><noun>romance</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>Every</det> <noun>night</noun></nounPhrase>, <nounPhrase><det>some</det> <noun>heart</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>am</verb> <verbPhrase><verb>betraying</verb></verbPhrase>;</verbPhrase> yes, sir.</line>
+        </verse>
+        <verse>
+            <line>But <nounPhrase><det>there</det></nounPhrase><verbPhrase><verb>'ll come</verb><nounPhrase><det>a</det> <noun>day</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><det>my</det> <noun>youth</noun> </nounPhrase><verbPhrase><verb>will pass</verb> <adverb>away</adverb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><adverb>Then</adverb> <det>what</det></nounPhrase><verbPhrase><verb>'ll</verb> <det>they</det> <verbPhrase><verb>say</verb> <adverb>about</adverb> <nounPhrase><noun>me?</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line>Oh, <verbPhrase><adverb>when</adverb> <nounPhrase><det>the</det> <noun>end </noun></nounPhrase><verb>comes</verb></verbPhrase>, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>know</verb></verbPhrase></line>
+            <line><nounPhrase><noun>They</noun></nounPhrase><verbPhrase><verb>'ll say</verb></verbPhrase>,"Just a gigolo"</line>
+            <line>as <nounPhrase><noun>Life</noun></nounPhrase> <verbPhrase><verb>goes</verb> <adverb>on</adverb> <prepPhrase><prep>without</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase>; yes, sir.</line>
+        </verse>
+
+        <verse>
+            <line><nounPhrase><adjective>Handsome</adjective> <noun>Gigolo</noun></nounPhrase></line>
+            <line><verbPhrase><verb>Dressed up</verb> <prepPhrase><det>all</det> <prep>for </prep><nounPhrase><noun>show</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line> Oh <nounPhrase><det>what</det> <det>a</det> <noun>life</noun> </nounPhrase><nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb> <verbPhrase><verb>leading</verb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>dance</verb> <prepPhrase><prep>till</prep> <nounPhrase><det>every</det> <noun>dawn</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>Your</det> <noun>youth!</noun></nounPhrase> <nounPhrase><det>your </det><noun>future!</noun></nounPhrase> <adverb>Gone!</adverb></line>
+            <line><adverb>Gone</adverb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>tell</verb> <nounPhrase><noun>ya</noun></nounPhrase></verbPhrase>,</line>
+            <line><nounPhrase><noun>Love </noun></nounPhrase><verbPhrase><verb>will pass</verb> <nounPhrase><noun>you</noun></nounPhrase> <prepPhrase><prep>by</prep></prepPhrase> <adverb>unheeding</adverb></verbPhrase></line>
+        </verse>
+
+        <verse>
+            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'re</verb> <adverb>just</adverb> <nounPhrase><det>a</det> <noun>soul</noun></nounPhrase><prepPhrase><prep>on</prep> <nounPhrase><noun>hire</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line> <prepPhrase><prep>To</prep> <nounPhrase><det>the</det> <adjective>highest</adjective> <noun>buyer</noun></nounPhrase></prepPhrase></line>
+            <line>No <nounPhrase neg="true"><noun>thoughts</noun></nounPhrase>, no <nounPhrase><noun>thoughts</noun></nounPhrase><prepPhrase><prep>of</prep> <nounPhrase><det>the</det> <noun>morrow</noun></nounPhrase></prepPhrase></line>
+            <line> <nounPhrase><det>As</det> <noun>they</noun></nounPhrase> <verbPhrase><verb>come,</verb>..but <nounPhrase><noun>they</noun></nounPhrase><verbPhrase><verb>'ll go</verb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><adjective>Leaving</adjective> <adjective>Handsome</adjective><noun> Gigolo</noun></nounPhrase></line>
+            <line><nounPhrase><det>A</det> <noun>heart</noun> <det>that</det></nounPhrase> <verbPhrase><verb>breaks</verb> <prepPhrase><prep>with</prep><nounPhrase> <noun>sorrow</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
+
+
+
+    </lyrics>
+</song>

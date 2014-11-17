@@ -1,5 +1,6 @@
 <?php 
 require_once('util/CommonHTML.inc');
+require_once('util/Data.inc');
 
 ini_set('display_startup_errors',1);
 ini_set('display_errors',1);
@@ -34,18 +35,23 @@ if(isset($_GET['era'])) {
         <h1><?php echo ucfirst($current_page); ?></h1>
         <div class="content">
             <div id="left">
-            	<?php echo CommonHTML::get_song_list($era, true); ?>
+                <ul>
+                    <li><a class="toc_title" href="#xml_data">XML Files</a>
+                        <ul>
+                            <li><a href="#link_xml_great_depression">The Great Depression</a></li>
+                            <li><a href="#link_xml_vietnam">Vietnam</a></li>
+                            <li><a href="#link_xml_modern">Modern</a></li>
+                        </ul>
+                    </li>
+                    <li><a class="toc_title" href="#schemas">Schema Files</a></li>
+                    <li><a class="toc_title" href="#xslt">XSLT Files</a></li>
+                </ul>    
             </div>
             <div id="right">
-            	<?php echo CommonHTML::get_song_list($era, false); ?>
+            	
             </div>
             <div id="center">
-            	<div id="protest">
-                	
-                </div>
-                <div id="non_protest">
-                    
-                </div>
+                <?php echo Data::get_html_from_xml_song_list(); ?>
             </div>
         </div> 
     </div>
