@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>I-Feel-Like-I'm-Fixin'-To-Die-Rag</title>
@@ -13,10 +13,10 @@
     <lyrics><verse>
 <line>Well, <verbPhrase><verb>come</verb> <adverb>on</adverb> <nounPhrase><det>all</det> of <noun>you</noun>, <adjective>big</adjective> <adjective>strong</adjective> <noun>men</noun></nounPhrase></verbPhrase>,</line>
 <line><nounPhrase><noun>Uncle</noun> <noun>Sam</noun></nounPhrase> <verbPhrase><verb>needs</verb> <nounPhrase><det>your</det> <noun>help</noun></nounPhrase> <adverb>again</adverb></verbPhrase>.</line>
-<line>Yeah, <nounPhrase><noun>he</noun></nounPhrase><verbPhrase><verb>'s</verb> <verb>got</verb> <nounPhrase><noun>himself</noun></nounPhrase></verbPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>a</det> <adjective>terrible</adjective> <noun>jam</noun></nounPhrase></prepPhrase></line>
-<line><prepPhrase><prep>Way</prep> <adverb>down</adverb> <nounPhrase><noun>yonder</noun></nounPhrase></prepPhrase> <prepPhrase><prep>in</prep> <nounPhrase><noun>Vietnam</noun></nounPhrase></prepPhrase></line>
+<line>Yeah, <nounPhrase><noun>he</noun></nounPhrase><verbPhrase><verb>'s got</verb> <nounPhrase><noun>himself</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>a</det> <adjective>terrible</adjective> <noun>jam</noun></nounPhrase></prepPhrase></verbPhrase></line>
+<line><prepPhrase><prep>Way</prep> <adverb>down</adverb> <nounPhrase><noun>yonder</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><noun>Vietnam</noun></nounPhrase></prepPhrase></prepPhrase></line>
 <line>So <verbPhrase><verb>put</verb> <adverb>down</adverb> <nounPhrase><det>your</det> <noun>books</noun></nounPhrase></verbPhrase> and <verbPhrase><verb>pick</verb> <adverb>up</adverb> <nounPhrase><det>a</det> <noun>gun</noun></nounPhrase></verbPhrase>,</line>
-<line><verbPhrase><verb>Gonna</verb> <verb>have</verb> <nounPhrase><det>a</det> <adverb>whole</adverb> <adjective>lotta</adjective> <noun>fun</noun></nounPhrase></verbPhrase>. </line>
+<line><verbPhrase><verb>Gonna</verb> <verbPhrase><verb>have</verb> <nounPhrase><det>a</det> <adverb>whole</adverb> <adjective>lotta</adjective> <noun>fun</noun></nounPhrase></verbPhrase></verbPhrase>. </line>
 </verse><verse>
     <refrainSectionRef sectionRef="1"/>
 </verse><verse>
