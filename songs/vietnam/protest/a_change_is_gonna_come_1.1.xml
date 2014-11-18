@@ -10,37 +10,41 @@
         <genre>Soul</genre>
         <notablePerformer>Sam Cooke</notablePerformer>
         <notablePerformer>Aretha Franklin</notablePerformer>
+        <protest>true</protest>
     </metadata>
     <lyrics>
         <verse>
-            <line>I was born by the river in a little tent</line>
-            <line>Oh, and just like the river, I've been running ever since</line>
-            <line>It's been a long, a long time coming</line>
-            <line>But I know a change gonna come, oh yes it will</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was</verb> <verb>born</verb></verbPhrase> <prepPhrase><prep>by</prep> <nounPhrase><det>the</det> <noun>river</noun></nounPhrase></prepPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>a</det> <adjective>little</adjective> <noun>tent</noun></nounPhrase></prepPhrase></line>
+            <line>Oh, and <adverb>just</adverb> <prepPhrase><prep>like</prep> <nounPhrase><det>the</det> <noun>river</noun></nounPhrase></prepPhrase>, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ve</verb> <verb>been</verb> <verb>running</verb> <adverb>ever</adverb> <adverb>since</adverb></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
         </verse>
         <verse>
-            <line>It's been too hard living, but I'm afraid to die</line>
-            <line>'Cause I don't know what's up there beyond the sky</line>
-            <line>It's been a long, a long time coming</line>
-            <line>But I know a change gonna come, oh yes it will</line>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <verb>been</verb> <adverb>too</adverb> <adjective>hard</adjective> <verb>living</verb></verbPhrase>, but <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>afraid</adjective> to <verb>die</verb></verbPhrase></line>
+            <line>'Cause <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>don't</verb> <verb>know</verb></verbPhrase> <nounPhrase><noun>what</noun></nounPhrase><verbPhrase><verb>'s</verb> <adverb>up</adverb> <nounPhrase><noun>there</noun></nounPhrase></verbPhrase> <prepPhrase><prep>beyond</prep> <nounPhrase><det>the</det> <noun>sky</noun></nounPhrase></prepPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
         </verse>
         <verse>
-            <line>I go to the movie, and I go downtown</line>
-            <line>Somebody keep telling me don't hang around</line>
-            <line>It's been a long, a long time coming</line>
-            <line>But I know a change gonna come, oh yes it will</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>go</verb> <prepPhrase><prep>to</prep> <nounPhrase><det>the</det> <noun>movie</noun></nounPhrase></prepPhrase></verbPhrase>, and <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>go</verb> <nounPhrase><noun>downtown</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Somebody</noun></nounPhrase> <verbPhrase><verb>keep</verb> <verb>telling</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase> <verbPhrase neg="true"><verb>don't</verb> <verb>hang</verb> <adverb>around</adverb></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
         </verse>
         <verse>
-            <line>Then I go to my brother</line>
-            <line>And I say, brother, help me, please</line>
-            <line>But he winds up knocking me</line>
-            <line>Back down on my knees</line>
+            <line>Then <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>go</verb> <prepPhrase><prep>to</prep> <nounPhrase><det>my</det> <noun>brother</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>And <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>say</verb></verbPhrase>, <nounPhrase><noun>brother</noun></nounPhrase>, <verbPhrase><verb>help</verb> <nounPhrase><noun>me</noun></nounPhrase>, <adverb>please</adverb></verbPhrase></line>
+            <line>But <nounPhrase><noun>he</noun></nounPhrase> <verbPhrase><verb>winds</verb> <adverb>up</adverb> <verb>knocking</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><adverb>Back</adverb> <adverb>down</adverb></verbPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>knees</noun></nounPhrase></prepPhrase></line>
         </verse>
         <verse>
-            <line>Oh, there been times that I thought I couldn't last for long</line>
-            <line>But now I think I'm able to carry on</line>
-            <line>It's been a long, a long time coming</line>
-            <line>But I know a change gonna come, oh yes it will</line>
+            <line>Oh, <nounPhrase><noun>there</noun></nounPhrase> <verbPhrase><verb>been</verb> <nounPhrase><noun>times</noun></nounPhrase></verbPhrase> that <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>thought</verb> <nounPhrase><noun>I</noun></nounPhrase> <verb>couldn't</verb> <adverb>last</adverb></verbPhrase> <prepPhrase><prep>for</prep> <nounPhrase><noun>long</noun></nounPhrase></prepPhrase></line>
+            <line>But <adverb>now</adverb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <nounPhrase><noun>I</noun></nounPhrase><verb>'m</verb> <adjective>able</adjective> to <verb>carry</verb> <adverb>on</adverb></verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
         </verse>
+        
+        <refrainLine lineID="1"><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <verb>been</verb> <nounPhrase><det>a</det> <adjective>long</adjective>, <det>a</det> <adjective>long</adjective> <noun>time</noun></nounPhrase> <verb>coming</verb></verbPhrase></refrainLine>
+        <refrainLine lineID="2">But <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><det>a</det> <noun>change</noun></nounPhrase></verbPhrase> <verbPhrase><verb>gonna</verb> <verb>come</verb></verbPhrase>, oh yes <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>will</verb></verbPhrase></refrainLine>
     </lyrics>
 </song>

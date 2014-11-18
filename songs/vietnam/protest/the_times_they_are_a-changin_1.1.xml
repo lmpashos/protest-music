@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>The Times They Are a-Changin'</title>
@@ -8,6 +8,7 @@
         <year>1964</year>
         <genre>folk</genre>
         <notablePerformer>Bob Dylan</notablePerformer>
+        <protest>true</protest>
     </metadata>
     <lyrics>
         <verse>
