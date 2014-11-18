@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>I-Feel-Like-I'm-Fixin'-To-Die-Rag</title>
+        <composer>Country Joe McDonald</composer>
+        <album>I-Feel-Like-I'm-Fixin'-to-Die</album>
+        <year>1967</year>
+        <genre>psychadelic rock</genre>
+        <notablePerformer>Country Joe and the Fish</notablePerformer>
+        <notablePerformer>Pete Seeger</notablePerformer>
+    </metadata>
+    <lyrics><verse>
+<line>Well, <verbPhrase><verb>come</verb> <adverb>on</adverb> <nounPhrase><det>all</det> of <noun>you</noun>, <adjective>big</adjective> <adjective>strong</adjective> <noun>men</noun></nounPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>Uncle</noun> <noun>Sam</noun></nounPhrase> <verbPhrase><verb>needs</verb> <nounPhrase><det>your</det> <noun>help</noun></nounPhrase> <adverb>again</adverb></verbPhrase>.</line>
+<line>Yeah, <nounPhrase><noun>he</noun></nounPhrase><verbPhrase><verb>'s got</verb> <nounPhrase><noun>himself</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>a</det> <adjective>terrible</adjective> <noun>jam</noun></nounPhrase></prepPhrase></verbPhrase></line>
+<line><prepPhrase><prep>Way</prep> <adverb>down</adverb> <nounPhrase><noun>yonder</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><noun>Vietnam</noun></nounPhrase></prepPhrase></prepPhrase></line>
+<line>So <verbPhrase><verb>put</verb> <adverb>down</adverb> <nounPhrase><det>your</det> <noun>books</noun></nounPhrase></verbPhrase> and <verbPhrase><verb>pick</verb> <adverb>up</adverb> <nounPhrase><det>a</det> <noun>gun</noun></nounPhrase></verbPhrase>,</line>
+<line><verbPhrase><verb>Gonna</verb> <verbPhrase><verb>have</verb> <nounPhrase><det>a</det> <adverb>whole</adverb> <adjective>lotta</adjective> <noun>fun</noun></nounPhrase></verbPhrase></verbPhrase>. </line>
+</verse><verse>
+    <refrainSectionRef sectionRef="1"/>
+</verse><verse>
+<line>Yeah, <verbPhrase><verb>come</verb> <adverb>on</adverb> <nounPhrase><noun>Wall Street</noun></nounPhrase></verbPhrase>, <verbPhrase neg="true"><verb>don't</verb> <verbPhrase><verb>be</verb> <adjective>slow</adjective></verbPhrase></verbPhrase>,</line>
+<line>Why <nounPhrase><noun>man</noun></nounPhrase>, <nounPhrase><noun>this</noun></nounPhrase> <verbPhrase><verb>is</verb> <nounPhrase><noun>war</noun> <adjective>a-go-go</adjective></nounPhrase></verbPhrase></line>
+<line><nounPhrase><noun>There</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><adjective>plenty</adjective> <adjective>good</adjective> <noun>money</noun></nounPhrase></verbPhrase> <verbPhrase><verb>to be made</verb></verbPhrase></line>
+<line><prepPhrase><prep>By</prep> <verbPhrase><verb>supplying</verb> <nounPhrase><det>the</det> <noun>Army</noun></nounPhrase> <prepPhrase><prep>with</prep> <nounPhrase><det>the</det> <noun>tools</noun></nounPhrase></prepPhrase> <prepPhrase><prep>of</prep> <nounPhrase><det>its</det> <noun>trade</noun></nounPhrase></prepPhrase></verbPhrase></prepPhrase>,</line>
+<line><adverb>Just</adverb> <verbPhrase><verb>hope</verb> and <verbPhrase><verb>pray</verb></verbPhrase> that if <nounPhrase><noun>they</noun></nounPhrase> <verbPhrase><verb>drop</verb> <nounPhrase><det>the</det> <noun>bomb</noun></nounPhrase></verbPhrase></verbPhrase>,</line>
+<line><nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>drop</verb> <nounPhrase><noun>it</noun></nounPhrase></verbPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>the</det> <noun>Viet Cong</noun></nounPhrase></prepPhrase>. </line>
+</verse><verse>
+    <refrainSectionRef sectionRef="1"/>
+</verse><verse>
+<line>Well, <verbPhrase><verb>come</verb> <adverb>on</adverb> <nounPhrase><noun>generals</noun></nounPhrase></verbPhrase>, <verbPhrase><verb>let</verb><nounPhrase><noun>'s</noun></nounPhrase> <verbPhrase><verb>move</verb> <adverb>fast</adverb></verbPhrase></verbPhrase>;</line>
+<line><nounPhrase><det>Your</det> <adjective>big</adjective> <noun>chance</noun></nounPhrase> <verbPhrase><verb>has come</verb> <adverb>at last</adverb></verbPhrase>.</line>
+<line>Now <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>can</verb> <verbPhrase><verb>go</verb> <adverb>out</adverb></verbPhrase> and <verbPhrase><verb>get</verb> <nounPhrase><det>those</det> <noun>reds</noun></nounPhrase></verbPhrase></verbPhrase></line>
+<line>'Cause <nounPhrase><det>the</det> <adverb>only</adverb> <adjective>good</adjective> <noun>commie</noun></nounPhrase> <verbPhrase><verb>is</verb> <nounPhrase><det>the</det> <noun>one</noun></nounPhrase> <nounPhrase><det>that</det></nounPhrase><verb>'s</verb> <adjective>dead</adjective></verbPhrase></line>
+<line>And <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>know</verb> that <verbPhrase><verb>peace</verb> <verbPhrase><verb>can</verb> <adverb>only</adverb> <verbPhrase><verb>be won</verb></verbPhrase></verbPhrase></verbPhrase></verbPhrase></line>
+<line><adverb>When</adverb> <nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>'ve blown</verb> <nounPhrase><noun>'em</noun> <det>all</det></nounPhrase> <prepPhrase><prep>to</prep> <nounPhrase><noun>kingdom come</noun></nounPhrase></prepPhrase></verbPhrase>. </line>
+</verse><verse>
+    <refrainSectionRef sectionRef="1"/>
+</verse><verse>
+<line><verbPhrase><verb>Come</verb> <adverb>on</adverb> <nounPhrase><noun>mothers</noun></nounPhrase> <prepPhrase><prep>throughout</prep> <nounPhrase><det>the</det> <noun>land</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
+<line><verbPhrase><verb>Pack</verb> <nounPhrase><det>your</det> <noun>boys</noun></nounPhrase> <prepPhrase><prep>off</prep> <prep>to</prep> <nounPhrase>Vietnam</nounPhrase></prepPhrase></verbPhrase>.</line>
+<line><verbPhrase><verb>Come</verb> <adverb>on</adverb> <nounPhrase><noun>fathers</noun></nounPhrase></verbPhrase>, and <verbPhrase neg="true"><verb>don't</verb> <verbPhrase><verb>hesitate</verb></verbPhrase></verbPhrase></line>
+<line><verbPhrase><verb>To send</verb> <nounPhrase><det>your</det> <noun>sons</noun></nounPhrase> <adverb>off</adverb></verbPhrase> <prepPhrase><prep>before</prep> <nounPhrase><noun>it</noun></nounPhrase></prepPhrase><verbPhrase><verb>'s</verb> <adverb>too</adverb> <adverb>late</adverb></verbPhrase>.</line>
+<line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>can</verb> <verbPhrase><verb>be</verb> <nounPhrase><det>the</det> <adjective>first</adjective> <noun>ones</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>your</det> <noun>block</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+<line><verbPhrase><verb>To have</verb> <nounPhrase><det>your</det> <noun>boy</noun></nounPhrase> <verb>come</verb> <nounPhrase><noun>home</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>a</det> <noun>box</noun></nounPhrase></prepPhrase></verbPhrase>. </line>
+</verse><verse>
+<refrainSectionRef sectionRef="1"/>
+</verse>
+    
+    <refrainSection sectionID="1">
+        <refrainLineRef lineRef="1"/>
+        <refrainLineRef lineRef="2"/>
+        <refrainLineRef lineRef="3"/>
+        <refrainLineRef lineRef="4"/>
+        <refrainLineRef lineRef="5"/>
+        <refrainLineRef lineRef="6"/>
+        <refrainLineRef lineRef="7"/>
+        <refrainLineRef lineRef="8"/>
+    </refrainSection>
+        
+<refrainLine lineID="1">And <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>one</det></nounPhrase>, <nounPhrase><det>two</det></nounPhrase>, <nounPhrase><det>three</det></nounPhrase></verbPhrase></refrainLine>
+<refrainLine lineID="2"><nounPhrase><det>What</det></nounPhrase> <verbPhrase><verb>are</verb> <nounPhrase><noun>we</noun></nounPhrase> <verbPhrase><verb>fighting</verb> <prepPhrase><prep>for</prep></prepPhrase></verbPhrase></verbPhrase>?</refrainLine>
+<refrainLine lineID="3"><verbPhrase neg="true"><verb>Don't</verb> <verbPhrase><verb>ask</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase>, <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>don't</verb> <verbPhrase><verb>give</verb> <nounPhrase><det>a</det> <noun>damn</noun></nounPhrase></verbPhrase></verbPhrase>,</refrainLine>
+<refrainLine lineID="4"><nounPhrase><adjective>Next</adjective> <noun>stop</noun></nounPhrase> <verbPhrase><verb>is</verb> <nounPhrase><noun>Vietnam</noun></nounPhrase></verbPhrase>.</refrainLine>
+<refrainLine lineID="5">And <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>five</det></nounPhrase>, <nounPhrase><det>six</det></nounPhrase>, <nounPhrase><noun>seven</noun></nounPhrase></verbPhrase></refrainLine>
+<refrainLine lineID="6"><verbPhrase><verb>Open</verb> <adverb>up</adverb> <nounPhrase><det>the</det> <adjective>pearly</adjective> <noun>gates</noun></nounPhrase></verbPhrase>,</refrainLine>
+<refrainLine lineID="7">Well <nounPhrase><noun>there</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase><noun>time</noun></nounPhrase>  <verbPhrase><verb>to wonder</verb> <adverb>why</adverb></verbPhrase></verbPhrase>,</refrainLine>
+<refrainLine lineID="8">Whoopee! <nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>'re</verb> <nounPhrase><noun>all</noun></nounPhrase> <verbPhrase><verb>gonna</verb> <verbPhrase><verb>die</verb></verbPhrase></verbPhrase></verbPhrase>.</refrainLine>
+    </lyrics>
+</song>
