@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>A Change is Gonna Come</title>
+        <composer>Sam Cooke</composer>
+        <album>single</album>
+        <year>1964</year>
+        <genre>Rhythm and Blues</genre>
+        <genre>Soul</genre>
+        <notablePerformer>Sam Cooke</notablePerformer>
+        <notablePerformer>Aretha Franklin</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>I was born by the river in a little tent</line>
+            <line>Oh, and just like the river, I've been running ever since</line>
+            <line>It's been a long, a long time coming</line>
+            <line>But I know a change gonna come, oh yes it will</line>
+        </verse>
+        <verse>
+            <line>It's been too hard living, but I'm afraid to die</line>
+            <line>'Cause I don't know what's up there beyond the sky</line>
+            <line>It's been a long, a long time coming</line>
+            <line>But I know a change gonna come, oh yes it will</line>
+        </verse>
+        <verse>
+            <line>I go to the movie, and I go downtown</line>
+            <line>Somebody keep telling me don't hang around</line>
+            <line>It's been a long, a long time coming</line>
+            <line>But I know a change gonna come, oh yes it will</line>
+        </verse>
+        <verse>
+            <line>Then I go to my brother</line>
+            <line>And I say, brother, help me, please</line>
+            <line>But he winds up knocking me</line>
+            <line>Back down on my knees</line>
+        </verse>
+        <verse>
+            <line>Oh, there been times that I thought I couldn't last for long</line>
+            <line>But now I think I'm able to carry on</line>
+            <line>It's been a long, a long time coming</line>
+            <line>But I know a change gonna come, oh yes it will</line>
+        </verse>
+    </lyrics>
+</song>

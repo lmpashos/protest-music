@@ -9,6 +9,7 @@
         <genre>Rock</genre>
         <notablePerformer>Bruce Springsteen</notablePerformer>
         <notableEvent>Police shooting death of Amadou Diallo.</notableEvent>
+        <protest>true</protest>
     </metadata>
     <lyrics>
         <verse>
