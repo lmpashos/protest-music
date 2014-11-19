@@ -1,7 +1,7 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                   SCHEMA VERSION 1.1                                  #
 #                                 For songs and lyrics                                  #
-#                                      11/18/2014                                       #         
+#                                      11/19/2014                                       #         
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                                       
 #       -----------------------------------------------------
@@ -24,6 +24,7 @@
 #                   - negation added to nounPhrases
 #                   - recursive definition for verbPhrases and nounPhrases
 #                   - added protest element in metadata
+#                   - verb phrases in prep phrases
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
@@ -206,6 +207,8 @@ prepPhrase = element prepPhrase
     nounPhrase
     |
     prepPhrase
+    |
+    verbPhrase
 )+}
 
 # # # # # # # # # # # # 
