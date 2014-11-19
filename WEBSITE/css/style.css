@@ -116,9 +116,9 @@ h1 {
   min-height: inherit;
   color: black;
   text-align: left;
-  width:100%;
-  display:inline-block;
-  overflow:auto;
+  width: 100%;
+  display: inline-block;
+  overflow: auto;
 }
 
 #left {
@@ -142,7 +142,8 @@ h1 {
 
 #center p { 
   font-size: 1.5em;
-  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 #left p, #right p {
@@ -158,10 +159,10 @@ h1 {
 }
 
 #left li, #right li {
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
   margin-left: -40px;
-  padding-left: 3px;
+  padding-left: 6px;
 }
 
 #left li a, #right li a {

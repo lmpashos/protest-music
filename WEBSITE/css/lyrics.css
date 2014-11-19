@@ -28,21 +28,64 @@
   background-color: white;
 }
 
-.listTitle {
-  background-color: inherit;
-  padding: 5px 0px 10px 3px;
+.list_title {
+  background-color: #6E6E6E;
+  padding: 0px 0px 0px 2px;
+  margin: 1px;
 }
 
-.listSubTitle {
-  padding: 5px 0px 5px 3px;
+.list_sub_title {
+  background-color: #8E8E8E;
+  padding: 0px 0px 0px 4px;
+  margin: 1px;
 }
 
 .song {
   background-color: white;
+  min-height: initial;
+  color: black;
+  width: 100%;
+  display: inline-block;
+  overflow: auto;
 }
 
-.song h2, .song h3 {
-  background-color: white;
-  color: black;
-  margin-left: 10px;
+.song img {
+  float: right;
+  margin: 0px 5px 0px 0px;
+}
+
+.song_title {
+  margin: 0px;
+  font-weight: bold;    
+  font-size: medium;	
+}
+
+.song_title_label {
+  padding-left: 5px;
+  font-weight: bold;    
+  font-size: large;    
+}
+
+.song_info {
+  margin: 0px;
+  font-weight: bold;	
+  font-size: small;
+}
+
+.song_info_label {
+  padding-left: 8px;
+  font-weight: bold; 
+  font-size: medium;    
+}
+
+div.youtube_video {
+  min-height: initial;
+  padding: 0px;
+  border: 0px;
+  text-align: center;	
+}
+
+a.lyric_link {
+  font-size: x-small;
+  padding-left: 8px;
 }
