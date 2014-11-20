@@ -28,7 +28,6 @@ body > .wrapper {
 .menu {
   background-color: #FF3419;
   padding: 10px;
-  border-bottom: 1px solid black;
 }
 
 .menu_button {
@@ -92,13 +91,15 @@ h1 {
   color: #4D4D4D;
   padding: 10px 20px 10px 0px;
   text-align: right;
+  margin:0;
+  border-top:1px solid black;
+  border-bottom:1px solid black;
 }
 
 .content {
   background-color: white;
   min-height: 800px;
   position: relative;
-  margin-top: 10px;
   margin-left: 0px;
   margin-right: 0px;
   text-align: center;

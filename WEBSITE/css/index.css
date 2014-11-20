@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+#center{
+	width:100%;
+	text-align:center;
+}
+#splash_title{
+	display:block;
+	font-size:72px;	
+	margin-top:50px;
+	margin-bottom:50px;
+}
+#splash_subtitle{
+	display:block;
+	font-size:36px;
+}
+#center p{
+	font-size:18px;
+}
+img{
+	width:30%;
+	margin-bottom:-8px;
+}
+#images{
+	background-color: #ADAFB2;
+	text-align:center;
+	width:90%;
+	padding-top:20px;
+	padding-bottom:20px;
+	border-radius:20px;
+}
+#button{
+	text-align:center;	
+	margin-top:15px;
+	padding:20px;
+}
+#button a{
+	padding:inherit;
+	text-decoration:none;
+	color:inherit;
+	border-radius:20px;
+}
+#button a:hover{
+	background-color:black;
+	color:white;	
+}
+
