@@ -6,14 +6,19 @@
   width: 50%;
   display: block;
   background-color: white;
+  overflow-x:hidden;
 }
 
 #protest {
   float: left;
+  border-right:1px solid black;
+  margin-left:-1px;
 }
 
 #non_protest {
   float: right;
+  border-left:1px solid black;
+  margin-right:-1px;
 }
 
 #non_protest p, #protest p {
@@ -47,7 +52,9 @@
   color: black;
   width: 100%;
   display: inline-block;
-  overflow: auto;
+
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .song img {
@@ -89,4 +96,7 @@ div.youtube_video {
 a.lyric_link {
   font-size: x-small;
   padding-left: 8px;
+}
+#center{
+  overflow-x:hidden;	
 }
