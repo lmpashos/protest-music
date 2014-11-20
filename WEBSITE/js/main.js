@@ -62,11 +62,11 @@
     }
     
     //Column Height
-    if(document.getElementById("left") & document.getElementById("right")){
+    if(currentPageName != allPages[0] & currentPageName != allPages[2]){
 		var leftHeight = document.getElementById("left").clientHeight;
 		var centerHeight = document.getElementById("center").clientHeight;
 		var rightHeight = document.getElementById("right").clientHeight;
-	 
+		
 		var biggest = Math.max(leftHeight,centerHeight,rightHeight);
 		if(biggest === leftHeight) {
 		  document.getElementById("center").style.height = leftHeight + "px";
