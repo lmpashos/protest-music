@@ -3,6 +3,8 @@
 #center{
 	width:100%;
 	text-align:center;
+	min-height:0px;
+	overflow:hidden;
 }
 #splash_title{
 	display:block;
@@ -19,7 +21,7 @@
 }
 img{
 	width:30%;
-	margin-bottom:-8px;
+	margin-bottom:-5px;
 }
 #images{
 	background-color: #ADAFB2;
@@ -39,6 +41,7 @@ img{
 	text-decoration:none;
 	color:inherit;
 	border-radius:20px;
+	font-size:36px;
 }
 #button a:hover{
 	background-color:black;

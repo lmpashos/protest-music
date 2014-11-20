@@ -26,7 +26,7 @@ $current_page = 'index';
         <div class="content">         
             <div id="center">
                 <span id="splash_title">Discovering Protest Music:</span>
-                <span id="splash_subtitle">Can We Define It?
+                <span id="splash_subtitle">Can We Define It?</span>
                 <p>
                 	A Digital Humanities Project by Leonidas Pashos, Katie Uihlein, and David Galloway
                 </p>
