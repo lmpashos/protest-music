@@ -1,9 +1,14 @@
 @charset "UTF-8";
 /* CSS Document */
+
+.content{
+	min-height:100%;
+	position:relative;
+}
 #center{
 	width:100%;
 	text-align:center;
-	min-height:0px;
+	min-height:100%;
 	overflow:hidden;
 }
 #splash_title{
@@ -20,7 +25,7 @@
 	font-size:18px;
 }
 img{
-	width:30%;
+	width:32%;
 	margin-bottom:-5px;
 }
 #images{
@@ -30,11 +35,14 @@ img{
 	padding-top:20px;
 	padding-bottom:20px;
 	border-radius:20px;
+	overflow:hidden;
 }
 #button{
 	text-align:center;	
-	margin-top:15px;
+	margin-top:25px;
 	padding:20px;
+	margin-bottom:25px;
+	overflow:hidden;
 }
 #button a{
 	padding:inherit;
