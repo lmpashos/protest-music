@@ -63,20 +63,25 @@
     
     //Column Height
     if(currentPageName != allPages[0] & currentPageName != allPages[2]){
-      var leftHeight = document.getElementById("left").clientHeight;
-      var centerHeight = document.getElementById("center").clientHeight;
-      var rightHeight = document.getElementById("right").clientHeight;
-      
-      var biggest = Math.max(leftHeight,centerHeight,rightHeight);
-      if(biggest === leftHeight) {
-        document.getElementById("center").style.height = leftHeight + "px";
-        document.getElementById("right").style.height = leftHeight + "px";  
-      } else if(biggest === centerHeight) {
-        document.getElementById("left").style.height = centerHeight + "px";
-        document.getElementById("right").style.height = centerHeight + "px";
-      } else {
-        document.getElementById("left").style.height = rightHeight + "px";
-        document.getElementById("center").style.height = rightHeight + "px";
-      }
-    }
+		var leftHeight = document.getElementById("left").clientHeight;
+		var centerHeight = document.getElementById("center").clientHeight;
+		var rightHeight = document.getElementById("right").clientHeight;
+		
+		var biggest = Math.max(leftHeight,centerHeight,rightHeight);
+		if(biggest === leftHeight) {
+		  document.getElementById("center").style.height = leftHeight + "px";
+		  document.getElementById("right").style.height = leftHeight + "px";  
+		} 
+		else if(biggest === centerHeight) {
+		  document.getElementById("left").style.height = centerHeight + "px";
+		  document.getElementById("right").style.height = centerHeight + "px";
+		} 
+		else {
+		  document.getElementById("left").style.height = rightHeight + "px";
+		  document.getElementById("center").style.height = rightHeight + "px";
+		}
+	}
+
+    // changes the first menu bar item from "Index" to "Home"
+    document.getElementById("index").innerHTML = "Home";
   });

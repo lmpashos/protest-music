@@ -8,7 +8,7 @@
     
     <xsl:template match="verse">
         <p>
-            <xsl:apply-templates select="./line | ./refrainSectionRef | ./refrainLineRef" />
+            <xsl:apply-templates select="./line | ./refrainSectionRef" />
         </p>
     </xsl:template>
     

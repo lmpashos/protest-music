@@ -27,17 +27,17 @@ document.addEventListener("DOMContentLoaded", function() {
       case "none":
         xmlDepressionDiv.style.display = "block";
         var arrowSpan = document.getElementById("depression_arrow");
-        arrowSpan.innerHTML = "&#708;";
+        arrowSpan.innerHTML = "&#10548;";
         break;
       case "block":
         xmlDepressionDiv.style.display = "none";
         var arrowSpan = document.getElementById("depression_arrow");
-        arrowSpan.innerHTML = "&#709;";
+        arrowSpan.innerHTML = "&#10549;";
         break;
       default:
         xmlDepressionDiv.style.display = "block";
         var arrowSpan = document.getElementById("depression_arrow");
-        arrowSpan.innerHTML = "&#708;";
+        arrowSpan.innerHTML = "&#10548;";
         break;        
     }
   });
@@ -58,17 +58,17 @@ document.addEventListener("DOMContentLoaded", function() {
     case "none":
       xmlVietnamDiv.style.display = "block";
       var arrowSpan = document.getElementById("vietnam_arrow");
-      arrowSpan.innerHTML = "&#708;";
+      arrowSpan.innerHTML = "&#10548;";
       break;
     case "block":
       xmlVietnamDiv.style.display = "none";
       var arrowSpan = document.getElementById("vietnam_arrow");
-      arrowSpan.innerHTML = "&#709;";
+      arrowSpan.innerHTML = "&#10549;";
       break;
     default:
       xmlVietnamDiv.style.display = "block";
       var arrowSpan = document.getElementById("vietnam_arrow");
-      arrowSpan.innerHTML = "&#708;";
+      arrowSpan.innerHTML = "&#10548;";
       break;        
     }
   });
@@ -89,17 +89,17 @@ document.addEventListener("DOMContentLoaded", function() {
     case "none":
       xmlModernDiv.style.display = "block";
       var arrowSpan = document.getElementById("modern_arrow");
-      arrowSpan.innerHTML = "&#708;";
+      arrowSpan.innerHTML = "&#10548;";
       break;
     case "block":
       xmlModernDiv.style.display = "none";
       var arrowSpan = document.getElementById("modern_arrow");
-      arrowSpan.innerHTML = "&#709;"; //"&#10549;";
+      arrowSpan.innerHTML = "&#10549;";
       break;
     default:
       xmlModernDiv.style.display = "block";
       var arrowSpan = document.getElementById("modern_arrow");
-      arrowSpan.innerHTML = "&#708;";
+      arrowSpan.innerHTML = "&#10548;";
       break;        
     }
   });
@@ -126,5 +126,7 @@ document.addEventListener("DOMContentLoaded", function() {
       this.style.backgroundColor = "inherit";
     });
   }  
+//  console.log(document.getElementById("music_era").value);
+//  protestListRequest.update("is_protest=true");
 	  
 });
