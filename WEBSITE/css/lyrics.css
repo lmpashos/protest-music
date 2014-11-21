@@ -4,7 +4,7 @@
   position: relative;
   height: inherit;
   width: 50%;
-  display: block;
+  display: inline-block;
   background-color: white;
   overflow-x:hidden;
 }
@@ -23,9 +23,16 @@
 
 #non_protest p, #protest p {
   text-align: center;
-  margin: 0;
-  font-size: 11pt;
+  font-size: 10pt;
   background-color: white;
+}
+
+#protest p{
+  margin-right:20px;	
+}
+
+#non_protest p{
+  margin-left:20px;	
 }
 
 #protest span, #non_protest span {
@@ -52,7 +59,6 @@
   color: black;
   width: 100%;
   display: inline-block;
-
   margin-left: 10px;
   margin-right: 10px;
 }
@@ -99,4 +105,8 @@ a.lyric_link {
 }
 #center{
   overflow-x:hidden;	
+}
+hr{
+	right:18px;
+	position:relative;
 }
