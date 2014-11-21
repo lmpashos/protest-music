@@ -27,10 +27,7 @@ $current_page = 'about';
             	<p>This is the left content space</p>
                 <p>We can put stuff here</p>
             </div>
-            <div id="right">
-            	<p>This is the right content space</p>
-                <p>We can put stuff here</p>
-            </div>
+            
             <div id="center">
             	<h1>Main</h1>
                 <p>
