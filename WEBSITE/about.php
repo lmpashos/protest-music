@@ -34,14 +34,19 @@ $current_page = 'about';
             <div id="center">
             	<h1>Main</h1>
                 <p>
-                   However, protest music is a category that doesn’t seem to be identified by this same process. 
-            	   Protest music can be folk, rock, rap, or any number of different “genres” of music. 
-            	   How do we actually identify what protest music is?
+                  When discussing music, songs can typically be classified into 
+                  most genres according to things like instrumentals, vocals, or 
+                  other musical elements. However, deciding that a song is a 
+                  “protest song” doesn’t go through this same process. Protest 
+                  music can be folk, rock, rap, or any number of different types of
+                  music. If that’s the case, then how do we actually identify what 
+                  protest music is?
                 </p>
             	<p>
-                   Our research project focused on identify distinguishable linguistic features of protest music 
-            	   and its lyrics. We wished to answer the following question: is there a way to identify protest 
-            	   music by way of its lyrics?
+                   Our research project focused on identify distinguishable 
+                   linguistic features of protest music and its lyrics. We wished 
+                   to answer the following question: is there a way to identify 
+                   protest music by way of its lyrics?
                 </p>
             	<p>
                    We approached this question by analyzing three time periods in America:
@@ -52,12 +57,16 @@ $current_page = 'about';
                    <li>and the contemporary era, which we defined as post-1975.</li>
                 </ul>
                 <p>
-                   We compared lyrics to non-protest lyrics from the same time periods. We tagged the lyrics syntactically, 
-            	   labeling noun phrases, verb phrases, and adverbs, also noting when a phrase is negated in certain instances. 
-            	   We looked at the various phrases to see if there were distinctions between protest songs from one time period
-            	   versus the non-protest songs from that same period. We used statistical analysis to determine if these 
-            	   distinctions were, in fact, significant. With this, we hope to show that protest music may not be identifiable 
-            	   simply by a type of musical style, but it still can be if one considers the linguistic elements found in its lyrics.
+                   We compared lyrics to non-protest lyrics from the same time periods. 
+                   We tagged the lyrics syntactically, labeling noun phrases, verb 
+                   phrases, and adverbs, and noted when a phrase is negated in certain 
+                   instances. We looked at the various phrases to see if there were 
+                   distinct differences in syntax between the protest songs from one 
+                   time period versus the non-protest songs from that same period. We 
+                   used statistical analysis to determine if these differences were, in 
+                   fact, significant. With this, we hope to show that although protest 
+                   music may not be identifiable by a single musical style, it can still
+                   be identified by properties found in the lyrics.
             	</p>
                 <h1>About the Eras</h1>
                 <h2>Great Depression</h2>
@@ -151,6 +160,65 @@ $current_page = 'about';
                    gifted upon us some of the most influential protest over 
                    written.
                 </p>
+                <h2>Modern</h2>
+                <p>
+                   For this project, we defined the “Modern Era” as any time after 
+                   1975, i.e. the end of the Vietnam War. 
+                </p>
+                <p>
+                   After the loss in Vietnam, veterans from the war were not 
+                   treated with respect when they returned home. Unlike the World 
+                   War II veterans, who were seen as heroes, the Vietnam Veterans 
+                   “baby killers, psychos, drug addicts and war mongers.”  Veterans 
+                   were extremely mistreated after they came home; they were 
+                   refused service at restaurants, and they were hated by anti-war 
+                   americans. Protesters would stand at the gates in airports 
+                   protesting against the war as Vietnam veterans returned home. 
+                   Bruce Springsteen depicts the Vietnam Vet in “Born in the 
+                   U.S.A.”: “He's isolated from the government, isolated from his 
+                   family, to the point where nothing makes sense.”
+                </p>
+                <p>
+                   On November 6th, 1990, the state of Arizona voted down to create
+                   a holiday for Dr. Martin Luther King, Jr.  Two years prior, the 
+                   governor was Evan Mecham, who cancelled Martin Luther King day 
+                   saying, "I guess King did a lot for the colored people, but I 
+                   don't think he deserves a national holiday."
+                </p>
+                <p>
+                   In 1991, Public Enemy produced “By the Time I get to Arizona” as 
+                   a response, and the message spread, in part because it was aired
+                   on MTV. By 1993, Arizona lost its chance to host the Super Bowl.
+                   Arizona lost $350 million in revenue before reinstating MLK day
+                   in 1993.
+                </p>
+                <p>
+                   On February 4th, 1999, Police officers in New York City fired 41
+                   at an unarmed West African immigrant. He had no criminal record.
+                   The immigrant’s name was Amadou Diallo and he was 22 years old.
+                   He worked as a street peddler. Bruce Springsteen wrote his song
+                   “American Skin (41 shots)” about this police shooting. However, 
+                   in 2013, Springsteen dedicated his song to Trayvon Martin. 
+                   Trayvon Martin was as 17-year old African American who was shot 
+                   by George Zimmerman. Both the New York City police and George 
+                   Zimmerman noticed the men in each case late at night and 
+                   declared that they looked suspicious. 
+                </p>
+                <p>
+                   The modern era, like every other era, wanted to change the way 
+                   African Americans were treated. They also protested against 
+                   multiple parts of the government. In other English-speaking 
+                   parts of the world, people were having the same troubles with 
+                   government, as seen with The Sex Pistols “God Save the Queen,” 
+                   which expresses dissatisfaction with the traditional government
+                   in England. One thing to note in this era more so than the 
+                   others is that protesters liked to highlight not just one event
+                   in history, but many - pointing out the flaws in our actions 
+                   across time. This is typically used when discussing the methods 
+                   the United States has used in order to dominate in wartime.
+                </p>
+                <h1>About Us</h1>
+                <p>blah blah blah</p>
             </div>
         </div>
     </div>
