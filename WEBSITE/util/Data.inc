@@ -45,7 +45,7 @@ class Data {
         
         foreach($result as $song) {
           $html .= (StaticFunctions::indent(3, 4) . '<li>');
-          $html .= ('<a href="download.php?path=' . $path . '&download_file=' . $song->lyric_filename . '">');
+          $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $song->lyric_filename . '">');
           $html .= ($song->lyric_filename . '</a>');
           $html .= ('</li>' . "\n");
         }
@@ -64,7 +64,7 @@ class Data {
       
         foreach($result as $song) {
           $html .= (StaticFunctions::indent(3, 4) . '<li>');
-          $html .= ('<a href="download.php?path=' . $path . '&download_file=' . $song->lyric_filename . '">');
+          $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $song->lyric_filename . '">');
           $html .= ($song->lyric_filename . '</a>');
           $html .= ('</li>' . "\n");
         }
@@ -89,7 +89,7 @@ class Data {
       
         foreach($result as $song) {
           $html .= (StaticFunctions::indent(3, 4) . '<li>');
-          $html .= ('<a href="download.php?path=' . $path . '&download_file=' . $song->lyric_filename . '">');
+          $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $song->lyric_filename . '">');
           $html .= ($song->lyric_filename . '</a>');
           $html .= ('</li>' . "\n");
         }
@@ -108,7 +108,7 @@ class Data {
       
         foreach($result as $song) {
           $html .= (StaticFunctions::indent(3, 4) . '<li>');
-          $html .= ('<a href="download.php?path=' . $path . '&download_file=' . $song->lyric_filename . '">');
+          $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $song->lyric_filename . '">');
           $html .= ($song->lyric_filename . '</a>');
           $html .= ('</li>' . "\n");
         }
@@ -132,7 +132,7 @@ class Data {
       
         foreach($result as $song) {
           $html .= (StaticFunctions::indent(3, 4) . '<li>');
-          $html .= ('<a href="download.php?path=' . $path . '&download_file=' . $song->lyric_filename . '">');
+          $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $song->lyric_filename . '">');
           $html .= ($song->lyric_filename . '</a>');
           $html .= ('</li>' . "\n");
         }
@@ -151,7 +151,7 @@ class Data {
       
         foreach($result as $song) {
           $html .= (StaticFunctions::indent(3, 4) . '<li>');
-          $html .= ('<a href="download.php?path=' . $path . '&download_file=' . $song->lyric_filename . '">');
+          $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $song->lyric_filename . '">');
           $html .= ($song->lyric_filename . '</a>');
           $html .= ('</li>' . "\n");
         }
@@ -171,8 +171,8 @@ class Data {
       $html .= (StaticFunctions::indent(2, 4) . '<ul>' . "\n");
       $html .= (StaticFunctions::indent(3, 4) . '<li>');
       
-      $html .= ('<a href="download.php?path=' . $path . '&download_file=' . $filename . '">');
-      $html .= ($song->lyric_filename . '</a>');
+      $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $filename . '">');
+      $html .= ($filename . '</a>');
       $html .= ('</li>' . "\n");
       
       $html .= (StaticFunctions::indent(2, 4) . '</ul>' . "\n");
@@ -184,13 +184,11 @@ class Data {
       $html .= (StaticFunctions::indent(2, 4) . '<ul>' . "\n");
       $html .= (StaticFunctions::indent(3, 4) . '<li>');
       
-      $html .= ('<a href="download.php?path=' . $path . '&download_file=' . $filename . '">');
-      $html .= ($song->lyric_filename . '</a>');
+      $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $filename . '">');
+      $html .= ($filename . '</a>');
       $html .= ('</li>' . "\n");
       
       $html .= (StaticFunctions::indent(2, 4) . '</ul>' . "\n");
-      
-
       
       //Now get all of the XSLT Data
       $html .= (StaticFunctions::indent(1, 4) . '<h1 id="xslt">XSLT</h1>' . "\n");
