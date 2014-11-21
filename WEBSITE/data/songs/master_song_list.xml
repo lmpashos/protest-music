@@ -181,10 +181,10 @@
         <lyric_source></lyric_source>
     </song>    
     <song era="vietnam" is_protest="true">
-        <title>Alice's Restaurant Massacre</title>
-        <lyric_filename>alice's_restaurant_massacre_0.3.xml</lyric_filename>
+        <title>A Change Is Gonna' Come</title>
+        <lyric_filename>a_change_is_gonna_come_1.1.xml</lyric_filename>
         <image_filename></image_filename>
-        <lyric_source></lyric_source>
+        <lyric_source></lyric_source>     
     </song>
     <song era="vietnam" is_protest="true">
         <title>Blowin' in the Wind</title>
@@ -357,13 +357,13 @@
         <image_filename>straight_outta_compton.jpg</image_filename>
         <lyric_source>http://www.azlyrics.com/lyrics/nwa/fuckthepolice.html</lyric_source>
     </song>
-    <song era="modern" is_protest="true">
+<!--     <song era="modern" is_protest="true">
         <title>God Save the Queen</title>     
         <lyric_filename>god_save_the_queen_1.1.xml</lyric_filename>
         <image_filename>never_mind_the_bollocks.jpg</image_filename>
         <youtube_link>http://www.youtube.com/embed/8z2M_hpoPwk</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/sexpistols/godsavethequeen.html</lyric_source>
-    </song>
+    </song> -->
     <song era="modern" is_protest="true">
         <title>Sleep Now in the Fire</title> 
         <lyric_filename>sleep_now_in_the_fire_1.1.xml</lyric_filename>
