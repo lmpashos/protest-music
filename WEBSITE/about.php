@@ -16,6 +16,7 @@ $current_page = 'about';
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/about.css" rel="stylesheet" type="text/css" />
     <script src="js/main.js" type="text/javascript">/**/</script>
+    <script src="js/scroll.js" type="text/javascript"></script>
 </head>
 
 <body>
@@ -24,13 +25,16 @@ $current_page = 'about';
         <h1><?php echo ucfirst($current_page); ?></h1>
         <div class="content">
             <div id="left">
-            	<p>This is the left content space</p>
-                <p>We can put stuff here</p>
+            	<ul class="absolute">
+                	<li><a href="about.php#vision">Vision</a></li>
+                    <li><a href="about.php#eras">Eras</a></li>
+                    <li><a href="about.php#us">Us</a></li>
+                </ul>
             </div>
          
             
             <div id="center">
-            	<h1>Main</h1>
+            	<h1 id="vision">About the Vision</h1>
                 <p id="fix">
                   When discussing music, songs can typically be classified into 
                   most genres according to things like instrumentals, vocals, or 
@@ -66,7 +70,7 @@ $current_page = 'about';
                    music may not be identifiable by a single musical style, it can still
                    be identified by properties found in the lyrics.
             	</p>
-                <h1>About the Eras</h1>
+                <h1 id="eras">About the Eras</h1>
                 <h2>Great Depression</h2>
                 <p>
                    The Great Depression occurred from 1929 to 1939. It is noted as “one of the deepest and longest-lasting economic downturn
@@ -215,7 +219,7 @@ $current_page = 'about';
                    across time. This is typically used when discussing the methods 
                    the United States has used in order to dominate in wartime.
                 </p>
-                <h1>About Us</h1>
+                <h1 id="us">About Us</h1>
                 <p>blah blah blah</p>
             </div>
         </div>

@@ -48,10 +48,9 @@ class Constants {
   static $PAGES_TO_HREF = array(
     'home' => 'index.php',
     'about' => 'about.php',
-    'about_subsection1' => 'about.php#subsection1',
-    'about_subsection2' => 'about.php#subsection2',
-    'about_subsection3' => 'about.php#subsection3',
-    'about_subsection4' => 'about.php#subsection4',
+    'about_vision' => 'about.php#vision',
+    'about_eras' => 'about.php#eras',
+    'about_us' => 'about.php#us',
     'lyrics' => 'lyrics.php',
     'lyrics_the_great_depression' => 'lyrics.php?era=the_great_depression',
     'lyrics_vietnam' => 'lyrics.php?era=vietnam',
@@ -72,10 +71,9 @@ class Constants {
   static $PAGES = array(
     'home' => array(), 
     'about' => array(
-      'subsection1', 
-      'subsection2',
-      'subsection3',
-      'subsection4'
+      'vision', 
+      'eras',
+      'us',
     ), 
     'lyrics' => array(
       Constants::ERA_GREAT_DEPRESSION,
@@ -110,6 +108,9 @@ class Constants {
       'subsection4' => 'Subsection 4',
       'subsection5' => 'Subsection 5',
       'subsection6' => 'Subsection 6',
+      'vision' => 'Vision',
+      'eras' => 'Eras',
+      'us' => 'Us',
   );
 }
 
