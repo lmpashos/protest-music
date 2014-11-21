@@ -1,0 +1,41 @@
+xquery version "3.0";
+let $songs := collection('/db/course/protest')/*
+
+let $protest :=
+    for $song in $songs
+    where $song//protest = "true"
+    return $song
+let $nonprotest :=
+    for $song in $songs
+    where not($song//protest = "true")
+    return $song
+    
+let $protestNounPhrases := 
+    for $song in $protest
+    return $song//nounPhrase
+let $nonprotestNounPhrases :=
+    for $song in $nonprotest
+    return $song//nounPhrase
+    
+let $countProtest := count($protestNounPhrases)
+let $countNonprotest := count($nonprotestNounPhrases)
+
+let $protestWithAdj :=
+    for $nounPhrase in $protestNounPhrases
+    where $nounPhrase//adjective
+    return $nounPhrase
+let $nonprotestWithAdj:=
+    for $nounPhrase in $nonprotestNounPhrases
+    where $nounPhrase//adjective
+    return $nounPhrase
+    
+let $countProtestWithAdj := count($protestWithAdj)
+let $countNonprotestWithAdj := count($nonprotestWithAdj)
+
+let $percentProtest := round(($countProtestWithAdj div $countProtest * 100) * 100) div 100
+let $percentNonprotest := round(($countNonprotestWithAdj div $countNonprotest * 100) * 100) div 100
+
+return(
+    "Percent of noun phrases that contain an adjective in protest songs: " || $percentProtest || "%",
+    "Percent of noun phrases that contain an adjective in nonprotest songs: " || $percentNonprotest || "%"
+)
