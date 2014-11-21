@@ -1,12 +1,13 @@
 @charset "UTF-8";
 /* CSS Document */
-#center p{
-	font-size:12pt;
-	margin-left:20px;
-	margin-right:20px;
-	text-indent:30px;
+#center p {
+  font-size: 12pt;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-indent: 30px;
 }
-#center h2{
-	margin-left:20px;
+
+#center h2 {
+  margin-left: 20px;
 }
 

@@ -28,9 +28,10 @@ class Constants {
   const OTHER_OS = 4;
   
   const DATA_DIR = 'data/';
+  const IMG_DIR = 'images/';
+
   const SONG_LIST_FILENAME = 'data/songs/master_song_list.xml';
   const SONG_XML_TO_LYRIC_HTML_XSL = 'data/songs/song_xml_to_lyric_html.xsl';
- // const SONG_XML_TO_META_HTML_XSL = 'data/song_xml_to_meta_html.xsl';
   
   const ERA_NONE = 'none';
   const ERA_MODERN = 'modern';
@@ -45,10 +46,7 @@ class Constants {
   );
   
   static $PAGES_TO_HREF = array(
-    'index' => 'index.php',
-    'index_subsection1' => 'index.php#subsection1',
-    'index_subsection2' => 'index.php#subsection2',
-    'index_subsection3' => 'index.php#subsection3',
+    'home' => 'index.php',
     'about' => 'about.php',
     'about_subsection1' => 'about.php#subsection1',
     'about_subsection2' => 'about.php#subsection2',
@@ -72,11 +70,7 @@ class Constants {
   );
 
   static $PAGES = array(
-    'index' => array(
-      'subsection1', 
-      'subsection2',
-      'subsection3'
-    ), 
+    'home' => array(), 
     'about' => array(
       'subsection1', 
       'subsection2',
@@ -106,8 +100,8 @@ class Constants {
   static $PAGE_KEY_TO_PAGE_STRING = array(
       Constants::ERA_MODERN => 'Modern',
       Constants::ERA_VIETNAM => 'Vietnam',
-      Constants::ERA_GREAT_DEPRESSION => 'The Great Depression',
-      'xml' => 'XML Data',
+      Constants::ERA_GREAT_DEPRESSION => 'The&nbsp;Great&nbsp;Depression',
+      'xml' => 'XML&nbsp;Data',
       'schema' => 'Schemas',
       'xslt' => 'XSLT',
       'subsection1' => 'Subsection 1', 

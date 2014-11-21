@@ -1,11 +1,6 @@
 @charset "utf-8";
 
 /* CSS Document */
-/* * {
-  color: white;
-  margin: 0 auto;
-  background-color: #ADAFB2;
-} */
 
 html, body {
   min-width: 900px;
@@ -197,7 +192,7 @@ h1 {
   max-width:75px;
 }
 
-#index {
+#home {
   padding: 11px 72px 11px 10px;
 }
 

@@ -27,17 +27,17 @@ document.addEventListener("DOMContentLoaded", function() {
       case "none":
         xmlDepressionDiv.style.display = "block";
         var arrowSpan = document.getElementById("depression_arrow");
-        arrowSpan.innerHTML = "&#10548;";
+        arrowSpan.innerHTML = "&#708;";
         break;
       case "block":
         xmlDepressionDiv.style.display = "none";
         var arrowSpan = document.getElementById("depression_arrow");
-        arrowSpan.innerHTML = "&#10549;";
+        arrowSpan.innerHTML = "&#709;";
         break;
       default:
         xmlDepressionDiv.style.display = "block";
         var arrowSpan = document.getElementById("depression_arrow");
-        arrowSpan.innerHTML = "&#10548;";
+        arrowSpan.innerHTML = "&#708;";
         break;        
     }
   });
@@ -58,17 +58,17 @@ document.addEventListener("DOMContentLoaded", function() {
     case "none":
       xmlVietnamDiv.style.display = "block";
       var arrowSpan = document.getElementById("vietnam_arrow");
-      arrowSpan.innerHTML = "&#10548;";
+      arrowSpan.innerHTML = "&#708;";
       break;
     case "block":
       xmlVietnamDiv.style.display = "none";
       var arrowSpan = document.getElementById("vietnam_arrow");
-      arrowSpan.innerHTML = "&#10549;";
+      arrowSpan.innerHTML = "&#709;";
       break;
     default:
       xmlVietnamDiv.style.display = "block";
       var arrowSpan = document.getElementById("vietnam_arrow");
-      arrowSpan.innerHTML = "&#10548;";
+      arrowSpan.innerHTML = "&#708;";
       break;        
     }
   });
@@ -89,17 +89,17 @@ document.addEventListener("DOMContentLoaded", function() {
     case "none":
       xmlModernDiv.style.display = "block";
       var arrowSpan = document.getElementById("modern_arrow");
-      arrowSpan.innerHTML = "&#10548;";
+      arrowSpan.innerHTML = "&#708;";
       break;
     case "block":
       xmlModernDiv.style.display = "none";
       var arrowSpan = document.getElementById("modern_arrow");
-      arrowSpan.innerHTML = "&#10549;";
+      arrowSpan.innerHTML = "&#709;";
       break;
     default:
       xmlModernDiv.style.display = "block";
       var arrowSpan = document.getElementById("modern_arrow");
-      arrowSpan.innerHTML = "&#10548;";
+      arrowSpan.innerHTML = "&#708;";
       break;        
     }
   });
@@ -112,21 +112,6 @@ document.addEventListener("DOMContentLoaded", function() {
   h2Modern.addEventListener("mouseout", function() {
     this.style.textDecoration = "initial";
     this.style.cursor="auto";
-  });
-  
-  var nonProtestPanel = document.getElementById("right");
-  var nonProtestList = nonProtestPanel.getElementsByTagName("li");
-  for(var i = 0; i < nonProtestList.length; i++) {
-    
-    nonProtestList[i].addEventListener("mouseover", function() {
-      this.style.backgroundColor = "black";
-    });
-    
-    nonProtestList[i].addEventListener("mouseout", function() {
-      this.style.backgroundColor = "inherit";
-    });
-  }  
-//  console.log(document.getElementById("music_era").value);
-//  protestListRequest.update("is_protest=true");
+  });  
 	  
 });
