@@ -47,9 +47,6 @@ if(isset($_GET['era'])) {
                     <li><a class="toc_title" href="#xslt">XSLT Files</a></li>
                 </ul>    
             </div>
-            <div id="right">
-            	
-            </div>
             <div id="center">
                 <?php echo Data::get_html_from_xml_song_list(); ?>
             </div>

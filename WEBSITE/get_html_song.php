@@ -29,65 +29,98 @@ if(file_exists(Constants::SONG_LIST_FILENAME)) {
       $song_filename = Constants::DATA_DIR . 'songs/' . $era . '/non_protest/' . $song_filename;
     }
     
+    //Get any additional Song info from the Song List
+    $image_filename = NULL;
+    $youtube_link = NULL;
+    $lyric_source = NULL;
+    
+    if(isset($song[0]->image_filename) && trim($song[0]->image_filename) !== '') {
+      $image_filename = Constants::IMG_DIR . trim($song[0]->image_filename);
+    }
+    
+    if(isset($song[0]->youtube_link) && trim($song[0]->youtube_link) !== '') {
+      $youtube_link = trim($song[0]->youtube_link);
+    }    
+    
+    if(isset($song[0]->lyric_source) && trim($song[0]->lyric_source) !== '') {
+      $lyric_source = trim($song[0]->lyric_source);
+    }
+    
     if(file_exists($song_filename)) {
       
       //For the metadata, it is easiest just to step through the Meta part of the document itself
       $meta_xml = simplexml_load_file($song_filename)->metadata;
       
-      //Wrap the entire Item in a div for song
-      $html .= ('<div class="song">' . "\n");
-      $html .= ('<h2>' . $meta_xml->title . '</h2>' . "\n");
+      $html .= ('<div class="metadata_head">' . "\n");
+      $html .= ('<p class="song_metadata" style="text-align: left;">' . "\n");
+      
+      if(isset($image_filename)) {
+        $html .= ('<img src="' . $image_filename . '" alt="' . $image_filename . '" />' . "\n");
+      }
+      
+      $html .= ('<span class="song_title_label">Title:</span> <span class="song_title">' . $meta_xml->title . '</span><br />' . "\n");
       if(count($meta_xml->composer) == 0) {
-        $html .= '<h3>None</h3>' . "\n";
-      } elseif (count($meta_xml->composer) == 0) {
-        $html .= ('<h3>' . $meta_xml->composer[0] . '</h3>' . "\n");
+        $html .= '<span class="song_info_label">Composer:</span> <span class="song_info">None</span><br />' . "\n";
+      } elseif(count($meta_xml->composer) == 1) {
+        $html .= ('<span class="song_info_label">Composer:</span> <span class="song_info">' . $meta_xml->composer[0] . '</span><br />' . "\n");
       } else {
-        $html .= '<h3>';
+        $html .= '<span class="song_info_label">Composers:</span> <span class="song_info">';
         for($i = 0; $i < count($meta_xml->composer); ++$i) {
           $html .= $meta_xml->composer[$i];
           if($i + 1 < count($meta_xml->composer)) {
             $html .= ', ';
           }
         }
-        $html .= ('</h3>' . "\n");
+        $html .= ('</span><br />' . "\n");
       }
       
-      $html .= ('<h3>' . $meta_xml->album . '</h3>' . "\n");
-      $html .= ('<h3>' . $meta_xml->year . '</h3>' . "\n");
+      $html .= ('<span class="song_info_label">Album:</span> <span class="song_info">' . $meta_xml->album . '</span><br />' . "\n");
+      $html .= ('<span class="song_info_label">Year:</span> <span class="song_info">' . $meta_xml->year . '</span><br />' . "\n");
 
       if(count($meta_xml->genre) == 0) {
-        $html .= '<h3>None</h3>' . "\n";
-      } elseif (count($meta_xml->genre) == 0) {
-        $html .= ('<h3>' . $meta_xml->genre[0] . '</h3>' . "\n");
+        $html .= '<span class="song_info_label">Genre:</span> <span class="song_info">None</span><br />' . "\n";
+      } elseif(count($meta_xml->genre) == 1) {
+        $html .= ('<span class="song_info_label">Genre:</span> <span class="song_info">' . $meta_xml->genre[0] . '</span><br />' . "\n");
       } else {
-        $html .= '<h3>';
+        $html .= '<span class="song_info_label">Genres:</span> <span class="song_info">';
         for($i = 0; $i < count($meta_xml->genre); ++$i) {
           $html .= $meta_xml->genre[$i];
           if($i + 1 < count($meta_xml->genre)) {
             $html .= ', ';
           }
         }
-        $html .= ('</h3>' . "\n");
+        $html .= ('</span><br />' . "\n");
       }
 
       if(count($meta_xml->notablePerformer) == 0) {
-        $html .= '<h3>None</h3>' . "\n";
-      } elseif (count($meta_xml->notablePerformer) == 0) {
-        $html .= ('<h3>' . $meta_xml->notablePerformer[0] . '</h3>' . "\n");
+        $html .= '<span class="song_info_label">Performer:</span> <span class="song_info">None</span><br />' . "\n";
+      } elseif(count($meta_xml->notablePerformer) == 1) {
+        $html .= ('<span class="song_info_label">Performer:</span> <span class="song_info">' . $meta_xml->notablePerformer[0] . '</span><br />' . "\n");
       } else {
-        $html .= '<h3>';
+        $html .= '<span class="song_info_label">Performers:</span> <span class="song_info">';
         for($i = 0; $i < count($meta_xml->notablePerformer); ++$i) {
           $html .= $meta_xml->notablePerformer[$i];
           if($i + 1 < count($meta_xml->notablePerformer)) {
             $html .= ', ';
           }
         }
-        $html .= ('</h3>' . "\n");
+        $html .= ('</span><br />' . "\n");
       }
- 
+    
+//       if(isset($lyric_source)) {
+//         $html .= ('<span class="song_info"><a class="lyric_link" target="_blank" href="' . $lyric_source . '">' . $lyric_source . '</a></span><br />' . "\n");
+//       }
+      $html .= ('</p>' . "\n");           
+      $html .= ('</div>' . "\n");
+      
       $html .= ('<hr />' . "\n");
-      $html .= ('<br />' . "\n");
-      $html .= ('<h2>Lyrics</h2>' . "\n");
+      
+ 
+      $html .= ('<div class="song">' . "\n");
+      if(isset($youtube_link)) {
+        $html .= ('<div class="youtube_video"><iframe class="youtube_video" width="300" height="169" src="' . $youtube_link . '" frameborder="0" allowfullscreen></iframe></div>' . "\n");
+      }
+      $html .= ('<p><span class="song_title">Lyrics</span></p>' . "\n");
       
       // Load the XML source
       $xml = new DOMDocument;
@@ -102,7 +135,7 @@ if(file_exists(Constants::SONG_LIST_FILENAME)) {
       //Add the stylesheet transformation
       $html .= $proc->transformToXML($xml);
       
-      //End the Song div
+      //End the Song p
       $html .= ('</div>' . "\n");
     
     } else {

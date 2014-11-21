@@ -33,25 +33,12 @@
   color: black;
 }
 
+
+/* No right-hand column, so make the center a little larger */
 #center {
-  width: 80%;
+  background-color: inherit;
+  width: 90%;
 }
-
-/* #center div { 
-  background-color: #DDDDDD;
-  color: black;
-} */
-
-/* #center h1 { 
-  background-color: #ADAFB2;
-  color: #DEDEDE;
-}
-
-#center h2 { 
-  background-color: #4E4E4E;
-  color: white;
-} */
-
 
 #left a.toc_title {
   background-color: #ADAFB2;
