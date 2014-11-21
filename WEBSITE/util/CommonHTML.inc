@@ -53,7 +53,7 @@ class CommonHTML {
           foreach($value as $subpage) {
             $html .= (StaticFunctions::indent(5, 4) . '<li><a href="' . Constants::$PAGES_TO_HREF[$key . '_' . $subpage] . '">' . Constants::$PAGE_KEY_TO_PAGE_STRING[$subpage] . "</a></li>\n");
           }
-          $html .=  StaticFunctions::indent(4, 4) . '/ul>' . "\n";
+          $html .=  StaticFunctions::indent(4, 4) . '</ul>' . "\n";
           $html .= (StaticFunctions::indent(4, 4) . "</div>\n");
           $html .= (StaticFunctions::indent(3, 4) . "</div>\n");
         }
