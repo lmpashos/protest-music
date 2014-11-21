@@ -1,13 +1,31 @@
 @charset "UTF-8";
 /* CSS Document */
+#center{
+	width:90%;
+	overflow-x:hidden;	
+}
+
 #center p {
   font-size: 12pt;
   margin-left: 20px;
   margin-right: 20px;
-  text-indent: 30px;
 }
 
 #center h2 {
   margin-left: 20px;
+}
+#center h1{
+	background-color:#4E4E4E;
+	color:white;
+	display:block;
+	width:20%;
+	margin-left:78%;
+	padding-right:3%;
+	font-size:16pt;
+	border-bottom-left-radius:20px;
+}
+
+#fix{
+	margin-top:0px;
 }
 

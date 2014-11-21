@@ -27,10 +27,11 @@ $current_page = 'about';
             	<p>This is the left content space</p>
                 <p>We can put stuff here</p>
             </div>
+         
             
             <div id="center">
             	<h1>Main</h1>
-                <p>
+                <p id="fix">
                   When discussing music, songs can typically be classified into 
                   most genres according to things like instrumentals, vocals, or 
                   other musical elements. However, deciding that a song is a 
