@@ -5,18 +5,18 @@ ini_set('display_startup_errors',1);
 ini_set('display_errors',1);
 error_reporting(-1);
 
-$current_page = 'index';
+$current_page = 'home';
 
 ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Protest Music</title>
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/index.css" rel="stylesheet" type="text/css" />
-    <script src="js/main.js"></script>
-    <script src="js/index.js"></script>
+    <script src="js/main.js" type="text/javascript">/**/</script>
+    <script src="js/index.js" type="text/javascript">/**/</script>
 </head>
 
 <body>
@@ -31,9 +31,9 @@ $current_page = 'index';
                 	A Digital Humanities Project by Leonidas Pashos, Katie Uihlein, and David Galloway
                 </p>
                 <div id="images">
-                    <img src="images/guthrie.jpg" />
-                    <img src="images/dylan.jpg" />
-                    <img src="images/nwa.jpg" />
+                    <img src="images/guthrie.jpg" alt="Woody Guthrie" />
+                    <img src="images/dylan.jpg" alt="Bob Dylan" />
+                    <img src="images/nwa.jpg" alt="N.W.A." />
                 </div>
                 <div id="button">
               		<a href="about.php">Continue to About</a>
