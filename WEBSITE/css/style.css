@@ -8,7 +8,7 @@ html, body {
   height: 100%;	
   color: white;
   margin: 0 auto;
-  background-color: #ADAFB2;
+  
 }
 	
 html, body, .wrapper {
@@ -57,7 +57,7 @@ body > .wrapper {
   background: rgba(0,0,0,0.8);
   margin-top: 10px;
   display: none;
-  z-index: 100;
+  z-index: 200;
 }
 
 .menu_panel li {
@@ -94,12 +94,12 @@ h1 {
 .content {
   background-color: white;
   min-height: 800px;
+  height: calc(100% - 1032130px;)
   position: relative;
   margin-left: 0px;
   margin-right: 0px;
   text-align: center;
   overflow: auto;
-  margin-bottom:35px;
 }
 
 .content p {
@@ -134,6 +134,7 @@ h1 {
 #center {
   background-color: inherit;
   width: 80%;
+  margin-bottom:-5px;
 }
 
 #center p { 
@@ -171,12 +172,12 @@ h1 {
 }
 
 .footer {
-  margin-top: -35px;
   background-color: #DEDEDE;
   color: #4D4D4D;
   padding: 5px 20px 5px 20px;
   font-size: 10px;
   border-top: 1px solid black;
+  height:25px;
 }
 
 .footer a {

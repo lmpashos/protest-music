@@ -1,5 +1,7 @@
 @CHARSET "UTF-8";
-
+body{
+	min-height:800px !important;	
+}
 #protest, #non_protest {
   position: relative;
   height: inherit;
@@ -10,10 +12,12 @@
 
 #protest {
   float: left;
+  overflow:hidden;
 }
 
 #non_protest {
   float: right;
+  overflow:hidden;
 }
 
 #non_protest p, #protest p {
@@ -105,4 +109,7 @@ div.youtube_video {
 a.lyric_link {
   font-size: x-small;
   padding-left: 8px;
+}
+#center{
+	
 }

@@ -27,8 +27,10 @@ if(isset($_GET['era'])) {
     <title><?php echo ucfirst($current_page); ?></title>
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/lyrics.css" rel="stylesheet" type="text/css" />
-    <script src="js/main.js"></script>
-    <script src="js/lyrics.js"></script>
+    <script src="js/main.js" type="text/javascript"></script>
+    <script src="js/pushHeight.js" type="text/javascript"></script>
+    <script src="js/lyrics.js" type="text/javascript"></script>
+    
 </head>
 <body>
     <div class="wrapper">
