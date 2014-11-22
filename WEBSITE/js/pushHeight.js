@@ -1,7 +1,9 @@
 // pushes the length of the content panel down to the footer
-// this document is buggy, but it kinda works...
+// line 59 needs some work
 
 document.addEventListener("DOMContentLoaded", function(){
+	var minHeight = 800;
+	
 	var pushCols = function(){
 		document.getElementById("left").style.height = element.style.height;
 		document.getElementById("center").style.height = element.style.height;
@@ -9,39 +11,52 @@ document.addEventListener("DOMContentLoaded", function(){
 	}
 	
 	var element = document.getElementsByClassName("content")[0];
+	element.style.height = 0;
 	var space = window.innerHeight - element.offsetTop;
-	if(window.innerHeight > 800){
+	if(space > minHeight)
 		element.style.height = space + "px";
-		pushCols();
-	}
+	else
+		element.style.height = minHeight + "px"
+	
+	pushCols();
 	
 	window.onresize = function(){
-		if(window.innerHeight > 800){
-			space = window.innerHeight - element.offsetTop;
+		space = window.innerHeight - element.offsetTop;
+		
+		if(space > minHeight)
 			element.style.height = space + "px";
-			pushCols();
-		}
+		else
+			element.style.height = minHeight;
+			
+		pushCols();
 	}
 	
 	// expands songs to fill grown space
 	var pushSongs = function(){
 		var songs = document.getElementsByClassName("song")
+		var offset = 215;
+		var minSongHeight = minHeight - offset;
+		var songHeight = space - offset;
 		
 		if(songs.length == 2){
-			if(space > 0){
-				songs[0].style.height = space - 223 + "px";
-				songs[1].style.height = space - 223 + "px";
+			if(songHeight > minSongHeight){
+				songs[0].style.height = songHeight + "px";
+				songs[1].style.height = songHeight + "px";
+			}
+			else{
+				songs[0].style.height = minSongHeight + "px";
+				songs[1].style.height = minSongHeight + "px";
 			}
 		}		
 		else if(songs.length == 1){
-			if(space > 0){
-				songs[0].style.height = space - 223 + "px";
-			}
+			if(songHeight > minSongHeight)
+				songs[0].style.height = songHeight + "px";
+			else
+				songs[0].style.height = minSongHeight + "px";
 		}
 	}
-	// this is not ideal, but its all i could manage
+	// this is not ideal, but it works, we can find a better way later
 	window.onmousemove = function(){
-		if (window.innerHeight > 800)
 			pushSongs();
 	}
 });
