@@ -32,25 +32,26 @@ $current_page = 'about';
                 <p>We can put stuff here</p>
             </div>
             <div id="center">
-            	<p>However, protest music is a category that doesn’t seem to be identified by this same process. 
-            	   Protest music can be folk, rock, rap, or any number of different “genres” of music. 
-            	   How do we actually identify what protest music is?</p>
-            	<p>Our research project focused on identify distinguishable linguistic features of protest music 
-            	   and its lyrics. We wished to answer the following question: is there a way to identify protest 
-            	   music by way of its lyrics?</p>
-            	<p>We approached this question by analyzing three time periods in America: 
-            	   <ul>
-            	       <li>The 1930’s (during the Great Depression),</li>
-            	       <li>The 1950’s and 60’s (during the Vietnam War),</li>
-            	       <li>and the contemporary era, which we defined as post-1975.</li>
-            	   </ul>
-            	   We compared lyrics to non-protest lyrics from the same time periods. We tagged the lyrics syntactically, 
-            	   labeling noun phrases, verb phrases, and adverbs, also noting when a phrase is negated in certain instances. 
-            	   We looked at the various phrases to see if there were distinctions between protest songs from one time period
-            	   versus the non-protest songs from that same period. We used statistical analysis to determine if these 
-            	   distinctions were, in fact, significant. With this, we hope to show that protest music may not be identifiable 
-            	   simply by a type of musical style, but it still can be if one considers the linguistic elements found in its lyrics.
-            	</p>
+            	<p>When discussing music, songs can typically be classified into most genres according to things like instrumentals, vocals, or other musical elements. 
+                However, deciding that a song is a “protest song” doesn’t go through this same process. Protest music can be folk, rock, rap, or any number of different types of music. If that’s the case, then how do we actually identify what protest music is?
+                Our research project focused on identifying distinguishable linguistic features of American protest music and its lyrics. 
+                We know that in these songs, all types of genres can work as protest songs. This motivated us to turn towards the lyrics. We wished to answer the following question: 
+                can an American protest song be identified by linguistic elements found in the lyrics?</p> 
+                <p>We approached this question by analyzing three time periods in America:</p>
+            <ul>
+            <li>The 1930’s (during the Great Depression)</li>
+            <li>The 1950’s and 60’s (during the Vietnam War)</li>
+            <li>The contemporary era, which we defined as post-1975</li>
+            </ul>
+            <p>We compared lyrics to non-protest lyrics from the same time periods. We tagged the lyrics syntactically, labeling noun phrases, verb phrases, and adverbs, 
+                and noted when a phrase is negated in certain instances. 
+                We looked at the various phrases to see if there were distinct differences in syntax between the protest songs from one time period versus the non-protest songs from that same period. 
+                We used statistical analysis to determine if these differences were, in fact, significant. With this, we hope to show that 
+                although protest music may not be identifiable by a single musical style, 
+                it can still be identified by properties found in the lyrics. </p>
+
+            <p>To gain further understanding of what each protest song is referring to in our project, please read about the different eras in America below:</p> 
+            
             </div>
         </div>
     </div>
