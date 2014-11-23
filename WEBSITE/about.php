@@ -161,58 +161,60 @@ $current_page = 'about';
                   </p> 
 
                 <p>
-                On November 6th, 1990, the state of Arizona voted down to create a holiday for Dr. Martin Luther King, Jr.  
-                Two years prior, the governor was Evan Mecham, who cancelled Martin Luther King day saying, 
-                "I guess King did a lot for the colored people, but I don't think he deserves a national holiday." 
-                In 1991, Public Enemy produced “By the Time I get to Arizona” as a response, and the message spread, in part because it was aired on MTV. 
-                By 1993, Arizona lost its chance to host the Super Bowl. 
-                Arizona lost $350 million in revenue before reinstating MLK day in 1993.
+                  On November 6th, 1990, the state of Arizona voted down to create a holiday for Dr. Martin Luther King, Jr.  
+                  Two years prior, the governor was Evan Mecham, who cancelled Martin Luther King day saying, 
+                  "I guess King did a lot for the colored people, but I don't think he deserves a national holiday." 
+                  In 1991, Public Enemy produced “By the Time I get to Arizona” as a response, and the message spread, in part because it was aired on MTV. 
+                  By 1993, Arizona lost its chance to host the Super Bowl. 
+                  Arizona lost $350 million in revenue before reinstating MLK day in 1993.
                 </p> 
 
               <p>
-                On February 4th, 1999, Police officers in New York City fired 41 shots at an unarmed West African immigrant. He had no criminal record. The immigrant’s name was Amadou Diallo and he was 22 years old. 
-                Amadou Diallo worked as a street peddler in the city. Bruce Springsteen wrote his song “American Skin (41 shots)” about this police shooting. 
-                However, in 2013, Springsteen dedicated his song to Trayvon Martin. 
-                Trayvon Martin was as 17-year old African American who was shot by George Zimmerman in 2013 while he was out running errands at a convenience store. 
-                Both the New York City police and George Zimmerman noticed the men in each case late at night and declared that they looked “suspicious.”
+                  On February 4th, 1999, Police officers in New York City fired 41 shots at an unarmed West African immigrant. He had no criminal record. The immigrant’s name was Amadou Diallo and he was 22 years old. 
+                  Amadou Diallo worked as a street peddler in the city. Bruce Springsteen wrote his song “American Skin (41 shots)” about this police shooting. 
+                  However, in 2013, Springsteen dedicated his song to Trayvon Martin. 
+                  Trayvon Martin was as 17-year old African American who was shot by George Zimmerman in 2013 while he was out running errands at a convenience store. 
+                  Both the New York City police and George Zimmerman noticed the men in each case late at night and declared that they looked “suspicious.”
                 </p>
 
                 <p>
-                In 2008, musicians were protesting against the war in Iraq, which went from 2003 until 2011. 
-                The Iraq war was constantly justified by Washington as a “preemptive military action” against a country that could use weapons of mass destruction (WMD’s) against the United States. 
-                Prior to the attack, no WMD’s were found in Iraq. 
-                Many people opposed this strategy; Former president Bill Clinton warned of the consequences of a preemptive invasion: 
-                “As a preemptive action today, however well-justified, may come back with unwelcome consequences in the future....I don't care how precise your bombs and your weapons are, when you set them off, innocent people will die." 
-                Many theories went around as to why the United States really wanted to invade Iraq. Nelson Mandela, former president of South Africa, voiced his opinion of president George W. Bush; 
-                he believed that “All that (Mr. Bush) wants is Iraqi oil," Many believed that the Iraqi war was putting Americans through unnecessary traumatic experiences in the military
-                 - they were risking their lives and killing innocent people for perhaps no good reason at all. 
-                 Many compared parts of the Iraq war to the war in Vietnam, and many people protested against the war as a result. 
-                 “Between January 3rd  and April 12th, 2003, 36 million people across the globe took part in almost 3,000 protests against war in Iraq, 
-                 with demonstrations on 15 February 2003, being the largest and most prolific.”
-                 </p> 
+                  In 2008, musicians were protesting against the war in Iraq, which went from 2003 until 2011. 
+                  The Iraq war was constantly justified by Washington as a “preemptive military action” against a country that could use weapons of mass destruction (WMD’s) against the United States. 
+                  Prior to the attack, no WMD’s were found in Iraq. 
+                  Many people opposed this strategy; Former president Bill Clinton warned of the consequences of a preemptive invasion: 
+                  “As a preemptive action today, however well-justified, may come back with unwelcome consequences in the future....I don't care how precise your bombs and your weapons are, when you set them off, innocent people will die." 
+                  Many theories went around as to why the United States really wanted to invade Iraq. Nelson Mandela, former president of South Africa, voiced his opinion of president George W. Bush; 
+                  he believed that “All that (Mr. Bush) wants is Iraqi oil," Many believed that the Iraqi war was putting Americans through unnecessary traumatic experiences in the military
+                  - they were risking their lives and killing innocent people for perhaps no good reason at all. 
+                  Many compared parts of the Iraq war to the war in Vietnam, and many people protested against the war as a result. 
+                  “Between January 3rd  and April 12th, 2003, 36 million people across the globe took part in almost 3,000 protests against war in Iraq, 
+                  with demonstrations on 15 February 2003, being the largest and most prolific.”
+                </p> 
                  
-                 <p>As a result, protest music during this time expressed this viewpoint. 
-                 In 2012, Tim McIlrath, the lead singer of the band Rise Against, sang his song “Hero of War” outside of the NATO summit in Chicago. 
-                 His song depicted an Iraq War Veteran remembering his experiences in the military during this time. 
-                 His song is meant to remind listeners of the perspective of the soldier. 
-                 The United States does not simply send in weapons to shoot targets; 
-                 Americans are getting severely injured and killed while injuring and killing other human beings 
-                 in the name of their country.</p> 
+                <p>
+                  As a result, protest music during this time expressed this viewpoint. 
+                  In 2012, Tim McIlrath, the lead singer of the band Rise Against, sang his song “Hero of War” outside of the NATO summit in Chicago. 
+                  His song depicted an Iraq War Veteran remembering his experiences in the military during this time. 
+                  His song is meant to remind listeners of the perspective of the soldier. 
+                  The United States does not simply send in weapons to shoot targets; 
+                  Americans are getting severely injured and killed while injuring and killing other human beings 
+                  in the name of their country.
+                </p> 
                   
-                  <p>
+                <p>
                   The modern era, like every other era, wanted to change the way African Americans were treated. 
-                  They also protested against multiple parts of the government. 
+                  Americans protested against multiple issues they had with the United States government. 
                   One thing to note in this era more so than the others is that protesters highlighted not just one event in history, but many 
                   - pointing out the flaws in our actions across time. 
                   This typically happens when discussing methods that the United States used in order to dominate in wartime.
-                  </p>  
+                </p>  
 
                 <h1 id="us">About Us</h1>
                 <p>
-                This research project was completed by David Galloway, Leonidas Pashos, and Katie Uihlein. 
-                This project was performed at the University of Pittsburgh.
-                This project was for a class called Computational Methods in the Humanities, taught 
-                by Dr. David Birnbaum. 
+                  This research project was completed by David Galloway, Leonidas Pashos, and Katie Uihlein. 
+                  This project was performed at the University of Pittsburgh.
+                  This project was for a class called Computational Methods in the Humanities, taught 
+                  by Dr. David Birnbaum. 
                 </p>
             </div>
         </div>
