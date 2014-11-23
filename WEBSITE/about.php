@@ -104,40 +104,25 @@ $current_page = 'about';
             <div id="center">
             	<h1 id="vision">About the Vision</h1>
                 <p id="fix">
-                  When discussing music, songs can typically be classified into 
-                  most genres according to things like instrumentals, vocals, or 
-                  other musical elements. However, deciding that a song is a 
-                  “protest song” doesn’t go through this same process. Protest 
-                  music can be folk, rock, rap, or any number of different types of
-                  music. If that’s the case, then how do we actually identify what 
-                  protest music is?
-                </p>
-            	<p>
-                   Our research project focused on identify distinguishable 
-                   linguistic features of protest music and its lyrics. We wished 
-                   to answer the following question: is there a way to identify 
-                   protest music by way of its lyrics?
-                </p>
-            	<p>
-                   We approached this question by analyzing three time periods in America:
-                </p>
-                <ul>
-                   <li>The 1930’s (during the Great Depression),</li>
-                   <li>The 1950’s and 60’s (during the Vietnam War),</li>
-                   <li>and the contemporary era, which we defined as post-1975.</li>
-                </ul>
-                <p>
-                   We compared lyrics to non-protest lyrics from the same time periods. 
-                   We tagged the lyrics syntactically, labeling noun phrases, verb 
-                   phrases, and adverbs, and noted when a phrase is negated in certain 
-                   instances. We looked at the various phrases to see if there were 
-                   distinct differences in syntax between the protest songs from one 
-                   time period versus the non-protest songs from that same period. We 
-                   used statistical analysis to determine if these differences were, in 
-                   fact, significant. With this, we hope to show that although protest 
-                   music may not be identifiable by a single musical style, it can still
-                   be identified by properties found in the lyrics.
-            	</p>
+                When discussing music, songs can typically be classified into most genres according to things like instrumentals, vocals, or other musical elements. 
+                However, deciding that a song is a “protest song” doesn’t go through this same process. Protest music can be folk, rock, rap, or any number of different types of music. If that’s the case, then how do we actually identify what protest music is?
+                Our research project focused on identifying distinguishable linguistic features of American protest music and its lyrics. 
+                We know that in these songs, all types of genres can work as protest songs. This motivated us to turn towards the lyrics. We wished to answer the following question: 
+                can an American protest song be identified by linguistic elements found in the lyrics?</p> 
+                <p>We approached this question by analyzing three time periods in America:</p>
+            <ul>
+            <li>The 1930’s (during the Great Depression)</li>
+            <li>The 1950’s and 60’s (during the Vietnam War)</li>
+            <li>The contemporary era, which we defined as post-1975</li>
+            </ul>
+            <p>We compared lyrics to non-protest lyrics from the same time periods. We tagged the lyrics syntactically, labeling noun phrases, verb phrases, and adverbs, 
+                and noted when a phrase is negated in certain instances. 
+                We looked at the various phrases to see if there were distinct differences in syntax between the protest songs from one time period versus the non-protest songs from that same period. 
+                We used statistical analysis to determine if these differences were, in fact, significant. With this, we hope to show that 
+                although protest music may not be identifiable by a single musical style, 
+                it can still be identified by properties found in the lyrics. </p>
+
+            <p>To gain further understanding of what each protest song is referring to in our project, please read about the different eras in America below:</p> 
                 <h1 id="eras">About the Eras</h1>
                 <h2>Great Depression</h2>
                 <p>
@@ -231,64 +216,68 @@ $current_page = 'about';
                    written.
                 </p>
                 <h2>Modern</h2>
+                <p>For this project, we defined the “Modern Era” as any time after 1975, i.e. the end of the Vietnam War.</p> 
                 <p>
-                   For this project, we defined the “Modern Era” as any time after 
-                   1975, i.e. the end of the Vietnam War. 
-                </p>
+                  After the loss in Vietnam, veterans from the war were not treated with respect when they returned home. Unlike the World War II veterans, who were seen as heroes, the Vietnam Veterans were “baby killers, psychos, drug addicts and war mongers.”  
+                  Veterans were extremely mistreated; they were refused service at restaurants, and they were cursed at by anti-war Americans. 
+                  Protesters would stand at the gates in airports protesting against the war as Vietnam veterans returned home. 
+                  Bruce Springsteen depicts the Vietnam Vet in “Born in the U.S.A.”: “He's isolated from the government, isolated from his family, to the point where nothing makes sense.”
+                  </p> 
+
                 <p>
-                   After the loss in Vietnam, veterans from the war were not 
-                   treated with respect when they returned home. Unlike the World 
-                   War II veterans, who were seen as heroes, the Vietnam Veterans 
-                   “baby killers, psychos, drug addicts and war mongers.”  Veterans 
-                   were extremely mistreated after they came home; they were 
-                   refused service at restaurants, and they were hated by anti-war 
-                   americans. Protesters would stand at the gates in airports 
-                   protesting against the war as Vietnam veterans returned home. 
-                   Bruce Springsteen depicts the Vietnam Vet in “Born in the 
-                   U.S.A.”: “He's isolated from the government, isolated from his 
-                   family, to the point where nothing makes sense.”
+                On November 6th, 1990, the state of Arizona voted down to create a holiday for Dr. Martin Luther King, Jr.  
+                Two years prior, the governor was Evan Mecham, who cancelled Martin Luther King day saying, 
+                "I guess King did a lot for the colored people, but I don't think he deserves a national holiday." 
+                In 1991, Public Enemy produced “By the Time I get to Arizona” as a response, and the message spread, in part because it was aired on MTV. 
+                By 1993, Arizona lost its chance to host the Super Bowl. 
+                Arizona lost $350 million in revenue before reinstating MLK day in 1993.
+                </p> 
+
+              <p>
+                On February 4th, 1999, Police officers in New York City fired 41 shots at an unarmed West African immigrant. He had no criminal record. The immigrant’s name was Amadou Diallo and he was 22 years old. 
+                Amadou Diallo worked as a street peddler in the city. Bruce Springsteen wrote his song “American Skin (41 shots)” about this police shooting. 
+                However, in 2013, Springsteen dedicated his song to Trayvon Martin. 
+                Trayvon Martin was as 17-year old African American who was shot by George Zimmerman in 2013 while he was out running errands at a convenience store. 
+                Both the New York City police and George Zimmerman noticed the men in each case late at night and declared that they looked “suspicious.”
                 </p>
+
                 <p>
-                   On November 6th, 1990, the state of Arizona voted down to create
-                   a holiday for Dr. Martin Luther King, Jr.  Two years prior, the 
-                   governor was Evan Mecham, who cancelled Martin Luther King day 
-                   saying, "I guess King did a lot for the colored people, but I 
-                   don't think he deserves a national holiday."
-                </p>
-                <p>
-                   In 1991, Public Enemy produced “By the Time I get to Arizona” as 
-                   a response, and the message spread, in part because it was aired
-                   on MTV. By 1993, Arizona lost its chance to host the Super Bowl.
-                   Arizona lost $350 million in revenue before reinstating MLK day
-                   in 1993.
-                </p>
-                <p>
-                   On February 4th, 1999, Police officers in New York City fired 41
-                   at an unarmed West African immigrant. He had no criminal record.
-                   The immigrant’s name was Amadou Diallo and he was 22 years old.
-                   He worked as a street peddler. Bruce Springsteen wrote his song
-                   “American Skin (41 shots)” about this police shooting. However, 
-                   in 2013, Springsteen dedicated his song to Trayvon Martin. 
-                   Trayvon Martin was as 17-year old African American who was shot 
-                   by George Zimmerman. Both the New York City police and George 
-                   Zimmerman noticed the men in each case late at night and 
-                   declared that they looked suspicious. 
-                </p>
-                <p>
-                   The modern era, like every other era, wanted to change the way 
-                   African Americans were treated. They also protested against 
-                   multiple parts of the government. In other English-speaking 
-                   parts of the world, people were having the same troubles with 
-                   government, as seen with The Sex Pistols “God Save the Queen,” 
-                   which expresses dissatisfaction with the traditional government
-                   in England. One thing to note in this era more so than the 
-                   others is that protesters liked to highlight not just one event
-                   in history, but many - pointing out the flaws in our actions 
-                   across time. This is typically used when discussing the methods 
-                   the United States has used in order to dominate in wartime.
-                </p>
+                In 2008, musicians were protesting against the war in Iraq, which went from 2003 until 2011. 
+                The Iraq war was constantly justified by Washington as a “preemptive military action” against a country that could use weapons of mass destruction (WMD’s) against the United States. 
+                Prior to the attack, no WMD’s were found in Iraq. 
+                Many people opposed this strategy; Former president Bill Clinton warned of the consequences of a preemptive invasion: 
+                “As a preemptive action today, however well-justified, may come back with unwelcome consequences in the future....I don't care how precise your bombs and your weapons are, when you set them off, innocent people will die." 
+                Many theories went around as to why the United States really wanted to invade Iraq. Nelson Mandela, former president of South Africa, voiced his opinion of president George W. Bush; 
+                he believed that “All that (Mr. Bush) wants is Iraqi oil," Many believed that the Iraqi war was putting Americans through unnecessary traumatic experiences in the military
+                 - they were risking their lives and killing innocent people for perhaps no good reason at all. 
+                 Many compared parts of the Iraq war to the war in Vietnam, and many people protested against the war as a result. 
+                 “Between January 3rd  and April 12th, 2003, 36 million people across the globe took part in almost 3,000 protests against war in Iraq, 
+                 with demonstrations on 15 February 2003, being the largest and most prolific.”
+                 </p> 
+                 
+                 <p>As a result, protest music during this time expressed this viewpoint. 
+                 In 2012, Tim McIlrath sang his song “Hero of War” outside of the NATO summit in Chicago. 
+                 His song depicted an Iraq War Veteran remembering his experiences in the military during this time. 
+                 His song is meant to remind listeners of the perspective of the soldier. 
+                 The United States does not simply send in weapons to shoot targets; 
+                 Americans are getting severely injured and killed while injuring and killing other human beings 
+                 in the name of their country.</p> 
+                  
+                  <p>
+                  The modern era, like every other era, wanted to change the way African Americans were treated. 
+                  They also protested against multiple parts of the government. 
+                  One thing to note in this era more so than the others is that protesters highlighted not just one event in history, but many 
+                  - pointing out the flaws in our actions across time. 
+                  This typically happens when discussing methods that the United States used in order to dominate in wartime.
+                  </p>  
+
                 <h1 id="us">About Us</h1>
-                <p>blah blah blah</p>
+                <p>
+                This research project was completed by David Galloway, Leonidas Pashos, and Katie Uihlein. 
+                This project was performed at the University of Pittsburgh.
+                This project was for a class called Computational Methods in the Humanities, taught 
+                by Dr. David Birnbaum. 
+                </p>
             </div>
         </div>
     </div>
