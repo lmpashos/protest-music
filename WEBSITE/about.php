@@ -192,7 +192,7 @@ $current_page = 'about';
                  </p> 
                  
                  <p>As a result, protest music during this time expressed this viewpoint. 
-                 In 2012, Tim McIlrath sang his song “Hero of War” outside of the NATO summit in Chicago. 
+                 In 2012, Tim McIlrath, the lead singer of the band Rise Against, sang his song “Hero of War” outside of the NATO summit in Chicago. 
                  His song depicted an Iraq War Veteran remembering his experiences in the military during this time. 
                  His song is meant to remind listeners of the perspective of the soldier. 
                  The United States does not simply send in weapons to shoot targets; 
