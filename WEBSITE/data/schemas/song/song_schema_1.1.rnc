@@ -1,7 +1,7 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-#                                   SCHEMA VERSION 1.0                                  #
+#                                   SCHEMA VERSION 1.1                                  #
 #                                 For songs and lyrics                                  #
-#                                      10/16/2014                                       #         
+#                                      11/19/2014                                       #         
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                                       
 #       -----------------------------------------------------
@@ -23,6 +23,8 @@
 #                   - adverbs not in phrases
 #                   - negation added to nounPhrases
 #                   - recursive definition for verbPhrases and nounPhrases
+#                   - added protest element in metadata
+#                   - verb phrases in prep phrases
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
@@ -70,7 +72,11 @@ song = element song
         element notableEvent
         {
             text
-        }*
+        }*,
+        element protest
+        {
+            xsd:boolean
+        }?
     },
     
     #   END metadata
@@ -201,6 +207,8 @@ prepPhrase = element prepPhrase
     nounPhrase
     |
     prepPhrase
+    |
+    verbPhrase
 )+}
 
 # # # # # # # # # # # # 
