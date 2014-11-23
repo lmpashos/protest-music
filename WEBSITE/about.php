@@ -38,7 +38,7 @@ $current_page = 'about';
          
             
             <div id="center">
-            	<h1 id="vision">About the Vision</h1>
+            	<h1 id="vision">The Vision</h1>
                 <p id="fix">
                 When discussing music, songs can typically be classified into most genres according to things like instrumentals, vocals, or other musical elements. 
                 However, deciding that a song is a “protest song” doesn’t go through this same process. Protest music can be folk, rock, rap, or any number of different types of music. If that’s the case, then how do we actually identify what protest music is?
