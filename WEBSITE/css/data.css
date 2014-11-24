@@ -37,6 +37,17 @@
   width: 90%;
 }
 
+#center h1{
+	background-color:#4E4E4E;
+	color:white;
+	display:block;
+	width:20%;
+	margin-left:78.5%;
+	padding-right:1.5%;
+	font-size:16pt;
+	border-bottom-left-radius:20px;
+}
+
 #left a.toc_title {
   background-color: #ADAFB2;
   font-size: 10pt;
