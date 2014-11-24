@@ -60,21 +60,27 @@ body > .wrapper {
   z-index: 200;
 }
 
+.menu_panel ul{
+	margin-top:1px;	
+	margin-bottom:0;
+}
+
 .menu_panel li {
   background-color: inherit;
   background: none;
-  padding: 10px;
+  padding: 0px 0px 0px 10px;
   list-style: none;
   margin-left: -50px;
 }
 
 .menu_panel li a {
   background: none;
-  padding: 8px 23px 8px 10px;
+  padding: 9px 0px 9px 10px;
+  display:block;
 }
 
 .menu_panel li a:hover {
-  background: rgba(255,255,255,0.4);
+  background: rgba(0,0,0,1.0);
 }
 
 .menu_panel li a:active {
