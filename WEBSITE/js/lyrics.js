@@ -104,6 +104,9 @@ document.addEventListener("DOMContentLoaded", function() {
   var protestList = left.getElementsByTagName("li");
   for(var i = 0; i < protestList.length; ++i) {
     protestList[i].addEventListener("click", function() {
+	    if (document.getElementById("placeholder") != null){
+	  	  document.getElementById("center").removeChild(document.getElementById("placeholder"));
+	    }
       var songXMLFileName = this.getAttribute("id");
       var protestSongRequest = new ajaxObject("get_html_song.php", function(responseText, responseStatus, responseXML) {
         if(responseStatus == 200) {
@@ -126,6 +129,9 @@ document.addEventListener("DOMContentLoaded", function() {
   var nonProtestList = nonProtestPanel.getElementsByTagName("li");
   for(var i = 0; i < nonProtestList.length; i++){
     nonProtestList[i].addEventListener("click", function() {
+	    if (document.getElementById("placeholder") != null){
+	  	  document.getElementById("center").removeChild(document.getElementById("placeholder"));
+	    }
       var songXMLFileName = this.getAttribute("id");
       var nonProtestSongRequest = new ajaxObject("get_html_song.php", function(responseText, responseStatus, responseXML) {
         if(responseStatus == 200) {

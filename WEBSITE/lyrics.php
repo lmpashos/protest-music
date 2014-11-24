@@ -44,6 +44,7 @@ if(isset($_GET['era'])) {
             	<?php echo Lyrics::get_song_list($era, false); ?>
             </div>
             <div id="center">
+            <p id="placeholder">Click on a song in either side column to view lyrics.</p>
             	<div id="protest">
                 	
                 </div>

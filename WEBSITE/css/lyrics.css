@@ -66,7 +66,7 @@ body{
 .list_title {
   background-color: #6E6E6E;
   padding: 0px 0px 0px 2px;
-  margin: 1px;
+  margin: 0px 1px 1px;
 }
 
 .list_sub_title {
@@ -112,4 +112,12 @@ a.lyric_link {
 }
 hr{
 	margin-bottom:0;
+}
+#placeholder{
+	position:absolute;
+	z-index:100;
+	text-align:center;
+	top:50%;
+    width:80%;
+    margin:auto;
 }
