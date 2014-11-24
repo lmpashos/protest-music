@@ -13,11 +13,19 @@ body{
 #protest {
   float: left;
   overflow:hidden;
+  box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  border-right:1px solid black;
 }
 
 #non_protest {
   float: right;
   overflow:hidden;
+  box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  border-left:1px solid black;
 }
 
 #non_protest p, #protest p {
@@ -65,13 +73,13 @@ body{
 
 .list_title {
   background-color: #6E6E6E;
-  padding: 0px 0px 0px 2px;
+  padding: 0px 0px 0px 6px;
   margin: 0px 1px 1px;
 }
 
 .list_sub_title {
   background-color: #8E8E8E;
-  padding: 0px 0px 0px 4px;
+  padding: 0px 0px 0px 6px;
   margin: 1px;
 }
 
@@ -82,7 +90,7 @@ body{
 }
 
 .song_title_label {
-  padding-left: 5px;
+  padding-left: 8px;
   font-weight: bold;    
   font-size: large;    
 }
