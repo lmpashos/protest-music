@@ -100,20 +100,41 @@ function ajaxObject(url, callbackFunction) {
 
 document.addEventListener("DOMContentLoaded", function() {
 
+  //Protest Side
   var protestPanel = document.getElementById("left");
   var protestList = left.getElementsByTagName("li");
+  
+  var currentProtestSong = "NONE";  
+  var isProtestPOSDisplay = false;
+  
+  //Set up the right-hand menu
   for(var i = 0; i < protestList.length; ++i) {
     protestList[i].addEventListener("click", function() {
-	    if (document.getElementById("placeholder") != null){
-	  	  document.getElementById("center").removeChild(document.getElementById("placeholder"));
-	    }
+      //Remove the placeholder if it is still there
+      if (document.getElementById("placeholder") != null) {
+        document.getElementById("center").removeChild(document.getElementById("placeholder"));
+      }
+      
+      //Hide the popup if necessary, reset all of the highlights, and uncheck all POS checkboxes
+      hideLeftCheckboxPanel();
+      isProtestPOSDisplay = false;
+      turnOffHighlights("all", true);
+      uncheckAllCheckbox("protest_class");
+      
       var songXMLFileName = this.getAttribute("id");
-      var protestSongRequest = new ajaxObject("get_html_song.php", function(responseText, responseStatus, responseXML) {
-        if(responseStatus == 200) {
-          document.getElementById("protest").innerHTML = responseText;
-        }
-      });
-      protestSongRequest.update("song_filename=" + songXMLFileName);
+      if(songXMLFileName === currentProtestSong) {
+        document.getElementById("protest").innerHTML = null;
+        currentProtestSong = "NONE";
+      } else {
+        var protestSongRequest = new ajaxObject("get_html_song.php", function(responseText, responseStatus, responseXML) {
+          if(responseStatus == 200) {
+            document.getElementById("protest").innerHTML = responseText;
+          }
+        });
+        protestSongRequest.update("song_filename=" + songXMLFileName);
+        currentProtestSong = songXMLFileName;
+      }
+
     });
     
     protestList[i].addEventListener("mouseover", function(){
@@ -125,20 +146,80 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
   
+  //Handle the popups for the Parts of Speech
+  var protestPOSToggleBtn = document.getElementById("toggle_protest_pos");
+  
+  protestPOSToggleBtn.addEventListener("click", function() {
+    if(isProtestPOSDisplay) {
+      hideLeftCheckboxPanel();
+      isProtestPOSDisplay = false;
+    } else {
+      showLeftCheckboxPanel();
+      isProtestPOSDisplay = true;
+    }
+  });
+  
+  //Add click handlers to the elements on the protestPOS popup
+  var inputs = document.getElementsByName("protest_class"); 
+  for(var i = 0; i < inputs.length; ++i) {
+    
+    inputs[i].addEventListener("click", function() {
+      var classValue = this.value;
+      if(this.checked === true) {
+        turnOnHighlights(classValue, true);
+      } else {
+        turnOffHighlights(classValue, true);
+      }      
+    });
+  }
+  
+  //Add events to the Clear and Done buttons
+  var inputButton = document.getElementById("protest_clear");
+  inputButton.addEventListener("click", function() {
+    turnOffHighlights("all", true);
+    uncheckAllCheckbox("protest_class");
+  });
+  
+  inputButton = document.getElementById("protest_done");
+  inputButton.addEventListener("click", function() {
+    hideLeftCheckboxPanel();
+    isProtestPOSDisplay = false;
+  });
+  
+  //Non Protest Side
   var nonProtestPanel = document.getElementById("right");
   var nonProtestList = nonProtestPanel.getElementsByTagName("li");
+  
+  var currentNonProtestSong = "NONE"; 
+  var isNonProtestPOSDisplay = false;
+  
+  //Handle the left-hand menu
   for(var i = 0; i < nonProtestList.length; i++){
     nonProtestList[i].addEventListener("click", function() {
-	    if (document.getElementById("placeholder") != null){
-	  	  document.getElementById("center").removeChild(document.getElementById("placeholder"));
-	    }
+      //Remove the placeholder if it is still there
+      if(document.getElementById("placeholder") != null) {
+        document.getElementById("center").removeChild(document.getElementById("placeholder"));
+      }
+      
+      //Hide the popup if necessary, reset all of the highlights, and uncheck all POS checkboxes
+      hideRightCheckboxPanel();
+      isNonProtestPOSDisplay = false;
+      turnOffHighlights("all", false);
+      uncheckAllCheckbox("non_protest_class");
+      
       var songXMLFileName = this.getAttribute("id");
-      var nonProtestSongRequest = new ajaxObject("get_html_song.php", function(responseText, responseStatus, responseXML) {
-        if(responseStatus == 200) {
-          document.getElementById("non_protest").innerHTML = responseText;
-        }
-      });
-      nonProtestSongRequest.update("song_filename=" + songXMLFileName);
+      if(songXMLFileName === currentNonProtestSong) {
+        document.getElementById("non_protest").innerHTML = null;
+        currentNonProtestSong = "NONE";
+      } else {
+        var nonProtestSongRequest = new ajaxObject("get_html_song.php", function(responseText, responseStatus, responseXML) {
+          if(responseStatus == 200) {
+            document.getElementById("non_protest").innerHTML = responseText;
+          }
+        });
+        nonProtestSongRequest.update("song_filename=" + songXMLFileName);
+        currentNonProtestSong = songXMLFileName;
+      }
     });
     
     nonProtestList[i].addEventListener("mouseover", function() {
@@ -149,7 +230,176 @@ document.addEventListener("DOMContentLoaded", function() {
       this.style.backgroundColor = "inherit";
     });
   }  
-//  console.log(document.getElementById("music_era").value);
-//  protestListRequest.update("is_protest=true");
-	  
+  
+  //Handle the popups for the Parts of Speech
+  var nonProtestPOSToggleBtn = document.getElementById("toggle_non_protest_pos");
+  
+  nonProtestPOSToggleBtn.addEventListener("click", function() {
+    if(isNonProtestPOSDisplay) {
+      hideRightCheckboxPanel();
+      isNonProtestPOSDisplay = false;
+    } else {
+      showRightCheckboxPanel();
+      isNonProtestPOSDisplay = true;
+    }
+  });
+ 
+  //Add click handlers to the elements on the nonProtestPOS popup
+  var inputs = document.getElementsByName("non_protest_class");
+  for(var i = 0; i < inputs.length; ++i) {
+    
+    inputs[i].addEventListener("click", function() {
+      var classValue = this.value;
+      if(this.checked === true) {
+        turnOnHighlights(classValue, false);
+      } else {
+        turnOffHighlights(classValue, false);
+      }      
+    });
+  }
+  
+  //Add events to the Clear and Done buttons
+  var inputButton = document.getElementById("non_protest_clear");
+  inputButton.addEventListener("click", function() {
+    turnOffHighlights("all", false);
+    uncheckAllCheckbox("non_protest_class");
+  });
+  
+  inputButton = document.getElementById("non_protest_done");
+  inputButton.addEventListener("click", function() {
+    hideRightCheckboxPanel();
+    isNonProtestPOSDisplay = false;
+  });
+  
+  
+  //Function To Display Left Popup
+  function showLeftCheckboxPanel() {
+    var popupDiv, x, y;
+
+    //For this page, I always want x to be the width of the left div + 3 pixels
+    x = document.getElementById("left").clientWidth + 3;
+
+    popupDiv = document.getElementById("left_checkbox_panel"); //.style.display = "block";
+    //Set the y variable
+    if(window.event) {
+      y = window.event.clientY + document.documentElement.scrollTop + document.body.scrollTop;
+    } else {
+      y = event.clientY + window.scrollY;
+    }
+    
+    popupDiv.style.left = x + "px";
+    popupDiv.style.top = y + "px";
+    popupDiv.style.display = "block";
+  }
+  
+  //Function to Hide Left Popup
+  function hideLeftCheckboxPanel() {
+    document.getElementById("left_checkbox_panel").style.display = "none";
+  }
+  
+  //Function To Display Right Popup
+  function showRightCheckboxPanel() {
+    var popupDiv, x, y;
+
+    //For this page, I always want x to be the width of the page - right div - 200px
+    //This is a kludge that covers all browsers to get the full width of the window
+    var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+    x = windowWidth - (document.getElementById("right").clientWidth + 3) - 227;
+
+    popupDiv = document.getElementById("right_checkbox_panel"); //.style.display = "block";
+    //Set the y variable
+    if(window.event) {
+      y = window.event.clientY + document.documentElement.scrollTop + document.body.scrollTop;
+    } else {
+      y = event.clientY + window.scrollY;
+    }
+    
+    popupDiv.style.left = x + "px";
+    popupDiv.style.top = y + "px";
+    popupDiv.style.display = "block";
+  }
+  
+  //Function to Hide Right Popup
+  function hideRightCheckboxPanel() {
+    document.getElementById("right_checkbox_panel").style.display = "none";
+  }
+  
+  //Function to highlight a particular part of speech
+  function turnOnHighlights(className, isProtest) {
+    var spanList;
+    if(isProtest) {
+      spanList = document.querySelectorAll("#protest span." + className);
+    } else {
+      spanList = document.querySelectorAll("#non_protest span." + className);
+    }
+   
+    for(var j = 0; j < spanList.length; ++j) {
+      switch(className) {
+        case "nounPhrase":
+          spanList[j].style.fontStyle = "italic";
+          spanList[j].style.textDecoration = "line-through";
+          break;
+        case "verbPhrase":
+          spanList[j].style.fontWeight = "bold";
+          break;
+        case "prepPhrase":
+          spanList[j].style.textDecoration = "underline";
+          break;
+        case "noun":
+          spanList[j].style.backgroundColor = "#8080FF";
+          break;
+        case "verb":
+          spanList[j].style.backgroundColor = "#FF8080";
+          break;
+        case "prep":
+          spanList[j].style.backgroundColor = "#FF80FF";
+          break;  
+        case "adjective":
+          spanList[j].style.backgroundColor = "#80FF80";
+          break; 
+        case "adverb":
+          spanList[j].style.backgroundColor = "#FFFF80";
+          break; 
+        case "det":
+          spanList[j].style.backgroundColor = "#80FFFF";
+          break;
+        default:
+          spanList[j].style.backgroundColor = "inherit";
+          break;
+      }
+    }
+  }  
+  
+  //Function to turn off highlights for a particular part of speech
+  function turnOffHighlights(className, isProtest) {
+    var spanList;
+    if(isProtest) {
+      if(className === "all") {
+        spanList = document.querySelectorAll("#protest div.song span");
+      } else {
+        spanList = document.querySelectorAll("#protest div.song span." + className);
+      }
+      
+    } else {
+      if(className === "all") {
+        spanList = document.querySelectorAll("#non_protest div.song span");
+      } else {
+        spanList = document.querySelectorAll("#non_protest div.song span." + className);
+      }
+    }
+   
+    for(var j = 0; j < spanList.length; ++j) {
+      spanList[j].style.backgroundColor = "inherit";
+      spanList[j].style.fontWeight = "inherit";
+      spanList[j].style.textDecoration = "inherit";
+      spanList[j].style.fontStyle = "inherit";
+    }
+  }
+  
+  function uncheckAllCheckbox(checkboxName) {
+    var inputs = document.getElementsByName(checkboxName);
+    for(var i = 0; i < inputs.length; ++i) {      
+      inputs[i].checked = false;
+    }
+  }
 });

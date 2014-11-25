@@ -90,8 +90,8 @@
     
     
     
-    //Column Height fix for 3 cols
-    if(currentPageName != allPages[0] && currentPageName != allPages[1] && currentPageName != allPages[2] && currentPageName != allPages[3]) {
+    //Column Height
+    if(currentPageName != allPages[0] && currentPageName != allPages[2] && currentPageName != allPages[3]) {
       var leftHeight = document.getElementById("left").clientHeight;
       var centerHeight = document.getElementById("center").clientHeight;
       var rightHeight = document.getElementById("right").clientHeight;
@@ -107,18 +107,6 @@
         document.getElementById("left").style.height = rightHeight + "px";
         document.getElementById("center").style.height = rightHeight + "px";
       }
-    }
-	// Column height fix for 2 cols
-	else if(currentPageName == allPages[1]){
-		var leftHeight = document.getElementById("left").clientHeight;
-        var centerHeight = document.getElementById("center").clientHeight;
-		var biggest = Math.max(leftHeight,centerHeight);
-		if(biggest === leftHeight)
-        	document.getElementById("center").style.height = leftHeight + "px";
-        else if(biggest === centerHeight)
-        	document.getElementById("left").style.height = centerHeight + "px";
-	}
-	
-	
+	  }
 
   });

@@ -4,7 +4,7 @@
 document.addEventListener("DOMContentLoaded", function(){
 	var minHeight = 800;
 	
-	var pushCols = function(){
+	var pushCols = function() {
 		document.getElementById("left").style.height = element.style.height;
 		document.getElementById("center").style.height = element.style.height;
 		document.getElementById("right").style.height = element.style.height;

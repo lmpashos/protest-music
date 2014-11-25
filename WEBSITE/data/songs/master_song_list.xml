@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song_data>
+<!-- 
+
+What did I do to be so black and blue
+
+
+Blowin' Down this Old Dusty Road 
+
+
+Brother can you spare a dime
+
+
+Nickle Under the Foot - start a 1:01 please 
+https://www.youtube.com/watch?v=KqzeTwrWA8M
+
+
+Poor Miner's Farewell - currently cannot locate
+
+Ragged Hungry Blues - start at 30 seconds
+https://www.youtube.com/watch?v=-VL6ECLZwsk
+
+
+
+Strange Fruit
+
+
+Talking Dust Bowl Blues
+
+
+The Bour. Blues - gonna have to edit the lyrics on the page
+
+ -->
     <song era="the_great_depression" is_protest="false">
         <title>Cheek to Cheek</title>
         <lyric_filename>cheek_to_cheek_1.1.xml</lyric_filename>
@@ -64,24 +95,28 @@
         <title>Black and Blues</title>
         <lyric_filename>black_and_blue_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>http://www.youtube.com/embed/-vDm1lomVHU</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Blowin' down This Road</title>
         <lyric_filename>blowin_down_this_road_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>http://www.youtube.com/embed/7qquzBFJdVw</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Brother Can You Spare a Dime</title>
         <lyric_filename>brother_can_you_spare_a_dime_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>http://www.youtube.com/embed/eih67rlGNhU</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Nickle under the Foot</title>
         <lyric_filename>nickle_under_the_foot_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>http://www.youtube.com/embed/KqzeTwrWA8M?start=61</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
@@ -94,24 +129,28 @@
         <title>Ragged Hungry Blues</title>
         <lyric_filename>ragged_hungry_blues_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>http://www.youtube.com/embed/-VL6ECLZwsk?start=30</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Strange Fruit</title>
         <lyric_filename>strange_fruit_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>http://www.youtube.com/embed/h4ZyuULy9zs</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Talking Dust Bowl Blues</title>
         <lyric_filename>talking_dust_bowl_blues_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>http://www.youtube.com/embed/xOpsGkC5-tE</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>The Bourgeois Blues</title>
         <lyric_filename>the_bourgeois_blues_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>http://www.youtube.com/embed/Us1qLK23ktg</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
