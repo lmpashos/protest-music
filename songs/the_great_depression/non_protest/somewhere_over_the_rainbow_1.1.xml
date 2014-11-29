@@ -2,7 +2,7 @@
 <?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-        <title/>
+        <title>Somewhere over the Rainbow</title>
         <composer>Harold Arlen</composer>
         <album/>
         <year>1939</year>
