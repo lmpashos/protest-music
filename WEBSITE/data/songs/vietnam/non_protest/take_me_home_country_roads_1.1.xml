@@ -13,25 +13,25 @@
     </metadata>
     <lyrics>
         <verse>
-            <line><nounPhrase><adjective>Almost</adjective> <noun>heaven</noun></nounPhrase>, <nounPhrase><adjective>West</adjective> <noun>Virginia</noun></nounPhrase>,</line>
-            <line><nounPhrase><adjective>Blue</adjective> <noun>ridge</noun> <noun>mountain</noun></nounPhrase>, <nounPhrase><adjective>Shenandoah</adjective> <noun>river</noun></nounPhrase>,</line>
-            <line><nounPhrase><noun>Life</noun></nounPhrase> <verbPhrase><verb>is</verb> <adjective>old</adjective> <nounPhrase>there</nounPhrase></verbPhrase>, <adverb>older</adverb> <prepPhrase><prep>than</prep> <nounPhrase><det>the</det> <noun>trees</noun></nounPhrase></prepPhrase>,</line>
+            <line><nounPhrase><adjective>Almost</adjective> <noun>heaven</noun></nounPhrase>, <nounPhrase><noun>West Virginia</noun></nounPhrase>,</line>
+            <line><nounPhrase><noun>Blue ridge mountain</noun></nounPhrase>, <nounPhrase><noun>Shenandoah river</noun></nounPhrase>,</line>
+            <line><nounPhrase><noun>Life</noun></nounPhrase> <verbPhrase><verb>is</verb> <adjective>old</adjective> <nounPhrase>there</nounPhrase>, <adverb>older</adverb> <prepPhrase><prep>than</prep> <nounPhrase><det>the</det> <noun>trees</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
             <line><adverb>Younger</adverb> <prepPhrase><prep>than</prep> <nounPhrase><det>the</det> <noun>mountains</noun></nounPhrase></prepPhrase>, <verbPhrase><verb>growing</verb> <prepPhrase><prep>like</prep> <nounPhrase><det>a</det> <noun>breeze</noun></nounPhrase></prepPhrase></verbPhrase></line>
         </verse>
         <verse>
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
-            <line><nounPhrase><det>All</det> <det>my</det> memories</nounPhrase>, <verbPhrase><verb>gather</verb> <adverb>round</adverb> <nounPhrase><noun>her</noun></nounPhrase></verbPhrase></line>
-            <line><nounPhrase><adjective>Miner's</adjective> <noun>lady</noun></nounPhrase>, <nounPhrase><noun>stranger</noun></nounPhrase> <prepPhrase><prep>to</prep> <nounPhrase><adjective>blue</adjective> <noun>water</noun></nounPhrase></prepPhrase></line>
-            <line><nounPhrase><adjective>Dark</adjective> and <adjective>dusty</adjective></nounPhrase>, <verbPhrase><verb>painted</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>the</det> <noun>sky</noun></nounPhrase></prepPhrase></verbPhrase></line><!-- no noun in first noun phrase -->
+            <line><nounPhrase><det>All</det> <det>my</det> <noun>memories</noun></nounPhrase>, <verbPhrase><verb>gather</verb> <adverb>round</adverb> <nounPhrase><noun>her</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Miner</noun><det>'s</det></nounPhrase> <nounPhrase><noun>lady</noun></nounPhrase>, <nounPhrase><noun>stranger</noun></nounPhrase> <prepPhrase><prep>to</prep> <nounPhrase><adjective>blue</adjective> <noun>water</noun></nounPhrase></prepPhrase></line>
+            <line><verbPhrase><adjective>Dark</adjective> and <adjective>dusty</adjective>,<verb>painted</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>the</det> <noun>sky</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><adjective>Misty</adjective> <noun>taste</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase>moonshine</nounPhrase></prepPhrase>, <nounPhrase><noun>teardrop</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>eye</noun></nounPhrase></prepPhrase></line>
         </verse>
         <verse>
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
-            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>hear</verb> <nounPhrase><det>her</det> <noun>voice</noun></nounPhrase></verbPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>the</det> <adjective>morning</adjective> <noun>hour</noun></nounPhrase></prepPhrase> <nounPhrase><noun>she</noun></nounPhrase> <verbPhrase><verb>calls</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>hear</verb> <nounPhrase><det>her</det> <noun>voice</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>the</det> <adjective>morning</adjective> <noun>hour</noun></nounPhrase></prepPhrase></verbPhrase> <nounPhrase><noun>she</noun></nounPhrase> <verbPhrase><verb>calls</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Radio</noun></nounPhrase> <verbPhrase><verb>reminds</verb> <nounPhrase><noun>me</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><det>my</det> <noun>home</noun></nounPhrase></prepPhrase> <adverb>far</adverb> <adverb>away</adverb></verbPhrase></line>
             <line><verbPhrase><verb>Driving</verb> <prepPhrase><prep>down</prep> <nounPhrase><det>the</det> <noun>road</noun></nounPhrase></prepPhrase></verbPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>get</verb> <nounPhrase><det>a</det> <noun>feeling</noun></nounPhrase></verbPhrase></line>
             <line>That <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>should</verb> <verb>have</verb> <verb>been</verb> <nounPhrase><noun>home</noun></nounPhrase> <adverb>yesterday</adverb>, <adverb>yesterday</adverb></verbPhrase></line>
@@ -56,7 +56,7 @@
 
         <refrainLine lineID="1"><nounPhrase><adjective>Country</adjective> <noun>roads</noun></nounPhrase>, <verbPhrase><verb>take</verb> <nounPhrase><noun>me</noun></nounPhrase> <adverb>home</adverb></verbPhrase></refrainLine>
         <refrainLine lineID="2"><prepPhrase><prep>To</prep> <nounPhrase><det>the</det> <noun>place</noun></nounPhrase></prepPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>belong</verb></verbPhrase>,</refrainLine>
-        <refrainLine lineID="3"><nounPhrase><adjective>West</adjective> <noun>Virginia</noun></nounPhrase>,</refrainLine>
+        <refrainLine lineID="3"><nounPhrase><noun>West Virginia</noun></nounPhrase>,</refrainLine>
         <refrainLine lineID="4"><nounPhrase><adjective>Mountain</adjective> <noun>mamma</noun></nounPhrase>, <verbPhrase><verb>take</verb> <nounPhrase><noun>me</noun></nounPhrase> <adverb>home</adverb></verbPhrase></refrainLine>
         <refrainLine lineID="5"><nounPhrase><adjective>Country</adjective> <noun>roads</noun></nounPhrase></refrainLine>
     </lyrics>

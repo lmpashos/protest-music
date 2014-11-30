@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>I Heard It Through the Grapevine</title>
+        <composer>Norman Whitfield</composer>
+        <composer>Barret Strong</composer>
+        <album>single</album>
+        <year>1968</year>
+        <genre>soul</genre>
+        <notablePerformer>Marvin Gaye</notablePerformer>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line>Ooh, <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>bet</verb> <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb> <verbPhrase><verb>wondering</verb> how <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>knew</verb></verbPhrase></verbPhrase></verbPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>'Bout</prep> <nounPhrase><det>your</det> <noun>plans</noun></nounPhrase></prepPhrase> <verbPhrase><verb>to make</verb> <nounPhrase><noun>me</noun></nounPhrase> <adjective>blue</adjective></verbPhrase></line>
+            <line><prepPhrase><prep>With</prep> <nounPhrase><det>some</det> <adjective>other</adjective> <noun>guy</noun></nounPhrase></prepPhrase> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>knew</verb> <adverb>before</adverb></verbPhrase></line>
+            <line><prepPhrase><prep>Between</prep> <nounPhrase><det>the</det> <det>two</det></nounPhrase></prepPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>us</noun></nounPhrase> <nounPhrase><noun>guys</noun></nounPhrase></prepPhrase> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>love</verb> <nounPhrase><noun>you</noun></nounPhrase> <adverb>more</adverb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase><verb>took</verb> <nounPhrase><noun>me</noun></nounPhrase> <prepPhrase><prep>by</prep> <nounPhrase><noun>surprise</noun></nounPhrase></prepPhrase></verbPhrase> <nounPhrase>I</nounPhrase> <verbPhrase><verb>must</verb> <verbPhrase><verb>say</verb></verbPhrase></verbPhrase></line>
+            <line>When <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>found out</verb> <adverb>yesterday</adverb></verbPhrase></line>
+            <line><verbPhrase neg="true"><verb>Don't</verb><nounPhrase><noun>cha</noun></nounPhrase> <verbPhrase><verb>know</verb></verbPhrase></verbPhrase> that <nounPhrase><noun>I</noun></nounPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><det>a</det> <noun>man</noun></nounPhrase><verbPhrase neg="true"><verb>ain't</verb> <adverb>supposed</adverb> <verb>to cry</verb></verbPhrase></verbPhrase></line>
+            <line>But <nounPhrase><det>these</det> <noun>tears</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>can't</verb> <verbPhrase><verb>hold</verb> <adverb>inside</adverb></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Losin'</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase> <verbPhrase><verb>would end</verb> <nounPhrase><det>my</det> <noun>life</noun></nounPhrase></verbPhrase> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>see</verb></verbPhrase></line>
+            <line>'Cause <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>mean</verb> <nounPhrase><det>that</det> <noun>much</noun></nounPhrase> <prepPhrase><prep>to</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>could</verb> <verbPhrase><verb>have told</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><noun>yourself</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line>That <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>love</verb> <nounPhrase><noun>someone</noun></nounPhrase> <adverb>else</adverb></verbPhrase></line>
+            <line>Instead <nounPhrase><noun>I</noun></nounPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <!-- need verb Phrase in Prep Phrase --> 
+        <verse>
+            <line><nounPhrase><noun>People</noun></nounPhrase> <verbPhrase><verb>say</verb> <verbPhrase><verb>believe</verb> <nounPhrase><det>half</det></nounPhrase> <prepPhrase><prep>of</prep> <det>what</det> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>see</verb></verbPhrase></prepPhrase></verbPhrase></verbPhrase>, <nounPhrase><noun>son</noun></nounPhrase></line>
+            <line>And <nounPhrase><noun>none</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><det>what</det> <noun>you</noun></nounPhrase> <verbPhrase><verb>hear</verb></verbPhrase></prepPhrase></line>
+            <line>But <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>can't</verb> <verbPhrase><verb>help</verb> <verbPhrase><verb>bein'</verb> <adverb>confused</adverb></verbPhrase></verbPhrase></verbPhrase></line>
+            <line>If <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> <adjective>true</adjective></verbPhrase> <adverb>please</adverb> <verbPhrase><verb>tell</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><noun>dear</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Do</verb> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>plan</verb>  <verbPhrase><verb>to let</verb> <nounPhrase><noun>me</noun></nounPhrase> <verbPhrase><verb>go</verb></verbPhrase></verbPhrase></verbPhrase></verbPhrase></line>
+            <line><prepPhrase><prep>For</prep> <nounPhrase><det>the</det> <adjective>other</adjective> <noun>guy</noun></nounPhrase></prepPhrase> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>loved</verb> <adverb>before</adverb></verbPhrase>?</line>
+            <line><verbPhrase neg="true"><verb>Don't</verb><nounPhrase><noun>cha</noun></nounPhrase> <verbPhrase><verb>know</verb></verbPhrase></verbPhrase> <nounPhrase><noun>I</noun></nounPhrase></line>
+        </verse>
+        <verse>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>Honey</noun></nounPhrase>, <nounPhrase><noun>honey</noun></nounPhrase>, <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>know</verb></verbPhrase></line>
+            <line>That <nounPhrase><noun>you</noun></nounPhrase>'<verbPhrase><verb>re</verb> <verbPhrase><verb>lettin'</verb> <nounPhrase><noun>me</noun></nounPhrase> <verbPhrase><verb>go</verb></verbPhrase></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Said</verb>, <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>heard</verb> <nounPhrase><noun>it</noun></nounPhrase> <prepPhrase><prep>through</prep> <nounPhrase><det>the</det> <noun>grapevine</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Heard</verb> <nounPhrase><noun>it</noun></nounPhrase> <prepPhrase><prep>through</prep> <nounPhrase><det>the</det> <noun>grapevine</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
+        
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+            <refrainLineRef lineRef="5"/>
+            <refrainLineRef lineRef="6"/>
+            <refrainLineRef lineRef="7"/>
+        </refrainSection>
+        
+        <refrainLine lineID="1">Ooh, <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>bet</verb> <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb> <verbPhrase><verb>wondering</verb> how <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>knew</verb></verbPhrase></verbPhrase></verbPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="2"><prepPhrase><prep>'Bout</prep> <nounPhrase><det>your</det> <noun>plans</noun></nounPhrase> <verbPhrase><verb>to make</verb> <nounPhrase><noun>me</noun></nounPhrase> <adjective>blue</adjective></verbPhrase></prepPhrase></refrainLine>
+        <refrainLine lineID="3"><prepPhrase><prep>With</prep> <det>some</det> <adjective>other</adjective> <nounPhrase><noun>guy</noun></nounPhrase></prepPhrase> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>knew</verb> <adverb>before</adverb></verbPhrase></refrainLine>
+        <refrainLine lineID="4"><prepPhrase><prep>Between</prep> <nounPhrase><det>the</det> <det>two</det></nounPhrase></prepPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>us</noun></nounPhrase> <nounPhrase><noun>guys</noun></nounPhrase></prepPhrase> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>love</verb> <nounPhrase><noun>you</noun></nounPhrase> <adverb>more</adverb></verbPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="5"><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase><verb>took</verb> <nounPhrase><noun>me</noun></nounPhrase> <prepPhrase><prep>by</prep> <nounPhrase><noun>surprise</noun></nounPhrase></prepPhrase></verbPhrase> <nounPhrase>I</nounPhrase> <verbPhrase><verb>must</verb> <verbPhrase><verb>say</verb></verbPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="6"><adverb>When</adverb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>found out</verb> <adverb>yesterday</adverb></verbPhrase></refrainLine>
+        <refrainLine lineID="7"><verbPhrase neg="true"><verb>Don't</verb><nounPhrase><noun>cha</noun></nounPhrase> <verbPhrase><verb>know</verb> that <nounPhrase><noun>I</noun></nounPhrase></verbPhrase></verbPhrase></refrainLine>
+    </lyrics>
+</song>

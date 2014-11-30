@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song_data>
-<!-- 
-
-What did I do to be so black and blue
-
-
-Blowin' Down this Old Dusty Road 
-
-
-Brother can you spare a dime
-
-
-Nickle Under the Foot - start a 1:01 please 
-https://www.youtube.com/watch?v=KqzeTwrWA8M
-
-
-Poor Miner's Farewell - currently cannot locate
-
-Ragged Hungry Blues - start at 30 seconds
-https://www.youtube.com/watch?v=-VL6ECLZwsk
-
-
-
-Strange Fruit
-
-
-Talking Dust Bowl Blues
-
-
-The Bour. Blues - gonna have to edit the lyrics on the page
-
- -->
     <song era="the_great_depression" is_protest="false">
         <title>Cheek to Cheek</title>
         <lyric_filename>cheek_to_cheek_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>https://www.youtube.com/embed/NrCsyN-fZ94</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="false">
@@ -46,77 +16,84 @@ The Bour. Blues - gonna have to edit the lyrics on the page
     <song era="the_great_depression" is_protest="false">
         <title>Dream a Little Dream of Me</title>
         <lyric_filename>dream_a_little_dream_of_me_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>https://www.youtube.com/embed/keFkJ9HDHlQ?start=121</image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Just a Gigolo</title>
         <lyric_filename>just_a_gigolo_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>https://www.youtube.com/embed/1ELsCJKmbuc</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Lovely to Look at</title>
         <lyric_filename>lovely_to_look_at_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>https://www.youtube.com/embed/iAVKeIjrbYU</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Night and Day</title>
         <lyric_filename>night_and_day_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>https://www.youtube.com/embed/GoHBeGlRLvE?start=88</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Pennies from Heaven</title>
         <lyric_filename>pennies_from_heaven_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>https://www.youtube.com/embed/_IFgC7JhVrM</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Somewhere over the Rainbow</title>
         <lyric_filename>somewhere_over_the_rainbow_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>https://www.youtube.com/embed/PSZxmZmBfnU</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>The Way You Look Tonight</title>
         <lyric_filename>the_way_you_look_tonight_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>https://www.youtube.com/embed/dIW_Ah0wg-w?start=63</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Three Little Words</title>
         <lyric_filename>three_little_words_1.1.xml</lyric_filename>
         <image_filename></image_filename>
+        <youtube_link>https://www.youtube.com/embed/KxVaBu5i1QE?start=96</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Black and Blues</title>
         <lyric_filename>black_and_blue_1.1.xml</lyric_filename>
         <image_filename></image_filename>
-        <youtube_link>http://www.youtube.com/embed/-vDm1lomVHU</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/-vDm1lomVHU</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Blowin' down This Road</title>
         <lyric_filename>blowin_down_this_road_1.1.xml</lyric_filename>
         <image_filename></image_filename>
-        <youtube_link>http://www.youtube.com/embed/7qquzBFJdVw</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/7qquzBFJdVw</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Brother Can You Spare a Dime</title>
         <lyric_filename>brother_can_you_spare_a_dime_1.1.xml</lyric_filename>
         <image_filename></image_filename>
-        <youtube_link>http://www.youtube.com/embed/eih67rlGNhU</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/eih67rlGNhU</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Nickle under the Foot</title>
         <lyric_filename>nickle_under_the_foot_1.1.xml</lyric_filename>
         <image_filename></image_filename>
-        <youtube_link>http://www.youtube.com/embed/KqzeTwrWA8M?start=61</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/KqzeTwrWA8M?start=61</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
@@ -129,28 +106,28 @@ The Bour. Blues - gonna have to edit the lyrics on the page
         <title>Ragged Hungry Blues</title>
         <lyric_filename>ragged_hungry_blues_1.1.xml</lyric_filename>
         <image_filename></image_filename>
-        <youtube_link>http://www.youtube.com/embed/-VL6ECLZwsk?start=30</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/-VL6ECLZwsk?start=30</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Strange Fruit</title>
         <lyric_filename>strange_fruit_1.1.xml</lyric_filename>
         <image_filename></image_filename>
-        <youtube_link>http://www.youtube.com/embed/h4ZyuULy9zs</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/h4ZyuULy9zs</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Talking Dust Bowl Blues</title>
         <lyric_filename>talking_dust_bowl_blues_1.1.xml</lyric_filename>
         <image_filename></image_filename>
-        <youtube_link>http://www.youtube.com/embed/xOpsGkC5-tE</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/xOpsGkC5-tE</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>The Bourgeois Blues</title>
         <lyric_filename>the_bourgeois_blues_1.1.xml</lyric_filename>
         <image_filename></image_filename>
-        <youtube_link>http://www.youtube.com/embed/Us1qLK23ktg</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/Us1qLK23ktg</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
@@ -167,7 +144,7 @@ The Bour. Blues - gonna have to edit the lyrics on the page
     </song>
     <song era="vietnam" is_protest="false">
         <title>I Heard It through the Grapevine</title>
-        <lyric_filename>i_heard_it_through_the_grapevine_1.0.xml</lyric_filename>
+        <lyric_filename>i_heard_it_through_the_grapevine_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source></lyric_source>
     </song>
@@ -191,19 +168,19 @@ The Bour. Blues - gonna have to edit the lyrics on the page
     </song>
     <song era="vietnam" is_protest="false">
         <title>The Loco-Motion</title>
-        <lyric_filename>the_loco-motion_1.0.xml</lyric_filename>
+        <lyric_filename>the_loco-motion_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>The Sound of Silence</title>
-        <lyric_filename>the_sound_of_silence_1.0.xml</lyric_filename>
+        <lyric_filename>the_sound_of_silence_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>The Twist</title>
-        <lyric_filename>the_twist_1.0.xml</lyric_filename>
+        <lyric_filename>the_twist_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source></lyric_source>
     </song>
@@ -215,7 +192,7 @@ The Bour. Blues - gonna have to edit the lyrics on the page
     </song>
     <song era="vietnam" is_protest="false">
         <title>Up around the Bend</title>
-        <lyric_filename>up_around_the_bend_1.0.xml</lyric_filename>
+        <lyric_filename>up_around_the_bend_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source></lyric_source>
     </song>    
@@ -227,70 +204,70 @@ The Bour. Blues - gonna have to edit the lyrics on the page
     </song>
     <song era="vietnam" is_protest="true">
         <title>Blowin' in the Wind</title>
-        <lyric_filename>blowin_in_the_wind_1.0.xml</lyric_filename>
-        <image_filename></image_filename>
+        <lyric_filename>blowin_in_the_wind_1.1.xml</lyric_filename>
+        <image_filename>freewheelin_bob_dylan.jpg</image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>For What It's Worth</title>
-        <lyric_filename>for_what_its_worth_1.0.xml</lyric_filename>
-        <image_filename></image_filename>
+        <lyric_filename>for_what_its_worth_1.1.xml</lyric_filename>
+        <image_filename>buffalo_springfield.jpg</image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>Fortunate Son</title>
-        <lyric_filename>fortunate_son_1.0.xml</lyric_filename>
-        <image_filename></image_filename>
+        <lyric_filename>fortunate_son_1.1.xml</lyric_filename>
+        <image_filename>willy_and_the_poor_boys.jpg</image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>I Feel Like I'm Fixin'</title>
-        <lyric_filename>i_feel_like_im_fixin_1.0.xml</lyric_filename>
+        <lyric_filename>i_feel_like_im_fixin_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>If I Had a Hammer</title>
-        <lyric_filename>if_i_had_a_hammer_1.0.xml</lyric_filename>
+        <lyric_filename>if_i_had_a_hammer_1.1.xml</lyric_filename>
         <image_filename></image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>Imagine</title>
-        <lyric_filename>imagine_1.0.xml</lyric_filename>
-        <image_filename></image_filename>
+        <lyric_filename>imagine_1.1.xml</lyric_filename>
+        <image_filename>imagine.jpg</image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>Ohio</title>
-        <lyric_filename>ohio_1.0.xml</lyric_filename>
-        <image_filename></image_filename>
+        <lyric_filename>ohio_1.1.xml</lyric_filename>
+        <image_filename>so_far.jpg</image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>The Times They Are A-changin'</title>
-        <lyric_filename>the_times_they_are_a-changin_1.0.xml</lyric_filename>
-        <image_filename></image_filename>
+        <lyric_filename>the_times_they_are_a-changin_1.1.xml</lyric_filename>
+        <image_filename>the_times_they_are_a_changin.jpg</image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>We Shall Overcome</title>
-        <lyric_filename>we_shall_overcome_1.0.xml</lyric_filename>
-        <image_filename></image_filename>
+        <lyric_filename>we_shall_overcome_1.1.xml</lyric_filename>
+        <image_filename>joan_baez_in_concert.jpg</image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="modern" is_protest="false">
         <title>Billie Jean</title>
         <lyric_filename>billie_jean_1.1.xml</lyric_filename>
         <image_filename>thriller.jpg</image_filename>
-        <youtube_link>http://www.youtube.com/embed/Zi_XLOBDo_Y</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/Zi_XLOBDo_Y</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/michaeljackson/billiejean.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
         <title>Boom Boom Pow</title>
         <lyric_filename>boom_boom_pow_1.1.xml</lyric_filename>
         <image_filename>the_e_n_d.jpg</image_filename>
-        <youtube_link>http://www.youtube.com/embed/4m48GqaOz90</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/4m48GqaOz90</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/blackeyedpeas/boomboompow.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
@@ -303,36 +280,36 @@ The Bour. Blues - gonna have to edit the lyrics on the page
     <song era="modern" is_protest="false">
         <title>Everything I Do I Do It for You</title> 
         <lyric_filename>everything_i_do_i_do_it_for_you_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
-        <youtube_link>http://www.youtube.com/embed/ZGoWtY_h4xo</youtube_link>
+        <image_filename>robin_hood.jpg</image_filename>
+        <youtube_link>https://www.youtube.com/embed/ZGoWtY_h4xo</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/bryanadams/everythingidoidoitforyou.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
         <title>Hold On</title>  
         <lyric_filename>hold_on_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
-        <youtube_link>http://www.youtube.com/embed/uIbXvaE39wM</youtube_link>
+        <image_filename>wilson_phillips.jpg</image_filename>
+        <youtube_link>https://www.youtube.com/embed/uIbXvaE39wM</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/wilsonphillips/holdon.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
         <title>My Prerogative</title>    
         <lyric_filename>my_prerogative_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>dont_be_cruel.jpg</image_filename>
         <youtube_link>https://www.youtube.com/embed/5cDLZqe735k</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/bobbybrown/myprerogative.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
         <title>Staying Alive</title> 
         <lyric_filename>staying_alive_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
-        <youtube_link>http://www.youtube.com/embed/jqzk904ytlE</youtube_link>
+        <image_filename>saturday_night_fever.jpg</image_filename>
+        <youtube_link>https://www.youtube.com/embed/jqzk904ytlE</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/beegees/stayinalive.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
         <title>The Sign</title> 
         <lyric_filename>the_sign_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
-        <youtube_link>http://www.youtube.com/embed/DNPjeIamsck</youtube_link>
+        <image_filename>the_sign.jpg</image_filename>
+        <youtube_link>https://www.youtube.com/embed/DNPjeIamsck</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/aceofbase/thesign.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
@@ -352,42 +329,42 @@ The Bour. Blues - gonna have to edit the lyrics on the page
         <title>American Skin (41 Shots)</title>     
         <lyric_filename>american_skin_41_shots_1.1.xml</lyric_filename>
         <image_filename>high_hopes.jpg</image_filename>
-        <youtube_link>http://www.youtube.com/embed/aQMqWAiWPMs</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/aQMqWAiWPMs</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/brucespringsteen/americanskin41shots.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
         <title>Born in the U.S.A.</title>     
         <lyric_filename>born_in_the_usa_1.1.xml</lyric_filename>
         <image_filename>born_in_the_usa.jpg</image_filename>
-        <youtube_link>http://www.youtube.com/embed/EPhWR4d3FJQ</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/EPhWR4d3FJQ</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/brucespringsteen/bornintheusa.html</lyric_source>
     </song>    
     <song era="modern" is_protest="true">
         <title>By the Time I Get to Arizona</title>     
         <lyric_filename>by_the_time_i_get_to_arizona_1.1.xml</lyric_filename>
         <image_filename>apocalypse_91.jpg</image_filename>
-        <youtube_link>http://www.youtube.com/embed/zrFOb_f7ubw</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/zrFOb_f7ubw</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/publicenemy/bythetimeigettoarizona.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
         <title>California Uber Alles</title>     
         <lyric_filename>california_uber_alles_1.1.xml</lyric_filename>
         <image_filename>fresh_fruit_for_rotting_vegetables.jpg</image_filename>
-        <youtube_link>http://www.youtube.com/embed/eIqESwzCGg4</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/eIqESwzCGg4</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/deadkennedys/californiauberalles.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
         <title>Changes</title>     
         <lyric_filename>changes_1.1.xml</lyric_filename>
         <image_filename>greatest_hits.jpg</image_filename>
-        <youtube_link>http://www.youtube.com/embed/eXvBjCO19QY</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/eXvBjCO19QY</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/2pac/changes.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
         <title>Fight the Power</title>     
         <lyric_filename>fight_the_power_1.1.xml</lyric_filename>
         <image_filename>fear_of_a_black_planet.jpg</image_filename>
-        <youtube_link>http://www.youtube.com/embed/WnS53fNfpkE</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/WnS53fNfpkE</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/publicenemy/fightthepower.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
@@ -400,21 +377,28 @@ The Bour. Blues - gonna have to edit the lyrics on the page
         <title>God Save the Queen</title>     
         <lyric_filename>god_save_the_queen_1.1.xml</lyric_filename>
         <image_filename>never_mind_the_bollocks.jpg</image_filename>
-        <youtube_link>http://www.youtube.com/embed/8z2M_hpoPwk</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/8z2M_hpoPwk</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/sexpistols/godsavethequeen.html</lyric_source>
     </song> -->
     <song era="modern" is_protest="true">
         <title>Sleep Now in the Fire</title> 
+        <lyric_filename>hero_of_war_1.1.xml</lyric_filename>
+        <image_filename>appeal_to_reason.jpg</image_filename>
+        <youtube_link>https://www.youtube.com/embed/_DboMAghWcA</youtube_link>
+        <lyric_source>http://www.azlyrics.com/lyrics/riseagainst/heroofwar.html</lyric_source>
+    </song>
+    <song era="modern" is_protest="true">
+        <title>Sleep Now in the Fire</title> 
         <lyric_filename>sleep_now_in_the_fire_1.1.xml</lyric_filename>
         <image_filename>the_battle_of_los_angeles.jpg</image_filename>
-        <youtube_link>http://www.youtube.com/embed/w211KOQ5BMI</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/w211KOQ5BMI</youtube_link>
         <lyric_source>http://www.absolutelyrics.com/lyrics/view/rage_against_the_machine/sleep_now_in_the_fire</lyric_source>
     </song>
     <song era="modern" is_protest="true">
         <title>Youth against Fascism (Hate Song)</title>     
         <lyric_filename>youth_against_fascism_hate_song_1.1.xml</lyric_filename>
         <image_filename>dirty.jpg</image_filename>
-        <youtube_link>http://www.youtube.com/embed/eWzIlCJAw-o</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/eWzIlCJAw-o</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/sonicyouth/youthagainstfascismhatesong.html</lyric_source>
     </song>
 </song_data>

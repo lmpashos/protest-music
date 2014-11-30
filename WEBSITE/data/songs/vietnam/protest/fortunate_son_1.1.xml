@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schemas/song/song_schema_1.0.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <title>Fortunate Son</title>
@@ -8,38 +8,39 @@
         <year>1969</year>
         <genre>blues rock</genre>
         <notablePerformer>Creedence Clearwater Rivival</notablePerformer>
+        <protest>true</protest>
     </metadata>
     <lyrics>
         <verse>
-            <line><nounPhrase><det>Some</det> <noun>folks</noun></nounPhrase> <verbPhrase><verb>are</verb> <verb>born</verb> <verb>made</verb></verbPhrase> <verbPhrase>to <verb>wave</verb> <nounPhrase>the <noun>flag</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><det>Some</det> <noun>folks</noun></nounPhrase> <verbPhrase><verb>are born</verb> <verbPhrase><verb>made</verb> <verbPhrase><verb>to wave</verb> <nounPhrase><det>the</det> <noun>flag</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase>Ooh, <noun>they</noun></nounPhrase><verbPhrase><verb>'re</verb> <adjective>red</adjective>, <adjective>white</adjective> and <adjective>blue</adjective></verbPhrase></line>
-            <line><nounPhrase>And when <det>the</det> <noun>band</noun></nounPhrase> <verbPhrase><verb>plays</verb> <nounPhrase><noun>"Hail to the Chief"</noun></nounPhrase></verbPhrase></line>
-            <line><nounPhrase>Oh, <noun>they</noun></nounPhrase> <verbPhrase><verb>point</verb> <det>the</det> <nounPhrase><noun>cannon</noun></nounPhrase></verbPhrase> <nounPhrase>at <noun>you</noun>, <noun>Lord</noun></nounPhrase></line>
+            <line><nounPhrase>And when <det>the</det> <noun>band</noun></nounPhrase> <verbPhrase><verb>plays</verb> "Hail to the Chief"</verbPhrase></line>
+            <line><nounPhrase>Oh, <noun>they</noun></nounPhrase> <verbPhrase><verb>point</verb> <det>the</det> <nounPhrase><noun>cannon</noun></nounPhrase> <nounPhrase>at <noun>you</noun>, <noun>Lord</noun></nounPhrase></verbPhrase></line>
         </verse>
         <verse>
             <refrainLineRef lineRef="1"/>
-            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase><adjective>Senator's</adjective> <noun>son</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase><noun>Senator</noun><det>'s</det></nounPhrase> <nounPhrase><noun>son</noun></nounPhrase></verbPhrase></line>
             <refrainLineRef lineRef="1"/>
             <refrainLineRef lineRef="2"/>
         </verse>
         <verse>
-            <line><nounPhrase><det>Some</det> <noun>folks</noun></nounPhrase> <verbPhrase><verb>are</verb> <verb>born</verb></verbPhrase> <nounPhrase><adjective>silver</adjective> <noun>spoon</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><noun>hand</noun></nounPhrase></prepPhrase></line>
-            <line><nounPhrase><noun>Lord</noun></nounPhrase>, <verbPhrase neg="true"><verb>do</verb>n't <nounPhrase><noun>they</noun></nounPhrase> <verb>help</verb> <nounPhrase><noun>themselves</noun></nounPhrase>, oh</verbPhrase></line>
+            <line><nounPhrase><det>Some</det> <noun>folks</noun></nounPhrase> <verbPhrase><verb>are born</verb> <nounPhrase><adjective>silver</adjective> <noun>spoon</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><noun>hand</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Lord</noun></nounPhrase>, <verbPhrase neg="true"><verb>do</verb>n't <nounPhrase><noun>they</noun></nounPhrase> <verbPhrase><verb>help</verb> <nounPhrase><noun>themselves</noun></nounPhrase>, oh</verbPhrase></verbPhrase></line>
             <line><nounPhrase>But when <det>the</det> <adjective>tax</adjective> <noun>men</noun></nounPhrase> <verbPhrase><verb>come</verb> <prepPhrase><prep>to</prep> <nounPhrase><det>the</det> <noun>door</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line><nounPhrase><noun>Lord</noun>, <det>the</det> <noun>house</noun></nounPhrase> <verbPhrase><verb>look</verb> a <prepPhrase><prep>like</prep> <nounPhrase><det>a</det> <adjective>rummage</adjective> <noun>sale</noun></nounPhrase></prepPhrase></verbPhrase>, yes</line>
+            <line><nounPhrase><noun>Lord</noun>, <det>the</det> <noun>house</noun></nounPhrase> <verbPhrase><verb>look</verb> a <prepPhrase><prep>like</prep> <nounPhrase><det>a</det> <noun>rummage sale</noun></nounPhrase></prepPhrase></verbPhrase>, yes</line>
         </verse>
 
         <verse>
             <refrainLineRef lineRef="1"/>
-            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase><adjective>millionaire's</adjective> <noun>son</noun></nounPhrase></verbPhrase>, no, no</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase><noun>millionaire</noun><det>'s</det></nounPhrase> <nounPhrase><noun>son</noun></nounPhrase></verbPhrase>, no, no</line>
             <refrainLineRef lineRef="1"/>
             <refrainLineRef lineRef="2"/>
         </verse>
         <verse>
             <line><nounPhrase>Yeah, <det>some</det> <noun>folks</noun></nounPhrase> <verbPhrase><verb>inherit</verb> <adjective>star-spangled</adjective> <nounPhrase><noun>eyes</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase>Ooh, <noun>they</noun></nounPhrase> <verbPhrase><verb>send</verb> <nounPhrase><noun>you</noun></nounPhrase> <prepPhrase><prep>down</prep> to <nounPhrase><noun>war</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase></line>
-            <line><nounPhrase>And when <noun>you</noun></nounPhrase> <verbPhrase><verb>ask</verb> <nounPhrase><noun>them</noun></nounPhrase></verbPhrase>, "<verbPhrase>How much <verb>should</verb> <nounPhrase><noun>we</noun></nounPhrase> <nounPhrase>give</nounPhrase></verbPhrase>?"</line>
-            <line><nounPhrase>Oh, <noun>they</noun></nounPhrase> <verbPhrase><adverb>only</adverb> <verb>answer</verb>, <nounPhrase><noun>more</noun>, <noun>more</noun>, <noun>more</noun></nounPhrase>, oh</verbPhrase></line>
+            <line><nounPhrase>And when <noun>you</noun></nounPhrase> <verbPhrase><verb>ask</verb> <nounPhrase><noun>them</noun></nounPhrase></verbPhrase>, "How much should we give?"</line>
+            <line><nounPhrase>Oh, <noun>they</noun></nounPhrase> <adverb>only</adverb> <verbPhrase><verb>answer</verb>, <nounPhrase><noun>more</noun>, <noun>more</noun>, <noun>more</noun></nounPhrase>, oh</verbPhrase></line>
         </verse>
         <verse>
             <refrainLineRef lineRef="1"/>

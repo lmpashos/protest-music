@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title>For What It's Worth</title>
+        <composer>Stephen Stills</composer>
+        <album>single</album>
+        <year>1967</year>
+        <genre>folk rock</genre>
+        <notablePerformer>Buffalo Springfield</notablePerformer>
+        <protest>true</protest>
+    </metadata>
+    <lyrics>
+        <verse>
+            <line><nounPhrase><noun>There</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><noun>something</noun></nounPhrase> <verbPhrase><verb>happening</verb> <adverb>here</adverb></verbPhrase></verbPhrase></line>
+            <line>But <nounPhrase><det>what</det> <noun>it</noun></nounPhrase> <verbPhrase><verb>is</verb> <verbPhrase neg="true"><verb>ain't</verb> <adverb>exactly</adverb> <adjective>clear</adjective></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>There</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>a</det> <noun>man</noun></nounPhrase> <prepPhrase><prep>with</prep> <nounPhrase><det>a</det> <noun>gun</noun></nounPhrase></prepPhrase> <adverb>over</adverb> <nounPhrase><noun>there</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Telling</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>got</verb> to <verbPhrase><verb>beware</verb></verbPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <nounPhrase><noun>it</noun></nounPhrase><verb>'s</verb> <nounPhrase><noun>time</noun></nounPhrase><nounPhrase><noun>we</noun></nounPhrase> <verbPhrase><verb>stop</verb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Children</noun>, <noun>what</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>that</det> <noun>sound</noun></nounPhrase></verbPhrase>?</line>
+            <refrainLineRef lineRef="3"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>There</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><adjective>battle</adjective> <noun>lines</noun></nounPhrase> <verbPhrase><verb>being drawn</verb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Nobody</noun></nounPhrase><verbPhrase><verb>'s</verb> <adjective>right</adjective></verbPhrase> if <nounPhrase><noun>everybody</noun></nounPhrase><verbPhrase><verb>'s</verb> <adjective>wrong</adjective></verbPhrase></line>
+            <line><nounPhrase><adjective>Young</adjective> <noun>people</noun></nounPhrase> <verbPhrase><verb>speaking</verb> <nounPhrase><det>their</det> <noun>minds</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Getting</verb> <nounPhrase><adverb>so</adverb> <det>much</det> <noun>resistance</noun></nounPhrase> <prepPhrase><prep>from</prep> <nounPhrase><noun>behind</noun></nounPhrase></prepPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><noun>time</noun></nounPhrase> <nounPhrase><noun>we</noun></nounPhrase> <verb>stop</verb></verbPhrase></line>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><det>What</det> <det>a</det> <noun>field day</noun></nounPhrase> <prepPhrase><prep>for</prep> <nounPhrase><det>the</det> <noun>heat</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><det>A thousand</det> <noun>people</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>the</det> <noun>street</noun></nounPhrase></prepPhrase></line>
+            <line><verbPhrase><verb>Singing</verb> <nounPhrase><noun>songs</noun></nounPhrase> and <verbPhrase><verb>carrying</verb> <nounPhrase><noun>signs</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><adverb>Mostly</adverb> <verb>saying</verb></verbPhrase>, "hooray <prepPhrase><prep>for</prep> <nounPhrase><det>our</det> <noun>side</noun></nounPhrase></prepPhrase>"</line>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><noun>time</noun></nounPhrase> <nounPhrase><noun>we</noun></nounPhrase> <verbPhrase><verb>stop</verb></verbPhrase></verbPhrase></line>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+        </verse>
+        <verse>
+            <line><nounPhrase><noun>Paranoia</noun></nounPhrase> <verbPhrase><verb>strikes</verb> <adverb>deep</adverb></verbPhrase></line>
+            <line><prepPhrase><prep>Into</prep> <nounPhrase><det>your</det> <noun>life</noun></nounPhrase></prepPhrase> <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>will creep</verb></verbPhrase></line>
+            <line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase><verb>starts</verb></verbPhrase> when <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb> <adverb>always</adverb> <adjective>afraid</adjective></verbPhrase></line>
+            <line><verbPhrase><verb>Step</verb> <prepPhrase><prep>out</prep> <prep>of</prep> <nounPhrase><noun>line</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><det>the</det> <noun>men</noun></nounPhrase> <verbPhrase><verb>come</verb> and <verbPhrase><verb>take</verb> <nounPhrase><noun>you</noun></nounPhrase> <adverb>away</adverb></verbPhrase></verbPhrase></line>
+        </verse>
+        <verse>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+        </verse>
+        <verse>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+        </verse>
+        <verse>
+            <refrainLineRef lineRef="1"/>
+            <line>Now, <nounPhrase><det>what</det></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>that</det> <noun>sound</noun></nounPhrase></verbPhrase>?</line>
+            <refrainLineRef lineRef="3"/>
+        </verse>
+        <verse>
+            <refrainLineRef lineRef="1"/>
+            <line><nounPhrase><noun>Children</noun></nounPhrase>, <nounPhrase><det>what</det></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>that</det> <noun>sound</noun></nounPhrase></verbPhrase>?</line>
+            <refrainLineRef lineRef="3"/>
+        </verse>
+        
+        <refrainLine lineID="1"><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><adverb>better</adverb> <verb>stop</verb></verbPhrase></refrainLine>
+        <refrainLine lineID="2">Hey, <nounPhrase><noun>what</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>that</det> <noun>sound</noun></nounPhrase></verbPhrase>?</refrainLine>
+        <refrainLine lineID="3"><nounPhrase><noun>Everybody</noun></nounPhrase> <verbPhrase><verb>look</verb></verbPhrase> - <nounPhrase><noun>what</noun></nounPhrase><verbPhrase><verb>'s</verb> <verbPhrase><verb>going</verb> <adverb>down</adverb></verbPhrase></verbPhrase>?</refrainLine>
+    </lyrics>
+</song>
