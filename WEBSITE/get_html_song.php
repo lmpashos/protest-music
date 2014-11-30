@@ -135,7 +135,26 @@ if(file_exists(Constants::SONG_LIST_FILENAME)) {
       //Add the stylesheet transformation
       $html .= $proc->transformToXML($xml);
       
-      //End the Song p
+      //Get the SVG
+      
+      
+      
+      $patterns = array();
+      $patterns[0] = '/xml/';
+      $patterns[1] = '/protest\//';
+      $replacements = array();
+      $replacements[2] = 'svg';
+      $replacements[1] = 'protest/svg/';
+      $song_filename = preg_replace($patterns, $replacements, $song_filename);
+      $svg = file_get_contents($song_filename);
+      
+      if($svg === false) {
+        $html .= '<div>No SVG found</div>';
+      } else {
+        $html .= $svg; //('<div class="svg_panel">' . $svg . '</div>');
+      }
+      
+      //End the Song div
       $html .= ('</div>' . "\n");
     
     } else {
