@@ -199,7 +199,8 @@
     <song era="vietnam" is_protest="true">
         <title>A Change Is Gonna' Come</title>
         <lyric_filename>a_change_is_gonna_come_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>a_change_is_gonna_come.jpg</image_filename>
+        <youtube_link>https://www.youtube.com/embed/gbO2_077ixs</youtube_link>
         <lyric_source></lyric_source>     
     </song>
     <song era="vietnam" is_protest="true">
@@ -221,15 +222,15 @@
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
-        <title>I Feel Like I'm Fixin'</title>
+        <title>I Feel Like I'm Fixin' to Die</title>
         <lyric_filename>i_feel_like_im_fixin_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>country_joe_feel_like_im_fixin_to_die.jpg</image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>If I Had a Hammer</title>
         <lyric_filename>if_i_had_a_hammer_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>very_best_of_peter_paul_and_mary.jpg</image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
@@ -381,7 +382,7 @@
         <lyric_source>http://www.azlyrics.com/lyrics/sexpistols/godsavethequeen.html</lyric_source>
     </song> -->
     <song era="modern" is_protest="true">
-        <title>Sleep Now in the Fire</title> 
+        <title>Hero of War</title> 
         <lyric_filename>hero_of_war_1.1.xml</lyric_filename>
         <image_filename>appeal_to_reason.jpg</image_filename>
         <youtube_link>https://www.youtube.com/embed/_DboMAghWcA</youtube_link>
