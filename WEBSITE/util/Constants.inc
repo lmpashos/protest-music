@@ -49,6 +49,7 @@ class Constants {
     'home' => 'index.php',
     'about' => 'about.php',
     'about_vision' => 'about.php#vision',
+    'about_method' => 'about.php#method',
     'about_eras' => 'about.php#eras',
     'about_us' => 'about.php#us',
     'lyrics' => 'lyrics.php',
@@ -71,7 +72,8 @@ class Constants {
   static $PAGES = array(
     'home' => array(), 
     'about' => array(
-      'vision', 
+      'vision',
+      'method', 
       'eras',
       'us',
     ), 
@@ -109,6 +111,7 @@ class Constants {
       'subsection5' => 'Subsection 5',
       'subsection6' => 'Subsection 6',
       'vision' => 'Vision',
+      'method' => 'Method',
       'eras' => 'Eras',
       'us' => 'Us',
   );

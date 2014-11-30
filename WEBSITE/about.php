@@ -28,6 +28,7 @@ $current_page = 'about';
 			<div id="left">
 				<ul class="absolute">
 					<li><a href="about.php#vision">Vision</a></li>
+					<li><a href="about.php#method">Method</a></li>
 					<li><a href="about.php#eras">Eras</a></li>
 					<li><a href="about.php#us">Us</a></li>
 				</ul>
@@ -72,6 +73,25 @@ $current_page = 'about';
 					<p>To gain further understanding of what each protest song is
 						referring to in our project, please read about the different eras
 						in America below:</p>
+				</div>
+
+				<div class="tab">
+					<h1 class="tabHeader" id="method">The Method</h1>
+					<p>At first, a lot of people will try to define protest music in terms of its content: it seems that in a lot of American protest songs, there’s reference to a specific war or current event that upsets the artists at hand. However, using a definition of this sort has two potential errors. First, it can make an argument very circular in nature. Saying that a song has to incorporate war or current events does not leave room for protest music to grow or evolve over time. Any future songs that might still be protest songs, but do not have the appropriate content based off this type of definition, will be improperly disregarded. Another error is that it can allow in too many songs as proper candidates. There is still the option that songs can be created where an artist is upset about a situation at hand but isn’t necessarily protesting anything.</p>
+
+					<p>Our group wanted to turn away from this method of explaining protest music. Therefore, we turned to the syntax of song lyrics, rather than its content. We wanted to see if this could reveal significant differences in how an artist sings when one is protesting versus when one isn’t.</p> 
+
+					<p>To do this, we looked at 10 of the most popular songs from each era that were not considered “protest songs” by outside sources. We also looked at 10 of the most popular songs from each era that have been labeled as “protest” songs by outside sources. We tagged the songs according to a hierarchy that closely resembles rules that one would find in X-Bar Theory, with a few modifications. To start, we did not see reason to tag everything, such as conjunctions. We also decided to not tag every phrase, such as adjectival and adverbial phrases, but instead just tag the adjectives and the adverbs. Linguistic data is extremely tedious and time-consuming, and because of this, we tagged parts we wanted to study within the limited amount of time we had, rather than tag everything. If we had more time to continue with this project, we would continue to mark up each and every phrase and observe more and more components of the lyrics.</p>
+
+					<p>In summary, we decided to study nouns, noun phrases (while also tagging determiners), verbs, verb phrases, adjectives, adverbs, prepositions, and prepositional phrases.</p>
+
+					<p>One issue with this method comes into play when there are noun Phrases that consist of just determiners. Whereas some theories want to make determiners the head of phrases, and thus call them determiner phrases, we decided to go against this theory and keep everything as noun phrases - even the phrases that didn’t have nouns in them. We did this for two reasons. One, we needed equal participation from all team members, and therefore we needed to keep tagging comprehensive for members who did not have a linguistic background. There was a higher chance of error in identifying phrases based off their determiners versus their nouns, since it’s more obvious to identify a noun as a non-linguist. Second, we wanted the project to very comprehensive for users on our site who are also non-linguists. We didn’t want confusion as to what a determiner phrase is or what it meant, but it is more comprehensive to identify a phrase in the lyrics and then see the overarching phrase of which it is a part.</p>
+
+					<p>For each line, we tagged a noun phrase and a verb phrase as the overarching child elements. We then tagged the noun phrases to allow nouns, determiners, adjectives, and adverbs. We tagged verb phrases to allow verb phrases, noun phrases, prepositional phrases, and all of their child elements. This is a result of our modification to X bar theory. Instead of labeling overarching verb phrases as V’, or V-bar, we tagged them as verb phrases on top of verb phrases instead. This still preserves the hierarchy of different verbs in each line, without making it too incomprehensible for non-linguist users and researchers. This same concept applies to our prepositional phrases, labeling each as a phrase rather than incorporating P’, or P-bar, and instead calling them phrases. Prepositional phrases could have prepositional phrases inside them, along with verb phrases, noun phrases, adverbs, adjectives, and all of their child elements.</p>
+
+					<p>Therefore, we also eliminated the use of N’, Adj’, and adv’ based on similar principle. Though we wanted to label the hierarchy of nouns, verbs, phrases, etc. in the lines, we wanted to do it in a way that did not make the data too overwhelmingly complicated.</p>
+
+					<p>We wanted to mark when negation words, such as the word “not” was found within certain phrases. We gave noun phrases and verb phrases the option to be tagged neg=”true,” signaling in the data that a word such as “not” was present.</p>
 				</div>
 
 				<div class="tab">
