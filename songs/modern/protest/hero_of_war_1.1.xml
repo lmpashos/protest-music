@@ -2,14 +2,80 @@
 <?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-        <title></title>
-        <composer></composer>
-        <album></album>
-        <year></year>
-        <genre></genre>
-        <notablePerformer></notablePerformer>
+        <title>Hero of War</title>
+        <composer>Tim McIlrath</composer>
+        <album>Appeal to Reason</album>
+        <year>2008</year>
+        <genre>Acoustic</genre>
+        <notablePerformer>Rise Against</notablePerformer>
     </metadata>
     <lyrics>
+        <verse>
+            <line>He said, "Son, have you seen the world?</line>
+            <line>Well, what would you say if I said that you could?</line>
+            <line>Just carry this gun; you'll even get paid."</line>
+            <line>I said, "That sounds pretty good."</line>
+        </verse>
+        <verse>
+            <line>Black leather boots, spit shined so bright.</line>
+            <line>They cut off my hair, but it looked alright.</line>
+            <line>We marched, and we sang.</line>
+            <line>We all became friends, as we learned how to fight.</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>I kicked in the door, I yelled my commands.</line>
+            <line>The children they cried, but I got my man.</line>
+            <line>We took him away, a bag over his face,</line>
+            <line>From his family and his friends.</line>
+        </verse>
+        <verse>
+            <line>They took off his clothes; they pissed in his hands.</line>
+            <line>I told them to stop, but then I joined in.</line>
+            <line>We beat him with guns and batons</line>
+            <line>Not just once, but again and again.</line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <verse>
+            <line>She walked through bullets and haze</line>
+            <line>I asked her to stop; I begged her to stay.</line>
+            <line>But she pressed on,</line>
+            <line>So I lifted my gun, and I fired away.</line>
+        </verse>
+        <verse>
+            <line>And the shells jumped through the smoke</line>
+            <line>And into the sand that the blood now had soaked.</line>
+            <line>She collapsed with a flag in her hand,</line>
+            <line>A flag white as snow.</line>
+            <refrainSectionRef sectionRef="2"/>
+        </verse>
+        <verse>
+            <line>He said, "Son, have you seen the world?</line>
+            <line>Well, what would you say if I said that you could?"</line>
+        </verse>
         
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="3"/>
+            <refrainLineRef lineRef="4"/>
+        </refrainSection>
+        
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="5"/>
+            <refrainLineRef lineRef="6"/>
+            <refrainLineRef lineRef="7"/>
+            <refrainLineRef lineRef="8"/>
+        </refrainSection>
+        
+        <refrainLine lineID="1">A hero of war, yeah, that's what I'll be,</refrainLine>
+        <refrainLine lineID="2">And when I come home, they'll be damn proud of me.</refrainLine>
+        <refrainLine lineID="3">I'll carry this flag to the grave if I must</refrainLine>
+        <refrainLine lineID="4">'Cause it's a flag that I love, and a flag that I trust.</refrainLine>
+        
+        <refrainLine lineID="5">A hero of war, is that what they see?</refrainLine>
+        <refrainLine lineID="6">Just medals and scars, so damn proud of me.</refrainLine>
+        <refrainLine lineID="7">And I brought home that flag. Now it gathers dust</refrainLine>
+        <refrainLine lineID="8">But it's a flag that I love; it's the only flag I trust.</refrainLine>
     </lyrics>
 </song>
