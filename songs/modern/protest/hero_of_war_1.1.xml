@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <title></title>
+        <composer></composer>
+        <album></album>
+        <year></year>
+        <genre></genre>
+        <notablePerformer></notablePerformer>
+    </metadata>
+    <lyrics>
+        
+    </lyrics>
+</song>
