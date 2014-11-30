@@ -92,6 +92,8 @@ $current_page = 'about';
 					<p>Therefore, we also eliminated the use of N’, Adj’, and adv’ based on similar principle. Though we wanted to label the hierarchy of nouns, verbs, phrases, etc. in the lines, we wanted to do it in a way that did not make the data too overwhelmingly complicated.</p>
 
 					<p>We wanted to mark when negation words, such as the word “not” was found within certain phrases. We gave noun phrases and verb phrases the option to be tagged neg=”true,” signaling in the data that a word such as “not” was present.</p>
+					
+					<p>One final thing to note is that participles were not marked as distinct parts of speech. Instead, the participles were grouped with the verbs with which they were associated and tagged under a single verb element. </p>
 				</div>
 
 				<div class="tab">
