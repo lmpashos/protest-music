@@ -16,7 +16,8 @@
     <song era="the_great_depression" is_protest="false">
         <title>Dream a Little Dream of Me</title>
         <lyric_filename>dream_a_little_dream_of_me_1.1.xml</lyric_filename>
-        <image_filename>https://www.youtube.com/embed/keFkJ9HDHlQ?start=121</image_filename>
+        <image_filename></image_filename>
+        <youtube_link>https://www.youtube.com/embed/keFkJ9HDHlQ?start=121</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="the_great_depression" is_protest="false">
