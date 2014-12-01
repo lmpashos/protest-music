@@ -91,7 +91,7 @@
     
     
     //Column Height fix for 3 cols
-    if(currentPageName != allPages[0] && currentPageName != allPages[1] && currentPageName != allPages[2] && currentPageName != allPages[3]) {
+    if(currentPageName != allPages[0] && currentPageName != allPages[1] && currentPageName != allPages[2] && currentPageName != allPages[3] && currentPageName != allPages[4]) {
       var leftHeight = document.getElementById("left").clientHeight;
       var centerHeight = document.getElementById("center").clientHeight;
       var rightHeight = document.getElementById("right").clientHeight;
