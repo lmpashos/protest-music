@@ -140,61 +140,68 @@
     <song era="vietnam" is_protest="false">
         <title>California Dreamin'</title>
         <lyric_filename>california_dreamin_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>california_dreamin.jpg</image_filename>
+        <youtube_link>https://www.youtube.com/embed/dN3GbF9Bx6E</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>I Heard It through the Grapevine</title>
         <lyric_filename>i_heard_it_through_the_grapevine_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>grapevine.jpg</image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>I Want To Hold Your Hand</title>
         <lyric_filename>i_want_to_hold_your_hand_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>i_want_to_hold_your_hand.jpg</image_filename>
+        <youtube_link>https://www.youtube.com/embed/V-Ft1xjTXZ8</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>Raindrops Keep Falling on My Head</title>
         <lyric_filename>raindrops_keep_falling_on_my_head_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>raindrops1.jpg</image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>Take Me Home Country Roads</title>
         <lyric_filename>take_me_home_country_roads_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>take_me_home.jpg</image_filename>
+        <youtube_link>https://www.youtube.com/embed/1vrEljMfXYo</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>The Loco-Motion</title>
         <lyric_filename>the_loco-motion_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>the_locomotion.jpg</image_filename>
+        <youtube_link>https://www.youtube.com/embed/eKpVQm41f8Y</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>The Sound of Silence</title>
         <lyric_filename>the_sound_of_silence_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>sounds_of_silence.jpg</image_filename>
+        <youtube_link>https://www.youtube.com/embed/4zLfCnGVeL4</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>The Twist</title>
         <lyric_filename>the_twist_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>the_twist_45.jpg</image_filename>
+        <youtube_link>https://www.youtube.com/embed/xbK0C9AYMd8</youtube_link>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>Tossin' and Turnin'</title>
         <lyric_filename>tossin_and_turnin_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>bobby_lewis.jpg</image_filename>
         <lyric_source></lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>Up around the Bend</title>
         <lyric_filename>up_around_the_bend_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>cosmos_factory.jpg</image_filename>
+        <youtube_link>https://www.youtube.com/embed/34P18at0Q7s</youtube_link>
         <lyric_source></lyric_source>
     </song>    
     <song era="vietnam" is_protest="true">
