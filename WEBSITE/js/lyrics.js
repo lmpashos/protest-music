@@ -149,12 +149,12 @@ document.addEventListener("DOMContentLoaded", function() {
   //Handle the popups for the Parts of Speech
   var protestPOSToggleBtn = document.getElementById("toggle_protest_pos");
   
-  protestPOSToggleBtn.addEventListener("click", function() {
+  protestPOSToggleBtn.addEventListener("click", function(e) {
     if(isProtestPOSDisplay) {
       hideLeftCheckboxPanel();
       isProtestPOSDisplay = false;
     } else {
-      showLeftCheckboxPanel();
+      showLeftCheckboxPanel(e);
       isProtestPOSDisplay = true;
     }
   });
@@ -194,7 +194,7 @@ document.addEventListener("DOMContentLoaded", function() {
   var isNonProtestPOSDisplay = false;
   
   //Handle the left-hand menu
-  for(var i = 0; i < nonProtestList.length; i++){
+  for(var i = 0; i < nonProtestList.length; i++) {
     nonProtestList[i].addEventListener("click", function() {
       //Remove the placeholder if it is still there
       if(document.getElementById("placeholder") != null) {
@@ -234,12 +234,12 @@ document.addEventListener("DOMContentLoaded", function() {
   //Handle the popups for the Parts of Speech
   var nonProtestPOSToggleBtn = document.getElementById("toggle_non_protest_pos");
   
-  nonProtestPOSToggleBtn.addEventListener("click", function() {
+  nonProtestPOSToggleBtn.addEventListener("click", function(e) {
     if(isNonProtestPOSDisplay) {
       hideRightCheckboxPanel();
       isNonProtestPOSDisplay = false;
     } else {
-      showRightCheckboxPanel();
+      showRightCheckboxPanel(e);
       isNonProtestPOSDisplay = true;
     }
   });
@@ -273,7 +273,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
   
   //Function To Display Left Popup
-  function showLeftCheckboxPanel() {
+  function showLeftCheckboxPanel(e) {
     var popupDiv, x, y;
 
     //For this page, I always want x to be the width of the left div + 3 pixels
@@ -281,9 +281,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
     popupDiv = document.getElementById("left_checkbox_panel"); //.style.display = "block";
     //Set the y variable
-    if(window.event) {
+    if(e) {
+      y = e.clientY + window.scrollY;
+    } else if(window.event) {
       y = window.event.clientY + document.documentElement.scrollTop + document.body.scrollTop;
-    } else {
+    } else if(event) {
       y = event.clientY + window.scrollY;
     }
     
@@ -298,7 +300,7 @@ document.addEventListener("DOMContentLoaded", function() {
   }
   
   //Function To Display Right Popup
-  function showRightCheckboxPanel() {
+  function showRightCheckboxPanel(e) {
     var popupDiv, x, y;
 
     //For this page, I always want x to be the width of the page - right div - 200px
@@ -308,9 +310,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
     popupDiv = document.getElementById("right_checkbox_panel"); //.style.display = "block";
     //Set the y variable
-    if(window.event) {
+    if(e) {
+      y = e.clientY + window.scrollY;
+    } else if(window.event) {
       y = window.event.clientY + document.documentElement.scrollTop + document.body.scrollTop;
-    } else {
+    } else if(event) {
       y = event.clientY + window.scrollY;
     }
     
