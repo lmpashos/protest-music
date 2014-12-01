@@ -30,6 +30,7 @@ $current_page = 'about';
 					<li><a href="about.php#vision">Vision</a></li>
 					<li><a href="about.php#method">Method</a></li>
 					<li><a href="about.php#eras">Eras</a></li>
+                    <li><a href="about.php#analysis">Analysis</a></li>
 					<li><a href="about.php#us">Us</a></li>
 				</ul>
 			</div>
@@ -255,6 +256,14 @@ $current_page = 'about';
 						pointing out the flaws in our actions across time. This typically
 						happens when discussing methods that the United States used in
 						order to dominate in wartime.</p>
+				</div>
+                
+                <div class="tab">
+					<h1 class="tabHeader" id="analysis">The Analysis</h1>
+					<p>After completing the markup of the songs, we began exploring ways of analyzing the marked up text. Our objective was of course to determine whether or not there was a general linguistic difference between the group of protest songs, and the control group of non-protest songs. The question for us became, how does one quantify linguistic differences?</p>
+                    <p>A principle that was immediately clear was that all froms of subjectivity had to be limited as much as possible. This ruled out all forms of "sentiment" analysis. We simply could not afford to do something like marking up ideas within the texts, because they could be open to interpretation. One person's interpretation of a song could be very different from anothers, which would discredit any data that we collected. Instead, we looked for something more concrete. Something that could be easily intrepreted in black or white, rather than shades of grey.</p>
+                    <p>In our original markup of the texts, we marked up both verb phrases and noun phrases. A noun phrase can consist of many words but only truly requires a single noun, similar to a verb phrase, which only requires a single verb. However, more words in these phrase can add description. The use of desciption in these phrases colors the meaning of the phrases, invoking emotions in the audience that would not be possible without the descptive words. The primary desciptive word in a noun phrase is an adjective, while in turn, the primary descriptive word in a verb phrase is an adverb. We decided to simply test for the presence of these primary descriptive words. A further test we invoked was for the presence of negation in both verb phrases and noun phrases. Negation and primary desciptive words were coded as different variables. For example, if a noun phrase did feature negation but did not have an adjective, it was coded as a "1" in negation and a "0" for adjective. Similarly, if a verb phrase featured both negation and an adverb, it as coded as a "1" for both.</p>
+                    <p>After compiling the data from the songs, we performed difference of means testing and probit analysis on the collected data.</p>
 				</div>
 
 				<div class="tab">

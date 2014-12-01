@@ -51,6 +51,7 @@ class Constants {
     'about_vision' => 'about.php#vision',
     'about_method' => 'about.php#method',
     'about_eras' => 'about.php#eras',
+    'about_analysis' => 'about.php#analysis',
     'about_us' => 'about.php#us',
     'lyrics' => 'lyrics.php',
     'lyrics_the_great_depression' => 'lyrics.php?era=the_great_depression',
@@ -75,6 +76,7 @@ class Constants {
       'vision',
       'method', 
       'eras',
+      'analysis',
       'us',
     ), 
     'lyrics' => array(
@@ -114,6 +116,7 @@ class Constants {
       'method' => 'Method',
       'eras' => 'Eras',
       'us' => 'Us',
+      'analysis' => 'Analysis',
   );
 }
 
