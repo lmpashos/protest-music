@@ -41,6 +41,12 @@ body {
   background-color: white;
 }
 
+.posPanel{
+	text-align:center !important;
+	min-height:0 !important;
+	overflow:hidden !important;
+}
+
 #left_checkbox_panel, #right_checkbox_panel {
   color: black;
   background-color: #DDDDDD;	
@@ -77,8 +83,9 @@ body {
 }
 
 #toggle_protest_pos:active {
+  border: 0;
   position: relative;
-  top: 1px;
+  top: 2px;
 }
 
 #toggle_non_protest_pos {
@@ -104,8 +111,9 @@ body {
 }
 
 #toggle_non_protest_pos:active {
+  border: 0;
   position: relative;
-  top: 1px;
+  top: 2px;
 }
 
 #protest div.metadata_head, #non_protest div.metadata_head {
@@ -128,6 +136,7 @@ body {
   width: 100%;
   display: inline-block;
   overflow: auto;
+  margin-top: -1px;
 }
 
 .song_metadata img {
@@ -194,4 +203,8 @@ hr {
   top: 50%;
   width: 80%;
   margin: auto;
+}
+
+svg {
+  height:650px;
 }

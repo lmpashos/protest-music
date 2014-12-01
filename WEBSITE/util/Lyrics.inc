@@ -106,9 +106,9 @@ class Lyrics {
       
       //Add the left or right elements to bringup the popups
       if($is_protest) {
-        $html .= (StaticFunctions::indent(1, 4) . '<br /><div style="text-align: center;"><a href="#" id="toggle_protest_pos">Toggle Parts of Speech</a></div>' . "\n");
+        $html .= (StaticFunctions::indent(1, 4) . '<br /><div class="posPanel"><a href="#" id="toggle_protest_pos">Toggle Parts of Speech</a></div>' . "\n");
       } else {
-        $html .= (StaticFunctions::indent(1, 4) . '<br /><div style="text-align: center;"><a href="#" id="toggle_non_protest_pos">Toggle Parts of Speech</a></div>' . "\n");
+        $html .= (StaticFunctions::indent(1, 4) . '<br /><div class="posPanel"><a href="#" id="toggle_non_protest_pos">Toggle Parts of Speech</a></div>' . "\n");
       }
     
       echo $html;
