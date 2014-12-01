@@ -109,7 +109,7 @@
       }
     }
 	// Column height fix for 2 cols
-	else if(currentPageName == allPages[1]){
+	else if(currentPageName == allPages[1] || currentPageName == allPages[4]){
 		var leftHeight = document.getElementById("left").clientHeight;
         var centerHeight = document.getElementById("center").clientHeight;
 		var biggest = Math.max(leftHeight,centerHeight);
