@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
-   <text x="325" y="40" text-anchor="middle">Boom Boom Pow</text>
    <line x1="50"
          y1="400"
          x2="600"
