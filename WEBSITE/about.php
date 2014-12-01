@@ -160,7 +160,7 @@ $current_page = 'about';
 
 					<p>We wanted to mark when negation words, such as the word "not"
 						were found within certain phrases. We gave noun phrases and verb
-						phrases the option to be tagged neg="true", signaling in the data
+						phrases the option to be tagged <code>neg="true"</code>, signaling in the data
 						that a word such as "not" was present.</p>
 
 					<p>One final thing to note is that participles were not marked as
