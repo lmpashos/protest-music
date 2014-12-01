@@ -30,7 +30,7 @@ $current_page = 'about';
 					<li><a href="about.php#vision">Vision</a></li>
 					<li><a href="about.php#method">Method</a></li>
 					<li><a href="about.php#eras">Eras</a></li>
-                    <li><a href="about.php#analysis">Analysis</a></li>
+					<li><a href="about.php#analysis">Analysis</a></li>
 					<li><a href="about.php#us">Us</a></li>
 				</ul>
 			</div>
@@ -78,23 +78,95 @@ $current_page = 'about';
 
 				<div class="tab">
 					<h1 class="tabHeader" id="method">The Method</h1>
-					<p>At first, a lot of people will try to define protest music in terms of its content: it seems that in a lot of American protest songs, there’s reference to a specific war or current event that upsets the artists at hand. However, using a definition of this sort has two potential errors. First, it can make an argument very circular in nature. Saying that a song has to incorporate war or current events does not leave room for protest music to grow or evolve over time. Any future songs that might still be protest songs, but do not have the appropriate content based off this type of definition, will be improperly disregarded. Another error is that it can allow in too many songs as proper candidates. There is still the option that songs can be created where an artist is upset about a situation at hand but isn’t necessarily protesting anything.</p>
+					<p>At first, a lot of people will try to define protest music in
+						terms of its content: it seems that in a lot of American protest
+						songs, there is reference to a specific war or current event that
+						upsets the artists at hand. However, using a definition of this
+						sort has two potential errors. First, it can make an argument very
+						circular in nature. Saying that a song has to incorporate war or
+						current events does not leave room for protest music to grow or
+						evolve over time. Any future songs that might still be protest
+						songs, but do not have the appropriate content based off this type
+						of definition, will be improperly disregarded. Another error is
+						that it can allow in too many songs as proper candidates. There is
+						still the option that songs can be created where an artist is
+						upset about a situation at hand but isn't necessarily protesting
+						anything.</p>
 
-					<p>Our group wanted to turn away from this method of explaining protest music. Therefore, we turned to the syntax of song lyrics, rather than its content. We wanted to see if this could reveal significant differences in how an artist sings when one is protesting versus when one isn’t.</p> 
+					<p>Our group wanted to turn away from this method of explaining
+						protest music. Therefore, we turned to the syntax of song lyrics,
+						rather than its content. We wanted to see if this could reveal
+						significant differences in how an artist sings when one is
+						protesting versus when one isn't.</p>
 
-					<p>To do this, we looked at 10 of the most popular songs from each era that were not considered “protest songs” by outside sources. We also looked at 10 of the most popular songs from each era that have been labeled as “protest” songs by outside sources. We tagged the songs according to a hierarchy that closely resembles rules that one would find in X-Bar Theory, with a few modifications. To start, we did not see reason to tag everything, such as conjunctions. We also decided to not tag every phrase, such as adjectival and adverbial phrases, but instead just tag the adjectives and the adverbs. Linguistic data is extremely tedious and time-consuming, and because of this, we tagged parts we wanted to study within the limited amount of time we had, rather than tag everything. If we had more time to continue with this project, we would continue to mark up each and every phrase and observe more and more components of the lyrics.</p>
+					<p>To do this, we looked at 10 of the most popular songs from each
+						era that were not considered "protest" songs by outside sources.
+						We also looked at 10 of the most popular songs from each era that
+						have been labeled as protest songs by outside sources. We tagged
+						the songs according to a hierarchy that closely resembles rules
+						that one would find in X-Bar Theory, with a few modifications. To
+						start, we did not see reason to tag everything, such as
+						conjunctions. We also decided to not tag every phrase, such as
+						adjectival and adverbial phrases, but instead just tag the
+						adjectives and the adverbs. Linguistic data is extremely tedious
+						and time-consuming, and because of this, we tagged parts we wanted
+						to study within the limited amount of time we had, rather than tag
+						everything. If we had more time to continue with this project, we
+						would continue to mark up each and every phrase and observe more
+						and more components of the lyrics.</p>
 
-					<p>In summary, we decided to study nouns, noun phrases (while also tagging determiners), verbs, verb phrases, adjectives, adverbs, prepositions, and prepositional phrases.</p>
+					<p>In summary, we decided to study nouns, noun phrases (while also
+						tagging determiners), verbs, verb phrases, adjectives, adverbs,
+						prepositions, and prepositional phrases.</p>
 
-					<p>One issue with this method comes into play when there are noun Phrases that consist of just determiners. Whereas some theories want to make determiners the head of phrases, and thus call them determiner phrases, we decided to go against this theory and keep everything as noun phrases - even the phrases that didn’t have nouns in them. We did this for two reasons. One, we needed equal participation from all team members, and therefore we needed to keep tagging comprehensive for members who did not have a linguistic background. There was a higher chance of error in identifying phrases based off their determiners versus their nouns, since it’s more obvious to identify a noun as a non-linguist. Second, we wanted the project to very comprehensive for users on our site who are also non-linguists. We didn’t want confusion as to what a determiner phrase is or what it meant, but it is more comprehensive to identify a phrase in the lyrics and then see the overarching phrase of which it is a part.</p>
+					<p>One issue with this method comes into play when there are noun
+						Phrases that consist of just determiners. Whereas some theories
+						want to make determiners the head of phrases, and thus call them
+						determiner phrases, we decided to go against this theory and keep
+						everything as noun phrases - even the phrases that did not have
+						nouns in them. We did this for two reasons. One, we needed equal
+						participation from all team members, and therefore we needed to
+						keep tagging comprehensive for members who did not have a
+						linguistic background. There was a higher chance of error in
+						identifying phrases based off their determiners versus their
+						nouns, since it is more obvious to identify a noun as a
+						non-linguist. Second, we wanted the project to very comprehensive
+						for users on our site who are also non-linguists. We did not want
+						confusion as to what a determiner phrase is or what it meant, but
+						it is more comprehensive to identify a phrase in the lyrics and
+						then see the overarching phrase of which it is a part.</p>
 
-					<p>For each line, we tagged a noun phrase and a verb phrase as the overarching child elements. We then tagged the noun phrases to allow nouns, determiners, adjectives, and adverbs. We tagged verb phrases to allow verb phrases, noun phrases, prepositional phrases, and all of their child elements. This is a result of our modification to X bar theory. Instead of labeling overarching verb phrases as V’, or V-bar, we tagged them as verb phrases on top of verb phrases instead. This still preserves the hierarchy of different verbs in each line, without making it too incomprehensible for non-linguist users and researchers. This same concept applies to our prepositional phrases, labeling each as a phrase rather than incorporating P’, or P-bar, and instead calling them phrases. Prepositional phrases could have prepositional phrases inside them, along with verb phrases, noun phrases, adverbs, adjectives, and all of their child elements.</p>
+					<p>For each line, we tagged a noun phrase and a verb phrase as the
+						overarching child elements. We then tagged the noun phrases to
+						allow nouns, determiners, adjectives, and adverbs. We tagged verb
+						phrases to allow verb phrases, noun phrases, prepositional
+						phrases, and all of their child elements. This is a result of our
+						modification to X bar theory. Instead of labeling overarching verb
+						phrases as V', or V-bar, we tagged them as verb phrases on top of
+						verb phrases instead. This still preserves the hierarchy of
+						different verbs in each line, without making it too
+						incomprehensible for non-linguist users and researchers. This same
+						concept applies to our prepositional phrases, labeling each as a
+						phrase rather than incorporating P', or P-bar, and instead calling
+						them phrases. Prepositional phrases could have prepositional
+						phrases inside them, along with verb phrases, noun phrases,
+						adverbs, adjectives, and all of their child elements.</p>
 
-					<p>Therefore, we also eliminated the use of N’, Adj’, and adv’ based on similar principle. Though we wanted to label the hierarchy of nouns, verbs, phrases, etc. in the lines, we wanted to do it in a way that did not make the data too overwhelmingly complicated.</p>
+					<p>Therefore, we also eliminated the use of N', Adj', and Adv'
+						based on similar principle. Though we wanted to label the
+						hierarchy of nouns, verbs, phrases, etc. in the lines, we wanted
+						to do it in a way that did not make the data too overwhelmingly
+						complicated.</p>
 
-					<p>We wanted to mark when negation words, such as the word “not” was found within certain phrases. We gave noun phrases and verb phrases the option to be tagged neg=”true,” signaling in the data that a word such as “not” was present.</p>
-					
-					<p>One final thing to note is that participles were not marked as distinct parts of speech. Instead, the participles were grouped with the verbs with which they were associated and tagged under a single verb element. </p>
+					<p>We wanted to mark when negation words, such as the word "not"
+						were found within certain phrases. We gave noun phrases and verb
+						phrases the option to be tagged neg="true", signaling in the data
+						that a word such as "not" was present.</p>
+
+					<p>One final thing to note is that participles were not marked as
+						distinct parts of speech. Instead, the participles were grouped
+						with the verbs with which they were associated and tagged under a
+						single verb element.</p>
 				</div>
 
 				<div class="tab">
@@ -257,13 +329,43 @@ $current_page = 'about';
 						happens when discussing methods that the United States used in
 						order to dominate in wartime.</p>
 				</div>
-                
-                <div class="tab">
+
+				<div class="tab">
 					<h1 class="tabHeader" id="analysis">The Analysis</h1>
-					<p>After completing the markup of the songs, we began exploring ways of analyzing the marked up text. Our objective was of course to determine whether or not there was a general linguistic difference between the group of protest songs, and the control group of non-protest songs. The question for us became, how does one quantify linguistic differences?</p>
-                    <p>A principle that was immediately clear was that all froms of subjectivity had to be limited as much as possible. This ruled out all forms of "sentiment" analysis. We simply could not afford to do something like marking up ideas within the texts, because they could be open to interpretation. One person's interpretation of a song could be very different from anothers, which would discredit any data that we collected. Instead, we looked for something more concrete. Something that could be easily intrepreted in black or white, rather than shades of grey.</p>
-                    <p>In our original markup of the texts, we marked up both verb phrases and noun phrases. A noun phrase can consist of many words but only truly requires a single noun, similar to a verb phrase, which only requires a single verb. However, more words in these phrase can add description. The use of desciption in these phrases colors the meaning of the phrases, invoking emotions in the audience that would not be possible without the descptive words. The primary desciptive word in a noun phrase is an adjective, while in turn, the primary descriptive word in a verb phrase is an adverb. We decided to simply test for the presence of these primary descriptive words. A further test we invoked was for the presence of negation in both verb phrases and noun phrases. Negation and primary desciptive words were coded as different variables. For example, if a noun phrase did feature negation but did not have an adjective, it was coded as a "1" in negation and a "0" for adjective. Similarly, if a verb phrase featured both negation and an adverb, it as coded as a "1" for both.</p>
-                    <p>After compiling the data from the songs, we performed difference of means testing and probit analysis on the collected data.</p>
+					<p>After completing the markup of the songs, we began exploring
+						ways of analyzing the marked up text. Our objective was of course
+						to determine whether or not there was a general linguistic
+						difference between the group of protest songs, and the control
+						group of non-protest songs. The question for us became, how does
+						one quantify linguistic differences?</p>
+					<p>A principle that was immediately clear was that all froms of
+						subjectivity had to be limited as much as possible. This ruled out
+						all forms of "sentiment" analysis. We simply could not afford to
+						do something like marking up ideas within the texts, because they
+						could be open to interpretation. One person's interpretation of a
+						song could be very different from anothers, which would discredit
+						any data that we collected. Instead, we looked for something more
+						concrete. Something that could be easily intrepreted in black or
+						white, rather than shades of grey.</p>
+					<p>In our original markup of the texts, we marked up both verb
+						phrases and noun phrases. A noun phrase can consist of many words
+						but only truly requires a single noun, similar to a verb phrase,
+						which only requires a single verb. However, more words in these
+						phrase can add description. The use of desciption in these phrases
+						colors the meaning of the phrases, invoking emotions in the
+						audience that would not be possible without the descptive words.
+						The primary desciptive word in a noun phrase is an adjective,
+						while in turn, the primary descriptive word in a verb phrase is an
+						adverb. We decided to simply test for the presence of these
+						primary descriptive words. A further test we invoked was for the
+						presence of negation in both verb phrases and noun phrases.
+						Negation and primary desciptive words were coded as different
+						variables. For example, if a noun phrase did feature negation but
+						did not have an adjective, it was coded as a "1" in negation and a
+						"0" for adjective. Similarly, if a verb phrase featured both
+						negation and an adverb, it as coded as a "1" for both.</p>
+					<p>After compiling the data from the songs, we performed difference
+						of means testing and probit analysis on the collected data.</p>
 				</div>
 
 				<div class="tab">
