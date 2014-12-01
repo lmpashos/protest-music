@@ -63,11 +63,7 @@ class Constants {
     'data_xslt' => 'data.php#xslt',
     'conclusions' => 'conclusions.php',
     'conclusions_subsection1' => 'conclusions.php#subsection1',
-    'conclusions_subsection2' => 'conclusions.php#subsection2',
-    'conclusions_subsection3' => 'conclusions.php#subsection3',
-    'conclusions_subsection4' => 'conclusions.php#subsection4',
-    'conclusions_subsection5' => 'conclusions.php#subsection5',
-    'conclusions_subsection6' => 'conclusions.php#subsection6',
+    'conclusions_subsection2' => 'conclusions.php#subsection2'
   );
 
   static $PAGES = array(
@@ -91,11 +87,7 @@ class Constants {
     ), 
     'conclusions' => array(
       'subsection1',
-      'subsection2',
-      'subsection3',
-      'subsection4',
-      'subsection5',
-      'subsection6'
+      'subsection2'
     )
   );
   
@@ -108,10 +100,6 @@ class Constants {
       'xslt' => 'XSLT',
       'subsection1' => 'Subsection 1', 
       'subsection2' => 'Subsection 2',
-      'subsection3' => 'Subsection 3',
-      'subsection4' => 'Subsection 4',
-      'subsection5' => 'Subsection 5',
-      'subsection6' => 'Subsection 6',
       'vision' => 'Vision',
       'method' => 'Method',
       'eras' => 'Eras',
