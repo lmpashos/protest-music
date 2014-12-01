@@ -172,13 +172,14 @@ $current_page = 'about';
 				<div class="tab">
 					<h1 class="tabHeader" id="eras">The Eras</h1>
 					<h2>Great Depression</h2>
+                    <img src="images/the_great_depression_photo.jpg"/>
 					<p class="fix">The Great Depression occurred from 1929 to 1939. It is noted as
 						one of the deepest and longest-lasting economic downturn in the
 						history of the Western industrialized world. The Great Depression
 						began in the United States after the stock market crash in October
 						of 1929. In 1933, during the lowest point in the Great Depression,
 						13 to 15 million Americans were unemployed.
-						<img src="images/the_great_depression_photo.jpg"/></p>
+						</p>
 					<p>African Americans were the hardest hit group of people during
 						The Great Depression. Half of all African Americans were
 						unemployed in 1932. In some Northern cities, whites called for
@@ -186,6 +187,7 @@ $current_page = 'about';
 						of work. Violence towards African Americans became more common
 						again during The Great Depression. Lynchings, which had declined
 						to 8 in 1932, surged to 28 in 1933.</p>
+                        <img src="images/the_dust_bowl_photo.jpg"/>
 					<p>During this time, the Great Plains region in America suffered
 						from a drought from 1934-1937, which is today known as the Dust
 						Bowl. Heavy winds blew the topsoil in places like Oklahoma,
@@ -195,14 +197,14 @@ $current_page = 'about';
 						due to the farmers' desire to constantly expand and have autonomy
 						over the land. Artists at the time expressed the need to be in
 						harmony with nature, rather than try to dominate and exploit it.
-						<img src="images/the_dust_bowl_photo.jpg"/></p>
+						</p>
 					<p>Finally, the Harlan County War took place from 1931-1932. This
 						was a series of coal mining-related skirmishes, executions,
 						bombings, and strikes that took place in Harlan County, Kentucky,
 						during the 1930s. During The Great Depression, miners were making
 						as little as eighty cents per day. The workers went on strike for
 						better wages and better working conditions.
-						<img src="images/harlan_county_strike_photo.jpg"/></p>
+						</p><img src="images/harlan_county_strike_photo.jpg"/>
 					<h2>Vietnam</h2>
 					<p>The Vietnam era truly represents a golden age of American
 						protest music. Though it is termed in this project as the Vietnam
@@ -215,7 +217,7 @@ $current_page = 'about';
 						project, the Vietnam era covers the years from 1960 to 1975. This
 						era witnessed the composition of some of the most popular and
 						famous protest music in history.
-						<img src="images/vietnam_war_photo.jpg"/></p>
+						</p><img src="images/vietnam_war_photo.jpg"/>
 					<p>The turmoil of the era was an incubator for the outburst of
 						protest music seen in this era, especially when compared with the
 						relatively tranquil 1950s. The dialogue of the protesters in the
@@ -231,7 +233,7 @@ $current_page = 'about';
 						Rights movement had largely descended into violence. The Vietnam
 						War had seemingly no end in sight. Protester clashed with police
 						in Chicago outside the Democratic National Convention.
-						<img src="images/chicago_convention_photo.jpg"/></p> 
+						</p> <img src="images/chicago_convention_photo.jpg"/>
 						<p>In addition
 						to the thousands of American soldiers killed, the war had
 						destroyed a president. The new president, Richard Nixon, promised
@@ -249,7 +251,7 @@ $current_page = 'about';
 						the song Ohio, which uses an angrier rhetoric than the songs that
 						characterized the early era, going as far as accusing Nixon
 						himself.
-						<img src="images/kent_state_shootings_photo.jpg"/></p>
+						</p><img src="images/kent_state_shootings_photo.jpg"/>
 					<p>Protest music characterized the 1960s. Polarizing issues like
 						Civil Rights and the Vietnam War made for popular song topics. The
 						protest culture of the era centered primarily on the youth. No
@@ -270,7 +272,7 @@ $current_page = 'about';
 						Vietnam veterans returned home. Bruce Springsteen depicts the
 						Vietnam Vet in Born in the USA: He's isolated from the government,
 						isolated from his family, to the point where nothing makes sense.
-						<img src="images/vietnam_veteran_small_photo.jpg"/></p>
+						</p><img src="images/vietnam_veteran_small_photo.jpg"/>
 
 					<p>On November 6th, 1990, the state of Arizona voted down to create
 						a holiday for Dr. Martin Luther King, Jr. Two years prior, the
@@ -293,7 +295,7 @@ $current_page = 'about';
 						running errands at a convenience store. Both the New York City
 						police and George Zimmerman noticed the men in each case late at
 						night and declared that they looked suspicious.
-						<img src="images/41_shots_photo.jpg"/></p>
+						</p><img src="images/41_shots_photo.jpg"/>
 
 					<p>In 2008, musicians were protesting against the war in Iraq,
 						which went from 2003 until 2011. The Iraq war was constantly
@@ -329,7 +331,7 @@ $current_page = 'about';
 						States does not simply send in weapons to shoot targets; Americans
 						are getting severely injured and killed while injuring and killing
 						other human beings in the name of their country.
-						<img src="images/iraq_veterans_medium_size_photo.jpg"/></p>
+						</p><img class="fix2" src="images/iraq_veterans_medium_size_photo.jpg"/>
 
 					<p>The modern era, like every other era, wanted to change the way
 						African Americans were treated. Americans protested against
