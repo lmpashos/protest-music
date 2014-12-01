@@ -177,7 +177,8 @@ $current_page = 'about';
 						history of the Western industrialized world. The Great Depression
 						began in the United States after the stock market crash in October
 						of 1929. In 1933, during the lowest point in the Great Depression,
-						13 to 15 million Americans were unemployed.</p>
+						13 to 15 million Americans were unemployed.
+						<img src="images/the_great_depression_photo.jpg"/></p>
 					<p>African Americans were the hardest hit group of people during
 						The Great Depression. Half of all African Americans were
 						unemployed in 1932. In some Northern cities, whites called for
@@ -193,13 +194,15 @@ $current_page = 'about';
 						left the region during this time as a result. This, in part, was
 						due to the farmers' desire to constantly expand and have autonomy
 						over the land. Artists at the time expressed the need to be in
-						harmony with nature, rather than try to dominate and exploit it.</p>
+						harmony with nature, rather than try to dominate and exploit it.
+						<img src="images/the_dust_bowl_photo.jpg"/></p>
 					<p>Finally, the Harlan County War took place from 1931-1932. This
 						was a series of coal mining-related skirmishes, executions,
 						bombings, and strikes that took place in Harlan County, Kentucky,
 						during the 1930s. During The Great Depression, miners were making
 						as little as eighty cents per day. The workers went on strike for
-						better wages and better working conditions.</p>
+						better wages and better working conditions.
+						<img src="images/harlan_county_strike_photo.jpg"/></p>
 					<h2>Vietnam</h2>
 					<p>The Vietnam era truly represents a golden age of American
 						protest music. Though it is termed in this project as the Vietnam
@@ -211,7 +214,8 @@ $current_page = 'about';
 						transpired in the 1960s. Thus, in terms of the scope of this
 						project, the Vietnam era covers the years from 1960 to 1975. This
 						era witnessed the composition of some of the most popular and
-						famous protest music in history.</p>
+						famous protest music in history.
+						<img src="images/vietnam_war_photo.jpg"/></p>
 					<p>The turmoil of the era was an incubator for the outburst of
 						protest music seen in this era, especially when compared with the
 						relatively tranquil 1950s. The dialogue of the protesters in the
@@ -226,7 +230,9 @@ $current_page = 'about';
 						Robert Kennedy were killed by the bullets of assassins. The Civil
 						Rights movement had largely descended into violence. The Vietnam
 						War had seemingly no end in sight. Protester clashed with police
-						in Chicago outside the Democratic National Convention. In addition
+						in Chicago outside the Democratic National Convention.
+						<img src="images/chicago_convention_photo.jpg"/></p> 
+						<p>In addition
 						to the thousands of American soldiers killed, the war had
 						destroyed a president. The new president, Richard Nixon, promised
 						to end the war in Vietnam, although his actions, such as the
@@ -242,7 +248,8 @@ $current_page = 'about';
 						to newspapers worldwide. This event inspired Neil Young to write
 						the song Ohio, which uses an angrier rhetoric than the songs that
 						characterized the early era, going as far as accusing Nixon
-						himself.</p>
+						himself.
+						<img src="images/kent_state_shootings_photo.jpg"/></p>
 					<p>Protest music characterized the 1960s. Polarizing issues like
 						Civil Rights and the Vietnam War made for popular song topics. The
 						protest culture of the era centered primarily on the youth. No
@@ -262,7 +269,8 @@ $current_page = 'about';
 						stand at the gates in airports protesting against the war as
 						Vietnam veterans returned home. Bruce Springsteen depicts the
 						Vietnam Vet in Born in the USA: He's isolated from the government,
-						isolated from his family, to the point where nothing makes sense.</p>
+						isolated from his family, to the point where nothing makes sense.
+						<img src="images/vietnam_veteran_small_photo.jpg"/></p>
 
 					<p>On November 6th, 1990, the state of Arizona voted down to create
 						a holiday for Dr. Martin Luther King, Jr. Two years prior, the
@@ -284,7 +292,8 @@ $current_page = 'about';
 						American who was shot by George Zimmerman in 2013 while he was out
 						running errands at a convenience store. Both the New York City
 						police and George Zimmerman noticed the men in each case late at
-						night and declared that they looked suspicious.</p>
+						night and declared that they looked suspicious.
+						<img src="images/41_shots_photo.jpg"/></p>
 
 					<p>In 2008, musicians were protesting against the war in Iraq,
 						which went from 2003 until 2011. The Iraq war was constantly
@@ -307,8 +316,9 @@ $current_page = 'about';
 						and many people protested against the war as a result. Between
 						January 3rd and April 12th, 2003, 36 million people across the
 						globe took part in almost 3,000 protests against war in Iraq, with
-						demonstrations on 15 February 2003, being the largest and most
-						prolific.</p>
+						demonstrations on 15 February 2003 as the largest and most
+						prolific of them.</p>
+						
 
 					<p>As a result, protest music during this time expressed this
 						viewpoint. In 2012, Tim McIlrath, the lead singer of the band Rise
@@ -318,7 +328,8 @@ $current_page = 'about';
 						remind listeners of the perspective of the soldier. The United
 						States does not simply send in weapons to shoot targets; Americans
 						are getting severely injured and killed while injuring and killing
-						other human beings in the name of their country.</p>
+						other human beings in the name of their country.
+						<img src="images/iraq_veterans_medium_size_photo.jpg"/></p>
 
 					<p>The modern era, like every other era, wanted to change the way
 						African Americans were treated. Americans protested against
