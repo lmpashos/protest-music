@@ -39,7 +39,7 @@ $current_page = 'about';
 			<div id="center">
 				<div class="tab">
 					<h1 class="tabHeader" id="vision">The Vision</h1>
-					<p id="fix">When discussing music, songs can typically be
+					<p class="fix">When discussing music, songs can typically be
 						classified into most genres according to things like
 						instrumentals, vocals, or other musical elements. However,
 						deciding that a song is a protest song does not have to go through
@@ -78,7 +78,7 @@ $current_page = 'about';
 
 				<div class="tab">
 					<h1 class="tabHeader" id="method">The Method</h1>
-					<p>At first, a lot of people will try to define protest music in
+					<p class="fix">At first, a lot of people will try to define protest music in
 						terms of its content: it seems that in a lot of American protest
 						songs, there is reference to a specific war or current event that
 						upsets the artists at hand. However, using a definition of this
@@ -172,7 +172,7 @@ $current_page = 'about';
 				<div class="tab">
 					<h1 class="tabHeader" id="eras">The Eras</h1>
 					<h2>Great Depression</h2>
-					<p>The Great Depression occurred from 1929 to 1939. It is noted as
+					<p class="fix">The Great Depression occurred from 1929 to 1939. It is noted as
 						one of the deepest and longest-lasting economic downturn in the
 						history of the Western industrialized world. The Great Depression
 						began in the United States after the stock market crash in October
@@ -332,7 +332,7 @@ $current_page = 'about';
 
 				<div class="tab">
 					<h1 class="tabHeader" id="analysis">The Analysis</h1>
-					<p>After completing the markup of the songs, we began exploring
+					<p class="fix">After completing the markup of the songs, we began exploring
 						ways of analyzing the marked up text. Our objective was of course
 						to determine whether or not there was a general linguistic
 						difference between the group of protest songs, and the control
@@ -370,7 +370,7 @@ $current_page = 'about';
 
 				<div class="tab">
 					<h1 class="tabHeader" id="us">Us</h1>
-					<p>This research project was completed by David Galloway, Leonidas
+					<p class="fix">This research project was completed by David Galloway, Leonidas
 						Pashos, and Katie Uihlein. This project was performed at the
 						University of Pittsburgh. This project was for a class called
 						Computational Methods in the Humanities, taught by Dr. David
