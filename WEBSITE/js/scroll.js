@@ -22,4 +22,8 @@ document.addEventListener("DOMContentLoaded", function() {
 		for(var i = 0; i < children.length; i++)
 			children[i].style.marginLeft = -6 + "px"
 	});
+	
+	window.addEventListener("resize", function(){
+		list.style.width = document.getElementById("left").clientWidth + "px";
+	});
 });
