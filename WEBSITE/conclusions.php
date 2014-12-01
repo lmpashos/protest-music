@@ -12,10 +12,13 @@ $current_page = 'conclusions';
 <!DOCTYPE html> 
 <html>
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title><?php echo ucfirst($current_page); ?></title>
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
-    <script src="js/main.js" type="text/javascript">/**/</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title><?php echo ucfirst($current_page); ?></title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/about.css" rel="stylesheet" type="text/css" />
+<script src="js/main.js" type="text/javascript">/**/</script>
+<script src="js/scroll.js" type="text/javascript"></script>
+<script src="js/resizeColFix.js" type="text/javascript"></script>
 </head>
 <body>
     <div class="wrapper">
@@ -23,17 +26,22 @@ $current_page = 'conclusions';
         <h1><?php echo ucfirst($current_page); ?></h1>
         <div class="content">
             <div id="left">
-            	<p>This is the left content space</p>
-                <p>We can put stuff here</p>
-                <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>The spaces automatically resize based on the longest one</p>
-            </div>
-            <div id="right">
-            	<p>This is the right content space</p>
-                <p>We can put stuff here</p>
-            </div>
+				<ul class="absolute">
+					<li><a href="conclusions.php#subsection1">Subsection 1</a></li>
+					<li><a href="conclusions.php#subsection2">Subsection 2</a></li>
+				</ul>
+			</div>
+            
             <div id="center">
-            	<p>This is the main content space</p>
-                <p>We can put stuff here</p>
+            	<div class="tab">
+					<h1 class="tabHeader" id="subsection1">Subsection 1</h1>
+					<p>Words.</p>
+				</div>
+                
+                <div class="tab">
+					<h1 class="tabHeader" id="subsection2">Subsection 2</h1>
+					<p>Words.</p>
+				</div>
             </div>
         </div>   
     </div>
