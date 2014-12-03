@@ -18,6 +18,7 @@ $current_page = 'about';
 <script src="js/main.js" type="text/javascript">/**/</script>
 <script src="js/scroll.js" type="text/javascript"></script>
 <script src="js/resizeColFix.js" type="text/javascript"></script>
+<script src="js/twoColHeightFix.js" type="text/javascript"></script>
 </head>
 
 <body>
