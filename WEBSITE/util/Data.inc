@@ -27,11 +27,12 @@ class Data {
     $html = '';
     if(file_exists(Constants::SONG_LIST_FILENAME)) {
       $xml = simplexml_load_file(Constants::SONG_LIST_FILENAME);
-            
-      $html .= (StaticFunctions::indent(1, 4) . '<h1 id="xml_data">XML Data</h1>' . "\n"); 
+       
+      $html .= (StaticFunctions::indent(1, 4) . '<div class="tab">' . "\n");     
+      $html .= (StaticFunctions::indent(1, 4) . '<h1 class="tabHeader" id="xml_data">XML Data</h1>' . "\n"); 
       
       //First do the great depression//&#708; &#10549;
-      $html .= (StaticFunctions::indent(1, 4) . '<h2 id="link_xml_great_depression"><span id="depression_arrow">&#709;</span>&nbsp;'. Constants::$PAGE_KEY_TO_PAGE_STRING[Constants::ERA_GREAT_DEPRESSION] . '</h2>' . "\n");
+      $html .= (StaticFunctions::indent(1, 4) . '<h2 id="link_xml_great_depression"><span id="depression_arrow">&rarr;</span>&nbsp;'. Constants::$PAGE_KEY_TO_PAGE_STRING[Constants::ERA_GREAT_DEPRESSION] . '</h2>' . "\n");
       $html .= (StaticFunctions::indent(1, 4) . '<div id="xml_great_depression" class="sub_section">' . "\n");
      
       
@@ -76,7 +77,7 @@ class Data {
       
 
       //Next, do the Vietnam War era      
-      $html .= (StaticFunctions::indent(1, 4) . '<h2 id="link_xml_vietnam"><span id="vietnam_arrow">&#709;</span>&nbsp;'. Constants::$PAGE_KEY_TO_PAGE_STRING[Constants::ERA_VIETNAM] . '</h2>' . "\n");
+      $html .= (StaticFunctions::indent(1, 4) . '<h2 id="link_xml_vietnam"><span id="vietnam_arrow">&rarr;</span>&nbsp;'. Constants::$PAGE_KEY_TO_PAGE_STRING[Constants::ERA_VIETNAM] . '</h2>' . "\n");
       $html .= (StaticFunctions::indent(1, 4) . '<div id="xml_vietnam" class="sub_section">' . "\n");
       
       //Get the Protest songs of the Vietnam War era
@@ -119,7 +120,7 @@ class Data {
       $html .= (StaticFunctions::indent(1, 4) . '</div>' . "\n");
       
       //Last, do the Post-Vietnam War era
-      $html .= (StaticFunctions::indent(1, 4) . '<h2 id="link_xml_modern"><span id="modern_arrow">&#709;</span>&nbsp;' . Constants::$PAGE_KEY_TO_PAGE_STRING[Constants::ERA_MODERN] . '</h2>' . "\n");
+      $html .= (StaticFunctions::indent(1, 4) . '<h2 id="link_xml_modern"><span id="modern_arrow">&rarr;</span>&nbsp;' . Constants::$PAGE_KEY_TO_PAGE_STRING[Constants::ERA_MODERN] . '</h2>' . "\n");
       $html .= (StaticFunctions::indent(1, 4) . '<div id="xml_modern" class="sub_section">' . "\n");
       
       //Get the Protest songs of the Post-Vietnam War era
@@ -160,9 +161,11 @@ class Data {
         $html .= (StaticFunctions::indent(2, 4) . '</div>' . "\n");
       }   
       $html .= (StaticFunctions::indent(1, 4) . '</div>' . "\n");
+      $html .= (StaticFunctions::indent(1, 4) . '</div>' . "\n");
       
       //Now get all of the Schema Data
-      $html .= (StaticFunctions::indent(1, 4) . '<h1 id="schemas">Schemas</h1>' . "\n");
+      $html .= (StaticFunctions::indent(1, 4) . '<div class="tab">' . "\n");
+      $html .= (StaticFunctions::indent(2, 4) . '<h1 class="tabHeader" id="schemas">Schemas</h1>' . "\n");
       
 //       $html .= (StaticFunctions::indent(2, 4) . '<div class="song_schema">' . "\n");
       $path = 'data/schemas/song/';
@@ -189,9 +192,12 @@ class Data {
       $html .= ('</li>' . "\n");
       
       $html .= (StaticFunctions::indent(2, 4) . '</ul>' . "\n");
+      $html .= (StaticFunctions::indent(1, 4) . '</div>' . "\n");
       
       //Now get all of the XSLT Data
-      $html .= (StaticFunctions::indent(1, 4) . '<h1 id="xslt">XSLT</h1>' . "\n");
+      $html .= (StaticFunctions::indent(1, 4) . '<div class="tab">' . "\n");
+      $html .= (StaticFunctions::indent(2, 4) . '<h1 class="tabHeader" id="xslt">XSLT</h1>' . "\n");
+      $html .= (StaticFunctions::indent(1, 4) . '</div>' . "\n");
     
     } else {
       $html = (StaticFunctions::indent(1, 4) . '<h6 class="listSubTitle">Error Parsing XML Document</h6>' . "\n");

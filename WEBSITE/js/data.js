@@ -27,17 +27,17 @@ document.addEventListener("DOMContentLoaded", function() {
       case "none":
         xmlDepressionDiv.style.display = "block";
         var arrowSpan = document.getElementById("depression_arrow");
-        arrowSpan.innerHTML = "&#708;";
+        arrowSpan.innerHTML = "&darr;";
         break;
       case "block":
         xmlDepressionDiv.style.display = "none";
         var arrowSpan = document.getElementById("depression_arrow");
-        arrowSpan.innerHTML = "&#709;";
+        arrowSpan.innerHTML = "&rarr;";
         break;
       default:
         xmlDepressionDiv.style.display = "block";
         var arrowSpan = document.getElementById("depression_arrow");
-        arrowSpan.innerHTML = "&#708;";
+        arrowSpan.innerHTML = "&darr;";
         break;        
     }
   });
@@ -58,17 +58,17 @@ document.addEventListener("DOMContentLoaded", function() {
     case "none":
       xmlVietnamDiv.style.display = "block";
       var arrowSpan = document.getElementById("vietnam_arrow");
-      arrowSpan.innerHTML = "&#708;";
+        arrowSpan.innerHTML = "&darr;";
       break;
     case "block":
       xmlVietnamDiv.style.display = "none";
       var arrowSpan = document.getElementById("vietnam_arrow");
-      arrowSpan.innerHTML = "&#709;";
+        arrowSpan.innerHTML = "&rarr;";
       break;
     default:
       xmlVietnamDiv.style.display = "block";
       var arrowSpan = document.getElementById("vietnam_arrow");
-      arrowSpan.innerHTML = "&#708;";
+        arrowSpan.innerHTML = "&darr;";
       break;        
     }
   });
@@ -89,17 +89,17 @@ document.addEventListener("DOMContentLoaded", function() {
     case "none":
       xmlModernDiv.style.display = "block";
       var arrowSpan = document.getElementById("modern_arrow");
-      arrowSpan.innerHTML = "&#708;";
+      arrowSpan.innerHTML = "&darr;";
       break;
     case "block":
       xmlModernDiv.style.display = "none";
       var arrowSpan = document.getElementById("modern_arrow");
-      arrowSpan.innerHTML = "&#709;";
+      arrowSpan.innerHTML = "&rarr;";
       break;
     default:
       xmlModernDiv.style.display = "block";
       var arrowSpan = document.getElementById("modern_arrow");
-      arrowSpan.innerHTML = "&#708;";
+      arrowSpan.innerHTML = "&darr;";
       break;        
     }
   });
