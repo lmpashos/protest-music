@@ -160,7 +160,7 @@ document.addEventListener("DOMContentLoaded", function() {
   });
   
   //Add click handlers to the elements on the protestPOS popup
-  var inputs = document.getElementsByName("protest_class"); 
+  var inputs = document.getElementsByName("protest_class");
   for(var i = 0; i < inputs.length; ++i) {
     
     inputs[i].addEventListener("click", function() {
@@ -169,7 +169,32 @@ document.addEventListener("DOMContentLoaded", function() {
         turnOnHighlights(classValue, true);
       } else {
         turnOffHighlights(classValue, true);
-      }      
+      }
+      // fixes noun phrase background
+      if(inputs[0].checked === true && inputs[4].checked === true) {
+      	turnOnHighlightsSpecialCase(inputs[4].value, true);
+      } else if(inputs[0].checked === false && inputs[4].checked === true) {
+      	turnOffHighlightsSpecialCase(inputs[4].value, true);
+      }
+
+      if(inputs[0].checked === true && inputs[5].checked === true) {
+      	turnOnHighlightsSpecialCase(inputs[5].value, true);
+      } else if(inputs[0].checked === false && inputs[5].checked === true) {
+      	turnOffHighlightsSpecialCase(inputs[5].value, true);
+      }
+
+      if(inputs[0].checked === true && inputs[6].checked === true) {
+      	turnOnHighlightsSpecialCase(inputs[6].value, true);
+      } else if(inputs[0].checked === false && inputs[6].checked === true) {
+      	turnOffHighlightsSpecialCase(inputs[6].value, true);
+      }
+
+      if(inputs[0].checked === true && inputs[8].checked === true) {
+      	turnOnHighlightsSpecialCase(inputs[8].value, true);
+      } else if(inputs[0].checked === false && inputs[8].checked === true) {
+      	turnOffHighlightsSpecialCase(inputs[8].value, true);
+      }
+
     });
   }
   
@@ -245,17 +270,43 @@ document.addEventListener("DOMContentLoaded", function() {
   });
  
   //Add click handlers to the elements on the nonProtestPOS popup
-  var inputs = document.getElementsByName("non_protest_class");
-  for(var i = 0; i < inputs.length; ++i) {
+  var input = document.getElementsByName("non_protest_class");
+  for(var i = 0; i < input.length; ++i) {
     
-    inputs[i].addEventListener("click", function() {
+    input[i].addEventListener("click", function() {
       var classValue = this.value;
       if(this.checked === true) {
         turnOnHighlights(classValue, false);
       } else {
         turnOffHighlights(classValue, false);
-      }      
-    });
+      }
+
+      // fixes noun phrase background
+      if(input[0].checked === true && input[4].checked === true) {
+      	turnOnHighlightsSpecialCase(input[4].value, false);
+      } else if(input[0].checked === false && input[4].checked === true) {
+      	turnOffHighlightsSpecialCase(input[4].value, false);
+      }	
+
+      if(input[0].checked === true && input[5].checked === true) {
+      	turnOnHighlightsSpecialCase(input[5].value, false);
+      } else if(input[0].checked === false && input[5].checked === true) {
+      	turnOffHighlightsSpecialCase(input[5].value, false);
+      }
+
+      if(input[0].checked === true && input[6].checked === true) {
+      	turnOnHighlightsSpecialCase(input[6].value, false);
+      } else if(input[0].checked === false && input[6].checked === true) {
+      	turnOffHighlightsSpecialCase(input[6].value, false);
+      }
+
+      if(input[0].checked === true && input[8].checked === true) {
+      	turnOnHighlightsSpecialCase(input[8].value, false);
+      } else if(input[0].checked === false && input[8].checked === true) {
+      	turnOffHighlightsSpecialCase(input[8].value, false);
+      }
+
+    });  
   }
   
   //Add events to the Clear and Done buttons
@@ -340,8 +391,9 @@ document.addEventListener("DOMContentLoaded", function() {
     for(var j = 0; j < spanList.length; ++j) {
       switch(className) {
         case "nounPhrase":
-          spanList[j].style.fontStyle = "italic";
-          spanList[j].style.textDecoration = "line-through";
+          spanList[j].style.backgroundImage = "url('images/squiggle.gif')";
+          spanList[j].style.backgroundRepeat = "repeat-x";
+		  spanList[j].style.backgroundPosition = "left bottom";
           break;
         case "verbPhrase":
           spanList[j].style.fontWeight = "bold";
@@ -372,7 +424,49 @@ document.addEventListener("DOMContentLoaded", function() {
           break;
       }
     }
-  }  
+  }
+
+  // fixes noun phrase background
+  function turnOnHighlightsSpecialCase(className, isProtest) {
+  	var spanList;
+    if(isProtest) {
+    	spanList = document.querySelectorAll("#protest div.song span." + className);
+    }
+    else {
+        spanList = document.querySelectorAll("#non_protest div.song span." + className);
+    }
+
+    for(var j = 0; j < spanList.length; ++j) {
+    	if(className == "noun") {
+	    	spanList[j].style.backgroundImage = "url('images/squiggle.gif')";
+	        spanList[j].style.backgroundRepeat = "repeat-x";
+			spanList[j].style.backgroundPosition = "left bottom";
+			spanList[j].style.backgroundColor = "#8080FF";
+		}
+		else if(className == "adjective") {
+	    	if(spanList[j].parentNode.className == "nounPhrase") {
+		    	spanList[j].style.backgroundImage = "url('images/squiggle.gif')";
+		        spanList[j].style.backgroundRepeat = "repeat-x";
+				spanList[j].style.backgroundPosition = "left bottom";
+				spanList[j].style.backgroundColor = "#80FF80";
+			}
+		}
+		else if(className == "adverb") {
+	    	if(spanList[j].parentNode.className == "nounPhrase") {
+		    	spanList[j].style.backgroundImage = "url('images/squiggle.gif')";
+		        spanList[j].style.backgroundRepeat = "repeat-x";
+				spanList[j].style.backgroundPosition = "left bottom";
+				spanList[j].style.backgroundColor = "#FFFF80";
+			}
+		}
+		else if(className == "det") {
+	    	spanList[j].style.backgroundImage = "url('images/squiggle.gif')";
+	        spanList[j].style.backgroundRepeat = "repeat-x";
+			spanList[j].style.backgroundPosition = "left bottom";
+			spanList[j].style.backgroundColor = "#80FFFF";
+		}
+    }
+  }
   
   //Function to turn off highlights for a particular part of speech
   function turnOffHighlights(className, isProtest) {
@@ -393,10 +487,30 @@ document.addEventListener("DOMContentLoaded", function() {
     }
    
     for(var j = 0; j < spanList.length; ++j) {
-      spanList[j].style.backgroundColor = "inherit";
-      spanList[j].style.fontWeight = "inherit";
-      spanList[j].style.textDecoration = "inherit";
-      spanList[j].style.fontStyle = "inherit";
+      spanList[j].style.backgroundColor = "";
+      spanList[j].style.fontWeight = "";
+      spanList[j].style.textDecoration = "";
+      spanList[j].style.fontStyle = "";
+      spanList[j].style.backgroundImage = "";
+      spanList[j].style.backgroundRepeat = "";
+	  spanList[j].style.backgroundPosition = "";
+    }
+  }
+
+  // fixes noun phrase background
+  function turnOffHighlightsSpecialCase(className, isProtest) {
+  	var spanList;
+    if(isProtest) {
+    	spanList = document.querySelectorAll("#protest div.song span." + className);
+    }
+    else {
+        spanList = document.querySelectorAll("#non_protest div.song span." + className);
+    }
+
+    for(var j = 0; j < spanList.length; ++j) {
+    	spanList[j].style.backgroundImage = "";
+      	spanList[j].style.backgroundRepeat = "";
+	  	spanList[j].style.backgroundPosition = "";
     }
   }
   
