@@ -2,9 +2,9 @@
 <?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-        <title>(what Did I Do to be So) Black and Blue</title>
+        <title>(What Did I Do to be So) Black and Blue</title>
         <composer>Thomas "Fats" Waller and Harry Brooks</composer>
-        <album>Odeon Swing Music series Vol. 12</album>
+        <album>Odeon Swing Music Series Vol. 12</album>
         <year>1929</year>
         <genre>Jazz</genre>
         <notablePerformer>Louis Armstrong</notablePerformer>
