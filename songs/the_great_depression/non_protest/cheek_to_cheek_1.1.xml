@@ -2,7 +2,7 @@
 <?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-        <title>CHEEK TO CHEEK</title>
+        <title>Cheek To Cheek</title>
         <composer>Irving Berlin</composer>
         <album>Cheek to Cheek</album>
         <year>1935</year>
