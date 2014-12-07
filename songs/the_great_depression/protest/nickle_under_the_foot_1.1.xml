@@ -2,7 +2,7 @@
 <?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
    <metadata>
-       <title>Nickle Under The Foot</title>
+       <title>Nickel Under The Foot</title>
        <composer>Marc Blitzstein</composer>
        <album></album>
        <year>1937</year>

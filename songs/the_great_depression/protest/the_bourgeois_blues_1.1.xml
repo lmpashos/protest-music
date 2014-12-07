@@ -2,7 +2,7 @@
 <?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
 <metadata>
-    <title>The Bourgeos Blues</title>
+    <title>The Bourgeois Blues</title>
     <composer>Huddie Ledbetter</composer>
     <album></album>
     <year>1938</year>
