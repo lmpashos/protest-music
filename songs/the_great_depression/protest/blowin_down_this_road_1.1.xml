@@ -6,7 +6,7 @@
     <year>1940</year>
     <genre>Folk and Country</genre>
     <notablePerformer>Woody Guthrie</notablePerformer></metadata>
-    <protest>true</protest>
+    <protest>1</protest>
 <lyrics>
 <verse>
     <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <verbPhrase><verb>blowin'</verb> <prepPhrase><prep>down</prep> <nounPhrase><det>this</det> <adjective>old</adjective> <adjective>dusty</adjective> <noun>road</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>,</line>

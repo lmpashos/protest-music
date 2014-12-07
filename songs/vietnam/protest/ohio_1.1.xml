@@ -9,7 +9,7 @@
         <genre>rock</genre>
         <notablePerformer>Neil Young</notablePerformer>
         <notableEvent>Kent State</notableEvent>
-        <protest>true</protest>
+        <protest>1</protest>
     </metadata>
     <lyrics>
         <verse>
