@@ -68,7 +68,7 @@
             <refrainLineRef lineRef="8"/>
         </refrainSection>
         
-        <refrainLine lineID="1">A hero of war, yeah, that's what I'll be,</refrainLine>
+        <refrainLine lineID="1"><nounPhrase><det>A </det><noun>hero</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>war</noun></nounPhrase></prepPhrase>, yeah, <nounPhrase>that</nounPhrase><verbPhrase><verb>'s</verb> what <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll be</verb></verbPhrase></verbPhrase>,</refrainLine>
         <refrainLine lineID="2">And when I come home, they'll be damn proud of me.</refrainLine>
         <refrainLine lineID="3">I'll carry this flag to the grave if I must</refrainLine>
         <refrainLine lineID="4">'Cause it's a flag that I love, and a flag that I trust.</refrainLine>
