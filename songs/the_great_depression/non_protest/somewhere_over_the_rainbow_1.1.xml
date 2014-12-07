@@ -2,11 +2,11 @@
 <?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-        <title>Somewhere over the Rainbow</title>
+        <title>Over the Rainbow</title>
         <composer>Harold Arlen</composer>
-        <album/>
+        <album>The Wizard of Oz: Music From the Original Motion Picture</album>
         <year>1939</year>
-        <genre/>
+        <genre>Movie Soundtrack</genre>
         <notablePerformer>Judy Garland</notablePerformer>
     </metadata>
 
