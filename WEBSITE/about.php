@@ -17,6 +17,7 @@ $current_page = 'about';
 <link href="css/about.css" rel="stylesheet" type="text/css" />
 <script src="js/main.js" type="text/javascript">/**/</script>
 <script src="js/about.js" type="text/javascript">/**/</script>
+<script src="js/scroll.js" type="text/javascript">/**/</script>
 </head>
 
 <body>

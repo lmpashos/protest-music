@@ -17,7 +17,8 @@ $current_page = 'conclusions';
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 <link href="css/about.css" rel="stylesheet" type="text/css" />
 <script src="js/main.js" type="text/javascript">/**/</script>
-<script src="js/conclusions.js" type="text/javascript">/**/</script>
+<script src="js/about.js" type="text/javascript">/**/</script>
+<script src="js/scroll.js" type="text/javascript">/**/</script>
 </head>
 <body>
     <div class="wrapper">
