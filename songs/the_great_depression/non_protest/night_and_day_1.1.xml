@@ -22,14 +22,14 @@
         </verse>
 
         <verse>
-            <line><adjective>Like</adjective> <nounPhrase><det>the</det> <noun>drip</noun></nounPhrase> <nounPhrase><noun>drip</noun></nounPhrase> <nounPhrase><noun>drip</noun></nounPhrase><prepPhrase> <prep>of</prep><nounPhrase><det>the</det> <noun>raindrops</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><adjective>Like</adjective> <det>the</det> <noun>drip</noun></nounPhrase> <nounPhrase><noun>drip</noun></nounPhrase> <nounPhrase><noun>drip</noun></nounPhrase><prepPhrase> <prep>of</prep><nounPhrase><det>the</det> <noun>raindrops</noun></nounPhrase></prepPhrase></line>
             <line><adverb>When</adverb> <nounPhrase><det>the</det> <adjective>summer</adjective> <noun>shower</noun> </nounPhrase><verbPhrase><verb>is</verb> <adverb>through</adverb></verbPhrase></line>
             <line>So <nounPhrase><det>a</det> <noun>voice</noun> </nounPhrase><prepPhrase><prep>within</prep> <nounPhrase><noun>me</noun> </nounPhrase></prepPhrase><verbPhrase><adverb>keeps</adverb> <verb>repeating</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase>, <nounPhrase><noun>you</noun></nounPhrase>, <nounPhrase><noun>you</noun></nounPhrase></line>
         </verse>
 
         <verse>
             <line><nounPhrase><noun>Night</noun></nounPhrase> and <nounPhrase><noun>day</noun></nounPhrase>, <nounPhrase><noun>you</noun> </nounPhrase><verbPhrase><verb>are</verb> <nounPhrase><det>the</det> <noun>one</noun></nounPhrase></verbPhrase></line>
-            <line>Only <nounPhrase><noun>you</noun> </nounPhrase><prepPhrase><prep>beneath </prep><nounPhrase><det>the</det> <noun>moon</noun></nounPhrase> </prepPhrase>and <prepPhrase><prep>under </prep><nounPhrase><det>the</det> <noun>sun</noun></nounPhrase></prepPhrase></line>
+            <line><adverb>Only</adverb> <nounPhrase><noun>you</noun> </nounPhrase><prepPhrase><prep>beneath </prep><nounPhrase><det>the</det> <noun>moon</noun></nounPhrase> </prepPhrase>and <prepPhrase><prep>under </prep><nounPhrase><det>the</det> <noun>sun</noun></nounPhrase></prepPhrase></line>
             <line>Whether <prepPhrase><prep>near to</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase> or <prepPhrase><prep>far</prep></prepPhrase></line>
             <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> no <nounPhrase neg="true"><noun>matter</noun>,</nounPhrase> <nounPhrase><noun>darling</noun></nounPhrase>, where <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>are</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <prepPhrase><prep>of</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
