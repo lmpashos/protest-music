@@ -6,7 +6,7 @@
         <composer>Rage Against the Machine</composer>
         <album>The Battle of Los Angeles</album>
         <year>1999</year>
-        <genre>Metal</genre>
+        <genre>Punk</genre>
         <notablePerformer>Rage Against the Machine</notablePerformer>
         <protest>1</protest>
     </metadata>
@@ -38,13 +38,13 @@
                         <noun>fists</noun></nounPhrase></verbPhrase></line>
             <line>And <verbPhrase><verb>march</verb>
                     <adverb>around</adverb></verbPhrase></line>
-            <line>Just <verbPhrase neg="true"><verb>dont take</verb> what
-                            <nounPhrase><noun>you</noun></nounPhrase>
+            <line> <verbPhrase neg="true"><adverb>Just</adverb> <verb>dont take</verb> 
+                            <nounPhrase><det>what</det> <noun>you</noun></nounPhrase>
                     <verbPhrase><verb>need</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll jail</verb> and
-                        <verb>bury</verb>
+                        <verbPhrase><verb>bury</verb>
                     <nounPhrase><noun>those</noun>
-                        <adjective>committed</adjective></nounPhrase></verbPhrase></line>
+                        <adjective>committed</adjective></nounPhrase></verbPhrase></verbPhrase></line>
             <line>And <verbPhrase><verb>smother</verb>
                     <nounPhrase><det>the</det>
                         <noun>rest</noun></nounPhrase>
@@ -98,8 +98,8 @@
                     <prepPhrase><prep>with</prep>
                         <nounPhrase><noun>fire</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase>
-                <verbPhrase>am<verb> </verb><nounPhrase><det>the</det>
-                        <noun>Nina</noun></nounPhrase>
+                <verbPhrase>am<verb> </verb><nounPhrase><det>the</det> 
+                    <noun>Niña</noun></nounPhrase>
                     <nounPhrase><det>The</det>
                         <noun>Pinta</noun></nounPhrase>
                     <nounPhrase><det>The</det>
@@ -139,20 +139,20 @@
                     <prepPhrase><prep>of</prep>
                         <nounPhrase><noun>history</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
-                    <nounPhrase><noun>caged</noun></nounPhrase> and
-                        <nounPhrase><noun>frozen</noun></nounPhrase> still</verbPhrase></line>
-            <line><adverb>There</adverb>
+                    <adjective>caged</adjective> and
+                        <adjective>frozen still</adjective> </verbPhrase></line>
+            <line><nounPhrase><det>There</det></nounPhrase>
                 <verbPhrase><verb>is</verb> no <nounPhrase neg="true"><adjective>other</adjective>
                         <noun>pill</noun></nounPhrase>
                     <verb>to take</verb></verbPhrase></line>
             <line>So <verbPhrase><verb>swallow</verb>
                     <nounPhrase><det>the</det>
-                        <noun>one</noun></nounPhrase></verbPhrase></line>
-            <line>That <verbPhrase><verb>made</verb>
+                        <det>one</det></nounPhrase></verbPhrase></line>
+            <line>That <verbPhrase><verb>makes</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
                     <nounPhrase><noun>ill</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><det>The</det>
-                    <noun>Nina</noun></nounPhrase>
+                <noun>Niña</noun></nounPhrase>
                 <nounPhrase><det>The</det>
                     <noun>Pinta</noun></nounPhrase>
                 <nounPhrase><det>The</det>
@@ -161,8 +161,8 @@
                     <noun>noose</noun></nounPhrase> and <nounPhrase><det>the</det>
                     <noun>rapist</noun></nounPhrase></line>
             <line><nounPhrase><det>The</det>
-                    <noun>field</noun><det>'s</det>
-                    <noun>overseer</noun></nounPhrase></line>
+                    <noun>field</noun><det>'s</det></nounPhrase>
+                    <nounPhrase><noun>overseer</noun></nounPhrase></line>
             <line><nounPhrase><det>The</det>
                     <noun>agents</noun></nounPhrase>
                 <prepPhrase><prep>of</prep>

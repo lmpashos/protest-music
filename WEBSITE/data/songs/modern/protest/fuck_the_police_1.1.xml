@@ -16,20 +16,20 @@
         <verse>
             <line><verbPhrase><verb>Fuck</verb>
                     <nounPhrase><det>the</det>
-                        <noun>police</noun></nounPhrase></verbPhrase>
+                        <noun>police</noun></nounPhrase>
                 <verbPhrase><verb>comin</verb>
                     <adverb>straight</adverb>
                     <prepPhrase><prep>from</prep>
                         <nounPhrase><det>the</det>
-                            <noun>underground</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                            <noun>underground</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><det>A</det>
                     <adjective>young</adjective>
                     <noun>nigga</noun></nounPhrase>
                 <verbPhrase><verb>got</verb>
                     <nounPhrase><noun>it</noun>
-                        <adjective>bad</adjective></nounPhrase></verbPhrase> cause
+                        <adjective>bad</adjective></nounPhrase> cause
                         <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
-                    <adjective>brown</adjective></verbPhrase></line>
+                    <adjective>brown</adjective></verbPhrase></verbPhrase></line>
             <line>And not <nounPhrase neg="true"><det>the</det>
                     <adjective>other</adjective>
                     <noun>color</noun></nounPhrase> so <nounPhrase><noun>police</noun></nounPhrase>
@@ -38,27 +38,27 @@
                 <verbPhrase><verb>have</verb>
                     <nounPhrase><det>the</det>
                         <noun>authority</noun></nounPhrase>
-                    <verb>to kill</verb>
+                    <verbPhrase><verb>to kill</verb>
                     <nounPhrase><det>a</det>
-                        <noun>minority</noun></nounPhrase></verbPhrase></line>
+                        <noun>minority</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Fuck</verb>
                     <nounPhrase><det>that</det>
-                        <noun>shit</noun></nounPhrase></verbPhrase>, cause
+                        <noun>shit</noun></nounPhrase>, cause
                         <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase neg="true"><verb>ain't</verb>
                     <nounPhrase><det>the</det>
-                        <noun>one</noun></nounPhrase></verbPhrase></line>
+                        <noun>one</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line>or <nounPhrase><det>a</det>
                     <adjective>punk</adjective>
                     <noun>motherfucker</noun></nounPhrase>
                 <prepPhrase><prep>with</prep>
                     <nounPhrase><det>a</det>
-                        <noun>badge</noun> and <det>a</det>
+                        <noun>badge</noun></nounPhrase> and <nounPhrase><det>a</det>
                         <noun>gun</noun></nounPhrase></prepPhrase></line>
             <line><verbPhrase><verb>to be beatin'</verb>
-                    <adverb>on</adverb>, and <verb>throwin'</verb>
+                    <adverb>on</adverb>, and <verbPhrase><verb>throwin'</verb>
                     <prepPhrase><prep>in</prep>
-                        <nounPhrase><noun>jail</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                        <nounPhrase><noun>jail</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>We</noun></nounPhrase>
                 <verbPhrase><verb>can go</verb>
                     <nounPhrase><noun>toe</noun></nounPhrase>
@@ -66,37 +66,37 @@
                         <nounPhrase><noun>toe</noun></nounPhrase></prepPhrase>
                     <prepPhrase><prep>in</prep>
                         <nounPhrase><det>the</det>
-                            <noun>middle</noun></nounPhrase></prepPhrase>
+                            <noun>middle</noun></nounPhrase>
                     <prepPhrase><prep>of</prep>
                         <nounPhrase><det>a</det>
-                            <noun>cell</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                            <noun>cell</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Fuckin</verb>
                     <prepPhrase><prep>with</prep>
-                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase> cause
+                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase> cause
                         <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
                     <nounPhrase><det>a</det>
-                        <noun>teenager</noun></nounPhrase></verbPhrase></line>
+                        <noun>teenager</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><prepPhrase><prep>with</prep>
                     <nounPhrase><det>a</det>
                         <adjective>little</adjective>
-                        <noun>bit</noun></nounPhrase></prepPhrase>
+                        <noun>bit</noun></nounPhrase>
                 <prepPhrase><prep>of</prep>
-                    <nounPhrase><noun>gold</noun> and <det>a</det>
-                        <noun>pager</noun></nounPhrase></prepPhrase></line>
-            <line><verbPhrase>Searchin my car</verbPhrase>, <verbPhrase>lookin for the
-                    product</verbPhrase></line>
+                    <nounPhrase><noun>gold</noun></nounPhrase> and <nounPhrase><det>a</det>
+                        <noun>pager</noun></nounPhrase></prepPhrase></prepPhrase></line>
+            <line><verbPhrase>Searchin <nounPhrase><det>my</det> <noun>car</noun></nounPhrase>, <verbPhrase><verb>lookin</verb> <prepPhrase><prep>for</prep> <nounPhrase><det>the</det>
+                    <noun>product</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Thinkin</verb>
-                    <nounPhrase><adjective>every</adjective>
+                    <nounPhrase><det>every</det>
                         <noun>nigga</noun></nounPhrase>
                     <verbPhrase><verb>is sellin</verb>
                         <nounPhrase><noun>narcotics</noun></nounPhrase></verbPhrase></verbPhrase></line>
-            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'d</verb> rather
+            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'d</verb> <verbPhrase><adverb>rather</adverb>
                         <verb>see</verb>
                     <nounPhrase><noun>me</noun></nounPhrase>
                     <prepPhrase><prep>in</prep>
                         <nounPhrase><det>the</det>
-                            <noun>pen</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>than <nounPhrase><noun>me</noun> and <noun>Lorenzo</noun></nounPhrase>
+                            <noun>pen</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <line>than <nounPhrase><noun>me</noun></nounPhrase> and <nounPhrase><noun>Lorenzo</noun></nounPhrase>
                 <verbPhrase><verb>rollin</verb>
                     <prepPhrase><prep>in</prep>
                         <nounPhrase><det>a</det>
@@ -107,7 +107,7 @@
                     <adverb>out</adverb>
                     <prepPhrase><prep>of</prep>
                         <nounPhrase><noun>shape</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>and when <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
+            <line>and <adverb>when</adverb> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
                         finished</verb></verbPhrase>, <verbPhrase><verb>bring</verb>
                     <nounPhrase><det>the</det>
                         <adjective>yellow</adjective>
@@ -122,18 +122,18 @@
             <line><verbPhrase><adverb>Still</adverb>
                     <verb>gettin swoll</verb>
                     <prepPhrase><prep>off</prep>
-                        <nounPhrase><noun>bread</noun> and
-                        <noun>water</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                        <nounPhrase><noun>bread</noun></nounPhrase> and
+                        <nounPhrase><noun>water</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase neg="true"><verb>don't know</verb></verbPhrase> if
                         <nounPhrase><noun>they</noun></nounPhrase>
-                <nounPhrase><noun>fags</noun></nounPhrase> or what</line>
+                <nounPhrase><noun>fags</noun></nounPhrase> or <nounPhrase><det>what</det></nounPhrase></line>
             <line><verbPhrase><verb>Search</verb>
                     <nounPhrase><det>a</det>
                         <noun>nigga</noun></nounPhrase>
-                    <adverb>down</adverb></verbPhrase>, and <verbPhrase><verb>grabbin</verb>
+                    <adverb>down</adverb>, and <verbPhrase><verb>grabbin</verb>
                     <nounPhrase><det>his</det>
-                        <noun>nuts</noun></nounPhrase></verbPhrase></line>
+                        <noun>nuts</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line>And <prepPhrase><prep>on</prep>
                     <nounPhrase><det>the</det>
                         <adjective>other</adjective>
@@ -170,11 +170,11 @@
                 <verbPhrase><verb>will swarm</verb></verbPhrase></line>
             <line><prepPhrase><prep>on</prep>
                     <nounPhrase><adjective>any</adjective>
-                        <noun>motherfucker</noun></nounPhrase></prepPhrase>
+                        <noun>motherfucker</noun></nounPhrase>
                 <prepPhrase><prep>in</prep>
                     <nounPhrase><det>a</det>
                         <adjective>blue</adjective>
-                        <noun>uniform</noun></nounPhrase></prepPhrase></line>
+                        <noun>uniform</noun></nounPhrase></prepPhrase></prepPhrase></line>
             <line>Just cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
                     <prepPhrase><prep>from</prep>
                         <nounPhrase><det>the</det>
@@ -191,7 +191,7 @@
                 <prepPhrase><prep>on</prep>
                     <nounPhrase><det>the</det>
                         <noun>warpath</noun></nounPhrase></prepPhrase></line>
-            <line>And when <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
+            <line>And <adverb>when</adverb> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
                         finished</verb>,
                             <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s gonna
                             be</verb>
@@ -212,12 +212,12 @@
         <verse>
             <line><verbPhrase><verb>Fuck</verb>
                     <nounPhrase><det>the</det>
-                        <noun>police</noun></nounPhrase></verbPhrase> and
+                        <noun>police</noun></nounPhrase> and
                         <nounPhrase><noun>Ren</noun></nounPhrase>
                 <verbPhrase><verb>said</verb>
                     <nounPhrase><noun>it</noun></nounPhrase>
                     <prepPhrase><prep>with</prep>
-                        <nounPhrase><noun>authority</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                        <nounPhrase><noun>authority</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line>because <nounPhrase><det>the</det>
                     <noun>niggaz</noun></nounPhrase>
                 <prepPhrase><prep>on</prep>
@@ -252,19 +252,19 @@
                     <verbPhrase><adverb>never</adverb>
                         <verb>saw</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Lights</noun></nounPhrase>
-                <verbPhrase><verb>start flashin</verb>
+                <verbPhrase><verb>start</verb> <verbPhrase><verb>flashin</verb>
                     <prepPhrase><prep>behind</prep>
-                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                        <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line>But <nounPhrase><noun>they</noun></nounPhrase><verbPhrase><verb>'re</verb>
                     <adjective>scared</adjective>
                     <prepPhrase><prep>of</prep>
                         <nounPhrase><det>a</det>
-                            <noun>nigga</noun></nounPhrase></prepPhrase></verbPhrase> so
+                            <noun>nigga</noun></nounPhrase></prepPhrase> so
                         <nounPhrase><noun>they</noun></nounPhrase>
                 <verbPhrase><verb>mace</verb>
                     <nounPhrase><noun>me</noun></nounPhrase>
-                    <verb>to blind</verb>
-                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+                    <verbPhrase><verb>to blind</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></line>
             <line>But <nounPhrase><det>that</det>
                     <noun>shit</noun></nounPhrase>
                 <verbPhrase neg="true">don't work</verbPhrase>,
@@ -274,10 +274,10 @@
                 <verbPhrase><verb>gives</verb>
                     <nounPhrase><noun>em</noun></nounPhrase>
                     <nounPhrase><det>a</det>
-                        <noun>hint</noun></nounPhrase>, not <verb>to step</verb>
+                        <noun>hint</noun></nounPhrase>, <verbPhrase neg="true">not <verb>to step</verb>
                     <prepPhrase><prep>in</prep>
                         <nounPhrase><det>my</det>
-                            <noun>path</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                            <noun>path</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line><prepPhrase><prep>For</prep>
                     <nounPhrase><noun>police</noun></nounPhrase></prepPhrase>,
                         <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m sayin</verb>,
@@ -309,11 +309,11 @@
             <line>But <verbPhrase><verb>take</verb>
                     <adverb>off</adverb>
                     <nounPhrase><det>the</det>
-                        <noun>gun</noun></nounPhrase></verbPhrase> so
+                        <noun>gun</noun></nounPhrase> so
                     <nounPhrase><noun>you</noun></nounPhrase>
                 <verbPhrase><verb>can see</verb>
                     <nounPhrase><noun>what</noun></nounPhrase><verbPhrase><verb>'s</verb>
-                        <adjective>up</adjective></verbPhrase></verbPhrase></line>
+                        <adjective>up</adjective></verbPhrase></verbPhrase></verbPhrase></line>
             <line>And <nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>'ll go</verb>
                     <prepPhrase><prep>at</prep>
                         <nounPhrase><noun>it</noun></nounPhrase></prepPhrase>
@@ -349,7 +349,7 @@
                     <verbPhrase><verb>sweats</verb>
                         <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line>or <nounPhrase><adjective>any</adjective>
-                    <noun>asshole</noun></nounPhrase>, <nounPhrase><noun>that</noun></nounPhrase>
+                    <noun>asshole</noun></nounPhrase>, that
                 <verbPhrase><verb>threatens</verb>
                     <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
@@ -357,14 +357,14 @@
                         <noun>sniper</noun></nounPhrase>
                     <prepPhrase><prep>with</prep>
                         <nounPhrase><det>a</det>
-                            <noun>hell</noun></nounPhrase></prepPhrase>
+                            <noun>hell</noun></nounPhrase>
                     <prepPhrase><prep>of</prep>
                         <nounPhrase><det>a</det>
-                            <noun>scope</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                            <noun>scope</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Takin</verb>
                     <adverb>out</adverb>
                     <nounPhrase><det>a</det>
-                        <noun>cop</noun> or <noun>two</noun></nounPhrase></verbPhrase>,
+                        <noun>cop</noun></nounPhrase> or <nounPhrase><det>two</det></nounPhrase></verbPhrase>,
                         <nounPhrase><noun>they</noun></nounPhrase>
                 <verbPhrase><verb>can't cope</verb>
                     <prepPhrase><prep>with</prep>
@@ -372,7 +372,7 @@
             <line><nounPhrase><det>The</det>
                     <adjective>motherfuckin</adjective>
                     <noun>villian</noun></nounPhrase>
-                <nounPhrase><noun>that</noun></nounPhrase><verbPhrase>'s
+                <nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <adjective>mad</adjective></verbPhrase></line>
             <line><prepPhrase><prep>With</prep>
                     <nounPhrase><noun>potential</noun></nounPhrase></prepPhrase>,
@@ -404,10 +404,10 @@
             <line><verbPhrase><verb>Takin</verb>
                     <adverb>out</adverb>
                     <nounPhrase><det>a</det>
-                        <noun>police</noun></nounPhrase></verbPhrase>, <verbPhrase><verb>would
+                        <noun>police</noun></nounPhrase>, <verbPhrase><verb>would
                         make</verb>
                     <nounPhrase><det>my</det>
-                        <noun>day</noun></nounPhrase></verbPhrase></line>
+                        <noun>day</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line>But <nounPhrase><det>a</det>
                     <noun>nigga</noun></nounPhrase>
                 <prepPhrase><prep>like</prep>
@@ -427,7 +427,7 @@
                             <noun>jackin</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Sweatin</verb>
                     <nounPhrase><det>my</det>
-                        <noun>gang</noun></nounPhrase></verbPhrase>, while
+                        <noun>gang</noun></nounPhrase></verbPhrase>, <adverb>while</adverb>
                         <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m chillin</verb>
                     <prepPhrase><prep>in</prep>
                         <nounPhrase><det>the</det>
@@ -440,7 +440,7 @@
                             <noun>face</noun></nounPhrase></prepPhrase>, and
                             <prepPhrase><prep>for</prep>
                         <nounPhrase><noun>what</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
-            <line>Maybe <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> because
+            <line><adverb>Maybe</adverb> <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> because
                             <nounPhrase><noun>I</noun></nounPhrase>
                     <verbPhrase><verb>kick</verb>
                         <nounPhrase><adverb>so</adverb>
@@ -448,13 +448,13 @@
                             <noun>butt</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>kick</verb>
-                    <nounPhrase><noun>ass</noun></nounPhrase></verbPhrase> - or maybe cause
+                    <nounPhrase><noun>ass</noun></nounPhrase></verbPhrase> - or <adverb>maybe</adverb> cause
                         <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>blast</verb></verbPhrase></line>
             <line><prepPhrase><prep>on</prep>
                     <nounPhrase><det>a</det>
                         <adjective>stupid-assed</adjective>
-                        <noun>nigga</noun></nounPhrase></prepPhrase> when
+                        <noun>nigga</noun></nounPhrase></prepPhrase> <adverb>when</adverb>
                     <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m playin</verb>
                     <prepPhrase><prep>with</prep>
                         <nounPhrase><det>the</det>
@@ -497,7 +497,7 @@
                     <nounPhrase><noun>flavor</noun></nounPhrase></verbPhrase></line>
             <line><prepPhrase><prep>Without</prep>
                     <nounPhrase><det>a</det>
-                        <noun>gun</noun> and <det>a</det>
+                        <noun>gun</noun></nounPhrase> and <nounPhrase><det>a</det>
                         <noun>badge</noun></nounPhrase></prepPhrase>,
                     <nounPhrase><noun>what</noun></nounPhrase>
                 <verbPhrase><verb>do</verb>
@@ -537,8 +537,8 @@
                 <verbPhrase><verb>know</verb></verbPhrase>,
                         <nounPhrase><noun>E</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <nounPhrase><noun>here</noun></nounPhrase>
-                    <verb>to rule</verb></verbPhrase></line>
-            <line>Whenever <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
+                    <verbPhrase><verb>to rule</verb></verbPhrase></verbPhrase></line>
+            <line><adverb>Whenever</adverb> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
                     rollin</verb></verbPhrase>, <verbPhrase><verb>keep lookin</verb>
                     <prepPhrase><prep>in</prep>
                         <nounPhrase><det>the</det>
@@ -556,13 +556,13 @@
             <line>And if <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m rollin</verb>
                     <adverb>off</adverb>
                     <nounPhrase><det>the</det>
-                        <noun>8</noun></nounPhrase></verbPhrase>, he<verbPhrase><verb>'ll be</verb>
+                        <det>8</det></nounPhrase></verbPhrase>, he<verbPhrase><verb>'ll be</verb>
                     <nounPhrase><det>the</det>
                         <noun>one</noun></nounPhrase></verbPhrase></line>
             <line>that <nounPhrase><noun>I</noun></nounPhrase>
-                <verbPhrase><verb>take</verb> out</verbPhrase>, and then
+                <verbPhrase><verb>take</verb> out, and then
                         <verbPhrase><verb>get</verb>
-                    <adverb>away</adverb></verbPhrase></line>
+                    <adverb>away</adverb></verbPhrase></verbPhrase></line>
             <line>While <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m drivin</verb>
                     <adverb>off</adverb>
                     <verb>laughin</verb></verbPhrase>

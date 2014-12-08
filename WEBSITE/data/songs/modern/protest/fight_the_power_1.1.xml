@@ -15,11 +15,11 @@
     </metadata>
     <lyrics>
         <verse>
-            <line><nounPhrase><noun>1989</noun></nounPhrase>
+            <line><nounPhrase><det>1989</det></nounPhrase>
                 <nounPhrase><det>the</det>
                     <noun>number</noun></nounPhrase>
                 <nounPhrase><adjective>another</adjective>
-                    <noun>summer</noun></nounPhrase> (get down)</line>
+                    <noun>summer</noun></nounPhrase> (<verbPhrase><verb>get</verb> <adverb>down</adverb></verbPhrase>)</line>
             <line><nounPhrase><noun>Sound</noun></nounPhrase>
                 <prepPhrase><prep>of</prep>
                     <nounPhrase><det>the</det>
@@ -32,31 +32,31 @@
                         <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>know</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <verbPhrase><verb>got sould</verb></verbPhrase></verbPhrase></line>
+                    <verbPhrase><verb>got</verb> <nounPhrase><noun>soul</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line>(<nounPhrase><noun>Brothers</noun></nounPhrase> and
                         <nounPhrase><noun>sisters</noun></nounPhrase>, hey)</line>
-            <line><verbPhrase><verb>Listen</verb></verbPhrase> if
+            <line><verbPhrase><verb>Listen</verb> if
                     <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re
-                    missin'</verb></verbPhrase>
-                <nounPhrase><noun>y'all</noun></nounPhrase></line>
-            <line><verbPhrase><verb>Swingin'</verb></verbPhrase> while
+                    missin'</verb>
+                <nounPhrase><noun>y'all</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Swingin'</verb></verbPhrase> <adverb>while</adverb>
                     <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
                     singin'</verb></verbPhrase></line>
             <line><verbPhrase><verb>Givin'</verb>
-                    <nounPhrase><noun>what</noun></nounPhrase><verbPhrase><verb>cha
-                        gettin'</verb></verbPhrase></verbPhrase></line>
-            <line><verbPhrase><verb>Knowin'</verb> what <nounPhrase><noun>I</noun></nounPhrase>
+                    <nounPhrase><noun>what</noun></nounPhrase><nounPhrase><noun>cha</noun></nounPhrase>
+                        <verbPhrase><verb>gettin'</verb></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Knowin'</verb>  <nounPhrase><det>what</det> <noun>I</noun></nounPhrase>
                     <verbPhrase><verb>know</verb></verbPhrase></verbPhrase></line>
-            <line>While <nounPhrase><det>the</det>
-                    <adjective>Black</adjective> bands<noun/></nounPhrase>
+            <line><adverb>While</adverb> <nounPhrase><det>the</det>
+                    <adjective>Black</adjective> <noun>bands</noun></nounPhrase>
                 <verbPhrase><verb>sweatin'</verb></verbPhrase></line>
             <line>And <nounPhrase><det>the</det>
-                    <noun>rhythm</noun></nounPhrase>
-                <verbPhrase><verb>rhymes</verb></verbPhrase> rollin'</line>
-            <line><verbPhrase><verb>Got to give</verb>
-                    <nounPhrase><noun>us</noun></nounPhrase> what
-                        <nounPhrase><noun>we</noun></nounPhrase>
-                    <verbPhrase><verb>want</verb></verbPhrase></verbPhrase></line>
+                    <adjective>rhythm</adjective>
+                <noun>rhymes</noun></nounPhrase> <verbPhrase><verb>rollin'</verb></verbPhrase></line>
+            <line><verbPhrase><verb>Got</verb> <verbPhrase><verb>to give</verb>
+                    <nounPhrase><noun>us</noun></nounPhrase> 
+                        <nounPhrase><det>what</det> <noun>we</noun></nounPhrase>
+                    <verbPhrase><verb>want</verb></verbPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Gotta give</verb>
                     <nounPhrase><noun>us</noun></nounPhrase> what
                         <nounPhrase><noun>we</noun></nounPhrase>
@@ -69,11 +69,11 @@
                     <nounPhrase><noun>freedom</noun></nounPhrase> or
                         <nounPhrase><noun>death</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>We</noun></nounPhrase>
-                <verbPhrase><verb>got to fight</verb>
+                <verbPhrase><verb>got</verb> <verbPhrase><verb>to fight</verb>
                     <nounPhrase><det>the</det>
-                        <noun>powers</noun></nounPhrase></verbPhrase> that be</line>
-            <line>Lemme hear <nounPhrase><noun>you</noun></nounPhrase>
-                <verbPhrase><verb>say</verb></verbPhrase></line>
+                        <noun>powers</noun></nounPhrase> that <verbPhrase><verb>be</verb></verbPhrase></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Lem</verb><nounPhrase><noun>me</noun></nounPhrase> <verbPhrase><verb>hear</verb> <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>say</verb></verbPhrase></verbPhrase></verbPhrase></line>
         </verse>
         <verse>
             <refrainSectionRef sectionRef="1"/>
@@ -81,26 +81,26 @@
         <verse>
             <line>As <nounPhrase><det>the</det>
                     <noun>rhythm</noun></nounPhrase>
-                <verbPhrase><verb>designed to bounce</verb></verbPhrase></line>
-            <line><nounPhrase><noun>What</noun></nounPhrase>
-                <verbPhrase><verb>counts</verb></verbPhrase>
+                <verbPhrase><verb>designed</verb> <verbPhrase><verb>to bounce</verb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><det>What</det></nounPhrase>
+                <verbPhrase><verb>counts</verb>
                 <verbPhrase><verb>is</verb> that <nounPhrase><det>the</det>
-                        <noun>rhymes</noun></nounPhrase></verbPhrase></line>
-            <line><verbPhrase><verb>Designed to fill</verb>
+                        <noun>rhymes</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Designed</verb> <verbPhrase><verb>to fill</verb>
                     <nounPhrase><det>your</det>
-                        <noun>mind</noun></nounPhrase></verbPhrase></line>
-            <line>Now that <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ve
+                        <noun>mind</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><adverb>Now</adverb> that <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ve
                         realized</verb>
                     <nounPhrase><det>the</det>
                         <noun>pride</noun></nounPhrase><verbPhrase><verb>'s
                         arrived</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>We</noun></nounPhrase>
-                <verbPhrase><verb>got to pump</verb>
+                <verbPhrase><verb>got</verb> <verbPhrase><verb>to pump</verb>
                     <nounPhrase><det>the</det>
                         <noun>stuff</noun></nounPhrase>
-                    <verb>to make</verb>
+                    <verbPhrase><verb>to make</verb>
                     <nounPhrase><noun>us</noun></nounPhrase>
-                    <adjective>tough</adjective></verbPhrase></line>
+                    <adjective>tough</adjective></verbPhrase></verbPhrase></verbPhrase></line>
             <line><prepPhrase><prep>from</prep>
                     <nounPhrase><det>the</det>
                         <noun>heart</noun></nounPhrase></prepPhrase></line>
@@ -116,19 +116,19 @@
                         <noun>change</noun></nounPhrase></verbPhrase>
                 <nounPhrase><noun>nothin</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <adjective>strange</adjective></verbPhrase></line>
-            <line><nounPhrase><noun>People</noun>, <noun>people</noun></nounPhrase>
+            <line><nounPhrase><noun>People</noun></nounPhrase>, <nounPhrase><noun>people</noun></nounPhrase>
                 <nounPhrase><noun>we</noun></nounPhrase>
                 <verbPhrase><verb>are</verb>
                     <nounPhrase><det>the</det>
                         <noun>same</noun></nounPhrase></verbPhrase></line>
             <line>No <nounPhrase><noun>we</noun></nounPhrase><verbPhrase neg="false"
                         ><verb>'re</verb> not <nounPhrase><det>the</det>
-                    same<noun/></nounPhrase></verbPhrase></line>
+                    <adjective>same</adjective></nounPhrase></verbPhrase></line>
             <line>Cause <nounPhrase><noun>we</noun></nounPhrase>
                 <verbPhrase neg="true"><verb>don't know</verb>
                     <nounPhrase><det>the</det>
                         <noun>game</noun></nounPhrase></verbPhrase></line>
-            <line>What <nounPhrase><noun>we</noun></nounPhrase>
+            <line> <nounPhrase><det>What</det> <noun>we</noun></nounPhrase>
                 <verbPhrase><verb>need</verb>
                     <verbPhrase><verb>is</verb>
                         <nounPhrase><noun>awareness</noun></nounPhrase></verbPhrase></verbPhrase>,
@@ -139,11 +139,11 @@
                 <verbPhrase><verb>say</verb> what <verbPhrase><verb>is</verb>
                         <nounPhrase><noun>this</noun></nounPhrase></verbPhrase></verbPhrase>?</line>
             <line><nounPhrase><det>My</det>
-                    <noun>beloved</noun></nounPhrase> let's <verbPhrase><verb>get down</verb>
+                    <noun>beloved</noun></nounPhrase> <verbPhrase><verb>let</verb><nounPhrase><noun>'s</noun></nounPhrase> <verbPhrase><verb>get</verb> <adverb>down</adverb>
                     <prepPhrase><prep>to</prep>
-                        <nounPhrase><noun>business</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                        <nounPhrase><noun>business</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><adjective>Mental</adjective>
-                    <adjective>self defensive</adjective>
+                    <adjective>self-defensive</adjective>
                     <noun>fitness</noun></nounPhrase></line>
             <line>(Yo) <verbPhrase><verb>bum rush</verb>
                     <nounPhrase><det>the</det>
@@ -156,13 +156,13 @@
                     <verbPhrase><verb>know</verb></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Make</verb>
                     <nounPhrase><noun>everybody</noun></nounPhrase>
-                    <verb>see</verb></verbPhrase>, <prepPhrase><prep>in</prep>
-                    <nounPhrase><noun>order</noun></nounPhrase></prepPhrase>
+                    <verb>see</verb></verbPhrase>, in
+                    order
                 <verbPhrase><verb>to fight</verb>
                     <nounPhrase><det>the</det>
-                        <noun>powers</noun></nounPhrase></verbPhrase> that be</line>
-            <line>Lemme hear <nounPhrase><noun>you</noun></nounPhrase>
-                <verbPhrase><verb>say</verb></verbPhrase>...</line>
+                        <noun>powers</noun></nounPhrase></verbPhrase> that <verbPhrase><verb>be</verb></verbPhrase></line>
+            <line><verbPhrase><verb>Lem</verb><nounPhrase><noun>me</noun></nounPhrase> <verbPhrase><verb>hear</verb> <nounPhrase><noun>you</noun></nounPhrase>
+                <verbPhrase><verb>say</verb></verbPhrase></verbPhrase></verbPhrase>...</line>
         </verse>
         <verse>
             <refrainSectionRef sectionRef="1"/>
@@ -174,19 +174,19 @@
                         <noun>hero</noun></nounPhrase>
                     <prepPhrase><prep>to</prep>
                         <nounPhrase><noun>most</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>But <nounPhrase><noun>he</noun></nounPhrase> never <verbPhrase neg="true"
-                        ><verb>meant</verb>
+            <line>But <nounPhrase><noun>he</noun></nounPhrase>  <verbPhrase neg="true"
+                        >never <verb>meant</verb>
                     <nounPhrase><noun>shit</noun></nounPhrase>
                     <prepPhrase><prep>to</prep>
                         <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase>
                 <nounPhrase><noun>you</noun></nounPhrase>
                 <verbPhrase><verb>see</verb></verbPhrase></line>
-            <line>Straight up <nounPhrase>racist <det>that</det>
+            <line><verbPhrase><adjective>Straight up</adjective> <adjective>racist</adjective></verbPhrase> <nounPhrase><det>that</det>
                     <noun>sucker</noun></nounPhrase>
                 <verbPhrase><verb>was</verb></verbPhrase></line>
-            <line>Simple and plain</line>
+            <line><verbPhrase><adjective>Simple and plain</adjective></verbPhrase></line>
             <line><verbPhrase><verb>Motherfuck</verb>
-                    <nounPhrase><noun>him</noun> and <noun>John
+                    <nounPhrase><noun>him</noun></nounPhrase> and <nounPhrase><noun>John
                     Wayne</noun></nounPhrase></verbPhrase></line>
             <line>Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
                     <adjective>Black</adjective></verbPhrase> and
@@ -196,50 +196,50 @@
                     <adjective>ready</adjective> and <adjective>hyped</adjective></verbPhrase> plus
                         <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
                     <adjective>amped</adjective></verbPhrase></line>
-            <line><nounPhrase><noun>Most</noun></nounPhrase>
+            <line><nounPhrase><det>Most</det></nounPhrase>
                 <prepPhrase><prep>of</prep>
                     <nounPhrase><det>my</det>
                         <noun>heroes</noun></nounPhrase></prepPhrase>
                 <verbPhrase neg="true"><verb>don't appear</verb>
-                    <prepPhrase><prep>on</prep> no <nounPhrase neg="true"
-                            ><noun>stamps</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                    <prepPhrase><prep>on</prep>  <nounPhrase neg="true"
+                            >no <noun>stamps</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Sample</verb>
                     <nounPhrase><det>a</det>
                         <noun>look</noun></nounPhrase>
                     <adverb>back</adverb></verbPhrase>
                 <nounPhrase><noun>you</noun></nounPhrase>
-                <verbPhrase><verb>look</verb> and <verb>find</verb></verbPhrase></line>
+                <verbPhrase><verb>look</verb></verbPhrase> and <verbPhrase><verb>find</verb></verbPhrase></line>
             <line><nounPhrase><noun>Nothing</noun></nounPhrase> but
                         <nounPhrase><noun>rednecks</noun></nounPhrase>
                 <prepPhrase><prep>for</prep>
-                    <nounPhrase><adjective>400</adjective>
+                    <nounPhrase><det>400</det>
                         <noun>years</noun></nounPhrase></prepPhrase> if
                     <nounPhrase><noun>you</noun></nounPhrase>
                 <verbPhrase><verb>check</verb></verbPhrase></line>
-            <line><verbPhrase neg="true"><verb>Don't worry</verb></verbPhrase>
+            <line><verbPhrase neg="true"><verb>Don't worry</verb>
                 <verbPhrase><verb>be</verb>
-                    <adjective>happy</adjective></verbPhrase></line>
+                    <adjective>happy</adjective></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Was</verb>
                     <nounPhrase><det>a</det>
                         <adjective>number</adjective>
                         <adjective>one</adjective>
                         <noun>jam</noun></nounPhrase></verbPhrase></line>
-            <line>Damn if <nounPhrase><noun>I</noun></nounPhrase>
+            <line><verbPhrase><verb>Damn</verb> if <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>say</verb>
-                    <nounPhrase><noun>it</noun></nounPhrase></verbPhrase>
+                    <nounPhrase><noun>it</noun></nounPhrase></verbPhrase></verbPhrase>
                 <nounPhrase><noun>you</noun></nounPhrase>
                 <verbPhrase><verb>can slap</verb>
                     <nounPhrase><noun>me</noun></nounPhrase>
                     <adverb>right</adverb>
                     <adverb>here</adverb></verbPhrase></line>
-            <line>(Get it) lets <verbPhrase><verb>get</verb>
+            <line>(<verbPhrase><verb>Get</verb> <nounPhrase><noun>it</noun></nounPhrase></verbPhrase>) <verbPhrase><verb>lets</verb> <verbPhrase><verb>get</verb>
                     <nounPhrase><det>this</det>
                         <noun>party</noun></nounPhrase>
                     <verbPhrase><verb>started</verb>
-                        <adverb>right</adverb></verbPhrase></verbPhrase></line>
+                        <adverb>right</adverb></verbPhrase></verbPhrase></verbPhrase></line>
             <line>Right on, c'mon</line>
             <line>What <nounPhrase><noun>we</noun></nounPhrase>
-                <verbPhrase><verb>got to say</verb></verbPhrase></line>
+                <verbPhrase><verb>got</verb> <verbPhrase><verb>to say</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Power</noun></nounPhrase>
                 <prepPhrase><prep>to</prep>
                     <nounPhrase><det>the</det>
@@ -252,7 +252,7 @@
                     <nounPhrase><noun>order</noun></nounPhrase></prepPhrase>
                 <verbPhrase><verb>to fight</verb>
                     <nounPhrase><det>the</det>
-                        <noun>powers</noun></nounPhrase></verbPhrase> that be</line>
+                        <noun>powers</noun></nounPhrase> that <verbPhrase><verb>be</verb></verbPhrase></verbPhrase></line>
         </verse>
         <refrainSection sectionID="1">
             <refrainLineRef lineRef="1"/>
@@ -266,9 +266,9 @@
         <refrainLine lineID="1"><verbPhrase><verb>Fight</verb>
                 <nounPhrase><det>the</det>
                     <noun>Power</noun></nounPhrase></verbPhrase></refrainLine>
-        <refrainLine lineID="2"><nounPhrase><noun>We</noun></nounPhrase><verbPhrase><verb>'ve got to
+        <refrainLine lineID="2"><nounPhrase><noun>We</noun></nounPhrase><verbPhrase><verb>'ve got</verb> <verbPhrase><verb>to
                     fight</verb>
                 <nounPhrase><det>the</det>
-                    <noun>powers</noun></nounPhrase> that be</verbPhrase></refrainLine>
+                    <noun>powers</noun></nounPhrase> that <verbPhrase><verb>be</verb></verbPhrase></verbPhrase></verbPhrase></refrainLine>
     </lyrics>
 </song>

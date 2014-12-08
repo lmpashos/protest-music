@@ -13,12 +13,12 @@
     <lyrics>
         <verse>
             <line><nounPhrase><noun>He </noun></nounPhrase><verbPhrase><verb>said</verb>, "<nounPhrase>Son</nounPhrase>, <verbPhrase><verb>have</verb> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>seen</verb> <nounPhrase><det>the</det> <noun>world</noun></nounPhrase></verbPhrase></verbPhrase>?</verbPhrase></line>
-            <line>Well, <nounPhrase><det>what</det></nounPhrase> <verbPhrase>would <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>say</verb></verbPhrase></verbPhrase> if <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>said</verb> that <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>could</verb></verbPhrase></verbPhrase>?</line>
+            <line>Well, <nounPhrase><det>what</det></nounPhrase> <verbPhrase>would <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>say</verb></verbPhrase> if <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>said</verb> that <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>could</verb></verbPhrase></verbPhrase></verbPhrase>?</line>
             <line><verbPhrase><adverb>Just</adverb> <verb>carry</verb> <nounPhrase><det>this</det> <noun>gun</noun></nounPhrase></verbPhrase>; you<verbPhrase><verb>'ll</verb> <adverb>even</adverb> <verbPhrase><verb>get</verb> <verbPhrase><verb>paid</verb></verbPhrase></verbPhrase></verbPhrase>."</line>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>said</verb>, "<nounPhrase><det>That</det></nounPhrase> <verbPhrase><verb>sounds</verb> <adjective>pretty</adjective> <adjective>good</adjective></verbPhrase>.</verbPhrase>"</line>
         </verse>
         <verse>
-            <line><nounPhrase><adjective>Black</adjective> <adjective>leather</adjective> <noun>boots</noun></nounPhrase>, <nounPhrase><noun>spit</noun></nounPhrase> <verbPhrase><verb>shined</verb> <adjective>so</adjective> <adjective>bright</adjective></verbPhrase>.</line>
+            <line><nounPhrase><adjective>Black</adjective> <adjective>leather</adjective> <noun>boots</noun></nounPhrase>, <nounPhrase><noun>spit</noun></nounPhrase> <verbPhrase><verb>shined</verb> <adverb>so</adverb> <adjective>bright</adjective></verbPhrase>.</line>
             <line><nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>cut off</verb> <nounPhrase><det>my</det> <noun>hair</noun></nounPhrase></verbPhrase>, but <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>looked</verb> <adjective>alright</adjective></verbPhrase>.</line>
             <line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>marched</verb></verbPhrase>, and <nounPhrase><noun>we</noun></nounPhrase> <verbPhrase><verb>sang</verb></verbPhrase>.</line>
             <line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><adverb>all</adverb> <verb>became</verb> <nounPhrase><noun>friends</noun></nounPhrase>, as <nounPhrase><noun>we</noun></nounPhrase> <verbPhrase><verb>learned</verb> how <verbPhrase><verb>to fight</verb></verbPhrase></verbPhrase></verbPhrase>.</line>
@@ -47,7 +47,7 @@
             <line>And <nounPhrase><det>the</det> <noun>shells</noun></nounPhrase> <verbPhrase><verb>jumped</verb> <prepPhrase><prep>through</prep> <nounPhrase><det>the</det> <noun>smoke</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line>And <prepPhrase><prep>into</prep> <nounPhrase><det>the</det> <noun>sand</noun></nounPhrase> that <nounPhrase><det>the</det> <noun>blood</noun></nounPhrase> now <verbPhrase><verb>had soaked</verb></verbPhrase></prepPhrase>.</line>
             <line><nounPhrase><noun>She</noun></nounPhrase> <verbPhrase><verb>collapsed</verb> <prepPhrase><prep>with</prep> <nounPhrase><det>a</det> <noun>flag</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>her</det> <noun>hand</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase>,</line>
-            <line><nounPhrase><det>A</det> <noun>flag</noun> <adjective>white</adjective> as <noun>snow</noun></nounPhrase>.</line>
+            <line><nounPhrase><det>A</det> <noun>flag</noun></nounPhrase> <prepPhrase><adjective>white</adjective> <prep>as</prep> <nounPhrase><noun>snow</noun></nounPhrase></prepPhrase>.</line>
             <refrainSectionRef sectionRef="2"/>
         </verse>
         <verse>
