@@ -20,7 +20,7 @@
             <line><nounPhrase><det>My</det>
                     <noun>aura</noun></nounPhrase>
                 <verbPhrase><verb>smiles</verb></verbPhrase></line>
-            <line>And <verbPhrase><adverb>never</adverb>
+            <line>And <verbPhrase neg="true"><adverb>never</adverb>
                     <verb>frowns</verb></verbPhrase></line>
             <line><adverb>Soon</adverb>
                 <nounPhrase><noun>I</noun></nounPhrase>
@@ -28,8 +28,8 @@
                     <nounPhrase><noun>president</noun></nounPhrase></verbPhrase>...</line>
         </verse>
         <verse>
-            <line><nounPhrase><adjective>Carter</adjective>
-                    <noun>Power</noun></nounPhrase>
+            <line><nounPhrase><noun>Carter
+                    Power</noun></nounPhrase>
                 <verbPhrase><verb>will</verb>
                     <adverb>soon</adverb>
                     <verb>go</verb>
@@ -39,7 +39,7 @@
                     <nounPhrase><noun>Fuhrer</noun></nounPhrase>
                     <nounPhrase><det>one</det>
                         <noun>day</noun></nounPhrase></verbPhrase></line>
-            <line><nounPhrase><noun>I</noun></nounPhrase> will command all of you</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>will command</verb> <prepPhrase><adverb>all</adverb> <prep>of</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><det>Your</det>
                     <noun>kids</noun></nounPhrase>
                 <verbPhrase><verb>will meditate</verb>
@@ -59,8 +59,8 @@
                     <noun>fascists</noun></nounPhrase>
                 <verbPhrase><verb>will control</verb>
                     <nounPhrase><noun>you</noun></nounPhrase></verbPhrase></line>
-            <line><nounPhrase><adjective>100%</adjective>
-                    <noun>natural</noun></nounPhrase></line>
+            <line><verbPhrase><adjective>100%</adjective>
+                    <adjective>natural</adjective></verbPhrase></line>
             <line><nounPhrase><noun>You</noun></nounPhrase>
                 <verbPhrase><verb>will jog</verb>
                     <prepPhrase><prep>for</prep>
@@ -79,8 +79,8 @@
                         <noun>eyes</noun></nounPhrase></verbPhrase>, <verbPhrase neg="true"
                         ><verb>can't happen</verb>
                     <adverb>here</adverb></verbPhrase></line>
-            <line><nounPhrase><noun>Big</noun>
-                    <noun>Bro</noun></nounPhrase>' <prepPhrase><prep>on</prep>
+            <line><nounPhrase><noun>Big
+                    Bro</noun></nounPhrase>' <prepPhrase><prep>on</prep>
                     <nounPhrase><adjective>white</adjective>
                         <noun>horse</noun></nounPhrase></prepPhrase>
                 <verbPhrase><verb>is</verb>
@@ -104,7 +104,7 @@
         <verse>
             <line>Now <nounPhrase><noun>it</noun></nounPhrase>
                 <verbPhrase><verb>is</verb>
-                    <nounPhrase><noun>1984</noun></nounPhrase></verbPhrase></line>
+                    <nounPhrase><det>1984</det></nounPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Knock-knock</verb>
                     <prepPhrase><prep>at</prep>
                         <nounPhrase><det>your</det>
@@ -112,7 +112,7 @@
                             <noun>door</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <nounPhrase><det>the</det>
-                        <adverb>suede/denim</adverb>
+                        <adjective>suede/denim</adjective>
                         <adjective>secret</adjective>
                         <noun>police</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>They</noun></nounPhrase>
@@ -152,7 +152,7 @@
         <verse>
             <line><verbPhrase><verb>DIE</verb>
                     <prepPhrase><prep>on</prep>
-                        <adverb>organic</adverb>
+                        <adjective>organic</adjective>
                         <adjective>poison</adjective>
                         <nounPhrase>gas</nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Serpent</noun><det>'s</det>
@@ -163,12 +163,12 @@
                 <verbPhrase><verb>will croak</verb></verbPhrase>, <nounPhrase><noun>you</noun>
                     <adjective>little</adjective>
                     <noun>clown</noun></nounPhrase></line>
-            <line>When <nounPhrase><noun>you</noun></nounPhrase>
+            <line><adverb>When</adverb> <nounPhrase><noun>you</noun></nounPhrase>
                 <verbPhrase><verb>mess</verb>
                     <prepPhrase><prep>with</prep>
                         <nounPhrase><adjective>President</adjective>
                             <noun>Brown</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>When <nounPhrase><noun>you</noun></nounPhrase>
+            <line><adverb>When</adverb> <nounPhrase><noun>you</noun></nounPhrase>
                 <verbPhrase><verb>mess</verb>
                     <prepPhrase><prep>with</prep>
                         <nounPhrase><adjective>President</adjective>

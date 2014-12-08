@@ -15,11 +15,11 @@
     </metadata>
     <lyrics>
         <verse>
-            <line><nounPhrase><noun>1989</noun></nounPhrase>
+            <line><nounPhrase><det>1989</det></nounPhrase>
                 <nounPhrase><det>the</det>
                     <noun>number</noun></nounPhrase>
                 <nounPhrase><adjective>another</adjective>
-                    <noun>summer</noun></nounPhrase> (get down)</line>
+                    <noun>summer</noun></nounPhrase> (<verbPhrase><verb>get</verb> <adverb>down</adverb></verbPhrase>)</line>
             <line><nounPhrase><noun>Sound</noun></nounPhrase>
                 <prepPhrase><prep>of</prep>
                     <nounPhrase><det>the</det>
@@ -32,19 +32,19 @@
                         <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>know</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <verbPhrase><verb>got sould</verb></verbPhrase></verbPhrase></line>
+                    <verbPhrase><verb>got</verb> <nounPhrase><noun>soul</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line>(<nounPhrase><noun>Brothers</noun></nounPhrase> and
                         <nounPhrase><noun>sisters</noun></nounPhrase>, hey)</line>
-            <line><verbPhrase><verb>Listen</verb></verbPhrase> if
+            <line><verbPhrase><verb>Listen</verb> if
                     <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re
                     missin'</verb></verbPhrase>
-                <nounPhrase><noun>y'all</noun></nounPhrase></line>
+                <nounPhrase><noun>y'all</noun></nounPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Swingin'</verb></verbPhrase> while
                     <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
                     singin'</verb></verbPhrase></line>
             <line><verbPhrase><verb>Givin'</verb>
-                    <nounPhrase><noun>what</noun></nounPhrase><verbPhrase><verb>cha
-                        gettin'</verb></verbPhrase></verbPhrase></line>
+                    <nounPhrase><noun>what</noun></nounPhrase><nounPhrase><noun>cha</noun></nounPhrase>
+                        <verbPhrase><verb>gettin'</verb></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Knowin'</verb> what <nounPhrase><noun>I</noun></nounPhrase>
                     <verbPhrase><verb>know</verb></verbPhrase></verbPhrase></line>
             <line>While <nounPhrase><det>the</det>
