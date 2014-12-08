@@ -59,7 +59,7 @@
         </verse>
         <verse>
             <line><nounPhrase><adjective>Black</adjective>
-                    <noun>robe</noun> and <noun>swill</noun></nounPhrase></line>
+                    <noun>robe</noun></nounPhrase> and <nounPhrase><noun>swill</noun></nounPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>believe</verb>
                     <nounPhrase><noun>Anita Hill</noun></nounPhrase></verbPhrase></line>
@@ -102,12 +102,12 @@
             <refrainLineRef lineRef="1"/>
         </verse>
         <verse>
-            <line><prepPhrase><prep>Another</prep>
-                    <nounPhrase><adjective>Nazi</adjective>
-                        <noun>attack</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><det>Another</det>
+                    <adjective>Nazi</adjective>
+                        <noun>attack</noun></nounPhrase></line>
             <line><nounPhrase><det>A</det>
                     <noun>skinhead</noun></nounPhrase>
-                <verbPhrase><verb>is cracked</verb></verbPhrase></line>
+                <verbPhrase><verb>is</verb> <adjective>cracked</adjective></verbPhrase></line>
             <line><nounPhrase><det>My</det>
                     <noun>blood</noun></nounPhrase>
                 <verbPhrase><verb>is</verb>
@@ -116,11 +116,11 @@
         </verse>
         <verse>
             <line><nounPhrase><noun>We</noun></nounPhrase><verbPhrase><verb>'re banging</verb>
-                    <nounPhrase><noun>pots</noun> and
-                <noun>pans</noun></nounPhrase></verbPhrase></line>
+                    <nounPhrase><noun>pots</noun></nounPhrase> and
+                <nounPhrase><noun>pans</noun></nounPhrase></verbPhrase></line>
             <line><verbPhrase><verb>To make</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <verb>understand</verb></verbPhrase></line>
+                    <verbPhrase><verb>understand</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>We</noun></nounPhrase>
                 <verbPhrase><verb>gonna bury</verb>
                     <nounPhrase><noun>you</noun>
@@ -139,7 +139,7 @@
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>killed</verb>
                     <nounPhrase><det>the</det>
-                        <adjective>teacher</adjective><det>'s</det>
+                        <noun>teacher</noun><det>'s</det>
                         <noun>pet</noun></nounPhrase></verbPhrase></line>
             <refrainLineRef lineRef="1"/>
             <refrainLineRef lineRef="1"/>
