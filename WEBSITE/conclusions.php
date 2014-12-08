@@ -19,6 +19,7 @@ $current_page = 'conclusions';
 <script src="js/main.js" type="text/javascript">/**/</script>
 <script src="js/about.js" type="text/javascript">/**/</script>
 <script src="js/scroll.js" type="text/javascript">/**/</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 </head>
 <body>
     <div class="wrapper">
