@@ -133,7 +133,7 @@
                         <nounPhrase><det>her</det>
                             <noun>Side</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line>But <nounPhrase><noun>Who</noun></nounPhrase>
-                <verbPhrase><verb>Can Stand</verb><adverb>When</adverb> <nounPhrase><noun>She</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                <verbPhrase><verb>Can Stand</verb> <adverb>When</adverb> <nounPhrase><noun>She</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <prepPhrase><prep>In</prep>
                         <nounPhrase><noun>Demand</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><det>Her</det>
@@ -192,7 +192,7 @@
                     </prepPhrase></verbPhrase></verbPhrase>, <nounPhrase><noun>Baby</noun></nounPhrase></line>
         </verse>
         <verse>
-            <line><nounPhrase><noun>People</noun></nounPhrase>  <verbPhrase><adverb>Always</adverb><verb>Told</verb>
+            <line><nounPhrase><noun>People</noun></nounPhrase>  <verbPhrase><adverb>Always</adverb> <verb>Told</verb>
                     <nounPhrase><noun>Me</noun></nounPhrase></verbPhrase>
                 <verbPhrase><verb>Be</verb>
                     <adjective>Careful</adjective>

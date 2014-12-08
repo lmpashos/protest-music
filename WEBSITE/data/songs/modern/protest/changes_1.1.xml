@@ -78,8 +78,7 @@
                     <adjective>hungry</adjective>
                     <noun>mouth</noun></nounPhrase>
                 <prepPhrase><prep>on</prep>
-                    <nounPhrase><det>the</det>
-                        <noun>welfare</noun></nounPhrase></prepPhrase>.</line>
+                    <nounPhrase><det>the</det> <noun>welfare</noun></nounPhrase></prepPhrase>.</line>
             <line>First <verbPhrase><verb>ship</verb>
                     <nounPhrase><noun>'em</noun></nounPhrase>
                     <nounPhrase><noun>dope</noun></nounPhrase></verbPhrase> and
@@ -156,7 +155,7 @@
                     <verbPhrase><verb>played</verb>
                         <prepPhrase><prep>as</prep>
                             <nounPhrase><noun>kids</noun></nounPhrase></prepPhrase></verbPhrase></prepPhrase></verbPhrase></verbPhrase></line>
-            <line>but <nounPhrase><noun>things</noun></nounPhrase>
+            <line>But <nounPhrase><noun>things</noun></nounPhrase>
                 <verbPhrase><verb>changed</verb></verbPhrase>, and
                     <nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <nounPhrase><det>the</det>
@@ -194,7 +193,7 @@
                             <det>one</det>
                             <adjective>better</adjective>
                             <noun>place</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase>...</line>
-            <line>let's <verbPhrase><verb>erase</verb>
+            <line>Let's <verbPhrase><verb>erase</verb>
                     <nounPhrase><det>the</det>
                         <noun>wasted</noun></nounPhrase></verbPhrase>.</line>
             <line><verbPhrase><verb>Take</verb>
@@ -243,14 +242,14 @@
                 <verbPhrase neg="true"><verb>don't conceal</verb>
                     <nounPhrase><det>the</det>
                         <noun>fact</noun></nounPhrase></verbPhrase>...</line>
-            <line><nounPhrase><det>the</det>
+            <line><nounPhrase><det>The</det>
                     <noun>penitentiary</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <adjective>packed</adjective></verbPhrase>, and
                         <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> <adjective>filled</adjective>
                     <prepPhrase><prep>with</prep>
                         <nounPhrase><noun>blacks</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
             <line>But <nounPhrase><adjective>some</adjective>
-                    <noun>things</noun></nounPhrase><verbPhrase neg="true"><verb>will</verb>
+                    <noun>things</noun> </nounPhrase><verbPhrase neg="true"><verb>will</verb>
                     <adverb>never</adverb>
                     <verb>change</verb></verbPhrase>.</line>
             <line><verbPhrase><verb>Try</verb> <verbPhrase><verb>to show</verb>
@@ -330,7 +329,7 @@
                     <nounPhrase><det>the</det>
                         <noun>way</noun></nounPhrase>
                     <nounPhrase><noun>we</noun></nounPhrase>
-                <verb>eat</verb></verbPhrase></verbPhrase>, <verbPhrase><verb>Let</verb><nounPhrase><noun>'s</noun></nounPhrase> <verbPhrase><verb>change</verb>
+                <verb>eat</verb></verbPhrase></verbPhrase>, <verbPhrase><verb>let</verb><nounPhrase><noun>'s</noun></nounPhrase> <verbPhrase><verb>change</verb>
                     <nounPhrase><det>the</det>
                         <noun>way</noun></nounPhrase>
                     <nounPhrase><noun>we</noun></nounPhrase>
@@ -380,7 +379,7 @@
                     <nounPhrase><noun>war</noun></nounPhrase></prepPhrase>
                 <prepPhrase><prep>on</prep>
                     <nounPhrase><noun>poverty</noun></nounPhrase></prepPhrase>,</line>
-            <line><nounPhrase><noun>they</noun></nounPhrase>
+            <line><nounPhrase><noun>They</noun></nounPhrase>
                 <verbPhrase><verb>got</verb>
                     <nounPhrase><det>a</det>
                         <noun>war</noun></nounPhrase>
@@ -529,6 +528,6 @@
                 <verb>be</verb>
                 <nounPhrase><det>the</det>
                     <noun>same</noun></nounPhrase></verbPhrase></refrainLine>
-        <refrainLine lineID="4">aww yeah</refrainLine>
+        <refrainLine lineID="4">Aww yeah</refrainLine>
     </lyrics>
 </song>

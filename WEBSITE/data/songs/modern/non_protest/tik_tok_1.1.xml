@@ -92,7 +92,7 @@
             <line><verbPhrase neg="true"><verb>Ain't got</verb>
                     <nounPhrase><det>a</det>
                         <noun>care</noun></nounPhrase>
-                    <prepPhrase><prep>in</prep><nounPhrase><det>the</det>
+                    <prepPhrase><prep>in</prep><nounPhrase> <det>the</det>
                         <noun>world</noun></nounPhrase></prepPhrase></verbPhrase>, but
                         <verbPhrase><verb>got</verb>
                     <adjective>plenty</adjective>
