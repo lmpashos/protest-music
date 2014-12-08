@@ -14,12 +14,12 @@
 
         <line><nounPhrase><det>Three</det> <adjective>little </adjective><noun>words</noun></nounPhrase>, oh <nounPhrase><det>what</det> <noun>I</noun></nounPhrase><verbPhrase><verb>'d give</verb> <prepPhrase><prep>for</prep><nounPhrase> <det>that</det> <adjective>wonderful</adjective> <noun>phrase</noun></nounPhrase></prepPhrase></verbPhrase>, </line>
 
-        <line><verbPhrase><verb>To hear</verb> <nounPhrase><det>those</det> <det>three</det> <adjective>little</adjective><noun> words</noun></nounPhrase> <nounPhrase><det>that</det></nounPhrase><verbPhrase><verb>'s</verb> <adjective>all</adjective> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d live</verb> <prepPhrase><prep>for</prep> <nounPhrase><det>the</det> <noun>rest</noun></nounPhrase><prep>of</prep><nounPhrase><det>my</det> <noun>days</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></verbPhrase></line>   
+        <line><verbPhrase><verb>To hear</verb> <nounPhrase><det>those</det> <det>three</det> <adjective>little</adjective><noun> words</noun></nounPhrase> <nounPhrase><det>that</det></nounPhrase><verbPhrase><verb>'s</verb> <adjective>all</adjective> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d live</verb> <prepPhrase><prep>for</prep> <nounPhrase><det>the</det> <noun>rest</noun></nounPhrase> <prep>of</prep><nounPhrase> <det>my</det> <noun>days</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></verbPhrase></line>   
 
-        <line>And <nounPhrase><det>what</det> <noun>I</noun></nounPhrase><verbPhrase><verb>feel</verb> <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>heart</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><noun>they</noun> </nounPhrase><verbPhrase><verb>tell</verb> <adverb>sincerely</adverb></verbPhrase>. </line>
+        <line>And <nounPhrase><det>what</det> <noun>I</noun></nounPhrase> <verbPhrase><verb>feel</verb> <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>heart</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><noun>they</noun> </nounPhrase><verbPhrase><verb>tell</verb> <adverb>sincerely</adverb></verbPhrase>. </line>
   
 
-        <line><nounPhrase neg="true"><adjective>No</adjective> <det>other</det> <noun>words</noun></nounPhrase><verbPhrase><verb>can</verb><verbPhrase><verb>tell</verb> <nounPhrase><noun>it</noun></nounPhrase> <det>half</det> <adverb>so</adverb> <adverb>clearly</adverb></verbPhrase></verbPhrase>.</line>
+        <line><nounPhrase neg="true"><adjective>No</adjective> <det>other</det> <noun>words</noun></nounPhrase> <verbPhrase><verb>can</verb><verbPhrase> <verb>tell</verb> <nounPhrase><noun>it</noun></nounPhrase> <det>half</det> <adverb>so</adverb> <adverb>clearly</adverb></verbPhrase></verbPhrase>.</line>
     
 
         <line><nounPhrase><det>Three</det> <adjective>little</adjective> <noun>words</noun></nounPhrase>, <nounPhrase><det>eight</det> <adjective>little</adjective> <noun>letters </noun></nounPhrase> which <adverb>simply</adverb><verbPhrase><verb> mean </verb><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>love</verb> <nounPhrase><noun>you.</noun></nounPhrase></verbPhrase></verbPhrase></line>
