@@ -114,7 +114,7 @@
                         <noun>picture</noun></nounPhrase>
                     <prepPhrase><prep>of</prep>
                         <nounPhrase><noun>him</noun></nounPhrase></prepPhrase>
-                    <prepPhrase><prep>in</prep><nounPhrase><det>her</det><noun>arms</noun></nounPhrase></prepPhrase>
+                    <prepPhrase><prep>in</prep> <nounPhrase><det>her</det> <noun>arms</noun></nounPhrase></prepPhrase>
                     <adverb>now</adverb></verbPhrase></line>
             <line><adverb>Down</adverb><prepPhrase>
                     <prep>in</prep>
@@ -189,7 +189,7 @@
                 <nounPhrase><det>a</det>
                     <adjective>cool</adjective>
                     <adjective>rocking</adjective>
-                    <noun>daddy</noun></nounPhrase><prepPhrase><prep>in</prep><nounPhrase>
+                    <noun>daddy</noun> </nounPhrase><prepPhrase> <prep>in</prep> <nounPhrase>
                         <det>the</det>
                         <noun>U.S.A.</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
     </lyrics>
