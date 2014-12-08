@@ -13,7 +13,7 @@
         <year>1991</year>
         <genre>Rap</genre>
         <notablePerformer>Public Enemy</notablePerformer>
-        <notableEvent>Arizona and New Hampshire don't recognize Martin Luther King
+        <notableEvent>Arizona and New Hampshire don't recognize Dr. Martin Luther King Jr.
             holiday</notableEvent>
         <protest>1</protest>
     </metadata>
@@ -25,30 +25,30 @@
                         <nounPhrase><det>the</det>
                             <noun>day</noun>
                             <adjective>deservin'</adjective></nounPhrase></prepPhrase></verbPhrase></line>
-            <line><nounPhrase><noun>Fittin'</noun></nounPhrase>
+            <line><verbPhrase><verb>Fittin'</verb>
                 <prepPhrase><prep>for</prep>
                     <nounPhrase><det>a</det>
-                        <noun>king</noun></nounPhrase></prepPhrase></line>
+                        <noun>king</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase>'m waitin'</verbPhrase>
                 <prepPhrase><prep>for</prep>
                     <nounPhrase><det>the</det>
-                        <noun>time</noun></nounPhrase></prepPhrase> when
-                    <nounPhrase><noun>I</noun></nounPhrase> can</line>
+                        <noun>time</noun></nounPhrase></prepPhrase> <adverb>when</adverb>
+                    <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>can</verb></verbPhrase></line>
             <line><verbPhrase><verb>Get</verb>
                     <prepPhrase><prep>to</prep>
                         <nounPhrase><noun>Arizona</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>'Cause my money<verbPhrase><verb>'s</verb>
-                    <nounPhrase><adjective>spent</adjective></nounPhrase>
+            <line>'Cause <nounPhrase><det>my</det> <noun>money</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adjective>spent</adjective>
                     <prepPhrase><prep>on</prep></prepPhrase></verbPhrase></line>
             <line><nounPhrase><det>The</det>
                     <adjective>goddamn</adjective>
                     <noun>rent</noun></nounPhrase></line>
             <line><nounPhrase neg="true">Neither <noun>party</noun></nounPhrase>
                 <verbPhrase><verb>is</verb>
-                    <nounPhrase><adjective>mine</adjective></nounPhrase></verbPhrase> not the</line>
+                    <nounPhrase><adjective>mine</adjective></nounPhrase></verbPhrase> not<nounPhrase neg="true"> <det>the</det></nounPhrase></line>
             <line><nounPhrase neg="true"><noun>Jackass</noun> or <det>the</det>
                     <noun>elephant</noun></nounPhrase></line>
-            <line><nounPhrase><adjective>20 Thousand</adjective>
+            <line><nounPhrase><det>20 Thousand</det>
                     <adjective>nig</adjective>
                     <adjective>niggy</adjective>
                     <noun>nigas</noun></nounPhrase>
@@ -63,7 +63,7 @@
                 <verbPhrase><verb>come</verb></verbPhrase></line>
             <line><prepPhrase><prep>From</prep>
                     <nounPhrase><noun>California</noun></nounPhrase></prepPhrase></line>
-            <line><nounPhrase><noun>Population</noun></nounPhrase> none <prepPhrase><prep>in</prep>
+            <line><nounPhrase><noun>Population</noun></nounPhrase> <nounPhrase neg="true"><noun>none</noun></nounPhrase> <prepPhrase><prep>in</prep>
                     <nounPhrase><det>the</det>
                         <noun>desert</noun> and <noun>sun</noun></nounPhrase></prepPhrase></line>
             <line><prepPhrase><prep>Wit'</prep>
@@ -90,24 +90,24 @@
                         <prepPhrase><prep>in</prep>
                             <nounPhrase><det>the</det>
                                 <noun>heat</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
-            <line><nounPhrase><adjective>120</adjective>
+            <line><nounPhrase><det>120</det>
                     <noun>degree</noun></nounPhrase></line>
             <line>'Cause <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>wanna be</verb>
                     <nounPhrase><adjective>free</adjective></nounPhrase></verbPhrase></line>
-            <line>What<verbPhrase><verb>'s</verb>
+            <line><nounPhrase><det>What</det></nounPhrase> <verbPhrase><verb>'s</verb>
                     <nounPhrase><det>a</det>
                         <adjective>smilin'</adjective>
                         <noun>face</noun></nounPhrase></verbPhrase></line>
-            <line>When <nounPhrase><det>the</det>
+            <line><adverb>When</adverb> <nounPhrase><det>the</det>
                     <adjective>whole</adjective>
                     <noun>state</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <nounPhrase><adjective>racist</adjective></nounPhrase></verbPhrase></line>
             <line>Why <verbPhrase><verb>want</verb>
                     <nounPhrase><det>a</det>
-                        <noun>holiday</noun></nounPhrase></verbPhrase> Fuck it 'cause
-                        <nounPhrase><noun>I</noun></nounPhrase> wanna</line>
-            <line>So what if <nounPhrase><noun>I</noun></nounPhrase>
+                        <noun>holiday</noun></nounPhrase> <verbPhrase><verb>Fuck</verb> <nounPhrase><noun>it</noun></nounPhrase> 'cause
+                        <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb></verbPhrase></verbPhrase></verbPhrase></line>
+            <line>So <nounPhrase><det>what</det></nounPhrase> if <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>celebrate</verb>
                     <nounPhrase><noun>it</noun></nounPhrase>
                     <verbPhrase><verb>standin'</verb>
@@ -176,7 +176,7 @@
             <line><nounPhrase><noun>He</noun></nounPhrase>
                 <verbPhrase><verb>try to keep</verb>
                     <nounPhrase><noun>it</noun>
-                        <adjective>yesteryear</adjective></nounPhrase></verbPhrase></line>
+                        <adverb>yesteryear</adverb></nounPhrase></verbPhrase></line>
             <line><nounPhrase><det>The</det>
                     <adjective>good</adjective>
                     <adjective>ol'</adjective>
@@ -193,25 +193,25 @@
                     <noun>me</noun>
                     <noun>myself</noun> and <noun>I</noun></nounPhrase>'ndeed</line>
             <line>What <nounPhrase><noun>he</noun></nounPhrase>
-                <verbPhrase><verb>need</verb></verbPhrase>
+                <verbPhrase><verb>need</verb>
                 <verbPhrase><verb>is</verb>
                     <nounPhrase><det>a</det>
-                        <noun>nosebleed</noun></nounPhrase></verbPhrase></line>
+                        <noun>nosebleed</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Read</verb>
                     <prepPhrase><prep>between</prep>
                         <nounPhrase><det>the</det>
                             <noun>lines</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>Then you<nounPhrase><noun> </noun></nounPhrase><verbPhrase><verb>see</verb>
+            <line>Then <nounPhrase><noun>you </noun></nounPhrase><verbPhrase><verb>see</verb>
                     <nounPhrase><det>the</det>
                         <noun>lie</noun></nounPhrase></verbPhrase></line>
             <line><verbPhrase><adverb>Politically</adverb>
                     <verb>planned</verb></verbPhrase></line>
-            <line>But <verbPhrase><verb>understand</verb></verbPhrase>
+            <line>But <verbPhrase><verb>understand</verb>
                 <nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>'s</verb>
-                    <nounPhrase><noun>all</noun></nounPhrase>
+                    <adverb>all</adverb>
                     <nounPhrase><noun>she</noun></nounPhrase>
-                    <verb>wrote</verb></verbPhrase></line>
-            <line>When <nounPhrase>we</nounPhrase>
+                    <verb>wrote</verb></verbPhrase></verbPhrase></line>
+            <line><adverb>When</adverb> <nounPhrase>we</nounPhrase>
                 <verbPhrase><verb>see</verb>
                     <nounPhrase><det>the</det>
                         <adjective>real</adjective>
@@ -232,9 +232,9 @@
             <line><nounPhrase><noun>They</noun></nounPhrase>
                 <verbPhrase neg="true"><verb>don't like</verb>
                     <nounPhrase><noun>it</noun></nounPhrase></verbPhrase></line>
-            <line>When <nounPhrase><noun>I</noun></nounPhrase>
-                <verbPhrase><verb>decide to mike</verb>
-                    <nounPhrase><noun>it</noun></nounPhrase></verbPhrase></line>
+            <line><adverb>When</adverb> <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>decide</verb> <verbPhrase><verb>to mike</verb>
+                    <nounPhrase><noun>it</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Wait</verb></verbPhrase>
                 <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m waitin'</verb>
                     <prepPhrase><prep>for</prep>
@@ -272,7 +272,7 @@
         <verse>
             <line><nounPhrase><noun>I</noun>
                 </nounPhrase><verbPhrase><verb>got</verb>
-                    <nounPhrase><adjective>25</adjective>
+                    <nounPhrase><det>25</det>
                         <noun>days</noun></nounPhrase>
                     <verb>to do</verb>
                     <nounPhrase><noun>it</noun></nounPhrase></verbPhrase></line>
@@ -281,15 +281,15 @@
                 <prepPhrase><prep>in</prep>
                     <nounPhrase><det>the</det>
                         <noun>way</noun></nounPhrase></prepPhrase></line>
-            <line>Just <verbPhrase><verb>watch</verb>
-                    <nounPhrase><noun>me</noun></nounPhrase> go thru it</verbPhrase></line>
+            <line> <verbPhrase><adverb>Just</adverb> <verb>watch</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase> <verbPhrase><verb>go</verb> <prepPhrase><prep>thru</prep> <nounPhrase><noun>it</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line>'Cause <nounPhrase><noun>I</noun></nounPhrase>
-                <verbPhrase><verb>gotta do</verb></verbPhrase> what
-                    <nounPhrase><noun>I</noun></nounPhrase>
+                <verbPhrase><verb>gotta do</verb></verbPhrase> 
+                    <nounPhrase><det>what</det> <noun>I</noun></nounPhrase>
                 <verbPhrase><verb>gotta do</verb></verbPhrase></line>
             <line><nounPhrase><noun>PE</noun>
                     <noun>number</noun>
-                    <noun>one</noun></nounPhrase>
+                    <det>one</det></nounPhrase>
             </line>
             <line><verbPhrase><verb>Gets</verb>
                     <nounPhrase><det>the</det>
@@ -298,17 +298,17 @@
             <line>When <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <nounPhrase><adjective>done</adjective> and
                         <adjective>over</adjective></nounPhrase></verbPhrase></line>
-            <line>Was because I drove'er</line>
+            <line>Was because <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>drove</verb><nounPhrase><noun>'er</noun></nounPhrase></verbPhrase></line>
             <line><prepPhrase><prep>Thru</prep>
-                    <nounPhrase><adjective>all</adjective>
+                    <nounPhrase><adverb>all</adverb>
                         <det>the</det>
                         <noun>static</noun></nounPhrase></prepPhrase></line>
             <line>Not <nounPhrase neg="true"><noun>stick</noun></nounPhrase> but
                         <nounPhrase><noun>automatic</noun></nounPhrase></line>
             <line><nounPhrase><noun>That</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <nounPhrase><det>the</det>
-                        <noun>way</noun>
-                        <noun>it</noun></nounPhrase>
+                        <noun>way</noun></nounPhrase>
+                        <nounPhrase><noun>it</noun></nounPhrase>
                     <verbPhrase><verb>is</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>He</noun></nounPhrase>
                 <verbPhrase><verb>gotta get</verb>
@@ -326,7 +326,7 @@
                     <prepPhrase><prep>for</prep>
                         <nounPhrase><det>the</det>
                             <noun>day</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>Hard as <nounPhrase><noun>it</noun></nounPhrase>
+            <line><verbPhrase><adjective>Hard</adjective> as</verbPhrase> <nounPhrase><noun>it</noun></nounPhrase>
                 <verbPhrase><verb>seems</verb></verbPhrase></line>
             <line><nounPhrase><noun>This</noun></nounPhrase>
                 <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase neg="true"
@@ -374,8 +374,8 @@
                         <noun>sucker</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>That</noun></nounPhrase>
                 <verbPhrase><verb>make</verb>
-                    <nounPhrase><noun>it</noun>
-                        <adjective>hard</adjective></nounPhrase>
+                    <nounPhrase><noun>it</noun></nounPhrase>
+                        <adjective>hard</adjective>
                     <prepPhrase><prep>for</prep>
                         <nounPhrase><det>the</det>
                             <noun>brown</noun></nounPhrase></prepPhrase></verbPhrase></line>
@@ -385,8 +385,8 @@
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>need</verb>
                     <adverb>now</adverb></verbPhrase></line>
-            <line>More than <nounPhrase><noun>ever</noun></nounPhrase>
-                <adverb>now</adverb></line>
+            <line><verbPhrase><adverb>More</adverb> than <nounPhrase><noun>ever</noun></nounPhrase>
+                <adverb>now</adverb></verbPhrase></line>
             <line><nounPhrase><noun>Who</noun></nounPhrase><verbPhrase><verb>'s sittin'</verb>
                     <prepPhrase><prep>on</prep>
                         <nounPhrase><det>my</det>
@@ -420,7 +420,7 @@
             <line><prepPhrase><prep>Another</prep>
                     <nounPhrase><noun>nigga</noun></nounPhrase></prepPhrase>
                 <nounPhrase><noun>they</noun></nounPhrase>
-                <verbPhrase><verb>say</verb> and <verb>classify</verb></verbPhrase></line>
+                <verbPhrase><verb>say</verb> and <verbPhrase><verb>classify</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>We</noun></nounPhrase>
                 <verbPhrase><verb>want</verb>
                     <adverb>too</adverb>
@@ -449,18 +449,18 @@
                     <adverb>up</adverb>
                     <nounPhrase><det>the</det>
                         <noun>90s</noun></nounPhrase>
-                    <verbPhrase><verb>started tickin'</verb>
-                        <nounPhrase><noun>86</noun></nounPhrase></verbPhrase></verbPhrase></line>
-            <line>When <nounPhrase><det>the</det>
+                    <verbPhrase><verb>started</verb> <verbPhrase><verb>tickin'</verb>
+                        <nounPhrase><noun>86</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></line>
+            <line><adverb>When</adverb> <nounPhrase><det>the</det>
                     <noun>blind</noun></nounPhrase>
                 <verbPhrase><verb>get</verb>
                     <nounPhrase><det>a</det>
                         <noun>mind</noun></nounPhrase></verbPhrase></line>
-            <line>Better <verbPhrase><verb>start</verb> and <verb>earn</verb> while
+            <line> <verbPhrase><adverb>Better</adverb> <verb>start</verb> and <verb>earn</verb> <adverb>while</adverb>
                             <nounPhrase><noun>we</noun></nounPhrase>
                     <verbPhrase><verb>sing</verb>
                         <nounPhrase><noun>it</noun></nounPhrase></verbPhrase></verbPhrase></line>
-            <line>Now</line>
+            <line><adverb>Now</adverb></line>
             <line><nounPhrase><noun>There</noun></nounPhrase>
                 <verbPhrase><verb>will be</verb>
                     <nounPhrase><det>the</det>
