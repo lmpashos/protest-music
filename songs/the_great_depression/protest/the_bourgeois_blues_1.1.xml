@@ -12,9 +12,9 @@
 </metadata>
 
 <lyrics><verse>
-<line><nounPhrase><noun>Lord,</noun></nounPhrase> <prepPhrase><prep>in</prep><nounPhrase> <det>a </det><adjective>bourgeois</adjective> <noun>town</noun></nounPhrase></prepPhrase></line>
+<line><nounPhrase><noun>Lord,</noun></nounPhrase> <prepPhrase><prep>in</prep><nounPhrase> <det>a </det> <adjective>bourgeois</adjective> <noun>town</noun></nounPhrase></prepPhrase></line>
 <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>a</det> <adjective>bourgeois</adjective> <noun>town</noun></nounPhrase></verbPhrase></line>
-<line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>got</verb> <nounPhrase><det>the</det> <adjective>bourgeois</adjective> <noun>blues</noun></nounPhrase></verbPhrase>I got the bourgeois blues</line>
+    <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>got</verb> <nounPhrase><det>the</det> <adjective>bourgeois</adjective> <noun>blues</noun></nounPhrase></verbPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>got</verb> <nounPhrase><det>the</det> <adjective>bourgeois</adjective> <noun>blues</noun></nounPhrase></verbPhrase></line>
 <line><verbPhrase><verb>Gonna</verb> <verbPhrase><verb>spread </verb><nounPhrase><det>the</det> <noun>news</noun></nounPhrase> <adverb>all</adverb> <adverb>around</adverb></verbPhrase></verbPhrase></line>
 </verse>
 
