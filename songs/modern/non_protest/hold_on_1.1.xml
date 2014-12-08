@@ -18,22 +18,22 @@
                 <verbPhrase><verb>know</verb>
                     <nounPhrase><det>this</det>
                         <noun>pain</noun></nounPhrase></verbPhrase></line>
-            <line>Why <verbPhrase><verb>do lock</verb>
+            <line>Why <verbPhrase><verb>do</verb> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>lock</verb>
                     <nounPhrase><noun>yourself</noun></nounPhrase>
                     <adverb>up</adverb>
                     <prepPhrase><prep>in</prep>
                         <nounPhrase><det>these</det>
-                            <noun>chains</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
-            <line><nounPhrase neg="true"><noun>No one</noun></nounPhrase> can change your life
-                except for you</line>
+                            <noun>chains</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>?</line>
+            <line><nounPhrase neg="true"><noun>No one</noun></nounPhrase> <verbPhrase><verb>can</verb> <verbPhrase><verb>change</verb> <nounPhrase><det>your</det> <noun>life</noun></nounPhrase>
+                except <prepPhrase><prep>for</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase neg="true"><verb>Do</verb>n't <adverb>ever</adverb>
                     <verb>let</verb>
                     <nounPhrase><noun>anyone</noun></nounPhrase>
-                    <verb>step</verb> all <prepPhrase><prep>over</prep>
-                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>Just <verbPhrase><verb>open</verb>
+                    <verbPhrase><verb>step</verb> <adverb>all</adverb> <prepPhrase><prep>over</prep>
+                        <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <line><adverb>Just </adverb><verbPhrase><verb>open</verb>
                     <nounPhrase><det>your</det>
-                        <noun>heart</noun> and <det>your</det>
+                        <noun>heart</noun></nounPhrase> and <nounPhrase><det>your</det>
                         <noun>mind</noun></nounPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Is</verb>
                     <nounPhrase><noun>it</noun></nounPhrase>
@@ -46,23 +46,23 @@
         </verse>
         <verse>
             <line><adverb>Someday</adverb>
-                <nounPhrase><noun>somebody</noun></nounPhrase><verbPhrase><verb>'s gonna make</verb>
+                <nounPhrase><noun>somebody</noun></nounPhrase><verbPhrase><verb>'s gonna</verb> <verbPhrase><verb>make</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <verb>want</verb></verbPhrase> to</line>
+                    <verbPhrase><verb>want</verb> to</verbPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Turn</verb>
                     <adverb>around</adverb> and <verbPhrase><verb>say</verb>
                         <nounPhrase><noun>goodbye</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><prepPhrase><prep>Until</prep>
-                    <nounPhrase><noun>then</noun></nounPhrase></prepPhrase> baby
+                    <nounPhrase><noun>then</noun></nounPhrase></prepPhrase> <nounPhrase><noun>baby</noun></nounPhrase>
                         <verbPhrase><verb>are</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <verb>going to let</verb>
-                    <nounPhrase><noun>them</noun></nounPhrase></verbPhrase></line>
+                    <verbPhrase><verb>going</verb> <verbPhrase><verb>to let</verb>
+                    <nounPhrase><noun>them</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Hold</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <adverb>down</adverb> and <verb>make</verb>
+                    <adverb>down</adverb> and <verbPhrase><verb>make</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <verb>cry</verb></verbPhrase></line>
+                    <verb>cry</verb></verbPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>

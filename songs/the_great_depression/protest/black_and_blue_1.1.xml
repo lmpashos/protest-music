@@ -30,14 +30,14 @@
             <line><nounPhrase><det>What</det></nounPhrase> <verbPhrase><verb>is</verb> <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>face</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line>How <verbPhrase><verb>will</verb> <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>end</verb></verbPhrase></verbPhrase></line>
             <line><verbPhrase neg="true"><verb>Ain't</verb> <verbPhrase><verb>got</verb> <nounPhrase><det>a </det><noun>friend</noun></nounPhrase></verbPhrase></verbPhrase></line>
-            <line><nounPhrase><det>My</det><adjective>only</adjective> <noun>sin</noun></nounPhrase></line>
-            <line>is <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>skin</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><det>My</det> <adjective>only</adjective> <noun>sin</noun></nounPhrase></line>
+            <line><verbPhrase><verb>is</verb> <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>skin</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/>
 
             <line>How <verbPhrase><verb>will</verb> <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>end</verb></verbPhrase></verbPhrase></line>
             <line><verbPhrase neg="true"><verb>Ain't</verb> <verbPhrase><verb>got</verb> <nounPhrase><det>a </det><noun>friend</noun></nounPhrase></verbPhrase></verbPhrase></line>
-            <line><nounPhrase><det>My</det><adjective>only</adjective> <noun>sin</noun></nounPhrase></line>
-            <line>is <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>skin</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><det>My</det> <adjective>only</adjective> <noun>sin</noun></nounPhrase></line>
+            <line><verbPhrase><verb>is</verb> <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>skin</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
 
