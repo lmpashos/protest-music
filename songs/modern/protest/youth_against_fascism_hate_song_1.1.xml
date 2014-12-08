@@ -23,7 +23,7 @@
             <line><nounPhrase><adjective>Another</adjective>
                     <noun>stomach</noun></nounPhrase>
                 <verbPhrase><verb>turns</verb></verbPhrase></line>
-            <line>Yeh <nounPhrase><det>yr</det>
+            <line>Yeh <nounPhrase><det>yr</det> 
                     <noun>ghetto</noun></nounPhrase>
                 <verbPhrase><verb>burns</verb></verbPhrase></line>
             <refrainLineRef lineRef="1"/>
@@ -87,7 +87,7 @@
         </verse>
         <verse>
             <line>Yeah <nounPhrase><det>the</det>
-                    <noun>president</noun></nounPhrase>
+                    <noun>President</noun></nounPhrase>
                 <verbPhrase><verb>sucks</verb></verbPhrase></line>
             <line><nounPhrase><noun>He</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <nounPhrase><det>a</det>
