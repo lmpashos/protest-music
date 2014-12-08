@@ -13,15 +13,15 @@
     </metadata>
     <lyrics>
         <verse>
-  <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>couldn't</verb><verbPhrase><verb>sleep</verb><adverb>at</adverb><adverb>all</adverb><nounPhrase><adjective>last</adjective><noun>night</noun></nounPhrase></verbPhrase></verbPhrase></line>
+  <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"> <verb>couldn't</verb><verbPhrase> <verb>sleep</verb> <adverb>at</adverb> <adverb>all</adverb><nounPhrase> <adjective>last</adjective> <noun>night</noun></nounPhrase></verbPhrase></verbPhrase></line>
             
-  <line><adverb>Just</adverb><verbPhrase><verb>a-thinkin'</verb><prepPhrase><prep>of</prep><nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
+  <line><adverb>Just</adverb><verbPhrase> <verb>a-thinkin'</verb><prepPhrase><prep>of</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></line>
             
-  <line><nounPhrase><noun>Baby</noun></nounPhrase>,<nounPhrase><noun>things</noun></nounPhrase><verbPhrase neg="true"><verb>weren't</verb><adjective>right</adjective></verbPhrase></line>
+  <line><nounPhrase><noun>Baby</noun></nounPhrase>,<nounPhrase><noun>things</noun></nounPhrase> <verbPhrase neg="true"><verb>weren't</verb> <adjective>right</adjective></verbPhrase></line>
         </verse>
         
         <verse>
-<line>Well <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>was</verb><verbPhrase><verb>tossin'</verb> and <verbPhrase><verb>turnin'</verb></verbPhrase></verbPhrase></verbPhrase></line>
+<line>Well <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was</verb><verbPhrase> <verb>tossin'</verb> and <verbPhrase> <verb>turnin'</verb></verbPhrase></verbPhrase></verbPhrase></line>
             
 <refrainLineRef lineRef="1"/>
 <refrainLineRef lineRef="2"/>
@@ -29,14 +29,14 @@
         
         
         <verse>
-<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>kicked</verb><nounPhrase><det>the</det><noun>blankets</noun></nounPhrase><prepPhrase><prep>on</prep><nounPhrase><det>the</det><noun>floor</noun></nounPhrase></prepPhrase></verbPhrase></line>
+<line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>kicked</verb><nounPhrase><det>the</det><noun>blankets</noun></nounPhrase><prepPhrase><prep>on</prep><nounPhrase><det>the</det><noun>floor</noun></nounPhrase></prepPhrase></verbPhrase></line>
 <line><verbPhrase><verb>Turned</verb><nounPhrase><det>my</det><noun>pillow</noun></nounPhrase><adverb>upside down</adverb></verbPhrase></line>
 <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase neg="true">never, never <verb>did</verb><adverb>before</adverb></verbPhrase></line>
         </verse>
         
         
         <verse>
-<line>'Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>was tossin' and turnin'</verb></verbPhrase></line>
+<line>'Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase> <verb>was tossin' and turnin'</verb></verbPhrase></line>
             
             <refrainLineRef lineRef="1"/>
             <refrainLineRef lineRef="2"/>
@@ -109,6 +109,6 @@
         </verse>
 
 <refrainLine lineID="1"><verbPhrase><verb>Turnin' and tossin'</verb></verbPhrase></refrainLine>
-<refrainLine lineID="2"><verbPhrase><verb>Tossin'and turnin'</verb><nounPhrase><det>all</det><noun>night</noun></nounPhrase></verbPhrase></refrainLine>
+<refrainLine lineID="2"><verbPhrase><verb>Tossin' and turnin'</verb><nounPhrase><det>all</det><noun>night</noun></nounPhrase></verbPhrase></refrainLine>
     </lyrics>
 </song>
