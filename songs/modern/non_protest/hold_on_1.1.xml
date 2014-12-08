@@ -75,7 +75,7 @@
                         <nounPhrase><det>the</det>
                             <noun>pain</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
             <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'ve got</verb>
-                    <nounPhrase><noun>no one</noun></nounPhrase>
+                    <nounPhrase neg="true"><noun>no one</noun></nounPhrase>
                     <verb>to blame</verb>
                     <prepPhrase><prep>for</prep>
                         <nounPhrase><det>your</det>
@@ -97,8 +97,8 @@
                         <nounPhrase><noun>you</noun></nounPhrase>
                     <verb>think</verb>
                     <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
-                        <nounPhrase><adjective>worth</adjective>
-                            <det>your</det>
+                        <adverb>worth</adverb>
+                            <nounPhrase><det>your</det>
                             <noun>time</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>To change</verb>
                     <nounPhrase><det>your</det>
@@ -107,14 +107,14 @@
         <verse>
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>know</verb> that
-                            <verbPhrase><nounPhrase><noun>there</noun></nounPhrase>
-                        <verb>is</verb>
+                            <nounPhrase><noun>there</noun></nounPhrase>
+                        <verbPhrase><verb>is</verb>
                         <nounPhrase><noun>pain</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line>But <nounPhrase><noun>you</noun></nounPhrase>
                 <verbPhrase><verb>hold</verb>
                     <adverb>on</adverb>
                     <prepPhrase><prep>for</prep>
-                        <nounPhrase><adverb>one</adverb>
+                        <nounPhrase><det>one</det>
                             <adjective>more</adjective>
                             <noun>day</noun></nounPhrase></prepPhrase></verbPhrase> and</line>
             <line><verbPhrase><verb>Break</verb>
@@ -149,16 +149,16 @@
                     <adverb>around</adverb> and <verbPhrase><verb>say</verb>
                         <nounPhrase><noun>goodbye</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><prepPhrase><prep>Until</prep>
-                    <nounPhrase><noun>then</noun></nounPhrase></prepPhrase> baby
+                    <nounPhrase><noun>then</noun></nounPhrase></prepPhrase> <nounPhrase><noun>baby</noun></nounPhrase>
                         <verbPhrase><verb>are</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <verb>going to let</verb>
-                    <nounPhrase><noun>them</noun></nounPhrase></verbPhrase></line>
+                    <verbPhrase><verb>going</verb> <verbPhrase><verb>to let</verb>
+                    <nounPhrase><noun>them</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Hold</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <adverb>down</adverb> and <verb>make</verb>
+                    <adverb>down</adverb> and <verbPhrase><verb>make</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <verb>cry</verb></verbPhrase></line>
+                    <verbPhrase><verb>cry</verb></verbPhrase></verbPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="2"/>
         </verse>
         <verse>
@@ -174,7 +174,7 @@
             <line><verbPhrase><verb>Hold</verb>
                     <adverb>on</adverb>
                     <prepPhrase><prep>for</prep>
-                        <nounPhrase><adverb>one</adverb>
+                        <nounPhrase><det>one</det>
                             <adjective>more</adjective>
                             <noun>day</noun></nounPhrase></prepPhrase></verbPhrase> 'Cause</line>
             <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s gonna go</verb>
@@ -187,10 +187,10 @@
             <refrainLineRef lineRef="4"/>
             <line><verbPhrase neg="true"><verb>Can</verb>'t
                         <nounPhrase><noun>you</noun></nounPhrase>
-                    <verb>change</verb>
+                    <verbPhrase><verb>change</verb>
                     <nounPhrase><noun>it</noun></nounPhrase>
                     <nounPhrase><det>this</det>
-                        <noun>time</noun></nounPhrase></verbPhrase></line>
+                        <noun>time</noun></nounPhrase></verbPhrase></verbPhrase></line>
         </verse>
         <verse>
             <line><verbPhrase><verb>Make</verb>
@@ -234,7 +234,7 @@
                         <nounPhrase><noun>you</noun></nounPhrase>
                 <verb>know</verb>
                 <nounPhrase><noun>things</noun></nounPhrase>
-                <verbPhrase><verb>can change</verb></verbPhrase></verbPhrase></refrainLine>
+                <verbPhrase><verb>can</verb> <verbPhrase><verb>change</verb></verbPhrase></verbPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="3"><nounPhrase><noun>Things</noun></nounPhrase><verbPhrase><verb>'ll
                     go</verb>
                 <nounPhrase><det>your</det>
