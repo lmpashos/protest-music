@@ -31,9 +31,9 @@ $current_page = 'home';
                 	A Digital Humanities Project by Leonidas Pashos, Katie Uihlein, and David Galloway
                 </p>
                 <div id="images">
-                    <img src="images/guthrie.jpg" alt="Woody Guthrie" />
-                    <img src="images/dylan.jpg" alt="Bob Dylan" />
-                    <img src="images/nwa.jpg" alt="N.W.A." />
+                    <a href="images/guthrie.jpg" title="Woody Guthrie, Source: http://upload.wikimedia.org/wikipedia/commons/e/e0/Woody_Guthrie_NYWTS.jpg"><img src="images/guthrie.jpg" alt="Woody Guthrie" /></a>
+                    <a href="images/dylan.jpg" title="Bob Dylan and Joan Baez, Source: http://upload.wikimedia.org/wikipedia/commons/3/33/Joan_Baez_Bob_Dylan.jpg"><img src="images/dylan.jpg" alt="Bob Dylan" /></a>
+                    <a href="images/nwa.jpg" title="NWA, Source: http://cdn.respect-mag.com/wp-content/uploads/2014/10/nwa.jpg?ac55ec"><img src="images/nwa.jpg" alt="N.W.A." /></a>
                 </div>
                 <div id="button">
               		<a href="about.php">Continue to About</a>

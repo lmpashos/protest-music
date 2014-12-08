@@ -43,7 +43,7 @@
 }
 
 #left ul{
-	z-index:100;
+	z-index:200;
 	margin:0;
 	margin-top:-2px;
 	padding:0;
@@ -67,15 +67,11 @@
 	background-color:black;	
 }
 img{
-    height:250px;
-	border:2px solid #FF3419;
-	outline: #000000 solid 2px;
-	margin-right:3%;
-	margin-left:25px;
-
+    width: 200px;
+	border:1px solid #FF3419;
+	outline: #000000 solid 1px;
+	margin-right:1%;
 	float:right;
-
+	clear:both;
+	margin-bottom:10px;
 }
-
-.fix2{
-	margin-bottom:0;
