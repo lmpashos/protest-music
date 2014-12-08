@@ -1,7 +1,7 @@
 <?php 
 require_once('util/Constants.inc');
 require_once('util/CommonHTML.inc');
-require_once('util/Lyrics.inc');
+require_once('util/SongTOC.inc');
 
 ini_set('display_startup_errors',1);
 ini_set('display_errors',1);
@@ -28,9 +28,7 @@ if(isset($_GET['era'])) {
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/lyrics.css" rel="stylesheet" type="text/css" />
     <script src="js/main.js" type="text/javascript"></script>
-    <script src="js/pushHeight.js" type="text/javascript"></script>
-    <script src="js/lyrics.js" type="text/javascript"></script>
-    
+    <script src="js/lyrics.js" type="text/javascript"></script> 
 </head>
 <body>
     <div class="wrapper">
@@ -38,10 +36,10 @@ if(isset($_GET['era'])) {
         <h1><?php echo ucfirst($current_page); ?></h1>
         <div class="content">
             <div id="left">
-            	<?php echo Lyrics::get_song_list($era, true); ?>
+            	<?php echo SongTOC::get_song_list($era, true, true); ?>
             </div>
             <div id="right">
-            	<?php echo Lyrics::get_song_list($era, false); ?>
+            	<?php echo SongTOC::get_song_list($era, false, true); ?>
             </div>
             <div id="center">
                 <p id="placeholder">Click on a song in either side column to view lyrics.</p>

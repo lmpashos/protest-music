@@ -40,10 +40,10 @@ body {
   color: black;
 }
 
-.posPanel {
-  text-align:center !important;
-  min-height:0 !important;
-  overflow:hidden !important;
+.posPanel{
+	text-align:center !important;
+	min-height:0 !important;
+	overflow:hidden !important;
 }
 
 #left_checkbox_panel, #right_checkbox_panel {
@@ -158,21 +158,13 @@ body {
 .song_title {
   margin: 0px;
   font-weight: bold;    
-  font-size: medium;    
+  font-size: medium;	
 }
 
-#heading_song_title_left {
-  padding-left: 1em;
-  padding-top: 2em;
+.song_title_label {
+  padding-left: 8px;
   font-weight: bold;    
-  font-size: x-large;    
-}
-
-#heading_song_title_right {
-  padding-left: 1em;
-  padding-top: 2em;
-  font-weight: bold;    
-  font-size: x-large;    
+  font-size: large;    
 }
 
 .song_info {

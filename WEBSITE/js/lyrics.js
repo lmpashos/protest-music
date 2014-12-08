@@ -99,6 +99,72 @@ function ajaxObject(url, callbackFunction) {
 }
 
 document.addEventListener("DOMContentLoaded", function() {
+  
+  //Resizing stuff
+  var minHeight = 800;
+  
+  var pushCols = function(element) {
+    document.getElementById("left").style.height = element.style.height;
+    document.getElementById("center").style.height = element.style.height;
+    document.getElementById("right").style.height = element.style.height;
+  }
+  
+  var contentDiv = document.getElementsByClassName("content")[0];
+  contentDiv.style.height = 0;
+  var space = window.innerHeight - contentDiv.offsetTop;
+  if(space > minHeight) {
+    contentDiv.style.height = space + "px";
+  } else {
+    contentDiv.style.height = minHeight + "px"
+  }
+  
+  pushCols(contentDiv);
+  
+  window.onresize = function() {
+    var contentDiv = document.getElementsByClassName("content")[0];
+    contentDiv.style.height = 0;
+    var space = window.innerHeight - contentDiv.offsetTop;
+    
+    if(space > minHeight) {
+      contentDiv.style.height = space + "px";
+    } else {
+      contentDiv.style.height = minHeight;
+    } 
+    pushCols(contentDiv);
+  }
+  
+  //Spacing on Song part
+  // expands songs to fill grown space
+  var pushSongs = function() {
+    var songs = document.getElementsByClassName("song");
+    var contentDiv = document.getElementsByClassName("content")[0];
+    var space = window.innerHeight - contentDiv.offsetTop;
+    var offset = 215;
+    var minSongHeight = minHeight - offset;
+    var songHeight = space - offset;
+    
+    if(songs.length == 2) {
+      if(songHeight > minSongHeight){
+        songs[0].style.height = songHeight + "px";
+        songs[1].style.height = songHeight + "px";
+      } else {
+        songs[0].style.height = minSongHeight + "px";
+        songs[1].style.height = minSongHeight + "px";
+      }
+    }   
+    else if(songs.length == 1) {
+      if(songHeight > minSongHeight) {
+        songs[0].style.height = songHeight + "px";
+      } else {
+        songs[0].style.height = minSongHeight + "px";
+      }
+    }
+  }
+  // this is not ideal, but it works, we can find a better way later
+  window.onmousemove = function() {
+    pushSongs();
+  }
+  
 
   //Protest Side
   var protestPanel = document.getElementById("left");
@@ -111,7 +177,7 @@ document.addEventListener("DOMContentLoaded", function() {
   for(var i = 0; i < protestList.length; ++i) {
     protestList[i].addEventListener("click", function() {
       //Remove the placeholder if it is still there
-      if (document.getElementById("placeholder") != null) {
+      if(document.getElementById("placeholder") != null) {
         document.getElementById("center").removeChild(document.getElementById("placeholder"));
       }
       
@@ -129,6 +195,8 @@ document.addEventListener("DOMContentLoaded", function() {
         var protestSongRequest = new ajaxObject("get_html_song.php", function(responseText, responseStatus, responseXML) {
           if(responseStatus == 200) {
             document.getElementById("protest").innerHTML = responseText;
+            //Resize the song to fill in the space
+            pushSongs();
           }
         });
         protestSongRequest.update("song_filename=" + songXMLFileName);
@@ -240,11 +308,13 @@ document.addEventListener("DOMContentLoaded", function() {
         var nonProtestSongRequest = new ajaxObject("get_html_song.php", function(responseText, responseStatus, responseXML) {
           if(responseStatus == 200) {
             document.getElementById("non_protest").innerHTML = responseText;
+            //Resize the song to fill in the space
+            pushSongs();
           }
         });
         nonProtestSongRequest.update("song_filename=" + songXMLFileName);
         currentNonProtestSong = songXMLFileName;
-      }
+      }  
     });
     
     nonProtestList[i].addEventListener("mouseover", function() {
@@ -329,19 +399,12 @@ document.addEventListener("DOMContentLoaded", function() {
 
     //For this page, I always want x to be the width of the left div + 3 pixels
     x = document.getElementById("left").clientWidth + 3;
-
-    popupDiv = document.getElementById("left_checkbox_panel"); //.style.display = "block";
-    //Set the y variable
-    if(e) {
-      y = e.clientY + window.scrollY;
-    } else if(window.event) {
-      y = window.event.clientY + document.documentElement.scrollTop + document.body.scrollTop;
-    } else if(event) {
-      y = event.clientY + window.scrollY;
-    }
+    
+    popupDiv = document.getElementById("left_checkbox_panel");
     
     popupDiv.style.left = x + "px";
-    popupDiv.style.top = y + "px";
+    popupDiv.style.top = "60%";
+    popupDiv.style.transform = "translate(0, -50%)";
     popupDiv.style.display = "block";
   }
   
@@ -360,17 +423,10 @@ document.addEventListener("DOMContentLoaded", function() {
     x = windowWidth - (document.getElementById("right").clientWidth + 3) - 227;
 
     popupDiv = document.getElementById("right_checkbox_panel"); //.style.display = "block";
-    //Set the y variable
-    if(e) {
-      y = e.clientY + window.scrollY;
-    } else if(window.event) {
-      y = window.event.clientY + document.documentElement.scrollTop + document.body.scrollTop;
-    } else if(event) {
-      y = event.clientY + window.scrollY;
-    }
     
     popupDiv.style.left = x + "px";
-    popupDiv.style.top = y + "px";
+    popupDiv.style.top = "60%"; //y + "px";
+    popupDiv.style.transform = "translate(0, -50%)";
     popupDiv.style.display = "block";
   }
   

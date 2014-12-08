@@ -36,10 +36,6 @@ body > .wrapper {
   font-weight: bold;
   text-decoration: none;
   color: inherit;
-  /*
-    border-top-left-radius:10px;
-    border-top-right-radius:10px;
-  */
 }
 
 .menu_button a.current {
@@ -210,6 +206,10 @@ h1 {
   padding: 11px 74px 11px 10px
 }
 
+#info {
+  padding: 11px 74px 11px 10px
+}
+
 #data {
   padding: 11px 79px 11px 10px
 }
@@ -218,19 +218,19 @@ h1 {
   padding: 11px 23px 11px 10px
 }
 
-.tab{
-	margin-top:-1px;
-  	border-top:1px solid black;
-	min-height:0px !important;
+.tab {
+  margin-top: -1px;
+  border-top: 1px solid black;
+  min-height: 0px !important;
 }
 
-.tabHeader{
-	background-color:#4E4E4E;
-	color:white;
-	display:block;
-	width:20%;
-	margin-left:78.5%;
-	padding-right:1.5%;
-	font-size:16pt;
-	border-bottom-left-radius:20px;
+.tabHeader {
+  background-color: #4E4E4E;
+  color: white;
+  display: block;
+  width: 20%;
+  margin-left: 78.5%;
+  padding-right: 1.5%;
+  font-size: 16pt;
+  border-bottom-left-radius: 20px;
 }

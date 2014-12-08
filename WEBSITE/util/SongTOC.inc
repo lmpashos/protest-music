@@ -19,9 +19,9 @@
 require_once('Constants.inc');
 require_once('StaticFunctions.inc');
 
-class Lyrics {
+class SongTOC {
   
-  public static function get_song_list($era = Constants::ERA_NONE, $is_protest = false) {
+  public static function get_song_list($era = Constants::ERA_NONE, $is_protest = false, $include_popup_buttons = false) {
     
     if(!($era === Constants::ERA_GREAT_DEPRESSION || $era === Constants::ERA_VIETNAM || $era === Constants::ERA_MODERN)) {
       $era = Constants::ERA_NONE;
@@ -105,10 +105,12 @@ class Lyrics {
       }
       
       //Add the left or right elements to bringup the popups
-      if($is_protest) {
-        $html .= (StaticFunctions::indent(1, 4) . '<br /><div class="posPanel"><a href="#" id="toggle_protest_pos">Toggle Parts of Speech</a></div>' . "\n");
-      } else {
-        $html .= (StaticFunctions::indent(1, 4) . '<br /><div class="posPanel"><a href="#" id="toggle_non_protest_pos">Toggle Parts of Speech</a></div>' . "\n");
+      if($include_popup_buttons) {
+        if($is_protest) {
+          $html .= (StaticFunctions::indent(1, 4) . '<br /><div class="posPanel"><a href="#" id="toggle_protest_pos">Toggle Parts of Speech</a></div>' . "\n");
+        } else {
+          $html .= (StaticFunctions::indent(1, 4) . '<br /><div class="posPanel"><a href="#" id="toggle_non_protest_pos">Toggle Parts of Speech</a></div>' . "\n");
+        }
       }
     
       echo $html;

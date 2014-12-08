@@ -1,59 +1,68 @@
 @charset "UTF-8";
 /* CSS Document */
 
-.content{
-	min-height:100%;
-	position:relative;
-	overflow:hidden;
+.content {
+  min-height: 100%;
+  position: relative;
+  overflow: hidden;
 }
-#center{
-	width:100%;
-	text-align:center;
-	min-height:100%;
-	overflow:hidden;
+
+#center {
+  width: 100%;
+  text-align: center;
+  min-height: 100%;
+  overflow: hidden;
 }
-#splash_title{
-	display:block;
-	font-size:72px;	
-	margin-top:50px;
-	margin-bottom:50px;
+
+#splash_title {
+  display: block;
+  font-size: 72px;	
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
-#splash_subtitle{
-	display:block;
-	font-size:36px;
+
+#splash_subtitle {
+  display: block;
+  font-size: 36px;
 }
-#center p{
-	font-size:18px;
+
+#center p {
+  font-size: 18px;
 }
-img{
-	width:32%;
-	margin-bottom:-5px;
+
+img {
+  width: 32%;
+  margin-bottom: -5px;
 }
-#images{
-	background-color: #ADAFB2;
-	text-align:center;
-	width:90%;
-	padding-top:20px;
-	padding-bottom:20px;
-	border-radius:20px;
-	overflow:hidden;
+
+#images {
+  background-color: #ADAFB2;
+  text-align: center;
+  width: 90%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 20px;
+  overflow: hidden;
 }
-#button{
-	text-align:center;	
-	margin-top:25px;
-	padding:20px;
-	margin-bottom:25px;
-	overflow:hidden;
+
+#button {
+  text-align: center;	
+  margin-top: 25px;
+  padding: 20px;
+  margin-bottom: 25px;
+  overflow: hidden;
 }
-#button a{
-	padding:inherit;
-	text-decoration:none;
-	color:inherit;
-	border-radius:20px;
-	font-size:36px;
+
+#button a {
+  padding: inherit;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 20px;
+  font-size: 36px;
 }
-#button a:hover{
-	background-color:black;
-	color:white;	
+
+#button a:hover {
+  background-color: black;
+  color: white;	
 }
 
