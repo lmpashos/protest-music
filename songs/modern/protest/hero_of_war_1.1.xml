@@ -47,7 +47,7 @@
             <line>And <nounPhrase><det>the</det> <noun>shells</noun></nounPhrase> <verbPhrase><verb>jumped</verb> <prepPhrase><prep>through</prep> <nounPhrase><det>the</det> <noun>smoke</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line>And <prepPhrase><prep>into</prep> <nounPhrase><det>the</det> <noun>sand</noun></nounPhrase> that <nounPhrase><det>the</det> <noun>blood</noun></nounPhrase> now <verbPhrase><verb>had soaked</verb></verbPhrase></prepPhrase>.</line>
             <line><nounPhrase><noun>She</noun></nounPhrase> <verbPhrase><verb>collapsed</verb> <prepPhrase><prep>with</prep> <nounPhrase><det>a</det> <noun>flag</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>her</det> <noun>hand</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase>,</line>
-            <line><nounPhrase><det>A</det> <noun>flag</noun> <adjective>white</adjective> as <noun>snow</noun></nounPhrase>.</line>
+            <line><nounPhrase><det>A</det> <noun>flag</noun></nounPhrase> <prepPhrase><adjective>white</adjective> <prep>as</prep> <nounPhrase><noun>snow</noun></nounPhrase></prepPhrase>.</line>
             <refrainSectionRef sectionRef="2"/>
         </verse>
         <verse>
