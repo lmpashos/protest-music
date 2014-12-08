@@ -27,7 +27,7 @@
         <verse>
             <line><nounPhrase><det>What</det></nounPhrase> <verbPhrase><verb>appeals</verb> <nounPhrase><det>to</det> <noun>me</noun></nounPhrase></verbPhrase> </line>
             <line><verbPhrase><verb>Is</verb> <adjective>just</adjective> <nounPhrase><det>your</det> <noun>charm</noun> and <noun>dignity</noun></nounPhrase></verbPhrase>,</line>
-            <line>Not <nounPhrase neg="true"><det>what</det> <noun>you</noun></nounPhrase><verbPhrase><verb>wear</verb></verbPhrase>, </line>
+            <line>Not <nounPhrase neg="true"><det>what</det> <noun>you</noun></nounPhrase> <verbPhrase><verb>wear</verb></verbPhrase>, </line>
             <line>But <nounPhrase><adjective>just</adjective><det> an</det> <noun>air</noun></nounPhrase>, <prepPhrase><prep>of</prep> <adjective>great</adjective> <nounPhrase><noun>repose</noun></nounPhrase></prepPhrase>.</line>
             <line><nounPhrase><noun>You </noun></nounPhrase><verbPhrase><verb>are</verb> <adjective>quite</adjective> <adjective>perfect</adjective> <prepPhrase><prep>from</prep> <nounPhrase><det>your</det> <noun>head</noun></nounPhrase></prepPhrase> <prepPhrase><prep>down</prep> <nounPhrase><det>to</det> <det>your</det> <noun>toes</noun></nounPhrase></prepPhrase></verbPhrase> </line>
             <line>Both <nounPhrase><noun>night</noun> </nounPhrase>and <nounPhrase><noun>day</noun></nounPhrase>, </line>
