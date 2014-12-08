@@ -9,7 +9,7 @@
     <xsl:variable name="startY" select="400"/>
     <xsl:variable name="endY" select="80"/>   
     <xsl:template match="/">
-        <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+        <svg width="100%" height="100%" viewBox="0 0 600 630" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg">
             <text x="325" y="40" text-anchor="middle"><xsl:value-of select="song/title" /></text>
             <line x1="{$startX}" y1="{$startY}" x2="{$endX}" y2="{$startY}" style="stroke:rgb(0,0,0);stroke-width:1" />
             <line x1="{$startX}" y1="{$startY}" x2="{$startX}" y2="{$endY}" style="stroke:rgb(0,0,0);stroke-width:1" />
