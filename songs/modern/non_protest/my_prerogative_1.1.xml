@@ -9,6 +9,7 @@
         <year>1988</year>
         <genre>R&amp;B</genre>
         <notablePerformer>Bobby Brown</notablePerformer>
+        <notablePerformer>Britney Spears</notablePerformer>
         <protest>0</protest>
     </metadata>
     <lyrics>
@@ -40,7 +41,7 @@
                 <verbPhrase neg="true"><verb>don't give</verb>
                     <nounPhrase><det>a</det>
                         <noun>damn</noun></nounPhrase></verbPhrase></line>
-            <line>Gettin girls is how I live</line>
+            <line><nounPhrase><noun>Gettin girls</noun></nounPhrase> <verbPhrase><verb>is </verb><adverb>how</adverb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>live</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Some</noun></nounPhrase><verbPhrase><verb>ask</verb>
                     <nounPhrase><noun>me</noun></nounPhrase>
                     <nounPhrase><noun>questions</noun></nounPhrase></verbPhrase></line>
@@ -66,7 +67,7 @@
                     <nounPhrase><noun>right</noun></nounPhrase></verbPhrase></line>
             <line>Not <nounPhrase neg="true"><adjective>long</adjective>
                     <noun>ago</noun></nounPhrase></line>
-            <line>Befo' <nounPhrase><noun>I</noun></nounPhrase>
+            <line><adverb>Befo'</adverb> <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>win</verb>
                     <nounPhrase><det>this</det>
                         <noun>fight</noun></nounPhrase></verbPhrase></line>
@@ -85,8 +86,8 @@
                     <verbPhrase><verb>feel</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase neg="true"><noun>No one</noun></nounPhrase>
                 <verbPhrase><verb>can tell</verb>
-                    <nounPhrase><noun>me</noun></nounPhrase> what <verb>to
-                do</verb></verbPhrase></line>
+                    <nounPhrase><noun>me</noun></nounPhrase> what <verbPhrase><verb>to
+                do</verb></verbPhrase></verbPhrase></line>
             <line>Cause <nounPhrase><noun>what</noun></nounPhrase>
                 <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
                 doin</verb></verbPhrase></line>
@@ -98,23 +99,23 @@
         <verse>
             <line><verbPhrase neg="true"><verb>Don't get</verb>
                     <nounPhrase><noun>me</noun>
-                        <adjective>wrong</adjective></nounPhrase></verbPhrase></line>
+                        <adverb>wrong</adverb></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
                     <nounPhrase neg="true"><adverb>really</adverb> not
                         <adjective>zooped</adjective></nounPhrase></verbPhrase></line>
-            <line>Ego trips is not my thing</line>
-            <line>All these strange relationships</line>
-            <line>Really gets me down</line>
-            <line>I see nothin wrong</line>
-            <line>With spreadin myself around</line>
+            <line><nounPhrase><noun>Ego trips</noun></nounPhrase> <verbPhrase neg="true"><verb>is</verb> not <nounPhrase><det>my</det> <noun>thing</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><adjective>All</adjective> <det>these</det> <adjective>strange</adjective> <noun>relationships</noun></nounPhrase></line>
+            <line><verbPhrase><adverb>Really</adverb> <verb>gets</verb> <nounPhrase><noun>me </noun></nounPhrase><adverb>down</adverb></verbPhrase></line>
+            <line><nounPhrase><noun>I </noun></nounPhrase><verbPhrase><verb>see</verb> <nounPhrase><noun>nothin</noun></nounPhrase> <adverb>wrong</adverb></verbPhrase></line>
+            <line><prepPhrase><prep>With</prep> <verbPhrase><verb>spreadin</verb> <nounPhrase><noun>myself</noun></nounPhrase> <adverb>around</adverb></verbPhrase></prepPhrase></line>
             <line><verbPhrase><verb>SING</verb></verbPhrase>!</line>
         </verse>
         <verse>
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
-            <line>I<nounPhrase><noun> </noun></nounPhrase><verbPhrase><verb>can do</verb> what
-                            <nounPhrase><noun>I</noun></nounPhrase>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>can do</verb> <nounPhrase><det>what</det>
+                            <noun>I</noun></nounPhrase>
                     <verbPhrase><verb>wanna do</verb></verbPhrase></verbPhrase>
                         (<nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <nounPhrase><det>my</det>
@@ -140,9 +141,9 @@
         <verse>
             <line>Why <verbPhrase neg="true"><verb>can</verb>'t
                         <nounPhrase><noun>I</noun></nounPhrase>
-                    <verb>live</verb>
+                    <verbPhrase><verb>live</verb>
                     <nounPhrase><det>my</det>
-                        <noun>life</noun></nounPhrase></verbPhrase> (<verbPhrase><verb>Live</verb>
+                        <noun>life</noun></nounPhrase></verbPhrase></verbPhrase> (<verbPhrase><verb>Live</verb>
                     <nounPhrase><det>my</det>
                         <noun>life</noun></nounPhrase></verbPhrase>)</line>
             <line><prepPhrase><prep>Without</prep>
@@ -164,10 +165,10 @@
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>can do</verb> what <nounPhrase><noun>I</noun></nounPhrase>
                     <verbPhrase><verb>wanna do</verb></verbPhrase></verbPhrase></line>
-            <line><nounPhrase><noun>Me</noun> and <noun>you</noun></nounPhrase></line>
-            <line><nounPhrase><adjective>Together</adjective>, <adjective>together</adjective>,
-                        <adjective>together</adjective>, <adjective>together</adjective>,
-                        <adjective>together</adjective></nounPhrase></line>
+            <line><verbPhrase><nounPhrase><noun>Me</noun></nounPhrase> and <nounPhrase><noun>you</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><adverb>Together</adverb>, <adverb>together</adverb>,
+                        <adverb>together</adverb>, <adverb>together</adverb>,
+                        <adverb>together</adverb></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
@@ -182,15 +183,15 @@
         </refrainSection>
         <refrainLine lineID="1"><nounPhrase><noun>Everybody</noun></nounPhrase>
             <verbPhrase><verb>'s talking</verb>
-                <prepPhrase><prep>all</prep>
+                <adverb>all</adverb>
                     <nounPhrase><det>this</det>
-                        <noun>stuff</noun></nounPhrase></prepPhrase>
+                        <noun>stuff</noun></nounPhrase>
                 <prepPhrase><prep>about</prep>
                     <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="2">Why <verbPhrase><verb>do</verb>'nt
-                    <nounPhrase><noun>they</noun></nounPhrase> just <verb>let</verb>
+                    <nounPhrase><noun>they</noun></nounPhrase> just <verbPhrase><verb>let</verb>
                 <nounPhrase><noun>me</noun></nounPhrase>
-                <nounPhrase><noun>live</noun></nounPhrase></verbPhrase></refrainLine>
+                <verbPhrase><verb>live</verb></verbPhrase></verbPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="3"><nounPhrase><noun>I</noun></nounPhrase>
             <verbPhrase neg="true"><verb>don't need</verb>
                 <nounPhrase><noun>permission</noun></nounPhrase></verbPhrase></refrainLine>
