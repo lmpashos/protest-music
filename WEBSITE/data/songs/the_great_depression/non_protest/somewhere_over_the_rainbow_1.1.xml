@@ -2,38 +2,39 @@
 <?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-        <title>Somewhere over the Rainbow</title>
+        <title>Over the Rainbow</title>
         <composer>Harold Arlen</composer>
-        <album/>
+        <album>The Wizard of Oz: Music From the Original Motion Picture</album>
         <year>1939</year>
-        <genre/>
+        <genre>Movie Soundtrack</genre>
         <notablePerformer>Judy Garland</notablePerformer>
+        <protest>0</protest>
     </metadata>
 
     
     <lyrics>
         <verse>
-            <line><adverb>Somewhere</adverb><prepPhrase><prep>over</prep><nounPhrase><det>the</det><noun>rainbow</noun></nounPhrase><adjective>way</adjective><adjective>up</adjective><adjective>high</adjective></prepPhrase></line>
-            <line><nounPhrase><det>There</det></nounPhrase><verbPhrase><verb>'s</verb><nounPhrase><det>a</det><noun>land </noun></nounPhrase></verbPhrase>that<nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>heard</verb><prepPhrase><prep>of</prep></prepPhrase><adverb>once</adverb></verbPhrase><prepPhrase><prep>in</prep><nounPhrase><det>a</det><noun>lullaby</noun></nounPhrase></prepPhrase></line>
-            <line><adverb>Somewhere</adverb><prepPhrase><prep>over</prep><nounPhrase><det>the</det><noun>rainbow</noun></nounPhrase></prepPhrase> <nounPhrase><noun>skies</noun></nounPhrase><verbPhrase> <verb>are</verb> <adjective>blue</adjective></verbPhrase></line>
+            <line><adverb>Somewhere</adverb><prepPhrase> <prep>over</prep><nounPhrase> <det>the</det> <noun>rainbow</noun></nounPhrase><adjective>way</adjective><adjective>up</adjective><adjective>high</adjective></prepPhrase></line>
+            <line><nounPhrase><det>There</det></nounPhrase><verbPhrase> <verb>'s</verb><nounPhrase> <det>a</det> <noun>land </noun></nounPhrase></verbPhrase>that<nounPhrase> <noun>I</noun></nounPhrase> <verbPhrase><verb>heard</verb><prepPhrase> <prep>of</prep></prepPhrase> <adverb>once</adverb></verbPhrase><prepPhrase> <prep>in</prep><nounPhrase> <det>a</det> <noun>lullaby</noun></nounPhrase></prepPhrase></line>
+            <line><adverb>Somewhere</adverb> <prepPhrase> <prep>over</prep><nounPhrase> <det>the</det> <noun>rainbow</noun></nounPhrase></prepPhrase> <nounPhrase><noun>skies</noun></nounPhrase><verbPhrase> <verb>are</verb> <adjective>blue</adjective></verbPhrase></line>
             <line>And <nounPhrase><det>the</det> <noun>dreams</noun></nounPhrase> that <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>dare</verb> <verbPhrase><verb>to dream</verb> <adverb>really</adverb> <verbPhrase><verb>do </verb><verbPhrase><verb>come true</verb></verbPhrase></verbPhrase></verbPhrase></verbPhrase></line>
         </verse>
 
         <verse>
             <line><adverb>Someday</adverb><nounPhrase> <noun>I</noun></nounPhrase><verbPhrase><verb>'ll wish</verb> <prepPhrase><prep>upon</prep> <nounPhrase><det>a</det> <noun>star</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>And <verbPhrase><verb>wake up</verb> <adverb>where</adverb> <nounPhrase><det>the</det> <noun>clouds</noun></nounPhrase> <verbPhrase><verb>are</verb> <adjective>far</adjective> <prepPhrase><prep>Behind</prep><nounPhrase><noun> me</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <line>And <verbPhrase><verb>wake up</verb> <adverb>where</adverb> <nounPhrase><det>the</det> <noun>clouds</noun></nounPhrase> <verbPhrase><verb>are</verb> <adjective>far</adjective> <prepPhrase><prep>behind</prep><nounPhrase><noun> me</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line><adverb>Where</adverb><nounPhrase><noun>troubles</noun></nounPhrase><verbPhrase><verb>melt</verb><adverb>like</adverb><nounPhrase><noun>lemon drops</noun></nounPhrase></verbPhrase></line>
             <line><adverb>Away</adverb> <prepPhrase><prep>above</prep> <nounPhrase><det>the</det> <noun>chimney tops</noun></nounPhrase></prepPhrase></line>
             <line><nounPhrase><det>That</det></nounPhrase><verbPhrase><verb>'s</verb> <adverb>where</adverb> <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ll find </verb><nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></line>
         </verse>
 
         <verse>
-            <line><nounPhrase><noun>Somewhere</noun></nounPhrase><prepPhrase><prep>over</prep><nounPhrase><det>the</det><noun>rainbow</noun></nounPhrase></prepPhrase><nounPhrase><noun>bluebirds</noun></nounPhrase><verbPhrase><verb>fly</verb></verbPhrase></line>
+            <line><nounPhrase><noun>Somewhere</noun> </nounPhrase><prepPhrase> <prep>over</prep><nounPhrase> <det>the</det> <noun>rainbow</noun></nounPhrase></prepPhrase><nounPhrase><noun>bluebirds</noun></nounPhrase><verbPhrase><verb>fly</verb></verbPhrase></line>
             <line><nounPhrase><noun>Birds</noun></nounPhrase> <verbPhrase><verb>fly</verb> <prepPhrase><prep>over </prep><nounPhrase><det>the </det><noun>rainbow</noun></nounPhrase></prepPhrase></verbPhrase>. Why then, oh, why <verbPhrase><verb>can't</verb> <nounPhrase><noun>I</noun></nounPhrase></verbPhrase>?</line>
         </verse>
 
         <verse>
-            <line>If<nounPhrase><adjective>happy</adjective><adjective>little</adjective><noun>bluebirds </noun></nounPhrase><verbPhrase><verb>fly</verb></verbPhrase></line>
+            <line>If<nounPhrase> <adjective>happy</adjective> <adjective>little</adjective> <noun>bluebirds </noun></nounPhrase><verbPhrase> <verb>fly</verb></verbPhrase></line>
             <line><prepPhrase><prep>Beyond</prep> <nounPhrase><det>the</det> <noun>rainbow</noun></nounPhrase></prepPhrase> why, oh, why <verbPhrase><verb>can't</verb> <nounPhrase><noun>I</noun></nounPhrase></verbPhrase>?</line>
         </verse>
     </lyrics>

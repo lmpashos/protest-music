@@ -8,50 +8,51 @@
         <year>2008</year>
         <genre>Acoustic</genre>
         <notablePerformer>Rise Against</notablePerformer>
+        <protest>1</protest>
     </metadata>
     <lyrics>
         <verse>
-            <line>He said, "Son, have you seen the world?</line>
-            <line>Well, what would you say if I said that you could?</line>
-            <line>Just carry this gun; you'll even get paid."</line>
-            <line>I said, "That sounds pretty good."</line>
+            <line><nounPhrase><noun>He </noun></nounPhrase><verbPhrase><verb>said</verb>, "<nounPhrase>Son</nounPhrase>, <verbPhrase><verb>have</verb> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>seen</verb> <nounPhrase><det>the</det> <noun>world</noun></nounPhrase></verbPhrase></verbPhrase>?</verbPhrase></line>
+            <line>Well, <nounPhrase><det>what</det></nounPhrase> <verbPhrase>would <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>say</verb></verbPhrase></verbPhrase> if <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>said</verb> that <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>could</verb></verbPhrase></verbPhrase>?</line>
+            <line><verbPhrase><adverb>Just</adverb> <verb>carry</verb> <nounPhrase><det>this</det> <noun>gun</noun></nounPhrase></verbPhrase>; you<verbPhrase><verb>'ll</verb> <adverb>even</adverb> <verbPhrase><verb>get</verb> <verbPhrase><verb>paid</verb></verbPhrase></verbPhrase></verbPhrase>."</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>said</verb>, "<nounPhrase><det>That</det></nounPhrase> <verbPhrase><verb>sounds</verb> <adjective>pretty</adjective> <adjective>good</adjective></verbPhrase>.</verbPhrase>"</line>
         </verse>
         <verse>
-            <line>Black leather boots, spit shined so bright.</line>
-            <line>They cut off my hair, but it looked alright.</line>
-            <line>We marched, and we sang.</line>
-            <line>We all became friends, as we learned how to fight.</line>
+            <line><nounPhrase><adjective>Black</adjective> <adjective>leather</adjective> <noun>boots</noun></nounPhrase>, <nounPhrase><noun>spit</noun></nounPhrase> <verbPhrase><verb>shined</verb> <adjective>so</adjective> <adjective>bright</adjective></verbPhrase>.</line>
+            <line><nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>cut off</verb> <nounPhrase><det>my</det> <noun>hair</noun></nounPhrase></verbPhrase>, but <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>looked</verb> <adjective>alright</adjective></verbPhrase>.</line>
+            <line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>marched</verb></verbPhrase>, and <nounPhrase><noun>we</noun></nounPhrase> <verbPhrase><verb>sang</verb></verbPhrase>.</line>
+            <line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><adverb>all</adverb> <verb>became</verb> <nounPhrase><noun>friends</noun></nounPhrase>, as <nounPhrase><noun>we</noun></nounPhrase> <verbPhrase><verb>learned</verb> how <verbPhrase><verb>to fight</verb></verbPhrase></verbPhrase></verbPhrase>.</line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
-            <line>I kicked in the door, I yelled my commands.</line>
-            <line>The children they cried, but I got my man.</line>
-            <line>We took him away, a bag over his face,</line>
-            <line>From his family and his friends.</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>kicked in</verb> <nounPhrase><det>the</det> <noun>door</noun></nounPhrase></verbPhrase>, <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>yelled</verb> <nounPhrase><det>my</det> <noun>commands</noun></nounPhrase></verbPhrase>.</line>
+            <line><nounPhrase><det>The </det><noun>children</noun></nounPhrase> <nounPhrase><noun>they</noun></nounPhrase> <verbPhrase><verb>cried</verb></verbPhrase>, but <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>got</verb> <nounPhrase><det>my</det> <noun>man</noun></nounPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>took</verb> <nounPhrase><noun>him</noun></nounPhrase> <adverb>away</adverb></verbPhrase>, <nounPhrase><det>a</det> <noun>bag</noun></nounPhrase> <prepPhrase><prep>over</prep> <nounPhrase><det>his</det> <noun>face</noun></nounPhrase></prepPhrase>,</line>
+            <line><prepPhrase><prep>From</prep> <nounPhrase><det>his</det> <noun>family</noun></nounPhrase> and <nounPhrase><det>his</det> <noun>friends</noun></nounPhrase></prepPhrase>.</line>
         </verse>
         <verse>
-            <line>They took off his clothes; they pissed in his hands.</line>
-            <line>I told them to stop, but then I joined in.</line>
-            <line>We beat him with guns and batons</line>
-            <line>Not just once, but again and again.</line>
+            <line><nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>took off</verb> <nounPhrase><det>his</det> <noun>clothes</noun></nounPhrase></verbPhrase>; <nounPhrase><noun>they</noun></nounPhrase> <verbPhrase><verb>pissed</verb> <prepPhrase><prep>in</prep> <nounPhrase><det>his</det> <noun>hands</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>told </verb>them <verb>to stop</verb></verbPhrase>, but then <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>joined</verb> <adverb>in</adverb></verbPhrase>.</line>
+            <line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>beat</verb> <nounPhrase><noun>him</noun></nounPhrase> <prepPhrase><prep>with</prep> <nounPhrase><noun>guns</noun></nounPhrase> and <nounPhrase><noun>batons</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>Not <adverb>just</adverb> <adverb>once</adverb>, but <adverb>again</adverb> and <adverb>again</adverb>.</line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
-            <line>She walked through bullets and haze</line>
-            <line>I asked her to stop; I begged her to stay.</line>
-            <line>But she pressed on,</line>
-            <line>So I lifted my gun, and I fired away.</line>
+            <line>She <verbPhrase><verb>walked </verb><prepPhrase><prep>through</prep> <nounPhrase><noun>bullets</noun></nounPhrase> and <nounPhrase><noun>haze</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>asked</verb> <nounPhrase><noun>her</noun></nounPhrase> <verb>to stop</verb></verbPhrase>; <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>begged</verb> <nounPhrase><noun>her</noun></nounPhrase> <verbPhrase><verb>to stay</verb></verbPhrase></verbPhrase>.</line>
+            <line>But <nounPhrase><noun>she</noun></nounPhrase> <verbPhrase><verb>pressed</verb> <adverb>on</adverb></verbPhrase>,</line>
+            <line>So <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>lifted</verb> <nounPhrase><det>my</det> <noun>gun</noun></nounPhrase></verbPhrase>, and <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>fired</verb> <adverb>away</adverb></verbPhrase>.</line>
         </verse>
         <verse>
-            <line>And the shells jumped through the smoke</line>
-            <line>And into the sand that the blood now had soaked.</line>
-            <line>She collapsed with a flag in her hand,</line>
-            <line>A flag white as snow.</line>
+            <line>And <nounPhrase><det>the</det> <noun>shells</noun></nounPhrase> <verbPhrase><verb>jumped</verb> <prepPhrase><prep>through</prep> <nounPhrase><det>the</det> <noun>smoke</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>And <prepPhrase><prep>into</prep> <nounPhrase><det>the</det> <noun>sand</noun></nounPhrase> that <nounPhrase><det>the</det> <noun>blood</noun></nounPhrase> now <verbPhrase><verb>had soaked</verb></verbPhrase></prepPhrase>.</line>
+            <line><nounPhrase><noun>She</noun></nounPhrase> <verbPhrase><verb>collapsed</verb> <prepPhrase><prep>with</prep> <nounPhrase><det>a</det> <noun>flag</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>her</det> <noun>hand</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase>,</line>
+            <line><nounPhrase><det>A</det> <noun>flag</noun> <adjective>white</adjective> as <noun>snow</noun></nounPhrase>.</line>
             <refrainSectionRef sectionRef="2"/>
         </verse>
         <verse>
-            <line>He said, "Son, have you seen the world?</line>
-            <line>Well, what would you say if I said that you could?"</line>
+            <line><nounPhrase><noun>He </noun></nounPhrase><verbPhrase><verb>said</verb>, "<nounPhrase>Son</nounPhrase>, <verbPhrase><verb>have</verb> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>seen</verb> <nounPhrase><det>the</det> <noun>world</noun></nounPhrase></verbPhrase></verbPhrase>?</verbPhrase></line>
+            <line>Well, <nounPhrase><det>what</det></nounPhrase> <verbPhrase>would <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>say</verb></verbPhrase></verbPhrase> if <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>said</verb> that <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>could</verb></verbPhrase></verbPhrase>?</line>
         </verse>
         
         <refrainSection sectionID="1">
@@ -68,14 +69,14 @@
             <refrainLineRef lineRef="8"/>
         </refrainSection>
         
-        <refrainLine lineID="1">A hero of war, yeah, that's what I'll be,</refrainLine>
-        <refrainLine lineID="2">And when I come home, they'll be damn proud of me.</refrainLine>
-        <refrainLine lineID="3">I'll carry this flag to the grave if I must</refrainLine>
-        <refrainLine lineID="4">'Cause it's a flag that I love, and a flag that I trust.</refrainLine>
+        <refrainLine lineID="1"><nounPhrase><det>A </det><noun>hero</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>war</noun></nounPhrase></prepPhrase>, yeah, <nounPhrase>that</nounPhrase><verbPhrase><verb>'s</verb> what <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll be</verb></verbPhrase></verbPhrase>,</refrainLine>
+        <refrainLine lineID="2">And <adverb>when</adverb><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>come</verb> <nounPhrase><noun>home</noun></nounPhrase></verbPhrase>, <nounPhrase><noun>they</noun></nounPhrase><verbPhrase><verb>'ll be</verb> <adjective>damn</adjective> <adjective>proud</adjective> <prepPhrase><prep>of</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase>.</verbPhrase></refrainLine>
+        <refrainLine lineID="3"><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll carry</verb> <nounPhrase><det>this</det> <noun>flag</noun></nounPhrase> <prepPhrase><prep>to</prep> <nounPhrase><det>the</det> <noun>grave</noun></nounPhrase></prepPhrase> if <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>must</verb></verbPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="4">'Cause <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>a</det> <noun>flag</noun></nounPhrase> that <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>love</verb></verbPhrase>,</verbPhrase> and <nounPhrase><det>a</det> <noun>flag</noun></nounPhrase> that <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>trust</verb></verbPhrase>.</refrainLine>
         
-        <refrainLine lineID="5">A hero of war, is that what they see,</refrainLine>
-        <refrainLine lineID="6">Just medals and scars, so damn proud of me?</refrainLine>
-        <refrainLine lineID="7">And I brought home that flag. Now it gathers dust</refrainLine>
-        <refrainLine lineID="8">But it's a flag that I love; it's the only flag I trust.</refrainLine>
+        <refrainLine lineID="5"><nounPhrase><det>A </det><noun>hero</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>war</noun></nounPhrase></prepPhrase>, <verbPhrase><verb>is</verb> <nounPhrase><det>that</det></nounPhrase> <nounPhrase><det>what</det> <noun>they</noun></nounPhrase> <verbPhrase><verb>see</verb></verbPhrase></verbPhrase>,</refrainLine>
+        <refrainLine lineID="6"><adverb>Just</adverb> <nounPhrase><noun>medals</noun></nounPhrase> and <nounPhrase><noun>scars</noun></nounPhrase>, <verbPhrase><adjective>so</adjective> <adjective>damn</adjective> <adjective>proud</adjective> <prepPhrase><prep>of</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase>?</refrainLine>
+        <refrainLine lineID="7">And <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>brought</verb> <nounPhrase><noun>home</noun></nounPhrase> <nounPhrase><det>that</det> <noun>flag</noun></nounPhrase></verbPhrase>. Now <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>gathers</verb> <nounPhrase><noun>dust</noun></nounPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="8">But <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>a</det> <noun>flag</noun></nounPhrase> that <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>love</verb></verbPhrase></verbPhrase>; <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>the</det> <adverb>only</adverb> <noun>flag</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>trust</verb></verbPhrase></verbPhrase>.</refrainLine>
     </lyrics>
 </song>

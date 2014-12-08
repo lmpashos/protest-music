@@ -11,18 +11,11 @@
         <genre>Pop</genre>
         <genre>Disco</genre>
         <notablePerformer>Bee Gees</notablePerformer>
+        <protest>0</protest>
     </metadata>
     <lyrics>
         <verse>
-            <line>Well, <nounPhrase><noun>you</noun></nounPhrase>
-                <verbPhrase><verb>can tell</verb>
-                    <prepPhrase><prep>by</prep>
-                        <nounPhrase><det>the</det>
-                            <noun>way</noun></nounPhrase></prepPhrase>
-                    <nounPhrase><noun>I</noun></nounPhrase>
-                    <verbPhrase><verb>use</verb>
-                        <nounPhrase><det>my</det>
-                            <noun>walk</noun></nounPhrase></verbPhrase></verbPhrase>,</line>
+            <line>Well, <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>can</verb> <verbPhrase><verb>tell</verb><prepPhrase><prep>by</prep><nounPhrase><det>the</det><noun>way</noun></nounPhrase></prepPhrase><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verbPhrase><verb>use</verb><nounPhrase><det>my</det><noun>walk</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></verbPhrase>,</line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
                     <nounPhrase><det>a</det>
                         <noun>woman</noun><det>'s</det>
@@ -106,7 +99,7 @@
         </verse>
         <verse>
             <line><nounPhrase><noun>Life</noun></nounPhrase>
-                <verbPhrase><verb>goin</verb>' <adverb>nowhere</adverb></verbPhrase>.
+                <verbPhrase><verb>goin'</verb> <adverb>nowhere</adverb></verbPhrase>.
                         <nounPhrase><noun>Somebody</noun></nounPhrase>
                 <verbPhrase><verb>help</verb>
                     <nounPhrase><noun>me</noun></nounPhrase></verbPhrase>.</line>
@@ -225,7 +218,7 @@
             <verbPhrase><verb>help</verb>
                 <nounPhrase><noun>me</noun></nounPhrase></verbPhrase>, yeah.</refrainLine>
         <refrainLine lineID="9"><nounPhrase><noun>Life</noun></nounPhrase>
-            <verbPhrase><verb>goin</verb>' <adverb>nowhere</adverb></verbPhrase>. Somebody help me,
+            <verbPhrase><verb>goin</verb>' <adverb>nowhere</adverb></verbPhrase>. <nounPhrase><noun>Somebody</noun></nounPhrase> <verbPhrase><verb>help</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase>,
             yeah.</refrainLine>
         <refrainLine lineID="10"><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m
                     stayin</verb>' <adjective>alive</adjective></verbPhrase>.</refrainLine>

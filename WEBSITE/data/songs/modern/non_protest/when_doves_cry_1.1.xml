@@ -8,11 +8,12 @@
         <year>1984</year>
         <genre>Pop</genre>
         <notablePerformer>Prince</notablePerformer>
+        <protest>0</protest>
     </metadata>
     <lyrics>
         <verse>
-            <line><verbPhrase><verb>Dig</verb> if u will <nounPhrase><det>the</det>
-                        <noun>picture</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Dig</verb> if <nounPhrase><noun>u</noun></nounPhrase> <verbPhrase><verb>will</verb> <nounPhrase><det>the</det>
+                        <noun>picture</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><prepPhrase><prep>Of</prep>
                     <nounPhrase><noun>u</noun></nounPhrase> and
                         <nounPhrase><noun>I</noun></nounPhrase></prepPhrase>
@@ -63,21 +64,21 @@
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
-            <line><verbPhrase><verb>Touch</verb> if u will <nounPhrase><det>my</det>
-                        <noun>stomach</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Touch</verb> if <nounPhrase><noun>u</noun></nounPhrase> <verbPhrase><verb>will</verb> <nounPhrase><det>my</det>
+                        <noun>stomach</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Feel</verb> how <nounPhrase><noun>it</noun></nounPhrase>
                     <verbPhrase><verb>trembles</verb>
                         <adverb>inside</adverb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'ve got</verb>
                     <nounPhrase><det>the</det>
                         <noun>butterflies</noun></nounPhrase>
-                    <nounPhrase><adverb>all</adverb>
-                        <adjective>tied</adjective>
-                        <noun>up</noun></nounPhrase></verbPhrase></line>
+                    <adverb>all</adverb>
+                        <verbPhrase><verb>tied</verb>
+                        <adverb>up</adverb></verbPhrase></verbPhrase></line>
             <line><verbPhrase neg="true"><verb>Don't make</verb>
                     <nounPhrase><noun>me</noun></nounPhrase>
-                    <verb>chase</verb>
-                    <nounPhrase><noun>u</noun></nounPhrase></verbPhrase></line>
+                    <verbPhrase><verb>chase</verb>
+                    <nounPhrase><noun>u</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line>Even <nounPhrase><noun>doves</noun></nounPhrase>
                 <verbPhrase><verb>have</verb>
                     <adjective>pride</adjective></verbPhrase></line>
@@ -133,28 +134,28 @@
             <refrainLineRef lineRef="9"/>
         </refrainSection>
         <refrainLine lineID="1">How <verbPhrase><verb>can</verb>
-                <nounPhrase><noun>u</noun></nounPhrase> just <verb>leave</verb>
+                <nounPhrase><noun>u</noun></nounPhrase> <verbPhrase><adverb>just</adverb><verb>leave</verb>
                 <nounPhrase><noun>me</noun>
-                    <adjective>standing</adjective></nounPhrase></verbPhrase>?</refrainLine>
+                    <adjective>standing</adjective></nounPhrase></verbPhrase></verbPhrase>?</refrainLine>
         <refrainLine lineID="2"><adverb>Alone</adverb>
             <prepPhrase><prep>in</prep>
                 <nounPhrase><det>a</det>
-                    <noun>world</noun></nounPhrase></prepPhrase> that<verbPhrase><verb>'s</verb>
+                    <noun>world</noun></nounPhrase></prepPhrase> <nounPhrase><det>that</det></nounPhrase><verbPhrase><verb>'s</verb>
                 <adverb>so</adverb>
                 <adjective>cold</adjective>? (<adverb>so</adverb>
                 <adjective>cold</adjective>)</verbPhrase></refrainLine>
         <refrainLine lineID="3">Maybe
-                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> just
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adverb>just</adverb>
                     <adverb>2</adverb>
                 <verb>demanding</verb></verbPhrase></refrainLine>
         <refrainLine lineID="4">Maybe
-                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> just
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adverb>just</adverb>
                         <prepPhrase><prep>like</prep>
                     <nounPhrase><det>my</det>
-                        <noun>father</noun></nounPhrase></prepPhrase> 2
-            bold</verbPhrase></refrainLine>
+                        <noun>father</noun></nounPhrase></prepPhrase> <adverb>2</adverb>
+            <adjective>bold</adjective></verbPhrase></refrainLine>
         <refrainLine lineID="5">Maybe
-                    <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb> just
+                    <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'re</verb> <adverb>just</adverb>
                         <prepPhrase><prep>like</prep>
                     <nounPhrase><det>my</det>
                         <noun>mother</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
@@ -171,9 +172,9 @@
                     <nounPhrase><adjective>each</adjective>
                         <noun>other</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="8"><nounPhrase><noun>This</noun></nounPhrase>
-            <verbPhrase><verb>is</verb> what <nounPhrase><noun>it</noun></nounPhrase>
-                <verbPhrase><verb>sounds</verb> like</verbPhrase></verbPhrase></refrainLine>
-        <refrainLine lineID="9">When <nounPhrase><noun>doves</noun></nounPhrase>
-            <verbPhrase><verb>cry</verb></verbPhrase></refrainLine>
+            <verbPhrase><verb>is</verb>  <nounPhrase><det>what</det><noun>it</noun></nounPhrase>
+                <verbPhrase><verb>sounds</verb> <adverb>like</adverb></verbPhrase></verbPhrase></refrainLine>
+        <refrainLine lineID="9"><verbPhrase><adverb>When</adverb> <nounPhrase><noun>doves</noun></nounPhrase>
+            <verbPhrase><verb>cry</verb></verbPhrase></verbPhrase></refrainLine>
     </lyrics>
 </song>

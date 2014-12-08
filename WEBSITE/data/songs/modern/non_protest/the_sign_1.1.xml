@@ -8,10 +8,11 @@
         <year>1993</year>
         <genre>Pop</genre>
         <notablePerformer>Ace of Base</notablePerformer>
+        <protest>0</protest>
     </metadata>
     <lyrics>
         <verse>
-            <line>Shock!</line>
+            <line><nounPhrase><noun>Shock!</noun></nounPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>got</verb>
                     <nounPhrase><det>a</det>
@@ -121,9 +122,9 @@
                         <noun>sign</noun></nounPhrase></verbPhrase></line>
             <line>And <nounPhrase><noun>it</noun></nounPhrase>
                 <verbPhrase><verb>opened</verb>
-                    <prepPhrase><prep>up</prep>
+                    <adverb>up</adverb>
                         <nounPhrase><det>my</det>
-                            <noun>eyes</noun></nounPhrase></prepPhrase></verbPhrase>
+                            <noun>eyes</noun></nounPhrase></verbPhrase>
                 <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>saw</verb>
                     <nounPhrase><det>the</det>
@@ -151,25 +152,25 @@
                     <noun>sign</noun></nounPhrase></verbPhrase> and
                 <nounPhrase><noun>it</noun></nounPhrase>
             <verbPhrase><verb>opened</verb>
-                <prepPhrase><prep>up</prep>
+                <adverb>up</adverb>
                     <nounPhrase><det>my</det>
-                        <noun>eyes</noun></nounPhrase></prepPhrase></verbPhrase>
+                        <noun>eyes</noun></nounPhrase></verbPhrase>
             <nounPhrase><noun>I</noun></nounPhrase>
             <verbPhrase><verb>saw</verb>
                 <nounPhrase><det>the</det>
                     <noun>sign</noun></nounPhrase></verbPhrase></refrainLine>
-        <refrainLine lineID="2">Life <verbPhrase><verb>is</verb>
-                <nounPhrase><noun>demanding</noun></nounPhrase>
+        <refrainLine lineID="2"><nounPhrase><noun>Life</noun></nounPhrase> <verbPhrase><verb>is</verb>
+                <adjective>demanding</adjective>
                 <prepPhrase><prep>without</prep>
-                    <nounPhrase><noun>understanding</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+                    <adjective>understanding</adjective></prepPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="3">No <nounPhrase neg="true"
-                    ><noun>one</noun></nounPhrase><verbPhrase><verb>'s gonna drag</verb>
-                <nounPhrase><noun>you</noun></nounPhrase> up <verb>to get</verb>
+                    ><noun>one</noun></nounPhrase><verbPhrase><verb>'s gonna</verb> <verbPhrase><verb>drag</verb>
+                <nounPhrase><noun>you</noun></nounPhrase><adverb> up</adverb> <verbPhrase><verb>to get</verb>
                 <prepPhrase><prep>into</prep>
                     <nounPhrase><det>the</det>
-                        <noun>light</noun></nounPhrase></prepPhrase> where
+                        <noun>light</noun></nounPhrase></prepPhrase> <adverb>where</adverb>
                         <nounPhrase><noun>you</noun></nounPhrase>
-                <verb>belong</verb></verbPhrase></refrainLine>
+                <verbPhrase><verb>belong</verb></verbPhrase></verbPhrase></verbPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="4">But <adverb>where</adverb>
             <verbPhrase><verb>do</verb>
                 <nounPhrase><noun>you</noun></nounPhrase>
@@ -180,9 +181,9 @@
                     <noun>sign</noun></nounPhrase></verbPhrase> and
                 <nounPhrase><noun>it</noun></nounPhrase>
             <verbPhrase><verb>opened</verb>
-                <prepPhrase><prep>up</prep>
+                <adverb>up</adverb>
                     <nounPhrase><det>my</det>
-                        <noun>mind</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+                        <noun>mind</noun></nounPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="6">And <nounPhrase><noun>I</noun></nounPhrase>
             <verbPhrase><verb>am</verb>
                 <adjective>happy</adjective>
@@ -190,7 +191,7 @@
             <verbPhrase><verb>living</verb>
                 <prepPhrase><prep>without</prep>
                     <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
-        <refrainLine lineID="7">I<verbPhrase><verb>'ve left</verb>
+        <refrainLine lineID="7"><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ve left</verb>
                 <nounPhrase><noun>you</noun></nounPhrase></verbPhrase>, ooohhh</refrainLine>
     </lyrics>
 </song>

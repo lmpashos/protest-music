@@ -8,6 +8,7 @@
         <year>1965</year>
         <genre>Folk Rock</genre>
         <notablePerformer>Simon &amp; Garfunkel</notablePerformer>
+        <protest>0</protest>
     </metadata>
     <lyrics>
         <verse>
@@ -25,7 +26,7 @@
             <line><nounPhrase><adjective>Narrow</adjective> <noun>streets</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>cobblestone</noun></nounPhrase></prepPhrase>,</line>
             <line><prepPhrase><prep>'Neath</prep> <nounPhrase><det>the</det> <noun>halo</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><det>a</det> <adjective>street</adjective> <noun>lamp</noun></nounPhrase></prepPhrase></prepPhrase>,</line>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>turned</verb> <nounPhrase><det>my</det> <noun>collar</noun></nounPhrase> <prepPhrase><prep>to</prep> <nounPhrase><noun>the</noun> <noun>cold</noun> and <noun>damp</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>When <nounPhrase><det>my</det> <noun>eyes</noun></nounPhrase> <verbPhrase><verb>were stabbed</verb> <prepPhrase><prep>by</prep> <nounPhrase><det>the</det> <noun>flash</noun></nounPhrase><prepPhrase><prep>of</prep> <nounPhrase><det>a</det> <adjective>neon</adjective> <noun>light</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase></line>
+            <line><adverb>When</adverb> <nounPhrase><det>my</det> <noun>eyes</noun></nounPhrase> <verbPhrase><verb>were stabbed</verb> <prepPhrase><prep>by</prep> <nounPhrase><det>the</det> <noun>flash</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><det>a</det> <adjective>neon</adjective> <noun>light</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase></line>
             <line>That <verbPhrase><verb>split</verb> <nounPhrase><det>the</det> <noun>night</noun></nounPhrase></verbPhrase></line>
             <line>And <verbPhrase><verb>touched</verb> <nounPhrase><det>the</det> <noun>sound</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>silence</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
         </verse>

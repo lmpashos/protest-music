@@ -9,7 +9,7 @@
         <genre>Pop</genre>
         <genre>Rock</genre>
         <notablePerformer>Bruce Springsteen</notablePerformer>
-        <protest>true</protest>
+        <protest>1</protest>
     </metadata>
     <lyrics>
         <verse>

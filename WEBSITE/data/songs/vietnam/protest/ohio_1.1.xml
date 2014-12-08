@@ -9,7 +9,7 @@
         <genre>rock</genre>
         <notablePerformer>Neil Young</notablePerformer>
         <notableEvent>Kent State</notableEvent>
-        <protest>true</protest>
+        <protest>1</protest>
     </metadata>
     <lyrics>
         <verse>
@@ -52,8 +52,8 @@
         <refrainLine lineID="7"><verbPhrase><verb>Should have</verb> <verbPhrase><verb>been done</verb> <adverb>long</adverb> <adverb>ago</adverb></verbPhrase></verbPhrase>.</refrainLine>
         <refrainLine lineID="8"><nounPhrase>What if <noun>you</noun></nounPhrase> <verbPhrase><verb>knew</verb> <nounPhrase><noun>her</noun></nounPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="9">And <verbPhrase><verb>found</verb> <nounPhrase><noun>her</noun> <adjective>dead</adjective></nounPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>the</det> <noun>ground</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
-        <refrainLine lineID="10">How<verbPhrase><verb>can</verb> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>run</verb> <adverb>when</adverb> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>know</verb></verbPhrase></verbPhrase></verbPhrase>?</refrainLine>
-        <!-- not at all sure about last line -->
+        <refrainLine lineID="10">How<verbPhrase> <verb>can</verb> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>run</verb> <adverb>when</adverb> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>know</verb></verbPhrase></verbPhrase></verbPhrase>?</refrainLine>
+        
                   
     </lyrics>
 </song>

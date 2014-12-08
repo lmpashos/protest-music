@@ -10,6 +10,7 @@
         <year>1971</year>
         <genre>folk</genre>
         <notablePerformer>John Denver</notablePerformer>
+        <protest>0</protest>
     </metadata>
     <lyrics>
         <verse>
@@ -24,7 +25,7 @@
         <verse>
             <line><nounPhrase><det>All</det> <det>my</det> <noun>memories</noun></nounPhrase>, <verbPhrase><verb>gather</verb> <adverb>round</adverb> <nounPhrase><noun>her</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Miner</noun><det>'s</det></nounPhrase> <nounPhrase><noun>lady</noun></nounPhrase>, <nounPhrase><noun>stranger</noun></nounPhrase> <prepPhrase><prep>to</prep> <nounPhrase><adjective>blue</adjective> <noun>water</noun></nounPhrase></prepPhrase></line>
-            <line><verbPhrase><adjective>Dark</adjective> and <adjective>dusty</adjective>,<verb>painted</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>the</det> <noun>sky</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><adjective>Dark</adjective> and <adjective>dusty</adjective>, <verb>painted</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>the</det> <noun>sky</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><adjective>Misty</adjective> <noun>taste</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase>moonshine</nounPhrase></prepPhrase>, <nounPhrase><noun>teardrop</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>my</det> <noun>eye</noun></nounPhrase></prepPhrase></line>
         </verse>
         <verse>

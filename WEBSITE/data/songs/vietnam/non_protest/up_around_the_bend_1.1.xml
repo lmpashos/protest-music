@@ -8,6 +8,7 @@
         <year>1970</year>
         <genre>Rock</genre>
         <notablePerformer>Creedence Clearwater Revival</notablePerformer>
+        <protest>0</protest>
     </metadata>
     <lyrics>
         <verse>
@@ -20,15 +21,15 @@
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
-            <line><verbPhrase><verb>Bring</verb> <nounPhrase><det>a</det> <noun>song</noun></nounPhrase> and <nounPhrase><det>a</det> <noun>smile</noun></nounPhrase><prepPhrase><prep>for</prep> <nounPhrase><det>the</det> <noun>banjo</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Bring</verb> <nounPhrase><det>a</det> <noun>song</noun></nounPhrase> and <nounPhrase><det>a</det> <noun>smile</noun></nounPhrase> <prepPhrase><prep>for</prep> <nounPhrase><det>the</det> <noun>banjo</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><adverb>Better</adverb> <verbPhrase><verb>get</verb> <adverb>while</adverb> <nounPhrase><det>the</det> <noun>gettin</noun></nounPhrase><verbPhrase>'s good</verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Hitch</verb> <nounPhrase><det>a</det> <noun>ride</noun></nounPhrase> <prepPhrase><prep>to</prep> <nounPhrase><det>the</det> <noun>end</noun></nounPhrase></prepPhrase> <prepPhrase><prep>of</prep> <nounPhrase><det>the</det> <det>highway</det></nounPhrase></prepPhrase></verbPhrase></line>
-            <line><adverb>Where</adverb><nounPhrase><det>the</det> <noun>neons</noun></nounPhrase> <verbPhrase><verb>turn</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>wood</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><adverb>Where</adverb> <nounPhrase><det>the</det> <noun>neons</noun></nounPhrase> <verbPhrase><verb>turn</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>wood</noun></nounPhrase></prepPhrase></verbPhrase></line>
         </verse>
         <verse>
             <refrainSectionRef sectionRef="1"/>
         </verse>
-        <!-- allow verb phrases in Prep Phrases --> 
+        
         <verse>
             <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>can</verb> <verbPhrase><verb>ponder</verb> <nounPhrase><adjective>perpetual</adjective> <noun>motion</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Fix</verb> <nounPhrase><det>your</det> <noun>mind</noun></nounPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>a</det> <adjective>crystal</adjective> <noun>day</noun></nounPhrase></prepPhrase></verbPhrase></line>

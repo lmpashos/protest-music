@@ -8,18 +8,19 @@
         <year>1959</year>
         <genre>rock</genre>
         <notablePerformer>Chubby Checker</notablePerformer>
+        <protest>0</protest>
     </metadata>
     <lyrics>
         <verse>
-            <line><verbPhrase><verb>Come</verb> <adverb>on</adverb>, <nounPhrase><noun>baby</noun></nounPhrase></verbPhrase>, <verbPhrase><verb>let</verb><nounPhrase><noun>'s</noun></nounPhrase> <verbPhrase><verb>do</verb> <nounPhrase><det>the</det> <noun>twist</noun></nounPhrase></verbPhrase></verbPhrase></line>
-            <line><verbPhrase><verb>Come</verb> <adverb>on</adverb>, <nounPhrase><noun>baby</noun></nounPhrase></verbPhrase>, <verbPhrase><verb>let</verb><nounPhrase><noun>'s</noun></nounPhrase> <verbPhrase><verb>do</verb> <nounPhrase><det>the</det> <noun>twist</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Come</verb> <adverb>on</adverb>, <nounPhrase><noun>baby</noun></nounPhrase></verbPhrase>, <verbPhrase><verb>let</verb><nounPhrase><noun>'s</noun></nounPhrase> <verbPhrase><verb>do</verb> <nounPhrase><det>the</det> <noun>Twist</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Come</verb> <adverb>on</adverb>, <nounPhrase><noun>baby</noun></nounPhrase></verbPhrase>, <verbPhrase><verb>let</verb><nounPhrase><noun>'s</noun></nounPhrase> <verbPhrase><verb>do</verb> <nounPhrase><det>the</det> <noun>Twist</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Take</verb> <nounPhrase><noun>me</noun></nounPhrase> <prepPhrase><prep>by</prep> <nounPhrase><det>my</det> <adjective>little</adjective> <noun>hand</noun></nounPhrase></prepPhrase></verbPhrase> and <verbPhrase><verb>go</verb> <prepPhrase><prep>like</prep> <nounPhrase><noun>this</noun></nounPhrase></prepPhrase></verbPhrase></line>
         </verse>
 
         <verse>
             <line>Yeah, <verbPhrase><verb>twist</verb>, <nounPhrase><noun>baby</noun>, <noun>baby</noun></nounPhrase> <verbPhrase><verb>Twist</verb></verbPhrase></verbPhrase></line>
             <line>ooh yeah, <adverb>just</adverb> <prepPhrase><prep>like</prep> <nounPhrase><noun>this</noun></nounPhrase></prepPhrase></line>
-            <line><verbPhrase><verb>Come</verb> <adverb>on</adverb>, <nounPhrase><adjective>little</adjective> <noun>miss</noun></nounPhrase></verbPhrase>, and <verbPhrase><verb>do</verb> <nounPhrase><det>the</det> <noun>twist</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Come</verb> <adverb>on</adverb>, <nounPhrase><adjective>little</adjective> <noun>miss</noun></nounPhrase></verbPhrase>, and <verbPhrase><verb>do</verb> <nounPhrase><det>the</det> <noun>Twist</noun></nounPhrase></verbPhrase></line>
         </verse>
 
         <verse>
@@ -39,18 +40,18 @@
             <line>Yeah, <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>should see</verb> <det>my</det> <adjective>little</adjective> <nounPhrase><noun>sis</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>should</verb> <verb>see</verb> <nounPhrase><det>my</det>, <det>my</det> <adjective>little</adjective> <noun>sis</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>She</noun></nounPhrase> <adverb>really</adverb> <verbPhrase><verb>knows</verb> <adverb>how</adverb> <verbPhrase><verb>to rock</verb></verbPhrase></verbPhrase></line>
-            <line><nounPhrase><noun>She</noun></nounPhrase> <verbPhrase><verb>knows</verb></verbPhrase> <verbPhrase><adverb>how</adverb> <verb>to twist</verb></verbPhrase></line>
+            <line><nounPhrase><noun>She</noun></nounPhrase> <verbPhrase><verb>knows</verb></verbPhrase> <verbPhrase><adverb>how</adverb> <verb>to Twist</verb></verbPhrase></line>
         </verse>
 
         <verse>
-            <line><verbPhrase><verb>Come</verb> <adverb>on</adverb> and <verbPhrase><verb>twist</verb></verbPhrase></verbPhrase>, yeah, <nounPhrase><noun>baby</noun></nounPhrase> <verbPhrase><verb>Twist</verb></verbPhrase></line>
+            <line><verbPhrase><verb>Come</verb> <adverb>on</adverb> and <verbPhrase> <verb>Twist</verb></verbPhrase></verbPhrase>, yeah, <nounPhrase><noun>baby</noun></nounPhrase> <verbPhrase><verb>Twist</verb></verbPhrase></line>
             <line>ooh yeah, <adverb>just</adverb> <prepPhrase><prep>like</prep> <nounPhrase><noun>this</noun></nounPhrase></prepPhrase></line>
-            <line><verbPhrase><verb>Come</verb> <adverb>on</adverb>, <nounPhrase><adjective>little</adjective> <noun>miss</noun></nounPhrase></verbPhrase>, and <verbPhrase><verb>do</verb> <nounPhrase><det>the</det> <noun>twist</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Come</verb> <adverb>on</adverb>, <nounPhrase><adjective>little</adjective> <noun>miss</noun></nounPhrase></verbPhrase>, and <verbPhrase><verb>do</verb> <nounPhrase><det>the</det> <noun>Twist</noun></nounPhrase></verbPhrase></line>
         </verse>
 
         <verse>
             <line>Yeah, <verbPhrase><verb>rock</verb> <adverb>on</adverb> <adverb>now</adverb></verbPhrase></line>
-            <line>Yeah, <verbPhrase><verb>twist</verb> <adverb>on</adverb> <adverb>now</adverb></verbPhrase>, <verbPhrase><verb>twist</verb></verbPhrase></line>
+            <line>Yeah, <verbPhrase><verb>Twist</verb> <adverb>on</adverb> <adverb>now</adverb></verbPhrase>, <verbPhrase><verb>Twist</verb></verbPhrase></line>
         </verse>
     </lyrics>
 </song>

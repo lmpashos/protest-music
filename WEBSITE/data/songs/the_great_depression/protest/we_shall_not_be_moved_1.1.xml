@@ -7,8 +7,8 @@
         <album/>
         <year>1931</year>
         <genre></genre>
-        <notablePerformer></notablePerformer>
-    <protest>true</protest>
+        <notablePerformer/>
+    <protest>1</protest>
 </metadata>
     
 <lyrics>
@@ -36,9 +36,9 @@
 
 <!-- allow verb phrases in prepositional phrases-->
 <verse>
-<line><prepPhrase><prep>For</prep><nounPhrase><det>the</det> <noun>teachers </noun></nounPhrase><nounPhrase><det>who</det></nounPhrase><verbPhrase><verb>have taught</verb><nounPhrase><noun>us</noun></nounPhrase></verbPhrase></prepPhrase>,</line>
+<line><prepPhrase><prep>For</prep><nounPhrase> <det>the</det> <noun>teachers </noun></nounPhrase><nounPhrase> <det>who</det></nounPhrase><verbPhrase> <verb>have taught</verb><nounPhrase> <noun>us</noun></nounPhrase></verbPhrase></prepPhrase>,</line>
 <line><nounPhrase><noun>We </noun></nounPhrase><verbPhrase neg="true"><verb>shall</verb> not <verbPhrase><verb>be</verb> <adverb>moved</adverb></verbPhrase></verbPhrase>.</line>
-<line><prepPhrase><prep>For</prep> <nounPhrase><det>the</det> <noun>folks</noun> </nounPhrase><nounPhrase><det>who</det></nounPhrase> <verbPhrase><verb>drive</verb> <nounPhrase><det>the</det> <noun>school bus</noun></nounPhrase></verbPhrase></prepPhrase>,</line>
+<line><prepPhrase><prep>For</prep> <nounPhrase><det>the</det> <noun>folks</noun> </nounPhrase><nounPhrase> <det>who</det></nounPhrase> <verbPhrase><verb>drive</verb> <nounPhrase><det>the</det> <noun>school bus</noun></nounPhrase></verbPhrase></prepPhrase>,</line>
 <line><nounPhrase><noun>We </noun></nounPhrase><verbPhrase neg="true"><verb>shall</verb> not <verbPhrase><verb>be</verb> <adverb>moved</adverb></verbPhrase></verbPhrase>.</line>
 <line><adverb>Just</adverb> <prepPhrase><prep>like</prep><nounPhrase><det>a</det> <noun>tree</noun></nounPhrase></prepPhrase></line>
 <line><nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>’s</verb> <verbPhrase><verb>standing</verb> <prepPhrase><prep>by</prep> <nounPhrase><det>the </det><noun>water side</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>,</line>
@@ -65,7 +65,7 @@
         </refrainSection>
         
     <refrainLine lineID="1"><nounPhrase><noun>We </noun></nounPhrase><verbPhrase neg="true"><verb>shall</verb> not</verbPhrase>, <nounPhrase><noun>We </noun></nounPhrase><verbPhrase neg="true"><verb>shall</verb> not <verbPhrase><verb>be</verb> <adverb>moved</adverb></verbPhrase></verbPhrase>.</refrainLine>
-    <refrainLine lineID="2"><adverb>Just</adverb> <prepPhrase><prep>like</prep><nounPhrase><det>a</det> <noun>tree</noun></nounPhrase></prepPhrase></refrainLine>
+    <refrainLine lineID="2"><adverb>Just</adverb> <prepPhrase><prep>like</prep><nounPhrase> <det>a</det> <noun>tree</noun></nounPhrase></prepPhrase></refrainLine>
     <refrainLine lineID="3"><nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>’s</verb> <verbPhrase><verb>standing</verb> <prepPhrase><prep>by</prep> <nounPhrase><det>the </det><noun>water side</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>,</refrainLine>    
     <refrainLine lineID="4"><nounPhrase><noun>We </noun></nounPhrase><verbPhrase neg="true"><verb>shall</verb> not <verbPhrase><verb>be</verb> <adverb>moved</adverb></verbPhrase></verbPhrase>.</refrainLine>    
             

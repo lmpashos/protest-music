@@ -10,10 +10,11 @@
         <year>1992</year>
         <genre>R&amp;B</genre>
         <notablePerformer>Boyz 2 Men</notablePerformer>
+        <protest>0</protest>
     </metadata>
     <lyrics>
         <verse>
-            <line>Girl, <nounPhrase><noun>you</noun></nounPhrase>
+            <line><nounPhrase><noun>Girl</noun></nounPhrase>, <nounPhrase><noun>you</noun></nounPhrase>
                 <verbPhrase><verb>know</verb>
                     <nounPhrase><noun>we</noun></nounPhrase>
                     <verbPhrase><verb>belong</verb>
@@ -23,15 +24,15 @@
                         ><noun>time</noun></nounPhrase>
                     <prepPhrase><prep>for</prep>
                         <nounPhrase><noun>you</noun></nounPhrase></prepPhrase>
-                    <verb>to be playing</verb>
+                    <verbPhrase><verb>to be playing</verb>
                     <prepPhrase><prep>with</prep>
                         <nounPhrase><det>my</det>
-                            <noun>heart</noun></nounPhrase></prepPhrase>
+                            <noun>heart</noun></nounPhrase>
                     <prepPhrase><prep>like</prep>
-                        <nounPhrase><noun>this</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                        <nounPhrase><noun>this</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'ll be</verb>
                     <adjective>mine</adjective>
-                    <adverb>forever</adverb></verbPhrase>, baby, you just see</line>
+                    <adverb>forever</adverb></verbPhrase>, <nounPhrase><noun>baby</noun></nounPhrase>, <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><adverb>just</adverb> <verb>see</verb></verbPhrase></line>
         </verse>
         <verse>
             <line><nounPhrase><noun>We</noun></nounPhrase>
@@ -64,9 +65,9 @@
                         <verb>die</verb></verbPhrase></verbPhrase></line>
             <line>How <verbPhrase><verb>could</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <verb>love</verb>
-                    <nounPhrase><noun>me</noun></nounPhrase> and <verb>leave</verb>
-                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
+                    <verbPhrase><verb>love</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase> and <verbPhrase><verb>leave</verb>
+                    <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></line>
             <line>And <verbPhrase><adverb>never</adverb>
                     <verb>say</verb>
                     <nounPhrase><noun>goodbye</noun></nounPhrase></verbPhrase>?</line>
@@ -76,22 +77,22 @@
                 <verbPhrase neg="true"><verb>can't sleep</verb>
                     <prepPhrase><prep>at</prep>
                         <nounPhrase><noun>night</noun></nounPhrase></prepPhrase>
-                    <prepPhrase><prep>without</prep> holding
+                    <prepPhrase><prep>without</prep> <verbPhrase><verb>holding</verb>
                             <nounPhrase><noun>you</noun></nounPhrase>
-                        <adverb>tight</adverb></prepPhrase></verbPhrase></line>
-            <line>Girl, <nounPhrase><adjective>each</adjective>
+                        <adverb>tight</adverb></verbPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>Girl</noun></nounPhrase>, <nounPhrase><det>each</det>
                     <noun>time</noun></nounPhrase>
                 <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>try</verb></verbPhrase>
-                <nounPhrase><noun>I</noun></nounPhrase> just <verbPhrase><verb>break</verb>
-                    <adverb>down</adverb> and <verb>cry</verb></verbPhrase></line>
+                <nounPhrase><noun>I</noun></nounPhrase>  <verbPhrase><adverb>just</adverb> <verb>break</verb>
+                    <adverb>down</adverb> and <verbPhrase><verb>cry</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Pain</noun></nounPhrase>
                 <prepPhrase><prep>in</prep>
                     <nounPhrase><det>my</det>
                         <noun>head</noun></nounPhrase></prepPhrase> oh
-                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d</verb> rather
-                        <verb>be</verb>
-                    <nounPhrase><adjective>dead</adjective></nounPhrase></verbPhrase></line>
+                    <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d rather</verb>
+                        <verbPhrase><verb>be</verb>
+                    <nounPhrase><adjective>dead</adjective></nounPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Spinnin'</verb>
                     <adverb>around</adverb> and <adverb>around</adverb></verbPhrase></line>
         </verse>
@@ -106,7 +107,7 @@
                     <verbPhrase><adverb>really</adverb>
                         <verb>love</verb>
                         <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></verbPhrase>,</line>
-            <line><nounPhrase><noun>You</noun></nounPhrase> just <verbPhrase neg="true"><verb>don't
+            <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase neg="true"><adverb>just</adverb> <verb>don't
                         realize</verb></verbPhrase></line>
             <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase neg="true"><verb>'ve never
                         been</verb>
@@ -127,8 +128,8 @@
                 <verbPhrase><verb>should be</verb>
                     <nounPhrase><adjective>happy</adjective>
                         <adjective>together</adjective></nounPhrase></verbPhrase></line>
-            <line><adverb>Forever</adverb>, <nounPhrase><noun>you</noun> and
-                    <noun>I</noun></nounPhrase></line>
+            <line><adverb>Forever</adverb>, <nounPhrase><noun>you</noun></nounPhrase> and
+                    <nounPhrase><noun>I</noun></nounPhrase></line>
         </verse>
         <verse>
             <line><verbPhrase><verb>Will</verb>
@@ -150,12 +151,12 @@
                     <adverb>more</adverb></verbPhrase></line>
             <line><nounPhrase><det>This</det>
                     <noun>time</noun></nounPhrase>
-                <verbPhrase><adverb>instead</adverb> just <verb>come</verb>
+                <adverb>instead</adverb> <verbPhrase><adverb>just</adverb> <verb>come</verb>
                     <prepPhrase><prep>to</prep>
                         <nounPhrase><det>my</det>
                             <noun>bed</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>And, <nounPhrase><noun>baby</noun></nounPhrase>, just <verbPhrase neg="true"
-                        ><verb>don't let</verb>
+            <line>And, <nounPhrase><noun>baby</noun></nounPhrase>, <verbPhrase neg="true"
+                        > <adverb>just</adverb> <verb>don't let</verb>
                     <nounPhrase><noun>me</noun></nounPhrase>
                     <adverb>down</adverb></verbPhrase></line>
         </verse>
@@ -172,22 +173,22 @@
                     <det>those</det>
                     <noun>times</noun></nounPhrase>
                 <prepPhrase><prep>at</prep>
-                    <nounPhrase><noun>night</noun></nounPhrase></prepPhrase> when
-                        <nounPhrase><noun>you</noun></nounPhrase> just <verbPhrase><verb>hurt</verb>
+                    <nounPhrase><noun>night</noun></nounPhrase></prepPhrase> <adverb>when</adverb>
+                        <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><adverb>just</adverb> <verb>hurt</verb>
                     <nounPhrase><noun>me</noun></nounPhrase></verbPhrase></line>
-            <line>And just <verbPhrase><verb>run</verb>
+            <line>And  <verbPhrase><adverb>just</adverb> <verb>run</verb>
                     <adverb>out</adverb>
                     <prepPhrase><prep>with</prep>
                         <det>that</det>
                         <adjective>other</adjective>
                         <nounPhrase>fella</nounPhrase></prepPhrase></verbPhrase></line>
-            <line>Baby, <nounPhrase><noun>I</noun></nounPhrase>
+            <line><nounPhrase><noun>Baby</noun></nounPhrase>, <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>knew</verb>
                     <prepPhrase><prep>about</prep>
                         <nounPhrase><noun>it</noun></nounPhrase></prepPhrase></verbPhrase>,
                         <nounPhrase><noun>I</noun></nounPhrase>
-                <verbPhrase neg="true">just <verb>didn't care</verb></verbPhrase></line>
-            <line><nounPhrase><noun>You</noun></nounPhrase> just <verbPhrase neg="true"><verb>don't
+                <verbPhrase neg="true"> <adverb>just</adverb> <verb>didn't care</verb></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase>  <verbPhrase neg="true"><adverb>just</adverb> <verb>don't
                         understand</verb> how <adverb>much</adverb>
                     <nounPhrase><noun>I</noun></nounPhrase>
                     <verbPhrase><verb>love</verb>
@@ -201,17 +202,17 @@
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> not <nounPhrase
                         neg="true"><adjective>out</adjective></nounPhrase>
                     <verb>to go</verb>
-                    <adverb>out</adverb> and <verb>cheat</verb>
+                    <adverb>out</adverb> and <verbPhrase><verb>cheat</verb>
                     <prepPhrase><prep>on</prep>
                         <nounPhrase><noun>you</noun></nounPhrase></prepPhrase>
-                    <prepPhrase><prep>all</prep>
-                        <nounPhrase><noun>night</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>Just like <nounPhrase><noun>you</noun></nounPhrase>
+                    <adverb>all</adverb>
+                        <nounPhrase><noun>night</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><adverb>Just</adverb> like <nounPhrase><noun>you</noun></nounPhrase>
                 <verbPhrase><verb>did</verb></verbPhrase>,
                     <nounPhrase><noun>baby</noun></nounPhrase>, but
                     <nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>'s</verb>
-                    <prepPhrase><prep>all</prep>
-                        <nounPhrase><noun>right</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                    <adverb>all</adverb>
+                        <nounPhrase><noun>right</noun></nounPhrase></verbPhrase></line>
             <line>Hey, <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>love</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
@@ -228,20 +229,20 @@
                             <noun>day</noun></nounPhrase></prepPhrase>,
                             <nounPhrase><noun>baby</noun></nounPhrase></verbPhrase></line>
             <line>Right <adverb>now</adverb>,
-                        <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> just
+                        <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adverb>just</adverb>
                             <prepPhrase><prep>in</prep>
                         <nounPhrase><adverb>so</adverb>
                             <adjective>much</adjective>
                             <noun>pain</noun></nounPhrase></prepPhrase></verbPhrase>,
                         <nounPhrase><noun>baby</noun></nounPhrase></line>
-            <line>'Cause <nounPhrase><noun>you</noun></nounPhrase> just <verbPhrase neg="true"
-                        ><verb>won't come</verb>
+            <line>'Cause <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase neg="true"
+                        ><adverb>just</adverb> <verb>won't come</verb>
                     <adverb>back</adverb>
                     <prepPhrase><prep>to</prep>
                         <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Will</verb>
-                    <nounPhrase><noun>you</noun></nounPhrase></verbPhrase>? Just
-                        <verbPhrase><verb>come</verb>
+                    <nounPhrase><noun>you</noun></nounPhrase></verbPhrase>? 
+                        <verbPhrase><adverb>Just</adverb> <verb>come</verb>
                     <adverb>back</adverb>
                     <prepPhrase><prep>to</prep>
                         <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
@@ -265,12 +266,12 @@
             <line><nounPhrase><noun>Baby</noun></nounPhrase>, please</line>
             <line><nounPhrase><det>This</det>
                     <noun>time</noun></nounPhrase>
-                <verbPhrase><adverb>instead</adverb> just <verb>come</verb>
+                <verbPhrase><adverb>instead</adverb> <adverb>just</adverb> <verb>come</verb>
                     <prepPhrase><prep>to</prep>
                         <nounPhrase><det>my</det>
                             <noun>bed</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line>And, <nounPhrase><noun>baby</noun></nounPhrase>, just <verbPhrase neg="true"
-                        ><verb>don't let</verb>
+            <line>And, <nounPhrase><noun>baby</noun></nounPhrase>, <verbPhrase neg="true"
+                        ><adverb>just</adverb> <verb>don't let</verb>
                     <nounPhrase><noun>me</noun></nounPhrase>
                     <adverb>down</adverb></verbPhrase></line>
         </verse>
@@ -292,10 +293,10 @@
             <nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>'ve come</verb>
                 <prepPhrase><prep>to</prep>
                     <nounPhrase><det>the</det>
-                        <noun>end</noun></nounPhrase></prepPhrase>
+                        <noun>end</noun></nounPhrase>
                 <prepPhrase><prep>of</prep>
                     <nounPhrase><det>the</det>
-                        <noun>road</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+                        <noun>road</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="2"><adverb>Still</adverb>
             <nounPhrase><noun>I</noun></nounPhrase>
             <verbPhrase neg="true"><verb>can't let</verb>
@@ -314,9 +315,9 @@
         <refrainLine lineID="4"><verbPhrase><verb>Come</verb>
                 <prepPhrase><prep>to</prep>
                     <nounPhrase><det>the</det>
-                        <noun>end</noun></nounPhrase></prepPhrase>
+                        <noun>end</noun></nounPhrase>
                 <prepPhrase><prep>of</prep>
                     <nounPhrase><det>the</det>
-                        <noun>road</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
+                        <noun>road</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase></refrainLine>
     </lyrics>
 </song>

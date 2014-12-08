@@ -12,11 +12,10 @@
         <genre>folk</genre>
         <notablePerformer>Joan Baez</notablePerformer>
         <notablePerformer>Pete Seeger</notablePerformer>
-        <notablePerformer>Robert Kennedy</notablePerformer>
         <notablePerformer>Bruce Springsteen</notablePerformer>
         <notablePerformance>March on Washington</notablePerformance>
         <notablePerformance>MLK funeral</notablePerformance>
-        <protest>true</protest>
+        <protest>1</protest>
     </metadata>
     <lyrics>
         <verse>

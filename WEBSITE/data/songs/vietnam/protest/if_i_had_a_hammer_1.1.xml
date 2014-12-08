@@ -9,7 +9,7 @@
         <genre>folk</genre>
         <notablePerformer>Pete Seeger</notablePerformer>
         <notablePerformer>Peter Paul and Mary</notablePerformer>
-        <protest>true</protest>
+        <protest>1</protest>
     </metadata>
     <lyrics>
         <verse>
@@ -68,9 +68,9 @@
             <refrainLineRef lineRef="1"></refrainLineRef>
         </refrainSection>
         
-        <refrainLine lineID="1"><adverb>All</adverb> <prepPhrase><prep>over</prep> <nounPhrase><det>this</det> <noun>land</noun></nounPhrase></prepPhrase>.</refrainLine>
-        <refrainLine lineID="2"><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>the</det> <noun>hammer</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>Justice</noun></nounPhrase></prepPhrase></verbPhrase>,</refrainLine>
-        <refrainLine lineID="2"><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>the</det> <noun>bell</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>Freedom</noun></nounPhrase></prepPhrase></verbPhrase>,</refrainLine>
+        <refrainLine lineID="1"><adverb>All</adverb> <prepPhrase><prep>over</prep> <nounPhrase><det>this</det> <noun>land</noun></nounPhrase></prepPhrase>.</refrainLine> 
+        <refrainLine lineID="2"><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>the</det> <noun>hammer</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>Justice</noun></nounPhrase></prepPhrase></verbPhrase>, </refrainLine>
+        <refrainLine lineID="2"><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>the</det> <noun>bell</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>Freedom</noun></nounPhrase></prepPhrase></verbPhrase>, </refrainLine>
         <refrainLine lineID="4"><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase>t<det>he</det> <noun>song</noun></nounPhrase> <prepPhrase><prep>about</prep> <nounPhrase><noun>love</noun></nounPhrase> <prep>between</prep> <nounPhrase><det>my</det> <noun>brothers</noun></nounPhrase> and <nounPhrase><det>my</det> <noun>sisters</noun></nounPhrase></prepPhrase></verbPhrase>,</refrainLine>
     </lyrics>
 </song>

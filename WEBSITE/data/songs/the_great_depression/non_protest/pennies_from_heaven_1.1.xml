@@ -4,29 +4,30 @@
     <metadata>
         <title>Pennies from Heaven</title>
         <composer>Arthur Johnston</composer>
-        <album>Don't Fence Me In</album>
+        <album>Pennies from Heaven</album>
         <year>1936</year>
-        <genre/>
+        <genre>Movie Soundtrack</genre>
         <notablePerformer>Bing Crosby</notablePerformer>
+        <protest>0</protest>
     </metadata>
 
 
     <lyrics>
 
         <verse>
-            <line><nounPhrase><det>A</det> <adjective>long</adjective> <noun>time</noun></nounPhrase><adverb>ago</adverb>,<nounPhrase><det>a</det> <det>million</det> <noun>years</noun></nounPhrase> BC</line>
+            <line><nounPhrase><det>A</det> <adjective>long</adjective> <noun>time</noun> </nounPhrase><adverb>ago</adverb>, <nounPhrase><det>a</det> <det>million</det> <noun>years</noun></nounPhrase> BC</line>
             <line><nounPhrase><det>The</det> <adjective>best</adjective> <noun>things</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><noun>life</noun></nounPhrase></prepPhrase> <verbPhrase><verb>were</verb> <adverb>absolutely</adverb> <adjective>free</adjective></verbPhrase></line>
             <line>But no <nounPhrase neg="true"><noun>one</noun></nounPhrase> <verbPhrase><verb>appreciated</verb> <nounPhrase><det>a</det> <noun>sky</noun></nounPhrase> that <verbPhrase><verb>was</verb> <adverb>always</adverb> <adjective>blue</adjective></verbPhrase></verbPhrase></line>
             <line>And no <nounPhrase neg="true"><noun>one</noun></nounPhrase> <verbPhrase><verb>congratulated </verb><nounPhrase><det>a</det> <noun>moon</noun></nounPhrase> that <verbPhrase><verb>was</verb> <adverb>always</adverb> <adjective>new</adjective></verbPhrase></verbPhrase></line>
 
-            <line>So <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>was planned</verb> that <nounPhrase><noun>they</noun></nounPhrase> <verbPhrase><verb>would vanish</verb> <adverb>now</adverb> and <adverb>then</adverb></verbPhrase></verbPhrase></line>
+            <line>So <nounPhrase><noun>it</noun></nounPhrase><verbPhrase> <verb>was planned</verb> that <nounPhrase><noun>they</noun></nounPhrase> <verbPhrase><verb>would vanish</verb> <adverb>now</adverb> and <adverb>then</adverb></verbPhrase></verbPhrase></line>
             <line>And <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>must</verb> <verbPhrase><verb>pay</verb> <adverb>before</adverb> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>get</verb> <nounPhrase><noun>them</noun></nounPhrase> <adverb>back</adverb> <adverb>again</adverb></verbPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><det>That</det></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase>what <noun>storms</noun></nounPhrase> <verbPhrase><verb>were</verb> <verbPhrase><verb>made</verb> <prepPhrase><prep>for</prep></prepPhrase></verbPhrase></verbPhrase></verbPhrase></line>
             <line>And <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase neg="true"><verb>should</verb>n't <verbPhrase><verb>be</verb> <adjective>afraid</adjective> <prepPhrase><prep>for</prep></prepPhrase></verbPhrase></verbPhrase></line>
         </verse>
 
         <verse>
-            <line><nounPhrase><det>Every</det> <noun>time</noun></nounPhrase> <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>rains</verb></verbPhrase>, <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>rains</verb><nounPhrase><noun>pennies</noun></nounPhrase> <prepPhrase><prep>from</prep> <nounPhrase><noun>heaven</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>Every</det> <noun>time</noun></nounPhrase> <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>rains</verb></verbPhrase>, <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>rains</verb><nounPhrase> <noun>pennies</noun></nounPhrase> <prepPhrase><prep>from</prep> <nounPhrase><noun>heaven</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line>Don'tcha <verbPhrase><verb>know</verb> <nounPhrase><det>each</det> <noun>cloud</noun></nounPhrase> <verbPhrase><verb>contains</verb> <nounPhrase><noun>pennies</noun></nounPhrase> <prepPhrase><prep>from</prep> <nounPhrase><noun>heaven</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>?</line>
             <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'ll find</verb> <nounPhrase><det>your</det> <noun>fortune</noun></nounPhrase> <verbPhrase><verb>fallin'</verb> <adverb>all</adverb><prepPhrase> <prep>over</prep> <nounPhrase><noun>town</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Be</verb> <adjective>sure</adjective></verbPhrase> that <nounPhrase><det>your</det> <noun>umbrella</noun></nounPhrase></line>

@@ -4,53 +4,53 @@
     <metadata>
         <title>Brother Can You Spare a Dime</title>
         <composer>Jay Gorney</composer>
-        <album>Portrait of Bing Crosby</album>
+        <album>A Portrait of Bing Crosby</album>
         <year>1932</year>
-        <genre/>
+        <genre>Jazz</genre>
         <notablePerformer>Bing Crosby</notablePerformer>
-        <protest>true</protest>
+        <protest>1</protest>
     </metadata>
 
     <lyrics>
         <verse>
-            <line><nounPhrase><noun>They</noun> </nounPhrase><adverb>used</adverb> <verbPhrase><verb>to tell</verb><nounPhrase><noun> me</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>was building</verb> <nounPhrase><det>a</det> <noun>dream</noun></nounPhrase></verbPhrase></verbPhrase></line>
-            <line>And so <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>followed</verb> <nounPhrase><det>the</det> <noun>mob</noun></nounPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>They</noun> </nounPhrase><adverb>used</adverb> <verbPhrase><verb>to tell</verb><nounPhrase><noun> me</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was building</verb> <nounPhrase><det>a</det> <noun>dream</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line>And so <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>followed</verb> <nounPhrase><det>the</det> <noun>mob</noun></nounPhrase></verbPhrase></line>
             <line>When <nounPhrase><noun>there</noun> </nounPhrase><verbPhrase><verb>was </verb><nounPhrase><noun>earth</noun></nounPhrase> <verbPhrase><verb>to plow</verb> </verbPhrase>or <nounPhrase><noun>guns</noun></nounPhrase> <verbPhrase><verb>to bear</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>was</verb> <adverb>always</adverb> there, right <prepPhrase><prep>on </prep><nounPhrase><det>the</det> <noun>job</noun></nounPhrase></prepPhrase></verbPhrase></line>
 
-            <line><nounPhrase><noun>They</noun></nounPhrase> <adverb>used</adverb> <verbPhrase><verb>to tell</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>was building</verb> <nounPhrase><det>a</det> <noun>dream</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>They</noun></nounPhrase> <adverb>used</adverb> <verbPhrase><verb>to tell</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was building</verb> <nounPhrase><det>a</det> <noun>dream</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><prepPhrase><prep>With</prep> <nounPhrase><noun>peace</noun></nounPhrase> and <nounPhrase><noun>glory</noun></nounPhrase> <adverb>ahead</adverb></prepPhrase></line>
-            <line>Why<verbPhrase><verb>should</verb> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>be </verb><verbPhrase><verb>standing</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun>line</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></verbPhrase></line>
-            <line><adverb>Just</adverb><verbPhrase><verb>waiting</verb> <prepPhrase><prep>for</prep> <nounPhrase><noun>bread</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
+            <line>Why <verbPhrase><verb>should</verb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>be </verb><verbPhrase><verb>standing</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun>line</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></verbPhrase></line>
+            <line><adverb>Just</adverb> <verbPhrase><verb>waiting</verb> <prepPhrase><prep>for</prep> <nounPhrase><noun>bread</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
 
-            <line>Once <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>built</verb> <nounPhrase><det>a</det> <noun>railroad</noun></nounPhrase></verbPhrase>, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>made</verb><nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>run</verb></verbPhrase></verbPhrase></line>
-            <line><verbPhrase><verb>Made</verb><nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>race</verb> <prepPhrase><prep>against</prep><nounPhrase> <noun>time</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
-            <line>Once <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>built</verb> <nounPhrase><det>a</det> <noun>railroad</noun></nounPhrase></verbPhrase>, now <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> <adverb>done</adverb></verbPhrase></line>
+            <line>Once <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>built</verb> <nounPhrase><det>a</det> <noun>railroad</noun></nounPhrase></verbPhrase>, <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>made</verb><nounPhrase> <noun>it</noun></nounPhrase><verbPhrase> <verb>run</verb></verbPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Made</verb><nounPhrase> <noun>it</noun></nounPhrase> <verbPhrase><verb>race</verb> <prepPhrase><prep>against</prep><nounPhrase> <noun>time</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <line>Once <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>built</verb> <nounPhrase><det>a</det> <noun>railroad</noun></nounPhrase></verbPhrase>, now <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> <adverb>done</adverb></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/>
 
-            <line>Once <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>built</verb> <nounPhrase><det>a</det> <noun>tower</noun></nounPhrase><prepPhrase><prep>up</prep> <prepPhrase><prep>to</prep><nounPhrase><det>the</det> <noun>sun</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase></line>
+            <line>Once <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>built</verb> <nounPhrase><det>a</det> <noun>tower</noun></nounPhrase> <prepPhrase><prep>up</prep> <prepPhrase><prep>to</prep><nounPhrase> <det>the</det> <noun>sun</noun></nounPhrase></prepPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Brick </noun></nounPhrase>and <nounPhrase><noun>rivet</noun></nounPhrase> and <nounPhrase><noun>lime</noun></nounPhrase></line>
-            <line>Once <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>built</verb> <nounPhrase><det>a</det> <noun>tower</noun></nounPhrase></verbPhrase>, now <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> <adverb>done</adverb></verbPhrase></line>
+            <line>Once <nounPhrase><noun>I</noun></nounPhrase><verbPhrase> <verb>built</verb> <nounPhrase><det>a</det> <noun>tower</noun></nounPhrase></verbPhrase>, now <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> <adverb>done</adverb></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/>
 
-            <line><nounPhrase><det>Once</det></nounPhrase><prepPhrase><prep>in</prep> <nounPhrase><adjective>khaki</adjective> <noun>suits</noun></nounPhrase></prepPhrase>, ah, gee, <nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>looked</verb> <adjective>swell</adjective></verbPhrase></line>
+            <line><nounPhrase><det>Once</det></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><adjective>khaki</adjective> <noun>suits</noun></nounPhrase></prepPhrase>, ah, gee, <nounPhrase><noun>we</noun></nounPhrase><verbPhrase> <verb>looked</verb> <adjective>swell</adjective></verbPhrase></line>
             <line><adverb>Full</adverb><prepPhrase><prep>of</prep> <nounPhrase><det>that</det> <adjective>Yankee Doodly</adjective> <noun>Dum</noun></nounPhrase></prepPhrase></line>
             <line><nounPhrase><det>Half a million</det> <noun>boots</noun></nounPhrase><verbPhrase><verb>went</verb><verbPhrase> <verb>slogging</verb> <prepPhrase><prep>through </prep><nounPhrase><noun>Hell</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
-            <line>And <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>was</verb> <nounPhrase><det>the</det> <noun>kid</noun></nounPhrase><prepPhrase><prep>with </prep><nounPhrase><det>the</det> <noun>drum</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line>And <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was</verb> <nounPhrase><det>the</det> <noun>kid</noun></nounPhrase> <prepPhrase><prep>with </prep><nounPhrase><det>the</det> <noun>drum</noun></nounPhrase></prepPhrase></verbPhrase></line>
 
-            <line>Say, <verbPhrase><verb>don't</verb><nounPhrase><noun>you</noun></nounPhrase></verbPhrase><verbPhrase><verb>remember</verb></verbPhrase>? <nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>called</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><noun>'Al'</noun></nounPhrase></verbPhrase></line>
+            <line>Say, <verbPhrase><verb>don't</verb><nounPhrase> <noun>you</noun></nounPhrase></verbPhrase><verbPhrase> <verb>remember</verb></verbPhrase>? <nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>called</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><noun>'Al'</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>was</verb> <nounPhrase><noun>'Al'</noun></nounPhrase> <adverb>all</adverb> <nounPhrase><det>the </det><noun>time</noun></nounPhrase></verbPhrase></line>
-            <line>Why<verbPhrase><verb>don't</verb><nounPhrase><noun>you</noun></nounPhrase></verbPhrase><verbPhrase><verb>remember</verb></verbPhrase>?<nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>m </verb><nounPhrase><det>your</det> <noun>pal</noun></nounPhrase></verbPhrase></line>
+            <line>Why<verbPhrase> <verb>don't</verb><nounPhrase> <noun>you</noun></nounPhrase></verbPhrase> <verbPhrase><verb>remember</verb></verbPhrase>? <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>m </verb><nounPhrase><det>your</det> <noun>pal</noun></nounPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="2"/>
 
-            <line><nounPhrase><det>Once</det></nounPhrase><prepPhrase><prep>in</prep> <nounPhrase><adjective>khaki</adjective> <noun>suits</noun></nounPhrase></prepPhrase>, ah, gee, <nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>looked</verb> <adjective>swell</adjective></verbPhrase></line>
-            <line><adverb>Full</adverb><prepPhrase><prep>of</prep> <nounPhrase><det>that</det> <adjective>Yankee Doodly</adjective> <noun>Dum</noun></nounPhrase></prepPhrase></line>
-            <line><nounPhrase><det>Half a million</det> <noun>boots</noun></nounPhrase><verbPhrase><verb>went</verb><verbPhrase> <verb>slogging</verb> <prepPhrase><prep>through </prep><nounPhrase><noun>Hell</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
-            <line>And <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>was</verb> <nounPhrase><det>the</det> <noun>kid</noun></nounPhrase><prepPhrase><prep>with </prep><nounPhrase><det>the</det> <noun>drum</noun></nounPhrase></prepPhrase></verbPhrase></line>
+            <line><nounPhrase><det>Once</det></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><adjective>khaki</adjective> <noun>suits</noun></nounPhrase></prepPhrase>, ah, gee, <nounPhrase><noun>we</noun></nounPhrase> <verbPhrase><verb>looked</verb> <adjective>swell</adjective></verbPhrase></line>
+            <line><adverb>Full</adverb> <prepPhrase><prep>of</prep> <nounPhrase><det>that</det> <adjective>Yankee Doodly</adjective> <noun>Dum</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase><det>Half a million</det> <noun>boots</noun></nounPhrase> <verbPhrase><verb>went</verb><verbPhrase> <verb>slogging</verb> <prepPhrase><prep>through </prep><nounPhrase><noun>Hell</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <line>And <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was</verb> <nounPhrase><det>the</det> <noun>kid</noun></nounPhrase> <prepPhrase><prep>with </prep><nounPhrase> <det>the</det> <noun>drum</noun></nounPhrase></prepPhrase></verbPhrase></line>
 
-            <line>Oh, say,<verbPhrase neg="true"><verb>don't</verb><nounPhrase><noun>you</noun></nounPhrase></verbPhrase><verbPhrase><verb>remember</verb></verbPhrase>? <nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>called</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><noun>'Al'</noun></nounPhrase></verbPhrase></line>
+            <line>Oh, say,<verbPhrase neg="true"> <verb>don't</verb> <nounPhrase><noun>you</noun></nounPhrase> </verbPhrase><verbPhrase><verb>remember</verb></verbPhrase>? <nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>called</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><noun>'Al'</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>was </verb><nounPhrase><noun>'Al'</noun> </nounPhrase><adverb>all</adverb><nounPhrase><det>the</det> <noun>time</noun></nounPhrase></verbPhrase></line>
-            <line>Say,<verbPhrase neg="true"><verb>don't</verb><nounPhrase><noun>you</noun></nounPhrase></verbPhrase><verbPhrase><verb>remember</verb></verbPhrase>? <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>m</verb><nounPhrase><det>your</det><noun>pal</noun></nounPhrase></verbPhrase></line>
+            <line>Say,<verbPhrase neg="true"> <verb>don't</verb> <nounPhrase> <noun>you</noun></nounPhrase> </verbPhrase><verbPhrase><verb>remember</verb> </verbPhrase>? <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb><nounPhrase> <det>your</det> <noun>pal</noun></nounPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="3"/>
         </verse>
 
@@ -64,7 +64,7 @@
             <refrainLineRef lineRef="3"/>
         </refrainSection>
         <refrainLine lineID="1"><nounPhrase><noun>Brother</noun></nounPhrase>, <verbPhrase><verb>can</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase> <verbPhrase><verb>spare</verb> <nounPhrase><det>a</det> <noun>dime</noun></nounPhrase></verbPhrase>?</refrainLine>
-        <refrainLine lineID="2">Say<nounPhrase><noun>buddy</noun></nounPhrase>, <verbPhrase><verb>can</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase> <verbPhrase><verb>spare</verb> <nounPhrase><det>a</det> <noun>dime</noun></nounPhrase></verbPhrase>?</refrainLine>
+        <refrainLine lineID="2">Say<nounPhrase> <noun>buddy</noun></nounPhrase>, <verbPhrase><verb>can</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase> <verbPhrase><verb>spare</verb> <nounPhrase><det>a</det> <noun>dime</noun></nounPhrase></verbPhrase>?</refrainLine>
         <refrainLine lineID="3"><nounPhrase><noun>buddy</noun></nounPhrase>, <verbPhrase><verb>can</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase> <verbPhrase><verb>spare</verb> <nounPhrase><det>a</det> <noun>dime</noun></nounPhrase></verbPhrase>?</refrainLine>
 
     </lyrics>

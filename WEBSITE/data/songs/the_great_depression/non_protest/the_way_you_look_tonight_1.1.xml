@@ -8,12 +8,13 @@
 <year>1936</year>
 <genre>Jazz</genre>
 <notablePerformer>Fred Astaire </notablePerformer>
+<protest>0</protest>
 </metadata>
 
 <lyrics>
 <verse>
 <line>Some day, when <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adverb>awfully</adverb> <adjective>low</adjective></verbPhrase></line>
-<line>When <nounPhrase><det>the </det><noun>world</noun></nounPhrase><verbPhrase><verb>is</verb> <adjective>cold</adjective></verbPhrase></line>
+<line>When <nounPhrase><det>the </det><noun>world</noun></nounPhrase> <verbPhrase><verb>is</verb> <adjective>cold</adjective></verbPhrase></line>
 <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>will feel</verb> <nounPhrase><det>a</det> <noun>glow</noun> </nounPhrase><adverb>just</adverb> <verbPhrase><verb>thinking</verb> <prepPhrase><prep>of</prep> <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
 <line>And <nounPhrase><det>the</det> <noun>way</noun></nounPhrase> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>look</verb> <adverb>tonight</adverb></verbPhrase></line>
 </verse>
@@ -26,7 +27,7 @@
 </verse>
 
 <verse>
-<line><prepPhrase><prep>With</prep> <nounPhrase><det>each</det> <noun>word</noun></nounPhrase></prepPhrase><nounPhrase><det>your</det><noun>tenderness</noun> </nounPhrase><verbPhrase><verb>grows</verb></verbPhrase></line>
+<line><prepPhrase><prep>With</prep> <nounPhrase><det>each</det> <noun>word</noun></nounPhrase></prepPhrase><nounPhrase><det>your</det> <noun>tenderness</noun> </nounPhrase><verbPhrase><verb>grows</verb></verbPhrase></line>
 <line><verbPhrase><verb>Tearing</verb> <nounPhrase><det>my</det> <noun>fear</noun></nounPhrase> <adverb>apart</adverb></verbPhrase></line>
 <line>And <nounPhrase><det>that</det><adjective> little</adjective> <noun>laugh</noun> </nounPhrase>that <verbPhrase><verb>wrinkles</verb> <nounPhrase><det>your</det> <noun>nose</noun></nounPhrase></verbPhrase></line>
 <line>Just <verbPhrase><verb>touches</verb> <nounPhrase><det>my</det> <adjective>foolish</adjective> <noun>heart</noun></nounPhrase></verbPhrase></line>
@@ -37,7 +38,7 @@
 <line><verbPhrase><verb>Keep</verb> </verbPhrase><nounPhrase><det>that</det> <adjective>breathless</adjective> <noun>charm</noun></nounPhrase></line>
 <line>Oh <verbPhrase neg="true"><verb>won't</verb> <nounPhrase><noun>you</noun></nounPhrase> <adverb>please</adverb><verbPhrase><verb> arrange</verb> <nounPhrase><noun>it</noun></nounPhrase></verbPhrase></verbPhrase>?</line>
 <line>'Cause <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>love</verb> <nounPhrase><noun>you</noun></nounPhrase> <adverb>just</adverb> <nounPhrase><det>the</det> <noun>way</noun> </nounPhrase><nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>look</verb> <adverb>tonight</adverb></verbPhrase></verbPhrase></line>
-<line><adverb>just</adverb><nounPhrase><det>the</det> <noun>way</noun> </nounPhrase><nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>look</verb> <adverb>tonight</adverb></verbPhrase></line>
+<line><adverb>Just</adverb><nounPhrase> <det>the</det> <noun>way</noun> </nounPhrase><nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>look</verb> <adverb>tonight</adverb></verbPhrase></line>
 </verse>
 
 </lyrics>

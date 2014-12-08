@@ -12,6 +12,7 @@
         <genre>Pop</genre>
         <genre>Rap</genre>
         <notablePerformer>Black Eyed Peas</notablePerformer>
+        <protest>0</protest>
     </metadata>
 
     <lyrics>
@@ -19,7 +20,7 @@
             <refrainLineRef lineRef="6"/>
             <refrainLineRef lineRef="6"/>
             <refrainLineRef lineRef="6"/>
-            <line>Gotta g-g-g-get-get-get get-get</line>
+            <line><verbPhrase><verb>Gotta</verb> <verbPhrase>g-g-g-get-get-get get-get</verbPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
@@ -33,13 +34,13 @@
             <line><nounPhrase><noun>You</noun></nounPhrase>
                 <verbPhrase><verb>can get</verb>
                     <nounPhrase><det>that</det>
-                        <adjective>bass</adjective>
-                        <noun>overload</noun></nounPhrase></verbPhrase></line>
+                        <noun>bass</noun></nounPhrase>
+                        <nounPhrase><noun>overload</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>got</verb>
-                    <nounPhrase><det>the</det>
+                    <nounPhrase>
                         <det>that</det>
-                        <noun>rock</noun> and <noun>roll</noun></nounPhrase></verbPhrase></line>
+                        <noun>rock</noun></nounPhrase> and <nounPhrase><noun>roll</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><det>That</det>
                     <adjective>future</adjective>
                     <noun>flow</noun></nounPhrase></line>
@@ -52,31 +53,31 @@
                     <noun>shit</noun></nounPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>got</verb>
-                    <nounPhrase><det>that</det> (<noun>Boom</noun>
-                        <noun>boom</noun>
-                        <noun>boom</noun>)</nounPhrase></verbPhrase></line>
+                    <nounPhrase><det>that</det> (<noun>Boom</noun></nounPhrase>
+                        <nounPhrase><noun>boom</noun></nounPhrase>
+                        <nounPhrase><noun>boom</noun></nounPhrase>)</verbPhrase></line>
             <line>How <nounPhrase><det>the</det>
                     <noun>beat</noun></nounPhrase>
-                <verbPhrase><verb>bang</verb> (<nounPhrase><noun>Boom</noun>
-                        <noun>boom</noun>
-                        <noun>boom</noun></nounPhrase>)</verbPhrase></line>
+                <verbPhrase><verb>bang</verb> (<nounPhrase><noun>Boom</noun></nounPhrase>
+                        <nounPhrase><noun>boom</noun></nounPhrase>
+                        <nounPhrase><noun>boom</noun></nounPhrase>)</verbPhrase></line>
         </verse>
         <verse>
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>like</verb>
                     <nounPhrase><det>that</det>
-                        <noun>boom</noun>
-                        <noun>boom</noun>
-                        <noun>pow</noun></nounPhrase></verbPhrase></line>
+                        <noun>boom</noun></nounPhrase>
+                        <nounPhrase><noun>boom</noun></nounPhrase>
+                        <nounPhrase><noun>pow</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><det>Them</det>
                     <noun>chicken</noun></nounPhrase>
                 <verbPhrase><verb>jackin'</verb>
                     <nounPhrase><det>my</det>
                         <noun>style</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>They</noun></nounPhrase>
-                <verbPhrase><verb>try to copy</verb>
+                <verbPhrase><verb>try</verb> <verbPhrase><verb>to copy</verb>
                     <nounPhrase><det>my</det>
-                        <noun>swagger</noun></nounPhrase></verbPhrase></line>
+                        <noun>swagger</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
                     <prepPhrase><prep>on</prep>
                         <nounPhrase><det>that</det>
@@ -84,28 +85,28 @@
                             <noun>shit</noun></nounPhrase></prepPhrase>
                     <adverb>now</adverb></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m so</verb>
-                    <nounPhrase><noun>three thousand</noun> and
-                    <noun>eight</noun></nounPhrase></verbPhrase></line>
+                    <nounPhrase><det>three thousand</det> and
+                    <det>eight</det></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>You</noun></nounPhrase>
-                <verbPhrase><verb>so</verb>
-                    <nounPhrase><noun>two thousand</noun> and
-                    <noun>late</noun></nounPhrase></verbPhrase></line>
+                <verbPhrase><adverb>so</adverb>
+                    <nounPhrase><det>two thousand</det> and
+                    <adjective>late</adjective></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>got</verb>
                     <nounPhrase><det>that</det>
-                        <noun>boom</noun>
-                        <noun>boom</noun>
-                        <noun>boom</noun></nounPhrase></verbPhrase></line>
+                        <noun>boom</noun></nounPhrase>
+                        <nounPhrase><noun>boom</noun></nounPhrase>
+                        <nounPhrase><noun>boom</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><det>That</det>
                     <adjective>future</adjective>
-                    <noun>boom</noun>
-                    <noun>boom</noun>
-                    <noun>boom</noun></nounPhrase></line>
+                    <noun>boom</noun></nounPhrase>
+                    <nounPhrase><noun>boom</noun></nounPhrase>
+                    <nounPhrase><noun>boom</noun></nounPhrase></line>
             <line><verbPhrase><verb>Let</verb>
                     <nounPhrase><noun>me</noun></nounPhrase>
-                    <verb>get</verb>
+                    <verbPhrase><verb>get</verb>
                     <nounPhrase><noun>it</noun></nounPhrase>
-                    <adverb>now</adverb></verbPhrase></line>
+                    <adverb>now</adverb></verbPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
@@ -119,7 +120,7 @@
                     <nounPhrase><det>the</det>
                         <noun>space ship</noun>
                         <noun>zoom</noun></nounPhrase></verbPhrase></line>
-            <line>When when <nounPhrase><noun>I</noun></nounPhrase>
+            <line><adverb>When</adverb> <adverb>when</adverb> <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>step</verb>
                     <prepPhrase><prep>inside</prep>
                         <nounPhrase><det>the</det>
@@ -127,8 +128,8 @@
                 <nounPhrase><det>them</det>
                     <noun>girls</noun></nounPhrase>
                 <verbPhrase><verb>go</verb>
-                    <nounPhrase><adjective>ape</adjective>
-                        <noun>shit</noun></nounPhrase></verbPhrase>, uh</line>
+                    <adjective>ape shit</adjective>
+                        </verbPhrase>, uh</line>
             <line><nounPhrase><noun>Y'all</noun></nounPhrase>
                 <verbPhrase><verb>stuck</verb>
                     <prepPhrase><prep>on</prep>
@@ -147,18 +148,18 @@
             <line><nounPhrase><det>This</det>
                     <noun>beat</noun></nounPhrase>
                 <verbPhrase><verb>go</verb>
-                    <nounPhrase><noun>boom</noun>
-                        <noun>boom</noun>
-                        <noun>pow</noun></nounPhrase></verbPhrase></line>
+                    <nounPhrase><noun>boom</noun></nounPhrase>
+                        <nounPhrase><noun>boom</noun></nounPhrase>
+                        <nounPhrase><noun>pow</noun></nounPhrase></verbPhrase></line>
         </verse>
         <verse>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
                     <nounPhrase><det>a</det>
-                        <noun>beast</noun></nounPhrase></verbPhrase> when
+                        <noun>beast</noun></nounPhrase></verbPhrase> <adverb>when</adverb>
                         <nounPhrase><noun>you</noun></nounPhrase>
                 <verbPhrase><verb>turn</verb>
                     <nounPhrase><noun>me</noun></nounPhrase>
-                    <verb>on</verb></verbPhrase></line>
+                    <adverb>on</adverb></verbPhrase></line>
             <line><prepPhrase><prep>Into</prep>
                     <nounPhrase><det>the</det>
                         <adjective>future</adjective>
@@ -186,8 +187,8 @@
                         <noun>beat</noun></nounPhrase> that
                         <verbPhrase><verb>808</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><det>That</det>
-                    <noun>boom</noun>
                     <noun>boom</noun></nounPhrase>
+                    <nounPhrase><noun>boom</noun></nounPhrase>
                 <prepPhrase><prep>in</prep>
                     <nounPhrase><det>your</det>
                         <noun>town</noun></nounPhrase></prepPhrase></line>
@@ -198,8 +199,8 @@
                     <nounPhrase><det>the</det>
                         <noun>place</noun></nounPhrase></prepPhrase></line>
             <line>If <nounPhrase><noun>you</noun></nounPhrase>
-                <verbPhrase><verb>wanna get</verb>
-                    <adverb>down</adverb></verbPhrase></line>
+                <verbPhrase><verb>wanna</verb> <verbPhrase><verb>get</verb>
+                    <adverb>down</adverb></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Put</verb>
                     <nounPhrase><det>your</det>
                         <noun>hands</noun></nounPhrase>
@@ -231,8 +232,8 @@
                     <noun>radio</noun></nounPhrase></line>
             <line><nounPhrase><noun>Y'all</noun></nounPhrase>
                 <verbPhrase><verb>getting hit</verb>
-                    <prepPhrase><prep>with</prep> (<nounPhrase><noun>Boom</noun>
-                            <noun>boom</noun>)</nounPhrase></prepPhrase></verbPhrase></line>
+                    <prepPhrase><prep>with</prep> (<nounPhrase><noun>Boom</noun></nounPhrase>
+                            <nounPhrase><noun>boom</noun></nounPhrase>)</prepPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Beats</noun>
                     <adverb>so</adverb>
                     <adjective>big</adjective></nounPhrase>
@@ -244,15 +245,15 @@
                         y'all</noun></nounPhrase></prepPhrase>
                     <nounPhrase><noun>you</noun></nounPhrase>
                     <prepPhrase><prep>with</prep>
-                        <nounPhrase><det>the</det> (<noun>Boom</noun>
-                            <noun>boom</noun>)</nounPhrase></prepPhrase></verbPhrase></line>
+                        <nounPhrase><det>the</det> (<noun>Boom</noun></nounPhrase>
+                            <nounPhrase><noun>boom</noun></nounPhrase>)</prepPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Shitin'</verb>
                     <prepPhrase><prep>on</prep><nounPhrase><noun>
                         y'all</noun></nounPhrase></prepPhrase>
                     <nounPhrase><noun>you</noun></nounPhrase>
                     <prepPhrase><prep>with</prep>
-                        <nounPhrase><det>the</det> (<noun>Boom</noun>
-                            <noun>boom</noun>)</nounPhrase></prepPhrase></verbPhrase></line>
+                        <nounPhrase><det>the</det> (<noun>Boom</noun></nounPhrase>
+                            <nounPhrase><noun>boom</noun>)</nounPhrase></prepPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Shitin'</verb>
                     <prepPhrase><prep>on</prep><nounPhrase><noun>
                         y'all</noun></nounPhrase></prepPhrase>
@@ -262,7 +263,7 @@
             <line><nounPhrase><det>This</det>
                     <noun>beat</noun></nounPhrase>
                 <verbPhrase><verb>be bumpin'</verb>
-                    <verb>bumpin'</verb></verbPhrase></line>
+                    <verbPhrase><verb>bumpin'</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><det>This</det>
                     <noun>beat</noun></nounPhrase>
                 <verbPhrase><verb>go</verb>
@@ -278,25 +279,25 @@
             <line><nounPhrase><det>This</det>
                     <noun>beat</noun></nounPhrase>
                 <verbPhrase><verb>go</verb>
-                    <nounPhrase><noun>boom</noun>
-                        <noun>boom</noun></nounPhrase></verbPhrase></line>
+                    <adverb>boom</adverb>
+                        <adverb>boom</adverb></verbPhrase></line>
         </verse>
         <verse>
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>like</verb>
                     <nounPhrase><det>that</det>
-                        <noun>boom</noun>
-                        <noun>boom</noun>
-                        <noun>pow</noun></nounPhrase></verbPhrase></line>
+                        <noun>boom</noun></nounPhrase>
+                        <nounPhrase><noun>boom</noun></nounPhrase>
+                        <nounPhrase><noun>pow</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><det>Them</det>
                     <noun>chicken</noun></nounPhrase>
                 <verbPhrase><verb>jackin'</verb>
                     <nounPhrase><det>my</det>
                         <noun>style</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>They</noun></nounPhrase>
-                <verbPhrase><verb>try copy</verb>
+                <verbPhrase><verb>try</verb> <verbPhrase><verb>copy</verb>
                     <nounPhrase><det>my</det>
-                        <noun>swagger</noun></nounPhrase></verbPhrase></line>
+                        <noun>swagger</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
                     <prepPhrase><prep>on</prep>
                         <nounPhrase><det>that</det>
@@ -304,51 +305,51 @@
                             <noun>shit</noun></nounPhrase></prepPhrase>
                     <adverb>now</adverb></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m so</verb>
-                    <nounPhrase><noun>three thousand</noun> and
-                    <noun>eight</noun></nounPhrase></verbPhrase></line>
+                    <nounPhrase><det>three thousand</det> and
+                    <det>eight</det></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>You</noun></nounPhrase>
-                <verbPhrase><verb>so</verb>
-                    <nounPhrase><noun>two thousand</noun> and
-                    <noun>late</noun></nounPhrase></verbPhrase></line>
+                <verbPhrase><adverb>so</adverb>
+                    <nounPhrase><det>two thousand</det> and
+                    <adverb>late</adverb></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>got</verb>
                     <nounPhrase><det>that</det>
-                        <noun>boom</noun>
-                        <noun>boom</noun>
-                        <noun>boom</noun></nounPhrase></verbPhrase></line>
+                        <noun>boom</noun></nounPhrase>
+                        <nounPhrase><noun>boom</noun></nounPhrase>
+                        <nounPhrase><noun>boom</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><det>That</det>
                     <adjective>future</adjective>
-                    <noun>boom</noun>
-                    <noun>boom</noun>
-                    <noun>boom</noun></nounPhrase></line>
+                    <noun>boom</noun></nounPhrase>
+                    <nounPhrase><noun>boom</noun></nounPhrase>
+                    <nounPhrase><noun>boom</noun></nounPhrase></line>
             <line><verbPhrase><verb>Let</verb>
                     <nounPhrase><noun>me</noun></nounPhrase>
-                    <verb>get</verb>
+                    <verbPhrase><verb>get</verb>
                     <nounPhrase><noun>it</noun></nounPhrase>
-                    <adverb>now</adverb></verbPhrase></line>
+                    <adverb>now</adverb></verbPhrase></verbPhrase></line>
         </verse>
         <verse>
             <line><verbPhrase><verb>Let</verb>
                     <nounPhrase><det>the</det>
                         <noun>beat</noun></nounPhrase>
-                    <verb>rock</verb></verbPhrase> (<verbPhrase><verb>Let</verb>
+                    <verbPhrase><verb>rock</verb></verbPhrase></verbPhrase> (<verbPhrase><verb>Let</verb>
                     <nounPhrase><det>the</det>
                         <noun>beat</noun></nounPhrase>
-                    <verb>rock</verb></verbPhrase>)</line>
+                    <verbPhrase><verb>rock</verb></verbPhrase></verbPhrase>)</line>
             <line><verbPhrase><verb>Let</verb>
                     <nounPhrase><det>the</det>
                         <noun>beat</noun></nounPhrase>
-                    <verb>rock</verb></verbPhrase> (<verbPhrase><verb>Let</verb>
+                    <verbPhrase><verb>rock</verb></verbPhrase></verbPhrase> (<verbPhrase><verb>Let</verb>
                     <nounPhrase><det>the</det>
                         <noun>beat</noun></nounPhrase></verbPhrase>...)</line>
             <line><verbPhrase><verb>Let</verb>
                     <nounPhrase><det>the</det>
                         <noun>beat</noun></nounPhrase>
-                    <verb>rock</verb></verbPhrase> (<verbPhrase><verb>Let</verb>
+                    <verbPhrase><verb>rock</verb></verbPhrase></verbPhrase> (<verbPhrase><verb>Let</verb>
                     <nounPhrase><det>the</det>
                         <noun>beat</noun></nounPhrase>
-                    <verb>rock</verb>, <verb>rock</verb>, <verb>rock</verb>,
-                    <verb>rock</verb></verbPhrase>)</line>
+                    <verbPhrase><verb>rock</verb>, <verbPhrase><verb>rock</verb>, <verbPhrase><verb>rock</verb>,
+                    <verbPhrase><verb>rock</verb></verbPhrase></verbPhrase></verbPhrase></verbPhrase></verbPhrase>)</line>
         </verse>
         <refrainSection sectionID="1">
             <refrainLineRef lineRef="1"/>

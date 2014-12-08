@@ -9,11 +9,12 @@
         <genre>Pop</genre>
         <genre>Rock</genre>
         <notablePerformer>Michael Jackson</notablePerformer>
+        <protest>0</protest>
     </metadata>
     <lyrics>
         <verse>
             <line><nounPhrase><noun>She</noun></nounPhrase>
-                <verbPhrase><verb>Was</verb> More <prepPhrase><prep>Like</prep>
+                <verbPhrase><verb>Was</verb> <adverb>More</adverb> <prepPhrase><prep>Like</prep>
                         <nounPhrase><det>A</det>
                             <adjective>Beauty</adjective>
                             <noun>Queen</noun></nounPhrase></prepPhrase>
@@ -24,11 +25,11 @@
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>Said</verb></verbPhrase>
                 <verbPhrase neg="true"><verb>Do</verb>n't <adverb>Mind</adverb></verbPhrase>, But
-                What Do <nounPhrase><noun>You</noun></nounPhrase> Mean
+                What <verbPhrase><verb>Do</verb> <nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>Mean</verb>
                     <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>Am</verb>
                     <nounPhrase><det>The</det>
-                        <noun>One</noun></nounPhrase></verbPhrase></line>
+                        <noun>One</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Who</noun></nounPhrase>
                 <verbPhrase><verb>Will Dance</verb>
                     <prepPhrase><prep>On</prep>
@@ -42,7 +43,7 @@
                 <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>Am</verb>
                     <nounPhrase><noun>The</noun>
-                        <noun>One</noun></nounPhrase> Who <verbPhrase><verb>Will Dance</verb>
+                        <noun>One</noun></nounPhrase> <nounPhrase><noun>Who</noun></nounPhrase> <verbPhrase><verb>Will Dance</verb>
                         <prepPhrase><prep>On</prep>
                             <nounPhrase><det>The</det>
                                 <noun>Floor</noun></nounPhrase></prepPhrase>
@@ -83,18 +84,18 @@
         </verse>
         <verse>
             <line><nounPhrase><noun>People</noun></nounPhrase> Always <verbPhrase><verb>Told</verb>
-                    <nounPhrase><noun>Me</noun></nounPhrase></verbPhrase>
+                    <nounPhrase><noun>Me</noun></nounPhrase>
                 <verbPhrase><verb>Be</verb>
                     <adjective>Careful</adjective>
                     <prepPhrase><prep>Of</prep>
                         <nounPhrase><noun>What</noun></nounPhrase>
                         <nounPhrase><noun>You</noun></nounPhrase>
-                Do</prepPhrase></verbPhrase></line>
-            <line>And <verbPhrase neg="true"><verb>Do</verb>n't <verb>Go</verb> Around
+                <verbPhrase><verb>Do</verb></verbPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+            <line>And <verbPhrase neg="true"><verb>Do</verb>n't <verbPhrase><verb>Go</verb> <adverb>Around</adverb>
                         <verb>Breaking</verb>
                     <nounPhrase><adjective>Young</adjective>
                         <noun>Girls</noun><det>'</det>
-                        <noun>Hearts</noun></nounPhrase></verbPhrase></line>
+                        <noun>Hearts</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line>And <nounPhrase><noun>Mother</noun></nounPhrase>
                 <verbPhrase><adverb>Always</adverb>
                     <verb>Told</verb>
@@ -104,12 +105,12 @@
                     <prepPhrase><prep>Of</prep>
                         <nounPhrase><noun>Who</noun></nounPhrase>
                         <nounPhrase><noun>You</noun></nounPhrase>
-                Love</prepPhrase></verbPhrase></line>
+                <verbPhrase><verb>Love</verb></verbPhrase></prepPhrase></verbPhrase></line>
             <line>And <verbPhrase><verb>Be</verb>
                     <adjective>Careful</adjective>
                     <prepPhrase><prep>Of</prep>
                         <nounPhrase><noun>What</noun></nounPhrase>
-                        <nounPhrase><noun>You</noun></nounPhrase> Do</prepPhrase></verbPhrase>
+                        <nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>Do</verb></verbPhrase></prepPhrase></verbPhrase>
                 'Cause <nounPhrase><det>The</det>
                     <noun>Lie</noun></nounPhrase>
                 <verbPhrase><verb>Becomes</verb>
@@ -121,9 +122,9 @@
         </verse>
         <verse>
             <line><prepPhrase><prep>For</prep>
-                    <nounPhrase><adjective>Forty</adjective>
+                    <nounPhrase><det>Forty</det>
                         <noun>Days</noun></nounPhrase></prepPhrase> And <prepPhrase><prep>for</prep>
-                    <nounPhrase><adjective>Forty</adjective>
+                    <nounPhrase><det>Forty</det>
                         <noun>Nights</noun></nounPhrase></prepPhrase></line>
             <line><nounPhrase><det>The</det>
                     <noun>Law</noun></nounPhrase>
@@ -132,9 +133,9 @@
                         <nounPhrase><det>her</det>
                             <noun>Side</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line>But <nounPhrase><noun>Who</noun></nounPhrase>
-                <verbPhrase><verb>Can Stand</verb></verbPhrase> When She<verbPhrase><verb>'s</verb>
+                <verbPhrase><verb>Can Stand</verb><adverb>When</adverb> <nounPhrase><noun>She</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <prepPhrase><prep>In</prep>
-                        <nounPhrase><noun>Demand</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                        <nounPhrase><noun>Demand</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><det>Her</det>
                     <noun>Schemes</noun> And <noun>Plans</noun></nounPhrase></line>
             <line>'Cause <nounPhrase><noun>We</noun></nounPhrase>
@@ -149,10 +150,10 @@
             <line>So <verbPhrase><verb>Take</verb>
                     <nounPhrase><det>My</det>
                         <adjective>Strong</adjective>
-                        <noun>Advice</noun></nounPhrase></verbPhrase>, Just
-                        <verbPhrase><verb>Remember</verb> To <adverb>Always</adverb>
-                    <verb>Think</verb>
-                    <adverb>Twice</adverb></verbPhrase></line>
+                        <noun>Advice</noun></nounPhrase></verbPhrase>,
+                        <verbPhrase><adverb>Just</adverb> <verb>Remember</verb> To <adverb>Always</adverb>
+                    <verbPhrase><verb>Think</verb>
+                    <adverb>Twice</adverb></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Do think</verb>
                     <adverb>Twice</adverb></verbPhrase></line>
         </verse>
@@ -160,10 +161,10 @@
             <line><nounPhrase><noun>She</noun></nounPhrase>
                 <verbPhrase><verb>Told</verb>
                     <nounPhrase><det>My</det>
-                        <noun>Baby</noun></nounPhrase></verbPhrase>
+                        <noun>Baby</noun></nounPhrase>
                 <nounPhrase><noun>We</noun></nounPhrase><verbPhrase><verb>'d Danced</verb>
                     <prepPhrase><prep>'Til</prep>
-                        <nounPhrase><noun>Three</noun></nounPhrase></prepPhrase></verbPhrase></line>
+                        <nounPhrase><noun>Three</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line>Then <nounPhrase><noun>She</noun></nounPhrase>
                 <verbPhrase><verb>Looked</verb>
                     <prepPhrase><prep>At</prep>
@@ -181,31 +182,31 @@
                 <verbPhrase><verb>Looked</verb>
                     <prepPhrase><prep>Like</prep>
                         <nounPhrase><noun>Mine</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line><verbPhrase><verb>Go</verb> On <verb>Dance</verb>
+            <line><verbPhrase><verb>Go On</verb>  <verbPhrase><verb>Dance</verb>
                     <prepPhrase><prep>On</prep>
                         <nounPhrase><det>The</det>
                             <noun>Floor</noun></nounPhrase></prepPhrase>
                     <prepPhrase><prep>In</prep>
                         <nounPhrase><det>The</det>
                             <noun>Round</noun></nounPhrase>
-                    </prepPhrase></verbPhrase>, <nounPhrase><noun>Baby</noun></nounPhrase></line>
+                    </prepPhrase></verbPhrase></verbPhrase>, <nounPhrase><noun>Baby</noun></nounPhrase></line>
         </verse>
         <verse>
-            <line><nounPhrase><noun>People</noun></nounPhrase> Always <verbPhrase><verb>Told</verb>
+            <line><nounPhrase><noun>People</noun></nounPhrase>  <verbPhrase><adverb>Always</adverb><verb>Told</verb>
                     <nounPhrase><noun>Me</noun></nounPhrase></verbPhrase>
                 <verbPhrase><verb>Be</verb>
                     <adjective>Careful</adjective>
                     <prepPhrase><prep>Of</prep>
                         <nounPhrase><noun>What</noun></nounPhrase>
                         <nounPhrase><noun>You</noun></nounPhrase>
-                Do</prepPhrase></verbPhrase></line>
-            <line>And <verbPhrase neg="true"><verb>Do</verb>n't <verb>Go</verb> Around
-                        <verb>Breaking</verb>
+                <verbPhrase><verb>Do</verb></verbPhrase></prepPhrase></verbPhrase></line>
+            <line>And <verbPhrase neg="true"><verb>Do</verb>n't <verb>Go</verb> <adverb>Around</adverb>
+                        <verbPhrase><verb>Breaking</verb>
                     <nounPhrase><adjective>Young</adjective>
                         <noun>Girls</noun><det>'</det>
-                        <noun>Hearts</noun></nounPhrase></verbPhrase></line>
+                        <noun>Hearts</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>She</noun></nounPhrase>
-                <verbPhrase><verb>Came</verb></verbPhrase> And <verbPhrase><verb>Stood</verb> Right
+                <verbPhrase><verb>Came</verb></verbPhrase> And <verbPhrase><verb>Stood</verb> <adverb>Right</adverb>
                             <prepPhrase><prep>By</prep>
                         <nounPhrase><noun>Me</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line>Then <nounPhrase><det>The</det>
@@ -269,37 +270,37 @@
                     <det>A</det>
                     <noun>Girl</noun></nounPhrase></verbPhrase>
             <nounPhrase>Who</nounPhrase>
-            <verbPhrase><verb>Claims</verb></verbPhrase> That
+            <verbPhrase><verb>Claims</verb> That
                 <nounPhrase><noun>I</noun></nounPhrase>
             <verbPhrase><verb>Am</verb>
                 <nounPhrase><det>The</det>
-                    <noun>One</noun></nounPhrase></verbPhrase></refrainLine>
+                    <noun>One</noun></nounPhrase></verbPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="3">But <nounPhrase><det>The</det>
                 <noun>Kid</noun></nounPhrase>
             <verbPhrase neg="true"><verb>Is</verb> Not <nounPhrase><det>My</det>
                     <noun>Son</noun></nounPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="4"><nounPhrase><noun>She</noun></nounPhrase>
-            <verbPhrase><verb>Says</verb></verbPhrase>
+            <verbPhrase><verb>Says</verb>
             <nounPhrase><noun>I</noun></nounPhrase>
             <verbPhrase><verb>Am</verb>
                 <nounPhrase><det>The</det>
-                    <noun>One</noun></nounPhrase></verbPhrase>, But <nounPhrase><det>The</det>
+                    <noun>One</noun></nounPhrase></verbPhrase></verbPhrase>, But <nounPhrase><det>The</det>
                 <noun>Kid</noun></nounPhrase>
             <verbPhrase neg="true"><verb>Is</verb> Not <nounPhrase><det>My</det>
                     <noun>Son</noun></nounPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="5"><nounPhrase><noun>She</noun></nounPhrase>
-            <verbPhrase><verb>Says</verb></verbPhrase>
+            <verbPhrase><verb>Says</verb>
             <nounPhrase><noun>I</noun></nounPhrase>
             <verbPhrase><verb>Am</verb>
                 <nounPhrase><det>The</det>
-                    <noun>One</noun></nounPhrase></verbPhrase>, <nounPhrase><noun>She</noun></nounPhrase>
-            <verbPhrase><verb>Says</verb></verbPhrase> <nounPhrase><noun>He</noun></nounPhrase> <verbPhrase><verb>Is</verb> <nounPhrase><det>My</det> <noun>Son</noun></nounPhrase></verbPhrase></refrainLine>
+                    <noun>One</noun></nounPhrase></verbPhrase></verbPhrase>, <nounPhrase><noun>She</noun></nounPhrase>
+            <verbPhrase><verb>Says</verb> <nounPhrase><noun>He</noun></nounPhrase> <verbPhrase><verb>Is</verb> <nounPhrase><det>My</det> <noun>Son</noun></nounPhrase></verbPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="6"><nounPhrase><noun>She</noun></nounPhrase>
-            <verbPhrase><verb>Says</verb></verbPhrase>
+            <verbPhrase><verb>Says</verb>
             <nounPhrase><noun>I</noun></nounPhrase>
             <verbPhrase><verb>Am</verb>
                 <nounPhrase><det>The</det>
-                    <noun>One</noun></nounPhrase></verbPhrase></refrainLine>
+                    <noun>One</noun></nounPhrase></verbPhrase></verbPhrase></refrainLine>
     </lyrics>
 
 </song>
