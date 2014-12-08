@@ -14,8 +14,8 @@
     <lyrics>
         <verse>
             <line><nounPhrase><noun>Heaven</noun></nounPhrase>, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun>Heaven</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
-            <line>And <nounPhrase><det>my</det> <noun>heart</noun></nounPhrase> <verbPhrase><verb>beats</verb></verbPhrase> so that <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>can</verb> <adverb>hardly</adverb> <verbPhrase><verb>speak</verb></verbPhrase></verbPhrase>;</line>
-            <line>And <nounPhrase><noun>I </noun></nounPhrase><verbPhrase><verb>seem </verb><verbPhrase><verb>to find</verb> <nounPhrase><det>the</det> <noun>happiness</noun></nounPhrase><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>seek</verb></verbPhrase></verbPhrase></verbPhrase></line>
+            <line>And <nounPhrase><det>my</det> <noun>heart</noun></nounPhrase> <verbPhrase><verb>beats</verb></verbPhrase> so that <nounPhrase><noun>I</noun></nounPhrase><verbPhrase> <verb>can</verb> <adverb>hardly</adverb> <verbPhrase><verb>speak</verb></verbPhrase></verbPhrase>;</line>
+            <line>And <nounPhrase><noun>I </noun></nounPhrase><verbPhrase><verb>seem </verb><verbPhrase><verb>to find</verb> <nounPhrase><det>the</det> <noun>happiness</noun></nounPhrase><nounPhrase> <noun>I</noun></nounPhrase> <verbPhrase><verb>seek</verb></verbPhrase></verbPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/></verse>
         
         <verse>
@@ -33,7 +33,7 @@
 <verse>
     <line>Oh! <nounPhrase><noun>I </noun></nounPhrase><verbPhrase><verb>love</verb></verbPhrase> <verbPhrase><verb>to go</verb> <prepPhrase><prep>out</prep></prepPhrase><verbPhrase><verb>fishing</verb></verbPhrase></verbPhrase></line>
             <line><prepPhrase><prep>In</prep> <nounPhrase><det>a </det><noun>river</noun></nounPhrase></prepPhrase> or <nounPhrase><det>a</det> <noun>creek</noun></nounPhrase>,</line>
-    <line>But <nounPhrase><noun>I </noun></nounPhrase><verbPhrase neg="true"><verb>don't</verb><verbPhrase><verb>enjoy</verb> <nounPhrase><noun>it</noun></nounPhrase></verbPhrase> <nounPhrase><det>half</det> <det>as</det> <noun>much</noun></nounPhrase></verbPhrase></line>
+    <line>But <nounPhrase><noun>I </noun></nounPhrase><verbPhrase neg="true"><verb>don't</verb><verbPhrase> <verb>enjoy</verb> <nounPhrase><noun>it</noun></nounPhrase></verbPhrase> <nounPhrase><det>half</det> <det>as</det> <noun>much</noun></nounPhrase></verbPhrase></line>
 
             <refrainSectionRef sectionRef="2"/></verse>
     <verse>
@@ -56,7 +56,7 @@
             <refrainLineRef lineRef="2"/>
         </refrainSection>
 
-        <refrainLine lineID="1"><nounPhrase><det>When</det> <noun>we</noun></nounPhrase><verbPhrase><verb>'re</verb> <prepPhrase><prep>out</prep> <adjective>together</adjective></prepPhrase><verbPhrase><verb>dancing</verb>, <prepPhrase><nounPhrase><noun>cheek</noun></nounPhrase> <prep>to</prep> <nounPhrase><noun>cheek</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase> .</refrainLine>
+        <refrainLine lineID="1"><nounPhrase><det>When</det> <noun>we</noun></nounPhrase><verbPhrase><verb>'re</verb> <prepPhrase><prep>out</prep> <adjective>together</adjective> </prepPhrase><verbPhrase><verb>dancing</verb>, <prepPhrase><nounPhrase><noun>cheek</noun></nounPhrase> <prep>to</prep> <nounPhrase><noun>cheek</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase> .</refrainLine>
         <refrainLine lineID="2"><nounPhrase><det>As</det></nounPhrase> <verbPhrase><verb>dancing </verb><prepPhrase><nounPhrase><noun>cheek</noun></nounPhrase> <prep>to</prep> <nounPhrase><noun>cheek</noun></nounPhrase></prepPhrase>.</verbPhrase></refrainLine>
     </lyrics>
 </song>
