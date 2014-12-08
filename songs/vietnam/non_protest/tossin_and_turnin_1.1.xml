@@ -91,7 +91,7 @@
         </verse>
         
         <verse>
-<line>'Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>was tossin' and turnin'</verb></verbPhrase></line>
+<line>'Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase> <verb>was tossin' and turnin'</verb></verbPhrase></line>
             <refrainLineRef lineRef="1"/>
             <refrainLineRef lineRef="2"/>
         </verse>
@@ -103,12 +103,12 @@
         </verse>
         
         <verse>
-<line>'Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>was tossin'and turnin'</verb></verbPhrase></line>
+<line>'Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase> <verb>was tossin'and turnin'</verb></verbPhrase></line>
             <refrainLineRef lineRef="1"/>
             <refrainLineRef lineRef="2"/>
         </verse>
 
 <refrainLine lineID="1"><verbPhrase><verb>Turnin' and tossin'</verb></verbPhrase></refrainLine>
-<refrainLine lineID="2"><verbPhrase><verb>Tossin' and turnin'</verb><nounPhrase><det>all</det><noun>night</noun></nounPhrase></verbPhrase></refrainLine>
+<refrainLine lineID="2"><verbPhrase><verb>Tossin' and turnin'</verb><nounPhrase> <det>all</det> <noun>night</noun></nounPhrase></verbPhrase></refrainLine>
     </lyrics>
 </song>
