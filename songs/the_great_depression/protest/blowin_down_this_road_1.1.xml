@@ -46,7 +46,7 @@
 
 <line><nounPhrase><det>Your</det> <det>a-</det><adjective>two-dollar</adjective> <noun>shoe</noun></nounPhrase> <verbPhrase><verb>hurts</verb> <nounPhrase><det>my</det> <noun>feet</noun></nounPhrase></verbPhrase>,</line>
 <line><nounPhrase><det>Your</det><adjective>two-dollar</adjective> <noun>shoe</noun></nounPhrase> <verbPhrase><verb>hurts</verb> <nounPhrase><det>my</det> <noun>feet</noun></nounPhrase></verbPhrase>,</line>
-<line>Yes,<nounPhrase><det>Your</det> <det>a-</det><adjective>two-dollar</adjective> <noun>shoe</noun></nounPhrase> <verbPhrase><verb>hurts</verb> <nounPhrase><det>my</det> <noun>feet</noun></nounPhrase></verbPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase>,</line>
+<line>Yes, <nounPhrase><det>Your</det> <det>a-</det><adjective>two-dollar</adjective> <noun>shoe</noun></nounPhrase> <verbPhrase><verb>hurts</verb> <nounPhrase><det>my</det> <noun>feet</noun></nounPhrase></verbPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase>,</line>
 <refrainSectionRef sectionRef="1"/>
 
     <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <verbPhrase><verb>a-goin'</verb> <prepPhrase><prep>down</prep> <nounPhrase><det>this</det> <adjective>old</adjective> <adjective>dusty</adjective> <noun>road</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>,</line>
@@ -60,6 +60,6 @@
         <refrainLineRef lineRef="1"/>
     </refrainSection>
     
-    <refrainLine lineID="1">An'<nounPhrase><noun>I </noun></nounPhrase><verbPhrase neg="true"><verb>ain't</verb> <verbPhrase><verb>a-gonna</verb> <verbPhrase><verb>be treated</verb> <nounPhrase><det>this</det> <noun>way</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase>.</refrainLine>   
+    <refrainLine lineID="1">An'<nounPhrase> <noun>I </noun></nounPhrase><verbPhrase neg="true"><verb>ain't</verb> <verbPhrase><verb>a-gonna</verb> <verbPhrase><verb>be treated</verb> <nounPhrase><det>this</det> <noun>way</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase>.</refrainLine>   
 </lyrics>
 </song>
