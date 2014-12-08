@@ -24,11 +24,11 @@
                     <adjective>first</adjective>
                     <noun>kick</noun></nounPhrase>
                 <nounPhrase><noun>I</noun></nounPhrase>
-                <verbPhrase><verb>took</verb></verbPhrase> was when
+                <verbPhrase><verb>took</verb> <verbPhrase><verb>was</verb> <adverb>when</adverb>
                     <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><verb>hit</verb>
                     <nounPhrase><det>the</det>
-                        <noun>ground</noun></nounPhrase></verbPhrase></line>
+                        <noun>ground</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>You</noun></nounPhrase>
                 <verbPhrase><verb>end</verb>
                     <adverb>up</adverb>
@@ -41,7 +41,7 @@
                 <verbPhrase><verb>spend</verb>
                     <nounPhrase><adverb>half</adverb>
                         <det>your</det>
-                        <noun>life</noun></nounPhrase> just <verbPhrase><verb>covering</verb>
+                        <noun>life</noun></nounPhrase>  <verbPhrase><adverb>just</adverb> <verb>covering</verb>
                         <adverb>up</adverb></verbPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="1"/>
             <line><verbPhrase><verb>Got</verb>
@@ -50,40 +50,40 @@
                             <det>a</det>
                             <adjective>little</adjective>
                             <adjective>hometown</adjective>
-                            <noun>jam</noun></nounPhrase></prepPhrase></verbPhrase> so they
+                            <noun>jam</noun></nounPhrase></prepPhrase></verbPhrase> so <nounPhrase><noun>they</noun></nounPhrase>
                         <verbPhrase><verb>put</verb>
                     <nounPhrase><det>a</det>
                         <noun>rifle</noun></nounPhrase><prepPhrase>
                         <prep>in</prep><nounPhrase>
                             <det>my</det>
                             <noun>hand</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line><verbPhrase><verb>Sent</verb> me off <prepPhrase><prep>to</prep>
+            <line><verbPhrase><verb>Sent</verb> <nounPhrase><noun>me</noun></nounPhrase> <adverb>off</adverb> <prepPhrase><prep>to</prep>
                         <nounPhrase><det>a</det>
                             <adjective>foreign</adjective>
                             <noun>land</noun></nounPhrase></prepPhrase></verbPhrase>
-                <verbPhrase><verb>to go</verb> and <verb>kill</verb><nounPhrase>
+                <verbPhrase><verb>to go</verb> and <verbPhrase><verb>kill</verb><nounPhrase>
                         <det>the</det>
                         <adjective>yellow</adjective>
-                        <noun>man</noun></nounPhrase></verbPhrase></line>
+                        <noun>man</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="2"/>
             <line><verbPhrase><verb>Come</verb>
                     <adverb>back</adverb>
-                    <nounPhrase><noun>home</noun></nounPhrase></verbPhrase>
+                    <nounPhrase><noun>home</noun></nounPhrase>
                 <prepPhrase><prep>to</prep>
                     <nounPhrase><noun>the</noun>
-                        <noun>refinery</noun></nounPhrase></prepPhrase></line>
+                        <noun>refinery</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><adjective>Hiring</adjective>
                     <noun>man</noun></nounPhrase>
                 <verbPhrase><verb>says</verb></verbPhrase>
                     "<nounPhrase><noun>son</noun></nounPhrase> if
                     <nounPhrase><noun>it</noun></nounPhrase>
-                <verbPhrase><verb>was</verb> up to me</verbPhrase>"</line>
+                <verbPhrase><verb>was</verb> <adverb>up</adverb> <prepPhrase><prep>to</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase>"</line>
             <line><verbPhrase><verb>Went</verb>
                     <adverb>down</adverb>
                     <verb>to see</verb><nounPhrase><det>my</det>
                         <adjective>V.A.</adjective>
                         <noun>man</noun></nounPhrase></verbPhrase></line>
-            <line>He <verbPhrase><verb>said</verb></verbPhrase> "son <verbPhrase neg="true"
+            <line>He <verbPhrase><verb>said</verb></verbPhrase> "<nounPhrase><noun>son</noun></nounPhrase> <verbPhrase neg="true"
                         ><verb>do</verb>n't <nounPhrase><noun>you</noun></nounPhrase>
                     <verb>understand</verb>
                     <adverb>now</adverb></verbPhrase>"</line>
@@ -93,7 +93,7 @@
                     <prepPhrase><prep>at</prep><nounPhrase>
                             <noun>Khe Sahn</noun></nounPhrase>
                     </prepPhrase></verbPhrase><verbPhrase><verb>fighting</verb></verbPhrase><prepPhrase>
-                    <prep>off</prep>
+                    <adverb>off</adverb>
                     <nounPhrase><det>the</det>
                         <noun>Viet Cong</noun></nounPhrase></prepPhrase></line>
             <line><nounPhrase><noun>They</noun></nounPhrase><verbPhrase><verb>'re</verb>
@@ -109,38 +109,38 @@
                     <verbPhrase><verb>loved</verb>
                         <prepPhrase><prep>in</prep><nounPhrase>
                                 <noun>Saigon</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
-            <line>I <verbPhrase><verb>got</verb><nounPhrase>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>got</verb><nounPhrase>
                         <det>a</det>
                         <noun>picture</noun></nounPhrase>
                     <prepPhrase><prep>of</prep>
                         <nounPhrase><noun>him</noun></nounPhrase></prepPhrase>
                     <prepPhrase><prep>in</prep><nounPhrase><det>her</det><noun>arms</noun></nounPhrase></prepPhrase>
                     <adverb>now</adverb></verbPhrase></line>
-            <line>Down<prepPhrase>
+            <line><adverb>Down</adverb><prepPhrase>
                     <prep>in</prep>
                     <nounPhrase><det>the</det>
                         <noun>shadow</noun>
                     </nounPhrase></prepPhrase><prepPhrase><prep>of</prep>
                     <nounPhrase><noun>penitentiary</noun></nounPhrase></prepPhrase></line>
-            <line>Out<prepPhrase>
+            <line><adverb>Out</adverb><prepPhrase>
                     <prep>by</prep>
                     <nounPhrase><det>the</det>
                         <adjective>gas</adjective>
-                        <noun>fires</noun></nounPhrase></prepPhrase><prepPhrase>
-                    <prep>of</prep><nounPhrase>
+                        <noun>fires</noun></nounPhrase>
+                    <prepPhrase><prep>of</prep><nounPhrase>
                         <det>the</det>
-                        <noun>refinery</noun></nounPhrase></prepPhrase></line>
+                        <noun>refinery</noun></nounPhrase></prepPhrase></prepPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
-                    <nounPhrase><adjective>ten</adjective>
+                    <nounPhrase><det>ten</det>
                         <noun>years</noun></nounPhrase>
                     <verb>burning</verb>
                     <prepPhrase><prep>down</prep>
                         <nounPhrase><det>the</det>
                             <noun>road</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line><nounPhrase><noun>Nowhere</noun></nounPhrase>
+            <line><nounPhrase neg="true"><noun>Nowhere</noun></nounPhrase>
                 <verbPhrase><verb>to run</verb></verbPhrase>
-                <verbPhrase><verb>ain't got</verb></verbPhrase>
-                <nounPhrase><noun>nowhere</noun></nounPhrase>
+                <verbPhrase neg="true"><verb>ain't got</verb></verbPhrase>
+                <nounPhrase neg="true"><noun>nowhere</noun></nounPhrase>
                 <verbPhrase><verb>to go</verb></verbPhrase></line>
             <refrainSectionRef sectionRef="3"/>
         </verse>
@@ -173,7 +173,7 @@
                         <det>the</det>
                         <noun>U.S.A.</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="2"><nounPhrase><noun>I</noun></nounPhrase>
-            <verbPhrase><verb>was</verb> born <prepPhrase>
+            <verbPhrase><verb>was born</verb> <prepPhrase>
                     <prep>in</prep><nounPhrase>
                         <det>the</det>
                         <noun>U.S.A.</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
