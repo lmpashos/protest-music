@@ -11,7 +11,6 @@
         <genre>Pop</genre>
         <genre>Rock</genre>
         <notablePerformer>Bryan Adams</notablePerformer>
-        <notablePerformer>Brandy</notablePerformer>
         <protest>0</protest>
     </metadata>
     <lyrics>
@@ -32,7 +31,7 @@
                         <verbPhrase><verb>search</verb>
                     <nounPhrase><det>your</det>
                         <noun>soul</noun></nounPhrase></verbPhrase></line>
-            <line>And when <nounPhrase><noun>you</noun></nounPhrase>
+            <line>And <adverb>when</adverb> <nounPhrase><noun>you</noun></nounPhrase>
                 <verbPhrase><verb>find</verb>
                     <nounPhrase><noun>me</noun></nounPhrase>
                     <adverb>there</adverb></verbPhrase>
@@ -52,7 +51,7 @@
             <line><nounPhrase><noun>There</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <nounPhrase><noun>nothin'</noun></nounPhrase>
                     <adverb>there</adverb>
-                    <verb>to hide</verb></verbPhrase>.</line>
+                    <verbPhrase><verb>to hide</verb></verbPhrase></verbPhrase>.</line>
             <line><verbPhrase><verb>Take</verb>
                     <nounPhrase><noun>me</noun></nounPhrase> as
                         <nounPhrase><noun>I</noun></nounPhrase>
@@ -98,8 +97,8 @@
                 <verbPhrase neg="true"><verb>can't tell</verb>
                     <nounPhrase><noun>me</noun></nounPhrase>
                     <nounPhrase><noun>it</noun></nounPhrase><verbPhrase neg="true"><verb>'s</verb>
-                        not worth <verb>tryin'</verb>
-                        <prepPhrase><prep>for</prep></prepPhrase></verbPhrase></verbPhrase>.</line>
+                        not <verbPhrase><verb>worth</verb> <verbPhrase><verb>tryin'</verb>
+                        <prepPhrase><prep>for</prep></prepPhrase></verbPhrase></verbPhrase></verbPhrase></verbPhrase>.</line>
             <line><nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase neg="true"><verb>can't help</verb>
                     <nounPhrase><noun>it</noun></nounPhrase></verbPhrase>,
@@ -145,8 +144,8 @@
             <line><nounPhrase><noun>You</noun></nounPhrase>
                 <verbPhrase neg="true"><verb>can't tell</verb>
                     <nounPhrase><noun>it</noun></nounPhrase><verbPhrase neg="true"><verb>'s</verb>
-                        not worth <verb>dyin'</verb>
-                        <prepPhrase><prep>for</prep></prepPhrase></verbPhrase></verbPhrase></line>
+                        not <verbPhrase><verb>worth</verb> <verbPhrase><verb>dyin'</verb>
+                        <prepPhrase><prep>for</prep></prepPhrase></verbPhrase></verbPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase>'ll be
                 there</verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d walk</verb>
@@ -187,8 +186,8 @@
             <verbPhrase neg="true"><verb>can't tell</verb>
                 <nounPhrase><noun>me</noun></nounPhrase>
                 <nounPhrase><noun>it</noun></nounPhrase><verbPhrase neg="true"><verb>'s</verb> not
-                    worth <verb>dyin'</verb>
-                    <prepPhrase><prep>for</prep></prepPhrase></verbPhrase></verbPhrase>.</refrainLine>
+                    <verbPhrase><verb>worth</verb> <verbPhrase><verb>dyin'</verb>
+                    <prepPhrase><prep>for</prep></prepPhrase></verbPhrase></verbPhrase></verbPhrase></verbPhrase>.</refrainLine>
         <refrainLine lineID="3"><nounPhrase><noun>You</noun></nounPhrase>
             <verbPhrase><verb>know</verb>
                 <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb>
