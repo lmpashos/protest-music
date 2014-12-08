@@ -13,7 +13,7 @@
     <lyrics>
         <verse>
             <line><nounPhrase><noun>He </noun></nounPhrase><verbPhrase><verb>said</verb>, "<nounPhrase>Son</nounPhrase>, <verbPhrase><verb>have</verb> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>seen</verb> <nounPhrase><det>the</det> <noun>world</noun></nounPhrase></verbPhrase></verbPhrase>?</verbPhrase></line>
-            <line>Well, <nounPhrase><det>what</det></nounPhrase> <verbPhrase>would <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>say</verb></verbPhrase></verbPhrase> if <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>said</verb> that <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>could</verb></verbPhrase></verbPhrase>?</line>
+            <line>Well, <nounPhrase><det>what</det></nounPhrase> <verbPhrase>would <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>say</verb></verbPhrase> if <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>said</verb> that <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>could</verb></verbPhrase></verbPhrase></verbPhrase>?</line>
             <line><verbPhrase><adverb>Just</adverb> <verb>carry</verb> <nounPhrase><det>this</det> <noun>gun</noun></nounPhrase></verbPhrase>; you<verbPhrase><verb>'ll</verb> <adverb>even</adverb> <verbPhrase><verb>get</verb> <verbPhrase><verb>paid</verb></verbPhrase></verbPhrase></verbPhrase>."</line>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>said</verb>, "<nounPhrase><det>That</det></nounPhrase> <verbPhrase><verb>sounds</verb> <adjective>pretty</adjective> <adjective>good</adjective></verbPhrase>.</verbPhrase>"</line>
         </verse>
