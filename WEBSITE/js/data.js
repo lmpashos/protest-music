@@ -16,6 +16,32 @@
  */
 
 document.addEventListener("DOMContentLoaded", function() {
+  
+  resizeColumns();
+  
+  window.addEventListener("scroll", function() {
+    var top = 100;
+    
+    var list = document.querySelectorAll("#left > ul");
+   
+    var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+      
+    if(scrollTop > top && list.className == "absolute") {
+      list[0].className="fixed";
+    } else if(scrollTop < top && list.className =="fixed") {
+      list[0].className="absolute";
+    }
+    
+    // fixes the width of the ul and a few other bugs
+    var leftWidth = document.getElementById("left").clientWidth;
+    list[0].style.width = leftWidth + "px";
+    list[0].style.paddingLeft = 0;
+    var children = list[0].children;
+    for(var i = 0; i < children.length; ++i) {
+      children[i].style.marginLeft = -6 + "px"
+    }
+   
+  });
 
   var h2Depression = document.getElementById("link_xml_great_depression");
   var h2Vietnam = document.getElementById("link_xml_vietnam");
@@ -40,6 +66,7 @@ document.addEventListener("DOMContentLoaded", function() {
         arrowSpan.innerHTML = "&darr;";
         break;        
     }
+    resizeColumns();
   });
   
   h2Depression.addEventListener("mouseover", function() {
@@ -71,6 +98,7 @@ document.addEventListener("DOMContentLoaded", function() {
         arrowSpan.innerHTML = "&darr;";
       break;        
     }
+    resizeColumns();
   });
   
   h2Vietnam.addEventListener("mouseover", function() {
@@ -102,6 +130,7 @@ document.addEventListener("DOMContentLoaded", function() {
       arrowSpan.innerHTML = "&darr;";
       break;        
     }
+    resizeColumns();
   });
   
   h2Modern.addEventListener("mouseover", function() {
@@ -113,5 +142,27 @@ document.addEventListener("DOMContentLoaded", function() {
     this.style.textDecoration = "initial";
     this.style.cursor="auto";
   });  
+  
+  function resizeColumns() {
+    
+    var wrapperDiv = document.querySelectorAll("div.wrapper")[0];
+    var menuDiv = document.querySelectorAll("div.menu")[0];
+    var footerDiv = document.querySelectorAll("div.footer")[0];
+    var wrapperDivHeight = wrapperDiv.clientHeight;
+    var menuDivHeight = menuDiv.clientHeight;
+    var footerDivHeight = footerDiv.clientHeight;
+
+    var contentHeight = wrapperDivHeight - menuDivHeight - footerDivHeight;
+
+    document.getElementById("center").style.height = contentHeight + "px";
+    document.getElementById("left").style.height = contentHeight + "px";
+  }
+  
+  window.addEventListener("resize", function() {
+    var list = document.querySelectorAll("#left > ul");
+    list[0].style.width = document.getElementById("left").clientWidth + "px";
+    
+    resizeColumns();
+  });
 	  
 });

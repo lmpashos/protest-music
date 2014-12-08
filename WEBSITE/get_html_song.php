@@ -33,6 +33,7 @@ if(file_exists(Constants::SONG_LIST_FILENAME)) {
     $image_filename = NULL;
     $image_src = NULL;
     $youtube_link = NULL;
+    $lyric_source = NULL;
     
     if(isset($song[0]->image_filename) && trim($song[0]->image_filename) !== '') {
       $image_filename = Constants::IMG_DIR . trim($song[0]->image_filename);
@@ -44,7 +45,11 @@ if(file_exists(Constants::SONG_LIST_FILENAME)) {
   
     if(isset($song[0]->youtube_link) && trim($song[0]->youtube_link) !== '') {
       $youtube_link = trim($song[0]->youtube_link);
-    }    
+    }  
+
+    if(isset($song[0]->lyric_source) && trim($song[0]->lyric_source) !== '') {
+      $lyric_source = trim($song[0]->lyric_source);
+    }
     
     if(file_exists($song_filename)) {
       
@@ -68,6 +73,10 @@ if(file_exists(Constants::SONG_LIST_FILENAME)) {
       } else {
         $html .= ('<span id="heading_song_title_right">' . $meta_xml->title . '</span><br />' . "\n");
       }
+      
+//       if(isset($lyric_source)) {
+//         $html .= ('<span class="song_info"><a class="lyric_link" target="_blank" href="' . $lyric_source . '">' . $lyric_source . '</a></span><br />' . "\n");
+//       }
       
       
       $html .= ('</p>' . "\n");           
@@ -95,6 +104,10 @@ if(file_exists(Constants::SONG_LIST_FILENAME)) {
       //Add the stylesheet transformation
       $html .= $proc->transformToXML($xml);
             
+      if(isset($lyric_source)) {
+        $html .= ('<p><span class="song_info"><a class="lyric_link" target="_blank" href="' . $lyric_source . '">' . $lyric_source . '</a></span></p>' . "\n");
+      }
+      
       //End the Song div
       $html .= ('</div>' . "\n");
     

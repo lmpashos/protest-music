@@ -43,7 +43,7 @@ class CommonHTML {
         } else {
           $html .= (StaticFunctions::indent(3, 4) . '<div class="menu_button">' . "\n");
           
-          if($key === 'lyrics') {
+          if($key === 'lyrics' || $key === 'info') {
             $html .= (StaticFunctions::indent(4, 4) . '<a href="' . Constants::$PAGES_TO_HREF['lyrics'] . '" id="' . $key. '" class="current">' . ucfirst($key) . "</a>\n");
           } else {
             $html .= (StaticFunctions::indent(4, 4) . '<a id="' . $key . '" class="current">' . ucfirst($key) . "</a>\n");

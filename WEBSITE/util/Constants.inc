@@ -57,6 +57,10 @@ class Constants {
     'lyrics_the_great_depression' => 'lyrics.php?era=the_great_depression',
     'lyrics_vietnam' => 'lyrics.php?era=vietnam',
     'lyrics_modern' => 'lyrics.php?era=modern',
+    'info' => 'song_info.php',
+    'info_the_great_depression' => 'song_info.php?era=the_great_depression',
+    'info_vietnam' => 'song_info.php?era=vietnam',
+    'info_modern' => 'song_info.php?era=modern',
     'data' => 'data.php',
     'data_xml' => 'data.php#xml_data',
     'data_schema' => 'data.php#schemas',
@@ -79,7 +83,12 @@ class Constants {
       Constants::ERA_GREAT_DEPRESSION,
       Constants::ERA_VIETNAM,
       Constants::ERA_MODERN
-    ),      
+    ),  
+    'info' => array(
+      Constants::ERA_GREAT_DEPRESSION,
+      Constants::ERA_VIETNAM,
+      Constants::ERA_MODERN
+    ),
     'data' => array(
       'xml', 
       'schema',

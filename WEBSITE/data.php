@@ -35,8 +35,8 @@ if(isset($_GET['era'])) {
         <h1><?php echo ucfirst($current_page); ?></h1>
         <div class="content">
             <div id="left">
-                <ul>
-                    <li><a class="toc_title" href="#xml_data">XML Files</a>
+                <ul class="absolute">
+                   <li><a class="toc_title" href="#xml_data">XML Files</a>
                         <ul>
                             <li><a href="#link_xml_great_depression">The Great Depression</a></li>
                             <li><a href="#link_xml_vietnam">Vietnam</a></li>
@@ -45,7 +45,7 @@ if(isset($_GET['era'])) {
                     </li>
                     <li><a class="toc_title" href="#schemas">Schema Files</a></li>
                     <li><a class="toc_title" href="#xslt">XSLT Files</a></li>
-                </ul>    
+				</ul>  
             </div>
             <div id="center">
                 <?php echo Data::get_html_from_xml_song_list(); ?>

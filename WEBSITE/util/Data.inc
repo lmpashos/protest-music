@@ -46,7 +46,7 @@ class Data {
         
         foreach($result as $song) {
           $html .= (StaticFunctions::indent(3, 4) . '<li>');
-          $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $song->lyric_filename . '">');
+          $html .= ('<a href="' . $path . '/' . $song->lyric_filename . '" target="_blank">');
           $html .= ($song->lyric_filename . '</a>');
           $html .= ('</li>' . "\n");
         }
@@ -65,7 +65,7 @@ class Data {
       
         foreach($result as $song) {
           $html .= (StaticFunctions::indent(3, 4) . '<li>');
-          $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $song->lyric_filename . '">');
+          $html .= ('<a href="' . $path . '/' . $song->lyric_filename . '" target="_blank">');
           $html .= ($song->lyric_filename . '</a>');
           $html .= ('</li>' . "\n");
         }
@@ -90,7 +90,7 @@ class Data {
       
         foreach($result as $song) {
           $html .= (StaticFunctions::indent(3, 4) . '<li>');
-          $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $song->lyric_filename . '">');
+          $html .= ('<a href="' . $path . '/' . $song->lyric_filename . '" target="_blank">');
           $html .= ($song->lyric_filename . '</a>');
           $html .= ('</li>' . "\n");
         }
@@ -109,7 +109,7 @@ class Data {
       
         foreach($result as $song) {
           $html .= (StaticFunctions::indent(3, 4) . '<li>');
-          $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $song->lyric_filename . '">');
+          $html .= ('<a href="' . $path . '/' . $song->lyric_filename . '" target="_blank">');
           $html .= ($song->lyric_filename . '</a>');
           $html .= ('</li>' . "\n");
         }
@@ -133,7 +133,7 @@ class Data {
       
         foreach($result as $song) {
           $html .= (StaticFunctions::indent(3, 4) . '<li>');
-          $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $song->lyric_filename . '">');
+          $html .= ('<a href="' . $path . '/' . $song->lyric_filename . '" target="_blank">');
           $html .= ($song->lyric_filename . '</a>');
           $html .= ('</li>' . "\n");
         }
@@ -152,7 +152,7 @@ class Data {
       
         foreach($result as $song) {
           $html .= (StaticFunctions::indent(3, 4) . '<li>');
-          $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $song->lyric_filename . '">');
+          $html .= ('<a href="' . $path . '/' . $song->lyric_filename . '" target="_blank">');
           $html .= ($song->lyric_filename . '</a>');
           $html .= ('</li>' . "\n");
         }
@@ -167,19 +167,17 @@ class Data {
       $html .= (StaticFunctions::indent(1, 4) . '<div class="tab">' . "\n");
       $html .= (StaticFunctions::indent(2, 4) . '<h1 class="tabHeader" id="schemas">Schemas</h1>' . "\n");
       
-//       $html .= (StaticFunctions::indent(2, 4) . '<div class="song_schema">' . "\n");
       $path = 'data/schemas/song/';
       $filename = 'song_schema_1.1.rnc';
       $html .= (StaticFunctions::indent(2, 4) . '<h3>Song Schema:</h3>' . "\n");
       $html .= (StaticFunctions::indent(2, 4) . '<ul>' . "\n");
       $html .= (StaticFunctions::indent(3, 4) . '<li>');
       
-      $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $filename . '">');
+      $html .= ('<a href="' . $path . '/' . $filename . '" target="_blank">');
       $html .= ($filename . '</a>');
       $html .= ('</li>' . "\n");
       
       $html .= (StaticFunctions::indent(2, 4) . '</ul>' . "\n");
-//       $html .= (StaticFunctions::indent(2, 4) . '</div>' . "\n");
 
       $path = 'data/schemas/song_list/';
       $filename = 'song_list_schema_1.1.rnc';
@@ -187,7 +185,8 @@ class Data {
       $html .= (StaticFunctions::indent(2, 4) . '<ul>' . "\n");
       $html .= (StaticFunctions::indent(3, 4) . '<li>');
       
-      $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $filename . '">');
+//       $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $filename . '">');
+      $html .= ('<a href="' . $path . '/' . $filename . '" target="_blank">');
       $html .= ($filename . '</a>');
       $html .= ('</li>' . "\n");
       
