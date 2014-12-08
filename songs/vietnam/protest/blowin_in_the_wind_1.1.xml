@@ -2,7 +2,7 @@
 <?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-        <title>Blowin' in the Wind"</title>
+        <title>Blowin' in the Wind</title>
         <composer>Bob Dylan </composer>
         <album>The Freewheelin' Bob Dylan</album>
         <year>1963</year>
