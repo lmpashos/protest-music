@@ -31,14 +31,14 @@
                 <verbPhrase><verb>ask</verb>
                     <nounPhrase><noun>myself</noun></nounPhrase></verbPhrase>,</line>
             <line>"<verbPhrase><verb>Is</verb>
-                    <nounPhrase><noun>life</noun></nounPhrase> worth living</verbPhrase>?
+                    <nounPhrase><noun>life</noun></nounPhrase> <verb>worth</verb> <verbPhrase><verb>living</verb></verbPhrase></verbPhrase>?
                         <verbPhrase><verb>Should</verb>
                     <nounPhrase><noun>I</noun></nounPhrase>
                     <verb>blast</verb>
                     <nounPhrase><noun>myself</noun></nounPhrase></verbPhrase>?"</line>
-            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m tired</verb>
-                    <prepPhrase><prep>of</prep> bein'
-                    <adjective>poor</adjective></prepPhrase></verbPhrase> and even worse
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>tired</adjective>
+                    <prepPhrase><prep>of</prep> <verbPhrase><verb>bein'</verb>
+                    <adjective>poor</adjective></verbPhrase></prepPhrase></verbPhrase> and even worse
                         <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
                     <adjective>black</adjective></verbPhrase>.</line>
             <line><nounPhrase><det>My</det>
@@ -47,8 +47,8 @@
                     <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m lookin'</verb>
                     <prepPhrase><prep>for</prep>
                         <nounPhrase><det>a</det>
-                            <noun>purse</noun></nounPhrase></prepPhrase>
-                    <verb>to snatch</verb></verbPhrase>.</line>
+                            <noun>purse</noun></nounPhrase>
+                    <verbPhrase><verb>to snatch</verb></verbPhrase></prepPhrase></verbPhrase>.</line>
             <line><nounPhrase><noun>Cops</noun></nounPhrase>
                 <verbPhrase><verb>give</verb>
                     <nounPhrase><det>a</det>
@@ -95,7 +95,7 @@
                     <adverb>back</adverb></verbPhrase>, and <verbPhrase><verb>watch</verb>
                     <nounPhrase><noun>'em</noun></nounPhrase>
                     <verb>kill</verb>
-                    <nounPhrase><adjective>each</adjective>
+                    <nounPhrase><det>each</det>
                         <noun>other</noun></nounPhrase></verbPhrase>.</line>
             <line>"<nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <nounPhrase><noun>time</noun></nounPhrase>
@@ -104,7 +104,7 @@
                         <nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>'s</verb> what
                             <nounPhrase><noun>Huey</noun></nounPhrase>
                     <verbPhrase><verb>said</verb></verbPhrase></verbPhrase>.</line>
-            <line><nounPhrase><adjective>2</adjective>
+            <line><nounPhrase><det>2</det>
                     <noun>shots</noun></nounPhrase>
                 <prepPhrase><prep>in</prep>
                     <nounPhrase><det>the</det>
@@ -119,25 +119,25 @@
                         <nounPhrase><det>my</det>
                             <noun>brother</noun></nounPhrase></prepPhrase></verbPhrase>, but
                         <nounPhrase><noun>we</noun></nounPhrase>
-                <verbPhrase><verb>can</verb>
+                <verbPhrase neg="true"><verb>can</verb>
                     <adverb>never</adverb>
                     <verb>go</verb>
                     <adverb>nowhere</adverb></verbPhrase></line>
             <line>unless <nounPhrase><noun>we</noun></nounPhrase>
-                <verbPhrase>share with each other</verbPhrase>. We <verbPhrase>gotta start makin'
-                    changes</verbPhrase>.</line>
-            <line><verbPhrase><verb>Learn to see</verb>
+                <verbPhrase><verb>share</verb> <prepPhrase><prep>with</prep> <nounPhrase><det>each</det> <noun>other</noun></nounPhrase></prepPhrase></verbPhrase>. <nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>gotta start</verb> <verbPhrase><verb>makin'</verb>
+                    <nounPhrase><noun>changes</noun></nounPhrase></verbPhrase></verbPhrase>.</line>
+            <line><verbPhrase><verb>Learn</verb> <verbPhrase><verb>to see</verb>
                     <nounPhrase><noun>me</noun></nounPhrase>
                     <prepPhrase><prep>as</prep>
                         <nounPhrase><det>a</det>
-                            <noun>brother</noun></nounPhrase></prepPhrase></verbPhrase> 'stead
+                            <noun>brother</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase> 'stead
                         <prepPhrase><prep>of</prep>
-                    <nounPhrase><adjective>2</adjective>
+                    <nounPhrase><det>2</det>
                         <adjective>distant</adjective>
                         <noun>strangers</noun></nounPhrase></prepPhrase>.</line>
             <line>And <nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>'s</verb> how
-                            <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s supposed to
-                            be</verb></verbPhrase></verbPhrase>.</line>
+                            <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> <verbPhrase><adverb>supposed</adverb> <verb>to
+                            be</verb></verbPhrase></verbPhrase></verbPhrase>.</line>
             <line>How <verbPhrase><verb>can</verb>
                     <nounPhrase><det>the</det>
                         <noun>Devil</noun></nounPhrase>
@@ -148,14 +148,14 @@
                     <adjective>close</adjective>
                     <prepPhrase><prep>to</prep>
                         <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase>?</line>
-            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d love to go</verb>
+            <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'d love</verb> <verbPhrase><verb>to go</verb>
                     <adverb>back</adverb>
                     <prepPhrase><prep>to</prep>
-                        <nounPhrase><noun>when</noun></nounPhrase></prepPhrase>
+                        <adverb>when</adverb>
                     <nounPhrase><noun>we</noun></nounPhrase>
                     <verbPhrase><verb>played</verb>
                         <prepPhrase><prep>as</prep>
-                            <nounPhrase><noun>kids</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
+                            <nounPhrase><noun>kids</noun></nounPhrase></prepPhrase></verbPhrase></prepPhrase></verbPhrase></verbPhrase></line>
             <line>but <nounPhrase><noun>things</noun></nounPhrase>
                 <verbPhrase><verb>changed</verb></verbPhrase>, and
                     <nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>'s</verb>
@@ -175,25 +175,25 @@
                 <verbPhrase><verb>see</verb> no <nounPhrase neg="true"
                         ><noun>changes</noun></nounPhrase></verbPhrase>. All
                         <nounPhrase><noun>I</noun></nounPhrase>
-                <verbPhrase><verb>see</verb></verbPhrase>
+                <verbPhrase><verb>see</verb>
                 <verbPhrase><verb>is</verb>
                     <nounPhrase><adjective>racist</adjective>
-                        <noun>faces</noun></nounPhrase></verbPhrase>.</line>
+                        <noun>faces</noun></nounPhrase></verbPhrase></verbPhrase>.</line>
             <line><nounPhrase><adjective>Misplaced</adjective>
                     <noun>hate</noun></nounPhrase>
                 <verbPhrase><verb>makes</verb>
                     <nounPhrase><noun>disgrace</noun></nounPhrase>
                     <prepPhrase><prep>to</prep>
-                        <nounPhrase><noun>races</noun></nounPhrase></prepPhrase>
+                        <nounPhrase><noun>races</noun></nounPhrase>
                     <nounPhrase><noun>we</noun></nounPhrase>
-                    <adverb>under</adverb></verbPhrase>.</line>
+                    <adverb>under</adverb></prepPhrase></verbPhrase>.</line>
             <line><nounPhrase><noun>I</noun></nounPhrase>
-                <verbPhrase><verb>wonder</verb> what <nounPhrase><noun>it</noun></nounPhrase>
-                    <verbPhrase><verb>takes to make</verb>
+                <verbPhrase><verb>wonder</verb>  <nounPhrase><det>what</det> <noun>it</noun></nounPhrase>
+                    <verbPhrase><verb>takes</verb> <verbPhrase><verb>to make</verb>
                         <nounPhrase><det>this</det>
-                            <adjective>one</adjective>
+                            <det>one</det>
                             <adjective>better</adjective>
-                            <noun>place</noun></nounPhrase></verbPhrase></verbPhrase>...</line>
+                            <noun>place</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase>...</line>
             <line>let's <verbPhrase><verb>erase</verb>
                     <nounPhrase><det>the</det>
                         <noun>wasted</noun></nounPhrase></verbPhrase>.</line>
@@ -206,29 +206,29 @@
                         <nounPhrase><noun>they</noun></nounPhrase><verbPhrase><verb>'ll be
                         acting</verb>
                     <adjective>right</adjective></verbPhrase>.</line>
-            <line>'Cause both <nounPhrase><noun>black</noun> and <noun>white</noun></nounPhrase>
+            <line>'Cause  <nounPhrase><det>both</det> <noun>black</noun> and <noun>white</noun></nounPhrase>
                 <verbPhrase><verb>are smokin'</verb>
                     <nounPhrase><noun>crack</noun></nounPhrase>
                     <adverb>tonight</adverb></verbPhrase>.</line>
-            <line>And <nounPhrase><adjective>only</adjective>
+            <line>And <nounPhrase><adverb>only</adverb>
                     <noun>time</noun></nounPhrase>
                 <nounPhrase><noun>we</noun></nounPhrase>
-                <verbPhrase>chill <verb>is</verb> when <nounPhrase><noun>we</noun></nounPhrase>
+                <verbPhrase><verb>chill</verb> <verbPhrase><verb>is</verb> <adverb>when</adverb> <nounPhrase><noun>we</noun></nounPhrase>
                     <verbPhrase><verb>kill</verb>
-                        <nounPhrase><adjective>each</adjective>
-                            <noun>other</noun></nounPhrase></verbPhrase></verbPhrase>.</line>
+                        <nounPhrase><det>each</det>
+                            <noun>other</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase>.</line>
             <line><nounPhrase><noun>It</noun></nounPhrase>
                 <verbPhrase><verb>takes</verb>
                     <nounPhrase><noun>skill</noun></nounPhrase>
                     <verb>to be</verb>
                     <adjective>real</adjective>, <nounPhrase><noun>time</noun></nounPhrase>
                     <verb>to heal</verb>
-                    <nounPhrase><adjective>each</adjective>
+                    <nounPhrase><det>each</det>
                         <noun>other</noun></nounPhrase></verbPhrase>.</line>
-            <line>And although <nounPhrase><noun>it</noun></nounPhrase>
+            <line>And  <nounPhrase><adverb>although</adverb> <noun>it</noun></nounPhrase>
                 <verbPhrase><verb>seems</verb>
-                    <nounPhrase><adjective>heaven</adjective>
-                        <noun>sent</noun></nounPhrase></verbPhrase>,</line>
+                    <adjective>heaven sent</adjective>
+                        </verbPhrase>,</line>
             <line><nounPhrase><noun>we</noun></nounPhrase>
                 <verbPhrase neg="true"><verb>ain't</verb>
                     <adjective>ready</adjective>
@@ -244,18 +244,18 @@
                     <nounPhrase><det>the</det>
                         <noun>fact</noun></nounPhrase></verbPhrase>...</line>
             <line><nounPhrase><det>the</det>
-                    <noun>penitentiary</noun></nounPhrase><verbPhrase><verb>'s
-                    packed</verb></verbPhrase>, and
-                        <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s filled</verb>
+                    <noun>penitentiary</noun></nounPhrase><verbPhrase><verb>'s</verb>
+                    <adjective>packed</adjective></verbPhrase>, and
+                        <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>'s</verb> <adjective>filled</adjective>
                     <prepPhrase><prep>with</prep>
                         <nounPhrase><noun>blacks</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
             <line>But <nounPhrase><adjective>some</adjective>
-                    <noun>things</noun></nounPhrase><verbPhrase><verb>will</verb>
+                    <noun>things</noun></nounPhrase><verbPhrase neg="true"><verb>will</verb>
                     <adverb>never</adverb>
                     <verb>change</verb></verbPhrase>.</line>
-            <line><verbPhrase><verb>Try to show</verb>
+            <line><verbPhrase><verb>Try</verb> <verbPhrase><verb>to show</verb>
                     <nounPhrase><adjective>another</adjective>
-                        <noun>way</noun></nounPhrase></verbPhrase>, but
+                        <noun>way</noun></nounPhrase></verbPhrase></verbPhrase>, but
                         <nounPhrase><noun>they</noun></nounPhrase>
                 <verbPhrase><verb>stayin'</verb>
                     <prepPhrase><prep>in</prep>
@@ -299,8 +299,8 @@
                         <nounPhrase><det>the</det>
                             <noun>kids</noun></nounPhrase></prepPhrase></verbPhrase>.
                         "<nounPhrase><noun>I</noun></nounPhrase>
-                <verbPhrase><verb>gotta get</verb>
-                    <nounPhrase><noun>paid</noun></nounPhrase></verbPhrase>,"</line>
+                <verbPhrase><verb>gotta</verb> <verbPhrase><verb>get paid</verb>
+                    </verbPhrase></verbPhrase>,"</line>
             <line>Well hey, well
                         <nounPhrase><noun>that</noun></nounPhrase><verbPhrase><verb>'s</verb>
                     <nounPhrase><det>the</det>
@@ -323,25 +323,25 @@
                     <prepPhrase><prep>as</prep>
                         <nounPhrase><det>a</det>
                             <noun>people</noun></nounPhrase></prepPhrase>
-                    <verb>to start makin'</verb>
+                    <verbPhrase><verb>to start</verb> <verb>makin'</verb>
                     <nounPhrase><adjective>some</adjective>
-                        <noun>changes</noun></nounPhrase></verbPhrase>.</line>
-            <line>Let's <verbPhrase><verb>change</verb>
+                        <noun>changes</noun></nounPhrase></verbPhrase></verbPhrase>.</line>
+            <line><verbPhrase><verb>Let</verb><nounPhrase><noun>'s</noun></nounPhrase> <verbPhrase><verb>change</verb>
                     <nounPhrase><det>the</det>
                         <noun>way</noun></nounPhrase>
                     <nounPhrase><noun>we</noun></nounPhrase>
-                    <verb>eat</verb></verbPhrase>, let's <verbPhrase><verb>change</verb>
+                <verb>eat</verb></verbPhrase></verbPhrase>, <verbPhrase><verb>Let</verb><nounPhrase><noun>'s</noun></nounPhrase> <verbPhrase><verb>change</verb>
                     <nounPhrase><det>the</det>
                         <noun>way</noun></nounPhrase>
                     <nounPhrase><noun>we</noun></nounPhrase>
-                    <verb>live</verb></verbPhrase></line>
-            <line>and let's <verbPhrase><verb>change</verb>
+                    <verb>live</verb></verbPhrase></verbPhrase></line>
+            <line>and <verbPhrase><verb>Let</verb><nounPhrase><noun>'s</noun></nounPhrase> <verbPhrase><verb>change</verb>
                     <nounPhrase><det>the</det>
                         <noun>way</noun></nounPhrase>
                     <nounPhrase><noun>we</noun></nounPhrase>
                     <verbPhrase><verb>treat</verb>
-                        <nounPhrase><adjective>each</adjective>
-                            <noun>other</noun></nounPhrase></verbPhrase></verbPhrase>.</line>
+                        <nounPhrase><det>each</det>
+                            <noun>other</noun></nounPhrase></verbPhrase></verbPhrase></verbPhrase>.</line>
             <line><nounPhrase><noun>You</noun></nounPhrase>
                 <verbPhrase><verb>see</verb>
                     <nounPhrase><det>the</det>
@@ -352,8 +352,8 @@
                     <prepPhrase><prep>on</prep>
                         <nounPhrase><noun>us</noun></nounPhrase></prepPhrase>
                     <verb>to do</verb></verbPhrase></line>
-            <line>what <nounPhrase><noun>we</noun></nounPhrase>
-                <verbPhrase><verb>gotta do</verb>, <verb>to survive</verb></verbPhrase>.</line>
+            <line> <nounPhrase><det>what</det> <noun>we</noun></nounPhrase>
+                <verbPhrase><verb>gotta do</verb>, <verbPhrase><verb>to survive</verb></verbPhrase></verbPhrase>.</line>
         </verse>
         <verse>
             <line>And <adverb>still</adverb>
@@ -400,7 +400,7 @@
                     <verbPhrase><verb>ain't have to do</verb></verbPhrase></verbPhrase>.</line>
             <line>But <adverb>now</adverb>
                 <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb>
-                    <adjective>back</adjective>
+                    <adverb>back</adverb>
                     <prepPhrase><prep>with</prep>
                         <nounPhrase><det>the</det>
                             <noun>facts</noun></nounPhrase></prepPhrase>
@@ -411,16 +411,16 @@
                             <nounPhrase><noun>you</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase>.</line>
             <line><verbPhrase neg="true"><verb>Don't let</verb>
                     <nounPhrase><noun>'em</noun></nounPhrase>
-                    <verb>jack</verb>
+                    <verbPhrase><verb>jack</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <adverb>up</adverb>, <verb>back</verb>
+                    <adverb>up</adverb>, <verbPhrase><verb>back</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <adverb>up</adverb>, <verb>crack</verb>
+                    <adverb>up</adverb>, <verbPhrase><verb>crack</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <adverb>up</adverb> and <adverb>pimp</adverb>
+                    <adverb>up</adverb> and <verbPhrase><adverb>pimp</adverb>
                     <verb>smack</verb>
                     <nounPhrase><noun>you</noun></nounPhrase>
-                    <adverb>up</adverb></verbPhrase>.</line>
+                    <adverb>up</adverb></verbPhrase></verbPhrase></verbPhrase></verbPhrase></verbPhrase>.</line>
             <line><nounPhrase><noun>You</noun></nounPhrase>
                 <verbPhrase><verb>gotta learn</verb>
                     <verb>to hold</verb>
@@ -468,8 +468,11 @@
                 <prepPhrase><prep>as</prep>
                     <nounPhrase><noun>I</noun></nounPhrase></prepPhrase>
                 <verbPhrase><verb>stay</verb>
-                    <adjective>black</adjective></verbPhrase>, I gotta stay strapped and I never get
-                to lay back.</line>
+                    <adjective>black</adjective></verbPhrase>, 
+                <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>gotta stay</verb> <adjective>strapped</adjective></verbPhrase> 
+                and <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true">never <verb>get
+                to lay</verb> <adverb>back</adverb></verbPhrase>.
+            </line>
             <line>'Cause <nounPhrase><noun>I</noun></nounPhrase>
                 <verbPhrase><adverb>always</adverb>
                     <verb>got to worry</verb>
@@ -499,7 +502,7 @@
             <refrainSectionRef sectionRef="1"/>
             <line><nounPhrase><adjective>Some</adjective>
                     <noun>things</noun></nounPhrase>
-                <verbPhrase><verb>will</verb>
+                <verbPhrase neg="true"><verb>will</verb>
                     <adverb>never</adverb>
                     <verb>change</verb></verbPhrase></line>
         </verse>
@@ -521,7 +524,7 @@
                 <nounPhrase><noun>it</noun></nounPhrase>
                 <verb>is</verb></verbPhrase></refrainLine>
         <refrainLine lineID="3"
-                    ><nounPhrase><noun>Things</noun></nounPhrase><verbPhrase><verb>'ll</verb>
+                    ><nounPhrase><noun>Things</noun></nounPhrase><verbPhrase neg="true"><verb>'ll</verb>
                 <adverb>never</adverb>
                 <verb>be</verb>
                 <nounPhrase><det>the</det>
