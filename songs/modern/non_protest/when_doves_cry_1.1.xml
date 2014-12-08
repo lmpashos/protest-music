@@ -134,7 +134,7 @@
             <refrainLineRef lineRef="9"/>
         </refrainSection>
         <refrainLine lineID="1">How <verbPhrase><verb>can</verb>
-                <nounPhrase><noun>u</noun></nounPhrase> <verbPhrase><adverb>just</adverb><verb>leave</verb>
+                <nounPhrase><noun>u</noun></nounPhrase> <verbPhrase><adverb>just</adverb> <verb>leave</verb>
                 <nounPhrase><noun>me</noun>
                     <adjective>standing</adjective></nounPhrase></verbPhrase></verbPhrase>?</refrainLine>
         <refrainLine lineID="2"><adverb>Alone</adverb>
@@ -172,7 +172,7 @@
                     <nounPhrase><adjective>each</adjective>
                         <noun>other</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="8"><nounPhrase><noun>This</noun></nounPhrase>
-            <verbPhrase><verb>is</verb>  <nounPhrase><det>what</det><noun>it</noun></nounPhrase>
+            <verbPhrase><verb>is</verb>  <nounPhrase><det>what</det> <noun>it</noun></nounPhrase>
                 <verbPhrase><verb>sounds</verb> <adverb>like</adverb></verbPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="9"><verbPhrase><adverb>When</adverb> <nounPhrase><noun>doves</noun></nounPhrase>
             <verbPhrase><verb>cry</verb></verbPhrase></verbPhrase></refrainLine>
