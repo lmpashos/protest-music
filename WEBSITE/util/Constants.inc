@@ -61,6 +61,9 @@ class Constants {
     'data_the_great_depression' => 'data.php?era=the_great_depression',
     'data_vietnam' => 'data.php?era=vietnam',
     'data_modern' => 'data.php?era=modern',
+    'analysis' => 'analysis.php',
+    'analysis_subsection1' => 'analysis.php#subsection1',
+    'analysis_subsection2' => 'analysis.php#subsection2',
     'conclusions' => 'conclusions.php',
     'conclusions_subsection1' => 'conclusions.php#subsection1',
     'conclusions_subsection2' => 'conclusions.php#subsection2',
@@ -89,6 +92,10 @@ class Constants {
       Constants::ERA_VIETNAM,
       Constants::ERA_MODERN
     ),
+    'analysis' => array(
+      'subsection1',
+      'subsection2'
+    ),      
     'conclusions' => array(
       'subsection1',
       'subsection2'
