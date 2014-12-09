@@ -7,14 +7,14 @@
 <text x="30" y="100" text-anchor="middle">100%</text>
 <line x1="50" y1="250" x2="600" y2="250" style="stroke:rgb(0,0,0);stroke-width:1" stroke-dasharray="8 4"/>
 <line x1="50" y1="100" x2="600" y2="100" style="stroke:rgb(0,0,0);stroke-width:1" stroke-dasharray="8 4"/>
-<rect x="50" y="346.15384615384613" width="100" height="53.84615384615387" style="fill:blue"/>
-<rect x="200" y="379.4871794871795" width="100" height="20.512820512820497" style="fill:red"/>
-<rect x="350" y="354.93562231759654" width="100" height="45.06437768240346" style="fill:green"/>
-<rect x="500" y="397.42489270386267" width="100" height="2.5751072961373325" style="fill:black"/>
-<text x="100" y="336.15384615384613" text-anchor="middle">17.95%</text>
-<text x="250" y="369.4871794871795" text-anchor="middle">6.84%</text>
-<text x="400" y="344.93562231759654" text-anchor="middle">15.02%</text>
-<text x="550" y="387.42489270386267" text-anchor="middle">0.86%</text>
+<rect x="50" y="346.7741935483871" width="100" height="53.225806451612925" style="fill:blue"/>
+<rect x="200" y="378.2258064516129" width="100" height="21.774193548387075" style="fill:red"/>
+<rect x="350" y="357.67634854771785" width="100" height="42.32365145228215" style="fill:green"/>
+<rect x="500" y="397.5103734439834" width="100" height="2.489626556016617" style="fill:black"/>
+<text x="100" y="336.7741935483871" text-anchor="middle">17.74%</text>
+<text x="250" y="368.2258064516129" text-anchor="middle">7.26%</text>
+<text x="400" y="347.67634854771785" text-anchor="middle">14.11%</text>
+<text x="550" y="387.5103734439834" text-anchor="middle">0.83%</text>
 <text x="50" y="470" text-anchor="left">Legend</text>
 <rect x="50" y="490" width="20" height="20" style="fill:blue"/>
 <text x="100" y="505" text-anchor="left">Verb Phrases with Adverb (% of all verb phrases)</text>

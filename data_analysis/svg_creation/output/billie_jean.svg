@@ -7,13 +7,13 @@
 <text x="30" y="100" text-anchor="middle">100%</text>
 <line x1="50" y1="250" x2="600" y2="250" style="stroke:rgb(0,0,0);stroke-width:1" stroke-dasharray="8 4"/>
 <line x1="50" y1="100" x2="600" y2="100" style="stroke:rgb(0,0,0);stroke-width:1" stroke-dasharray="8 4"/>
-<rect x="50" y="372.22222222222223" width="100" height="27.77777777777777" style="fill:blue"/>
-<rect x="200" y="366.6666666666667" width="100" height="33.333333333333314" style="fill:red"/>
-<rect x="350" y="367.3267326732673" width="100" height="32.673267326732685" style="fill:green"/>
+<rect x="50" y="343.75" width="100" height="56.25" style="fill:blue"/>
+<rect x="200" y="371.875" width="100" height="28.125" style="fill:red"/>
+<rect x="350" y="373.7864077669903" width="100" height="26.213592233009706" style="fill:green"/>
 <rect x="500" y="400" width="100" height="0" style="fill:black"/>
-<text x="100" y="362.22222222222223" text-anchor="middle">9.26%</text>
-<text x="250" y="356.6666666666667" text-anchor="middle">11.11%</text>
-<text x="400" y="357.3267326732673" text-anchor="middle">10.89%</text>
+<text x="100" y="333.75" text-anchor="middle">18.75%</text>
+<text x="250" y="361.875" text-anchor="middle">9.38%</text>
+<text x="400" y="363.7864077669903" text-anchor="middle">8.74%</text>
 <text x="550" y="390" text-anchor="middle">0.00%</text>
 <text x="50" y="470" text-anchor="left">Legend</text>
 <rect x="50" y="490" width="20" height="20" style="fill:blue"/>

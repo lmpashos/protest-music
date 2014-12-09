@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><svg width="100%" height="100%" viewBox="0 0 610 630" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg">
-<text x="325" y="40" text-anchor="middle">God Save the Queen</text>
+<text x="325" y="40" text-anchor="middle">Hungry Ragged Blues</text>
 <line x1="50" y1="400" x2="600" y2="400" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <line x1="50" y1="400" x2="50" y2="80" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text x="30" y="400" text-anchor="middle">0%</text>
@@ -7,14 +7,14 @@
 <text x="30" y="100" text-anchor="middle">100%</text>
 <line x1="50" y1="250" x2="600" y2="250" style="stroke:rgb(0,0,0);stroke-width:1" stroke-dasharray="8 4"/>
 <line x1="50" y1="100" x2="600" y2="100" style="stroke:rgb(0,0,0);stroke-width:1" stroke-dasharray="8 4"/>
-<rect x="50" y="389.2857142857143" width="100" height="10.714285714285722" style="fill:blue"/>
-<rect x="200" y="357.14285714285717" width="100" height="42.85714285714283" style="fill:red"/>
-<rect x="350" y="363.7931034482759" width="100" height="36.20689655172413" style="fill:green"/>
-<rect x="500" y="348.2758620689655" width="100" height="51.72413793103448" style="fill:black"/>
-<text x="100" y="379.2857142857143" text-anchor="middle">3.57%</text>
-<text x="250" y="347.14285714285717" text-anchor="middle">14.29%</text>
-<text x="400" y="353.7931034482759" text-anchor="middle">12.07%</text>
-<text x="550" y="338.2758620689655" text-anchor="middle">17.24%</text>
+<rect x="50" y="376.9230769230769" width="100" height="23.076923076923094" style="fill:blue"/>
+<rect x="200" y="361.53846153846155" width="100" height="38.46153846153845" style="fill:red"/>
+<rect x="350" y="360.8695652173913" width="100" height="39.13043478260869" style="fill:green"/>
+<rect x="500" y="382.60869565217394" width="100" height="17.391304347826065" style="fill:black"/>
+<text x="100" y="366.9230769230769" text-anchor="middle">7.69%</text>
+<text x="250" y="351.53846153846155" text-anchor="middle">12.82%</text>
+<text x="400" y="350.8695652173913" text-anchor="middle">13.04%</text>
+<text x="550" y="372.60869565217394" text-anchor="middle">5.80%</text>
 <text x="50" y="470" text-anchor="left">Legend</text>
 <rect x="50" y="490" width="20" height="20" style="fill:blue"/>
 <text x="100" y="505" text-anchor="left">Verb Phrases with Adverb (% of all verb phrases)</text>
