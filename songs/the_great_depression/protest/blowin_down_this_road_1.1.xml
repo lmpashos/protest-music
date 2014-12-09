@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
-<song><metadata><title>Blowin' Down This Road (I Ain't Going To Be Treated This Way) </title>
+<song><metadata><title>Blowin' Down This Road (I Ain't Going To Be Treated This Way)</title>
     <composer>Woodie Guthrie and Lee Hays</composer>
     <album>Dust Bowl Ballads</album>
     <year>1940</year>
