@@ -10,6 +10,7 @@
         <notablePerformer>Country Joe and the Fish</notablePerformer>
         <notablePerformer>Pete Seeger</notablePerformer>
         <protest>1</protest>
+        <era>vietnam</era>
     </metadata>
     <lyrics><verse>
 <line>Well, <verbPhrase><verb>come</verb> <adverb>on</adverb> <nounPhrase><det>all</det> of <noun>you</noun>, <adjective>big</adjective> <adjective>strong</adjective> <noun>men</noun></nounPhrase></verbPhrase>,</line>
