@@ -20,7 +20,7 @@ require_once('Constants.inc');
 require_once('FileUtilities.inc');
 require_once('StaticFunctions.inc');
 
-class Data {
+class Resources {
     
   public static function get_html_from_xml_song_list() {
 

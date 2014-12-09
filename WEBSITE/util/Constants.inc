@@ -61,13 +61,13 @@ class Constants {
     'info_the_great_depression' => 'song_info.php?era=the_great_depression',
     'info_vietnam' => 'song_info.php?era=vietnam',
     'info_modern' => 'song_info.php?era=modern',
-    'data' => 'data.php',
-    'data_xml' => 'data.php#xml_data',
-    'data_schema' => 'data.php#schemas',
-    'data_xslt' => 'data.php#xslt',
     'conclusions' => 'conclusions.php',
     'conclusions_subsection1' => 'conclusions.php#subsection1',
-    'conclusions_subsection2' => 'conclusions.php#subsection2'
+    'conclusions_subsection2' => 'conclusions.php#subsection2',
+    'resources' => 'resources.php',
+    'resources_xml' => 'resources.php#xml_data',
+    'resources_schema' => 'resources.php#schemas',
+    'resources_xslt' => 'resources.php#xslt'
   );
 
   static $PAGES = array(
@@ -89,15 +89,15 @@ class Constants {
       Constants::ERA_VIETNAM,
       Constants::ERA_MODERN
     ),
-    'data' => array(
-      'xml', 
-      'schema',
-      'xslt'
-    ), 
     'conclusions' => array(
       'subsection1',
       'subsection2'
-    )
+    ),
+    'resources' => array(
+      'xml',
+      'schema',
+      'xslt'
+    )   
   );
   
   static $PAGE_KEY_TO_PAGE_STRING = array(

@@ -1,12 +1,12 @@
 <?php 
 require_once('util/CommonHTML.inc');
-require_once('util/Data.inc');
+require_once('util/Resources.inc');
 
 ini_set('display_startup_errors',1);
 ini_set('display_errors',1);
 error_reporting(-1);
 
-$current_page = 'data';
+$current_page = 'resources';
 
 $era = Constants::ERA_NONE;
 
@@ -25,9 +25,9 @@ if(isset($_GET['era'])) {
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title><?php echo ucfirst($current_page); ?></title>
     <link href="css/style.css" rel="stylesheet" type="text/css" />
-    <link href="css/data.css" rel="stylesheet" type="text/css" />
+    <link href="css/resources.css" rel="stylesheet" type="text/css" />
     <script src="js/main.js" type="text/javascript">/**/</script>
-    <script src="js/data.js" type="text/javascript">/**/</script>
+    <script src="js/resources.js" type="text/javascript">/**/</script>
 </head>
 <body>
     <div class="wrapper">
@@ -48,7 +48,7 @@ if(isset($_GET['era'])) {
 				</ul>  
             </div>
             <div id="center">
-                <?php echo Data::get_html_from_xml_song_list(); ?>
+                <?php echo Resources::get_html_from_xml_song_list(); ?>
             </div>
         </div> 
     </div>
