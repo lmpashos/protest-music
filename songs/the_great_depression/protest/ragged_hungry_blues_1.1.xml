@@ -2,9 +2,9 @@
 <?xml-model href="../../../schemas/song/song_schema_1.1.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
 <metadata>
-    <title>Ragged Hungry Blues</title>
+    <title>Hungry Ragged Blues</title>
     <composer>Aunt Molly Jackson</composer>
-    <album></album>
+    <album>The Songs and Stories of Aunt Molly Jackson</album>
     <year>1930</year>
     <genre>Folk</genre>
     <notablePerformer>Aunt Molly Jackson</notablePerformer>
