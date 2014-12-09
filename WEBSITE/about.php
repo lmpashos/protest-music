@@ -172,7 +172,7 @@ $current_page = 'about';
 				<div class="tab">
 					<h1 class="tabHeader" id="eras">The Eras</h1>
 					<h2 class="fix">Great Depression</h2>
-                    <a href="images/the_great_depression_photo.jpg" title="The Great Depression, Source: http://b68389.medialib.glogster.com/media/fa0330ab61bb9dd38919f349373a6a5208ed29d8637f44891d09bbadd11ab51c/picket-1937.jpg"><img src="images/the_great_depression_photo.jpg"/></a>
+                    <a href="images/the_great_depression_photo.jpg" title="Children protest rampant unemployment during the Great Depression, Source: http://b68389.medialib.glogster.com/media/fa0330ab61bb9dd38919f349373a6a5208ed29d8637f44891d09bbadd11ab51c/picket-1937.jpg"><img src="images/the_great_depression_photo.jpg" alt="Children protest rampant unemployment during the Great Depression"/></a>
 					<p class="fix">The Great Depression occurred from 1929 to 1939. It is noted as
 						one of the deepest and longest-lasting economic downturn in the
 						history of the Western industrialized world. The Great Depression
@@ -187,7 +187,7 @@ $current_page = 'about';
 						of work. Violence towards African Americans became more common
 						again during The Great Depression. Lynchings, which had declined
 						to 8 in 1932, surged to 28 in 1933.</p>
-                        <a href="images/the_dust_bowl_photo.jpg" title="The Dust Bowl, Source: http://mediad.publicbroadcasting.net/p/wkar/files/201304/SmallDust3S0292.jpg"><img src="images/the_dust_bowl_photo.jpg"/></a>
+                        <a href="images/the_dust_bowl_photo.jpg" title="The Dust Bowl, Source: http://mediad.publicbroadcasting.net/p/wkar/files/201304/SmallDust3S0292.jpg"><img src="images/the_dust_bowl_photo.jpg" alt="The Dust Bowl"/></a>
 					<p>During this time, the Great Plains region in America suffered
 						from a drought from 1934-1937, which is today known as the Dust
 						Bowl. Heavy winds blew the topsoil in places like Oklahoma,
@@ -198,7 +198,7 @@ $current_page = 'about';
 						over the land. Artists at the time expressed the need to be in
 						harmony with nature, rather than try to dominate and exploit it.
 						</p>
-                    <a href="images/harlan_county_strike_photo.jpg" title="Harlan County War, Source: http://nyx.uky.edu/dips/xt75tb0xq06w/data/81pa109_0012/81pa109_0012.jpg"><img src="images/harlan_county_strike_photo.jpg"/></a>
+                    <a href="images/harlan_county_strike_photo.jpg" title="Harlan County War, Source: http://nyx.uky.edu/dips/xt75tb0xq06w/data/81pa109_0012/81pa109_0012.jpg"><img src="images/harlan_county_strike_photo.jpg" alt="Harlan Country War"/></a>
 					<p>Finally, the Harlan County War took place from 1931-1932. This
 						was a series of coal mining-related skirmishes, executions,
 						bombings, and strikes that took place in Harlan County, Kentucky,
@@ -219,7 +219,7 @@ $current_page = 'about';
 						era witnessed the composition of some of the most popular and
 						famous protest music in history.
 						</p>
-                        <a href="images/vietnam_war_photo.jpg" title="The Vietnam War, Source: http://taskandpurpose.com/wp-content/uploads/2014/07/AP6503010214.jpg"><img src="images/vietnam_war_photo.jpg"/></a>
+                        <a href="images/vietnam_war_photo.jpg" title="Bell UH-1 Iroquois helicopters fly over American solders in Vietnam, Source: http://taskandpurpose.com/wp-content/uploads/2014/07/AP6503010214.jpg"><img src="images/vietnam_war_photo.jpg" alt="Bell UH-1 Iroquois helicopters fly over American solders in Vietnam"/></a>
 					<p>The turmoil of the era was an incubator for the outburst of
 						protest music seen in this era, especially when compared with the
 						relatively tranquil 1950s. The dialogue of the protesters in the
@@ -236,7 +236,7 @@ $current_page = 'about';
 						War had seemingly no end in sight. Protester clashed with police
 						in Chicago outside the Democratic National Convention.
 						</p>
-                        <a href="images/chicago_convention_photo.jpg" title="The Chicago Convention, Source: http://www.theblaze.com/wp-content/uploads/2012/09/AP680826056.jpg"><img src="images/chicago_convention_photo.jpg"/></a>
+                        <a href="images/chicago_convention_photo.jpg" title="Protesters clash with police in the midst of the Democratic National Convention in 1968, Source: http://www.theblaze.com/wp-content/uploads/2012/09/AP680826056.jpg"><img src="images/chicago_convention_photo.jpg" alt="Protesters clash with police in the midst of the Democratic National Convention in 1968"/></a>
 						<p>In addition
 						to the thousands of American soldiers killed, the war had
 						destroyed a president. The new president, Richard Nixon, promised
@@ -255,7 +255,7 @@ $current_page = 'about';
 						characterized the early era, going as far as accusing Nixon
 						himself.
 						</p>
-                        <a href="images/kent_state_shootings_photo.jpg" title="Kent State Shootings, Source: http://mastershawtyphotography.files.wordpress.com/2014/02/john-filo-photo-of-mary-ann-vechiojpg-4338af7e714952b6.jpg"><img src="images/kent_state_shootings_photo.jpg"/></a>
+                        <a href="images/kent_state_shootings_photo.jpg" title="Mary Ann Vecchio kneeling over the body of Jeffrey Miller minutes after he was shot by the Ohio National Guard at Ken State University in 1970, Source: http://mastershawtyphotography.files.wordpress.com/2014/02/john-filo-photo-of-mary-ann-vechiojpg-4338af7e714952b6.jpg"><img src="images/kent_state_shootings_photo.jpg" alt="Kent State"/></a>
 					<p>Protest music characterized the 1960s. Polarizing issues like
 						Civil Rights and the Vietnam War made for popular song topics. The
 						protest culture of the era centered primarily on the youth. No
@@ -277,7 +277,7 @@ $current_page = 'about';
 						Vietnam Vet in Born in the USA: He's isolated from the government,
 						isolated from his family, to the point where nothing makes sense.
 						</p>
-                        <a href="images/vietnam_veteran_small_photo.jpg" title="Vietnam Veteran, Source: http://www.veteransresources.org/wp-content/uploads/2013/03/CG73085.jpeg"><img src="images/vietnam_veteran_small_photo.jpg"/></a>
+                        <a href="images/vietnam_veteran_small_photo.jpg" title=" Homeless Vietnam veteran, Source: http://www.veteransresources.org/wp-content/uploads/2013/03/CG73085.jpeg"><img src="images/vietnam_veteran_small_photo.jpg" alt="Homeless Vietnam veteren"/></a>
 					<p>On November 6th, 1990, the state of Arizona voted down to create
 						a holiday for Dr. Martin Luther King, Jr. Two years prior, the
 						governor was Evan Mecham, who cancelled Martin Luther King day
@@ -300,7 +300,7 @@ $current_page = 'about';
 						police and George Zimmerman noticed the men in each case late at
 						night and declared that they looked suspicious.
 						</p>
-                        <a href="images/41_shots_photo.jpg" title="41 Shots, Source: http://bp3.blogger.com/_9Ns1wItm_iI/RcZCg8gopzI/AAAAAAAAABs/7kMHyoifyNI/s1600-h/diallo6.jpg"><img src="images/41_shots_photo.jpg"/></a>
+                        <a href="images/41_shots_photo.jpg" title="Memorial to Amadou Diallo, Source: http://bp3.blogger.com/_9Ns1wItm_iI/RcZCg8gopzI/AAAAAAAAABs/7kMHyoifyNI/s1600-h/diallo6.jpg"><img src="images/41_shots_photo.jpg" alt="Memorial to Amadou Diallo"/></a>
 					<p>In 2008, musicians were protesting against the war in Iraq,
 						which went from 2003 until 2011. The Iraq war was constantly
 						justified by Washington as a preventative military action against
@@ -336,7 +336,7 @@ $current_page = 'about';
 						are getting severely injured and killed while injuring and killing
 						other human beings in the name of their country.
 						</p>
-                        <a href="images/iraq_veterans_medium_size_photo.jpg" title="NATO Summit Protest, Source: http://i.ytimg.com/vi/rahvtXbZQaI/maxresdefault.jpg"><img src="images/iraq_veterans_medium_size_photo.jpg"/></a>
+                        <a href="images/iraq_veterans_medium_size_photo.jpg" title="NATO Summit protest, Source: http://i.ytimg.com/vi/rahvtXbZQaI/maxresdefault.jpg"><img src="images/iraq_veterans_medium_size_photo.jpg" alt="NATO Summit protest"/></a>
 					<p>The modern era, like every other era, wanted to change the way
 						African Americans were treated. Americans protested against
 						multiple issues they had with the United States government. One
