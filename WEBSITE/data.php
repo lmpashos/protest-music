@@ -7,7 +7,7 @@ ini_set('display_startup_errors',1);
 ini_set('display_errors',1);
 error_reporting(-1);
 
-$current_page = 'info';
+$current_page = 'data';
 
 $era = Constants::ERA_NONE;
 
@@ -26,9 +26,9 @@ if(isset($_GET['era'])) {
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title><?php echo ucfirst($current_page); ?></title>
     <link href="css/style.css" rel="stylesheet" type="text/css" />
-    <link href="css/song_info.css" rel="stylesheet" type="text/css" />
+    <link href="css/data.css" rel="stylesheet" type="text/css" />
     <script src="js/main.js" type="text/javascript"></script>
-    <script src="js/songInfo.js" type="text/javascript"></script>
+    <script src="js/data.js" type="text/javascript"></script>
     
 </head>
 <body>
