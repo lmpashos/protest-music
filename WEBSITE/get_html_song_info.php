@@ -62,7 +62,7 @@ if(file_exists(Constants::SONG_LIST_FILENAME)) {
       if(isset($image_filename)) {
         $html .= ('<img src="' . $image_filename . '" alt="' . $image_filename);
         if(isset($image_src)) {
-          $html .= ('" title="' . $image_src . '" />' . "\n");
+          $html .= ('" title="' . $meta_xml->title . ', Source: ' . $image_src . '" />' . "\n");
         } else {
           $html .= ('" />' . "\n");
         }                  

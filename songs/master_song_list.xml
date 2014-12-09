@@ -130,7 +130,7 @@
     <song era="the_great_depression" is_protest="true">
         <title>Strange Fruit</title>
         <lyric_filename>strange_fruit_1.1.xml</lyric_filename>
-        <image_filename></image_filename>
+        <image_filename>strange_fruit.jpg</image_filename>
         <image_src>http://en.wikipedia.org/wiki/Strange_Fruit#mediaviewer/File:Strange-Fuit.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/h4ZyuULy9zs</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/billieholiday/strangefruit.html</lyric_source>
