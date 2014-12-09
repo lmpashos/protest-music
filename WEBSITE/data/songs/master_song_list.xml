@@ -74,7 +74,7 @@
         <title>Black and Blue</title>
         <lyric_filename>black_and_blue_1.1.xml</lyric_filename>
         <image_filename></image_filename>
-        <youtube_link>https://www.youtube.com/embedgHLTI2cMCQk?start=96</youtube_link>
+        <youtube_link>https://www.youtube.com/embed/Bwqvtgb-35Y</youtube_link>
         <lyric_source>http://www.metrolyrics.com/what-did-i-do-to-be-so-black-and-blue-lyrics-louis-armstrong.html</lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
@@ -144,7 +144,7 @@
         <image_filename>california_dreamin.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0002/418/MI0002418079.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/dN3GbF9Bx6E</youtube_link>
-        <lyric_source></lyric_source>
+        <lyric_source>http://www.azlyrics.com/lyrics/mamasandthepapas/californiadreamin.html</lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>I Heard It through the Grapevine</title>
@@ -160,13 +160,14 @@
         <image_filename>i_want_to_hold_your_hand.jpg</image_filename>
         <image_src>http://en.wikipedia.org/wiki/File:03_iwantoholdyourhand.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/V-Ft1xjTXZ8</youtube_link>
-        <lyric_source></lyric_source>
+        <lyric_source>http://www.azlyrics.com/lyrics/beatles/iwanttoholdyourhand.html</lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>Raindrops Keep Falling on My Head</title>
         <lyric_filename>raindrops_keep_falling_on_my_head_1.1.xml</lyric_filename>
         <image_filename>raindrops1.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0003/150/MI0003150471.jpg</image_src>
+        <youtube_link>https://www.youtube.com/embed/JebowNHkA_M</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/manicstreetpreachers/raindropskeepfallingonmyhead.html</lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
@@ -175,7 +176,7 @@
         <image_filename>take_me_home.jpg</image_filename>
         <image_src>http://en.wikipedia.org/wiki/File:John_Denver-_Take_Me_Home.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/1vrEljMfXYo</youtube_link>
-        <lyric_source></lyric_source>
+        <lyric_source>http://www.lyricsfreak.com/j/john+denver/country+roads_20073876.html</lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>The Loco-Motion</title>
@@ -183,7 +184,7 @@
         <image_filename>the_locomotion.jpg</image_filename>
         <image_src>http://en.wikipedia.org/wiki/File:Tlm_le.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/eKpVQm41f8Y</youtube_link>
-        <lyric_source></lyric_source>
+        <lyric_source>http://www.metrolyrics.com/the-locomotion-lyrics-little-eva.html</lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>The Sound of Silence</title>
@@ -191,7 +192,7 @@
         <image_filename>sounds_of_silence.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/577/MI0001577611.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/4zLfCnGVeL4</youtube_link>
-        <lyric_source></lyric_source>
+        <lyric_source>http://www.azlyrics.com/lyrics/simongarfunkel/thesoundofsilence.html</lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>The Twist</title>
@@ -199,14 +200,15 @@
         <image_filename>the_twist_45.jpg</image_filename>
         <image_src>http://en.wikipedia.org/wiki/File:The_twist_45.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/xbK0C9AYMd8</youtube_link>
-        <lyric_source></lyric_source>
+        <lyric_source>http://www.metrolyrics.com/the-twist-lyrics-chubby-checker.html</lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>Tossin' and Turnin'</title>
         <lyric_filename>tossin_and_turnin_1.1.xml</lyric_filename>
         <image_filename>bobby_lewis.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/561/MI0001561189.jpg</image_src>
-        <lyric_source></lyric_source>
+        <youtube_link>https://www.youtube.com/embed/WwwzjaFjTzs</youtube_link>
+        <lyric_source>http://lyrics.wikia.com/Bobby_Lewis:Tossin%27_And_Turnin%27</lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>Up around the Bend</title>
@@ -214,7 +216,7 @@
         <image_filename>cosmos_factory.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/742/MI0001742569.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/34P18at0Q7s</youtube_link>
-        <lyric_source></lyric_source>
+        <lyric_source>http://lyrics.wikia.com/Creedence_Clearwater_Revival:Up_Around_The_Bend</lyric_source>
     </song>    
     <song era="vietnam" is_protest="true">
         <title>A Change Is Gonna' Come</title>
@@ -222,70 +224,79 @@
         <image_filename>a_change_is_gonna_come.jpg</image_filename>
         <image_src>http://en.wikipedia.org/wiki/File:ACIGCcover.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/gbO2_077ixs</youtube_link>
-        <lyric_source></lyric_source>     
+        <lyric_source>http://lyrics.wikia.com/Sam_Cooke:A_Change_Is_Gonna_Come</lyric_source>     
     </song>
     <song era="vietnam" is_protest="true">
         <title>Blowin' in the Wind</title>
         <lyric_filename>blowin_in_the_wind_1.1.xml</lyric_filename>
         <image_filename>freewheelin_bob_dylan.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/959/MI0001959588.jpg</image_src>
-        <lyric_source></lyric_source>
+        <youtube_link>https://www.youtube.com/embed/Ld6fAO4idaI</youtube_link>
+        <lyric_source>http://lyrics.wikia.com/Bob_Dylan:Blowin%27_In_The_Wind</lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>For What It's Worth</title>
         <lyric_filename>for_what_its_worth_1.1.xml</lyric_filename>
         <image_filename>buffalo_springfield.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0002/136/MI0002136583.jpg</image_src>
-        <lyric_source></lyric_source>
+        <youtube_link>https://www.youtube.com/embed/gp5JCrSXkJY</youtube_link>
+        <lyric_source>http://www.azlyrics.com/lyrics/buffalospringfield/forwhatitsworth.html</lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>Fortunate Son</title>
         <lyric_filename>fortunate_son_1.1.xml</lyric_filename>
         <image_filename>willy_and_the_poor_boys.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/737/MI0001737665.jpg</image_src>
-        <lyric_source></lyric_source>
+        <youtube_link>https://www.youtube.com/embed/LMUBWKJ5A_0</youtube_link>
+        <lyric_source>http://www.metrolyrics.com/fortunate-son-lyrics-creedence-clearwater-revival.html</lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>I Feel Like I'm Fixin' to Die</title>
         <lyric_filename>i_feel_like_im_fixin_1.1.xml</lyric_filename>
         <image_filename>country_joe_feel_like_im_fixin_to_die.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/664/MI0001664008.jpg</image_src>
-        <lyric_source></lyric_source>
+        <youtube_link>https://www.youtube.com/embed/LBdeCxJmcAo</youtube_link>
+        <lyric_source>http://lyrics.wikia.com/Country_Joe_McDonald:I_Feel_Like_I%27m_Fixin%27_To_Die_Rag_%28take_1%29</lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>If I Had a Hammer</title>
         <lyric_filename>if_i_had_a_hammer_1.1.xml</lyric_filename>
         <image_filename>very_best_of_peter_paul_and_mary.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0003/566/MI0003566365.jpg</image_src>
-        <lyric_source></lyric_source>
+        <youtube_link>https://www.youtube.com/embed/VaWl2lA7968</youtube_link>
+        <lyric_source>http://www.lyricsfreak.com/p/peter+paul+mary/if+i+had+a+hammer_20107670.html</lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>Imagine</title>
         <lyric_filename>imagine_1.1.xml</lyric_filename>
         <image_filename>imagine.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/583/MI0001583804.jpg</image_src>
-        <lyric_source></lyric_source>
+        <youtube_link>https://www.youtube.com/embed/DVg2EJvvlF8</youtube_link>
+        <lyric_source>http://www.azlyrics.com/lyrics/johnlennon/imagine.html</lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>Ohio</title>
         <lyric_filename>ohio_1.1.xml</lyric_filename>
         <image_filename>so_far.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/770/MI0001770508.jpg</image_src>
-        <lyric_source></lyric_source>
+        <youtube_link>https://www.youtube.com/embed/68g76j9VBvM</youtube_link>
+        <lyric_source>http://www.azlyrics.com/lyrics/neilyoung/ohio.html</lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>The Times They Are A-changin'</title>
         <lyric_filename>the_times_they_are_a-changin_1.1.xml</lyric_filename>
         <image_filename>the_times_they_are_a_changin.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0002/208/MI0002208215.jpg</image_src>
-        <lyric_source></lyric_source>
+        <youtube_link>https://www.youtube.com/embed/e7qQ6_RV4VQ</youtube_link>
+        <lyric_source>http://www.azlyrics.com/lyrics/bobdylan/thetimestheyareachangin.html</lyric_source>
     </song>
     <song era="vietnam" is_protest="true">
         <title>We Shall Overcome</title>
         <lyric_filename>we_shall_overcome_1.1.xml</lyric_filename>
         <image_filename>joan_baez_in_concert.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0002/003/MI0002003124.jpg</image_src>
-        <lyric_source></lyric_source>
+        <youtube_link>https://www.youtube.com/embed/2b24Ewk934g</youtube_link>
+        <lyric_source>http://www.lyricsfreak.com/v/various+artists/we+shall+overcome_10170009.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
         <title>Billie Jean</title>
@@ -340,7 +351,8 @@
         <lyric_filename>staying_alive_1.1.xml</lyric_filename>
         <image_filename>saturday_night_fever.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0000/040/MI0000040283.jpg</image_src>
-        <youtube_link>https://www.youtube.com/embed/jqzk904ytlE</youtube_link>
+        <!-- <youtube_link>https://www.youtube.com/embed/jqzk904ytlE</youtube_link> -->
+        <youtube_link>http://www.youtube.com/embed/WUgSjsgp5Ww?rel=0&amp;start=6&amp;end=&amp;autoplay=0</youtube_link>
         <lyric_source>http://www.azlyrics.com/lyrics/beegees/stayinalive.html</lyric_source>
     </song>
     <song era="modern" is_protest="false">
