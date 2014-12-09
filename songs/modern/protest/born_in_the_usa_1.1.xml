@@ -75,7 +75,7 @@
             <line><nounPhrase><adjective>Hiring</adjective>
                     <noun>man</noun></nounPhrase>
                 <verbPhrase><verb>says</verb></verbPhrase>
-                    "<nounPhrase><noun>son</noun></nounPhrase> if
+                    "<nounPhrase><noun>Son</noun></nounPhrase> if
                     <nounPhrase><noun>it</noun></nounPhrase>
                 <verbPhrase><verb>was</verb> <adverb>up</adverb> <prepPhrase><prep>to</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase>"</line>
             <line><verbPhrase><verb>Went</verb>
@@ -83,7 +83,7 @@
                     <verb>to see</verb><nounPhrase><det>my</det>
                         <adjective>V.A.</adjective>
                         <noun>man</noun></nounPhrase></verbPhrase></line>
-            <line>He <verbPhrase><verb>said</verb></verbPhrase> "<nounPhrase><noun>son</noun></nounPhrase> <verbPhrase neg="true"
+            <line>He <verbPhrase><verb>said</verb></verbPhrase> "<nounPhrase><noun>Son</noun></nounPhrase> <verbPhrase neg="true"
                         ><verb>do</verb>n't <nounPhrase><noun>you</noun></nounPhrase>
                     <verb>understand</verb>
                     <adverb>now</adverb></verbPhrase>"</line>
