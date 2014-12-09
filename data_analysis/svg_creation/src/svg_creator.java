@@ -21,11 +21,14 @@ public class svg_creator {
 		Source xslt = new StreamSource(new File("data_to_svg.xsl"));
 		Transformer transformer = transformerFactory.newTransformer(xslt);
 		
-		File directory = new File("output");
-		if (! directory.exists()) {
-			directory.mkdir();
-        } 
-       
+		File output = new File("output");
+		if (! output.exists()) {
+			output.mkdir();
+			//new File("output/the_great_depression").mkdir();
+			//new File("output/vietnam").mkdir();
+			//new File("output/modern").mkdir();
+        }		
+		    
 		int x = 1;
 		
         XPathFactory xpathFactory = XPathFactory.newInstance();
