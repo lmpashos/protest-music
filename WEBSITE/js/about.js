@@ -19,8 +19,6 @@
 // fixes a bug on about page where column lengths don't match on page resize
 document.addEventListener("DOMContentLoaded", function() {
   
-  resizeColumns();
-  
   window.addEventListener("load", function(){
     resizeColumns();
   });
