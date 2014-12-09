@@ -3,11 +3,11 @@ window.addEventListener("scroll", function() {
 	
 	var lastScrollLeft = 0;
 
-    var documentScrollLeft = $(document).scrollLeft();
+    var documentScrollLeft = window.pageXOffset;
     if (lastScrollLeft != documentScrollLeft) {
         lastScrollLeft = documentScrollLeft;
     }
-	
+    
 	if (lastScrollLeft == 0){
 		var list = document.querySelectorAll("#left > ul");  
 		var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;	  
