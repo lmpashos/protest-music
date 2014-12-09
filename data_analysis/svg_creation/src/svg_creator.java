@@ -24,9 +24,15 @@ public class svg_creator {
 		File output = new File("output");
 		if (! output.exists()) {
 			output.mkdir();
-			//new File("output/the_great_depression").mkdir();
-			//new File("output/vietnam").mkdir();
-			//new File("output/modern").mkdir();
+			new File("output/the_great_depression").mkdir();
+			new File("output/the_great_depression/protest").mkdir();
+			new File("output/the_great_depression/non_protest").mkdir();
+			new File("output/vietnam").mkdir();
+			new File("output/vietnam/protest").mkdir();
+			new File("output/vietnam/non_protest").mkdir();
+			new File("output/modern").mkdir();
+			new File("output/modern/protest").mkdir();
+			new File("output/modern/non_protest").mkdir();
         }		
 		    
 		int x = 1;
@@ -41,7 +47,8 @@ public class svg_creator {
 			if (element.hasChildNodes()) {
 				Source src = new DOMSource(element);
 				String title = getTitle(doc, xpath, x);
-				FileOutputStream fs = new FileOutputStream("output/" + title + ".svg");
+				String directory = getDirectory(doc, xpath, x);
+				FileOutputStream fs = new FileOutputStream(directory + title + ".svg");
 				Result dest = new StreamResult(fs);
 				transformer.transform(src, dest);
 				fs.close();
@@ -54,5 +61,22 @@ public class svg_creator {
 		XPathExpression expr = xpath.compile("data/song[" + index + "]/title");
 		String title = (String) expr.evaluate(doc, XPathConstants.STRING);
 		return title.replaceAll(" ", "_").toLowerCase();
+	}
+	
+	public static String getDirectory(Document doc, XPath xpath, int index) throws Exception {
+		String directory = null;
+		XPathExpression expr = xpath.compile("data/song[" + index + "]/era");
+		String era = (String) expr.evaluate(doc, XPathConstants.STRING);
+		expr = xpath.compile("data/song[" + index + "]/protest");
+		Double value = (Double) expr.evaluate(doc, XPathConstants.NUMBER);
+		String protest = null;
+		
+		if(value == 0)
+			protest = "non_protest";
+		else
+			protest = "protest";
+		
+		directory = "output/" + era + "/" + protest + "/";
+		return directory;
 	}
 }
