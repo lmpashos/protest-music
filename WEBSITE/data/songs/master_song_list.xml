@@ -280,7 +280,7 @@
     </song>
     <song era="vietnam" is_protest="true">
         <title>If I Had a Hammer</title>
-        <lyric_filename>if_i_had_a_hammer_1.1.xml</lyric_filename>
+        <lyric_filename>if_i_had_a_hammer.xml</lyric_filename>
         <image_filename>very_best_of_peter_paul_and_mary.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0003/566/MI0003566365.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/VaWl2lA7968</youtube_link>
