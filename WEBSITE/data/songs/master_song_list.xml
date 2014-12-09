@@ -2,7 +2,7 @@
 <song_data>
     <song era="the_great_depression" is_protest="false">
         <title>Cheek to Cheek</title>
-        <lyric_filename>cheek_to_cheek_1.1.xml</lyric_filename>
+        <lyric_filename>cheek_to_cheek.xml</lyric_filename>
         <image_filename>cheek_to_cheek.jpg</image_filename>
         <image_src>http://rymimg.com/lk/f/l/2a6b765ac9b2f7e404f0c013565f435b/4523428.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/NrCsyN-fZ94</youtube_link>
@@ -10,7 +10,7 @@
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Deep Purple</title>
-        <lyric_filename>deep_purple_1.1.xml</lyric_filename>
+        <lyric_filename>deep_purple.xml</lyric_filename>
         <image_filename>my_reverie.jpg</image_filename>
         <image_src>http://userserve-ak.last.fm/serve/_/76399012/My+Reverie.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/GCJ0KwY5-xk</youtube_link>
@@ -18,7 +18,7 @@
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Dream a Little Dream of Me</title>
-        <lyric_filename>dream_a_little_dream_of_me_1.1.xml</lyric_filename>
+        <lyric_filename>dream_a_little_dream_of_me.xml</lyric_filename>
         <image_filename>dream_a_little_dream_of_me.jpg</image_filename>
         <image_src>http://s25.photobucket.com/user/djtaddia/media/45%20Lot%20Vol%20XXXII/rqfghjk037.jpg.html</image_src>
         <youtube_link>https://www.youtube.com/embed/keFkJ9HDHlQ?start=121</youtube_link>
@@ -26,7 +26,7 @@
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Just a Gigolo</title>
-        <lyric_filename>just_a_gigolo_1.1.xml</lyric_filename>
+        <lyric_filename>just_a_gigolo.xml</lyric_filename>
         <image_filename>is_everybody_happy.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_250/MI0000/223/MI0000223374.jpg?partner=allrovi.com</image_src>
         <youtube_link>https://www.youtube.com/embed/1ELsCJKmbuc</youtube_link>
@@ -34,7 +34,7 @@
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Lovely to Look at</title>
-        <lyric_filename>lovely_to_look_at_1.1.xml</lyric_filename>
+        <lyric_filename>lovely_to_look_at.xml</lyric_filename>
         <image_filename>lovely_to_look_at.jpg</image_filename>
         <image_src>http://i15.ebayimg.com/07/i/001/08/5f/4665_35.JPG</image_src>
         <youtube_link>https://www.youtube.com/embed/iAVKeIjrbYU</youtube_link>
@@ -42,7 +42,7 @@
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Night and Day</title>
-        <lyric_filename>night_and_day_1.1.xml</lyric_filename>
+        <lyric_filename>night_and_day.xml</lyric_filename>
         <image_filename>gay_divorce.jpg</image_filename>
         <image_src>http://en.wikipedia.org/wiki/File:Night-And-Day.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/GoHBeGlRLvE?start=88</youtube_link>
@@ -50,7 +50,7 @@
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Pennies from Heaven</title>
-        <lyric_filename>pennies_from_heaven_1.1.xml</lyric_filename>
+        <lyric_filename>pennies_from_heaven.xml</lyric_filename>
         <image_filename>pennies_from_heaven.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0002/766/MI0002766308.jpg?partner=allrovi.com</image_src>
         <youtube_link>https://www.youtube.com/embed/_IFgC7JhVrM</youtube_link>
@@ -58,7 +58,7 @@
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Over the Rainbow</title>
-        <lyric_filename>somewhere_over_the_rainbow_1.1.xml</lyric_filename>
+        <lyric_filename>over_the_rainbow.xml</lyric_filename>
         <image_filename>the_wizard_of_oz.jpg</image_filename>
         <image_src>http://ak1.ostkcdn.com/images/products/bmmg/ent/L081227199920.JPG</image_src>
         <youtube_link>https://www.youtube.com/embed/PSZxmZmBfnU</youtube_link>
@@ -66,7 +66,7 @@
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>The Way You Look Tonight</title>
-        <lyric_filename>the_way_you_look_tonight_1.1.xml</lyric_filename>
+        <lyric_filename>the_way_you_look_tonight.xml</lyric_filename>
         <image_filename>the_astaire_story.jpg</image_filename>
         <image_src>http://upload.wikimedia.org/wikipedia/en/thumb/8/88/TheAstaireStory_3LP_DRG.jpg/220px-TheAstaireStory_3LP_DRG.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/dIW_Ah0wg-w?start=63</youtube_link>
@@ -74,7 +74,7 @@
     </song>
     <song era="the_great_depression" is_protest="false">
         <title>Three Little Words</title>
-        <lyric_filename>three_little_words_1.1.xml</lyric_filename>
+        <lyric_filename>three_little_words.xml</lyric_filename>
         <image_filename>the_okeh_ellington.jpg</image_filename>
         <image_src>http://static.qobuz.com/images/covers/26/77/0074644617726_600.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/KxVaBu5i1QE?start=96</youtube_link>
@@ -82,7 +82,7 @@
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Black and Blue</title>
-        <lyric_filename>black_and_blue_1.1.xml</lyric_filename>
+        <lyric_filename>(what_did_i_do_to_be_so)_black_and_blue.xml</lyric_filename>
         <image_filename>black_and_blue.jpg</image_filename>
         <image_src>http://cdn.discogs.com/qlInUkQf074B10GjyMAXeOzpc_s=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb()/discogs-images/R-1658326-1282150283.jpeg.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/Bwqvtgb-35Y</youtube_link>
@@ -90,7 +90,7 @@
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Blowin' down This Road</title>
-        <lyric_filename>blowin_down_this_road_1.1.xml</lyric_filename>
+        <lyric_filename>blowin'_down_this_road_(i_ain't_going_to_be_treated_this_way).xml</lyric_filename>
         <image_filename>dust_bowl_ballads.jpg</image_filename>
         <image_src>https://fanart.tv/fanart/music/cbd827e1-4e38-427e-a436-642683433732/albumcover/dusty-bowl-ballads-4f0d91e22ab3a.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/7qquzBFJdVw</youtube_link>
@@ -98,7 +98,7 @@
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Brother Can You Spare a Dime</title>
-        <lyric_filename>brother_can_you_spare_a_dime_1.1.xml</lyric_filename>
+        <lyric_filename>brother_can_you_spare_a_dime.xml</lyric_filename>
         <image_filename>a_portrait_of_bing_crosby.jpg</image_filename>
         <image_src>http://www.mr70s.com/ekmps/shops/mr70s/images/a-portrait-of-bing-crosby-2-x-cd-boxset.-cd.-2228-p.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/eih67rlGNhU</youtube_link>
@@ -106,7 +106,7 @@
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Nickle under the Foot</title>
-        <lyric_filename>nickle_under_the_foot_1.1.xml</lyric_filename>
+        <lyric_filename>nickel_under_the_foot.xml</lyric_filename>
         <image_filename>cradle_will_rock.jpg</image_filename>
         <image_src>http://ecx.images-amazon.com/images/I/41MASB6QFJL.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/KqzeTwrWA8M?start=61</youtube_link>
@@ -114,14 +114,14 @@
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Poor Miner's Farewell</title>
-        <lyric_filename>poor_miners_farewell_1.1.xml</lyric_filename>
+        <lyric_filename>poor_miner's_farewell.xml</lyric_filename>
         <image_filename>the_songs_and_stories_of_aunt_molly_jackson</image_filename>
         <image_src>http://media.smithsonianfolkways.org/images/album_covers/SF270/FW05457.jpg</image_src>
         <lyric_source>http://www.folkarchive.de/miner2.html</lyric_source>
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Hungry Ragged Blues</title>
-        <lyric_filename>ragged_hungry_blues_1.1.xml</lyric_filename>
+        <lyric_filename>hungry_ragged_blues.xml</lyric_filename>
         <image_filename>the_songs_and_stories_of_aunt_molly_jackson.jpg</image_filename>
         <image_src>http://media.smithsonianfolkways.org/images/album_covers/SF270/FW05457.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/-VL6ECLZwsk?start=30</youtube_link>
@@ -129,7 +129,7 @@
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Strange Fruit</title>
-        <lyric_filename>strange_fruit_1.1.xml</lyric_filename>
+        <lyric_filename>strange_fruit.xml</lyric_filename>
         <image_filename>strange_fruit.jpg</image_filename>
         <image_src>http://en.wikipedia.org/wiki/Strange_Fruit#mediaviewer/File:Strange-Fuit.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/h4ZyuULy9zs</youtube_link>
@@ -137,7 +137,7 @@
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>Talking Dust Bowl Blues</title>
-        <lyric_filename>talking_dust_bowl_blues_1.1.xml</lyric_filename>
+        <lyric_filename>talking_dust_bowl_blues.xml</lyric_filename>
         <image_filename>dust_bowl_ballads.jpg</image_filename>
         <image_src>https://fanart.tv/fanart/music/cbd827e1-4e38-427e-a436-642683433732/albumcover/dusty-bowl-ballads-4f0d91e22ab3a.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/xOpsGkC5-tE</youtube_link>
@@ -145,7 +145,7 @@
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>The Bourgeois Blues</title>
-        <lyric_filename>the_bourgeois_blues_1.1.xml</lyric_filename>
+        <lyric_filename>the_bourgeois_blues.xml</lyric_filename>
         <image_filename>bourgeois_blues_lead_belly.jpg</image_filename>
         <image_src>http://ecx.images-amazon.com/images/I/41D1NKRCGTL.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/Us1qLK23ktg</youtube_link>
@@ -153,14 +153,14 @@
     </song>
     <song era="the_great_depression" is_protest="true">
         <title>We Shall Not Be Moved</title>
-        <lyric_filename>we_shall_not_be_moved_1.1.xml</lyric_filename>
+        <lyric_filename>we_shall_not_be_moved.xml</lyric_filename>
         <image_filename></image_filename>
         <image_src></image_src>
         <lyric_source>http://wnpj.org/44songs.pdf</lyric_source>
     </song>
     <song era="vietnam" is_protest="false">
         <title>California Dreamin'</title>
-        <lyric_filename>california_dreamin_1.1.xml</lyric_filename>
+        <lyric_filename>california_dreamin'.xml</lyric_filename>
         <image_filename>california_dreamin.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0002/418/MI0002418079.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/dN3GbF9Bx6E</youtube_link>
@@ -168,7 +168,7 @@
     </song>
     <song era="vietnam" is_protest="false">
         <title>I Heard It through the Grapevine</title>
-        <lyric_filename>i_heard_it_through_the_grapevine_1.1.xml</lyric_filename>
+        <lyric_filename>i_heard_it_through_the_grapevine.xml</lyric_filename>
         <image_filename>grapevine.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0002/530/MI0002530689.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/hajBdDM2qdg</youtube_link>
@@ -176,7 +176,7 @@
     </song>
     <song era="vietnam" is_protest="false">
         <title>I Want To Hold Your Hand</title>
-        <lyric_filename>i_want_to_hold_your_hand_1.1.xml</lyric_filename>
+        <lyric_filename>i_want_to_hold_your_hand.xml</lyric_filename>
         <image_filename>i_want_to_hold_your_hand.jpg</image_filename>
         <image_src>http://en.wikipedia.org/wiki/File:03_iwantoholdyourhand.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/V-Ft1xjTXZ8</youtube_link>
@@ -184,7 +184,7 @@
     </song>
     <song era="vietnam" is_protest="false">
         <title>Raindrops Keep Falling on My Head</title>
-        <lyric_filename>raindrops_keep_falling_on_my_head_1.1.xml</lyric_filename>
+        <lyric_filename>raindrops_keep_falling_on_my_head.xml</lyric_filename>
         <image_filename>raindrops1.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0003/150/MI0003150471.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/JebowNHkA_M</youtube_link>
@@ -192,7 +192,7 @@
     </song>
     <song era="vietnam" is_protest="false">
         <title>Take Me Home Country Roads</title>
-        <lyric_filename>take_me_home_country_roads_1.1.xml</lyric_filename>
+        <lyric_filename>take_me_home,_country_roads.xml</lyric_filename>
         <image_filename>take_me_home.jpg</image_filename>
         <image_src>http://en.wikipedia.org/wiki/File:John_Denver-_Take_Me_Home.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/1vrEljMfXYo</youtube_link>
@@ -200,7 +200,7 @@
     </song>
     <song era="vietnam" is_protest="false">
         <title>The Loco-Motion</title>
-        <lyric_filename>the_loco-motion_1.1.xml</lyric_filename>
+        <lyric_filename>the_loco-motion.xml</lyric_filename>
         <image_filename>the_locomotion.jpg</image_filename>
         <image_src>http://en.wikipedia.org/wiki/File:Tlm_le.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/eKpVQm41f8Y</youtube_link>
@@ -208,7 +208,7 @@
     </song>
     <song era="vietnam" is_protest="false">
         <title>The Sound of Silence</title>
-        <lyric_filename>the_sound_of_silence_1.1.xml</lyric_filename>
+        <lyric_filename>the_sound_of_silence.xml</lyric_filename>
         <image_filename>sounds_of_silence.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/577/MI0001577611.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/4zLfCnGVeL4</youtube_link>
@@ -216,7 +216,7 @@
     </song>
     <song era="vietnam" is_protest="false">
         <title>The Twist</title>
-        <lyric_filename>the_twist_1.1.xml</lyric_filename>
+        <lyric_filename>the_twist.xml</lyric_filename>
         <image_filename>the_twist_45.jpg</image_filename>
         <image_src>http://en.wikipedia.org/wiki/File:The_twist_45.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/xbK0C9AYMd8</youtube_link>
@@ -224,7 +224,7 @@
     </song>
     <song era="vietnam" is_protest="false">
         <title>Tossin' and Turnin'</title>
-        <lyric_filename>tossin_and_turnin_1.1.xml</lyric_filename>
+        <lyric_filename>tossin'_and_turnin'.xml</lyric_filename>
         <image_filename>bobby_lewis.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/561/MI0001561189.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/WwwzjaFjTzs</youtube_link>
@@ -232,7 +232,7 @@
     </song>
     <song era="vietnam" is_protest="false">
         <title>Up around the Bend</title>
-        <lyric_filename>up_around_the_bend_1.1.xml</lyric_filename>
+        <lyric_filename>up_around_the_bend.xml</lyric_filename>
         <image_filename>cosmos_factory.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/742/MI0001742569.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/34P18at0Q7s</youtube_link>
@@ -240,7 +240,7 @@
     </song>    
     <song era="vietnam" is_protest="true">
         <title>A Change Is Gonna' Come</title>
-        <lyric_filename>a_change_is_gonna_come_1.1.xml</lyric_filename>
+        <lyric_filename>a_change_is_gonna_come.xml</lyric_filename>
         <image_filename>a_change_is_gonna_come.jpg</image_filename>
         <image_src>http://en.wikipedia.org/wiki/File:ACIGCcover.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/gbO2_077ixs</youtube_link>
@@ -248,7 +248,7 @@
     </song>
     <song era="vietnam" is_protest="true">
         <title>Blowin' in the Wind</title>
-        <lyric_filename>blowin_in_the_wind_1.1.xml</lyric_filename>
+        <lyric_filename>blowin'_in_the_wind.xml</lyric_filename>
         <image_filename>freewheelin_bob_dylan.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/959/MI0001959588.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/Ld6fAO4idaI</youtube_link>
@@ -256,7 +256,7 @@
     </song>
     <song era="vietnam" is_protest="true">
         <title>For What It's Worth</title>
-        <lyric_filename>for_what_its_worth_1.1.xml</lyric_filename>
+        <lyric_filename>for_what_it's_worth.xml</lyric_filename>
         <image_filename>buffalo_springfield.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0002/136/MI0002136583.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/gp5JCrSXkJY</youtube_link>
@@ -264,7 +264,7 @@
     </song>
     <song era="vietnam" is_protest="true">
         <title>Fortunate Son</title>
-        <lyric_filename>fortunate_son_1.1.xml</lyric_filename>
+        <lyric_filename>fortunate_son.xml</lyric_filename>
         <image_filename>willy_and_the_poor_boys.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/737/MI0001737665.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/LMUBWKJ5A_0</youtube_link>
@@ -272,7 +272,7 @@
     </song>
     <song era="vietnam" is_protest="true">
         <title>I Feel Like I'm Fixin' to Die</title>
-        <lyric_filename>i_feel_like_im_fixin_1.1.xml</lyric_filename>
+        <lyric_filename>i-feel-like-i'm-fixin'-to-die-rag.xml</lyric_filename>
         <image_filename>country_joe_feel_like_im_fixin_to_die.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/664/MI0001664008.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/LBdeCxJmcAo</youtube_link>
@@ -288,7 +288,7 @@
     </song>
     <song era="vietnam" is_protest="true">
         <title>Imagine</title>
-        <lyric_filename>imagine_1.1.xml</lyric_filename>
+        <lyric_filename>imagine.xml</lyric_filename>
         <image_filename>imagine.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/583/MI0001583804.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/DVg2EJvvlF8</youtube_link>
@@ -296,7 +296,7 @@
     </song>
     <song era="vietnam" is_protest="true">
         <title>Ohio</title>
-        <lyric_filename>ohio_1.1.xml</lyric_filename>
+        <lyric_filename>ohio.xml</lyric_filename>
         <image_filename>so_far.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/770/MI0001770508.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/68g76j9VBvM</youtube_link>
@@ -304,7 +304,7 @@
     </song>
     <song era="vietnam" is_protest="true">
         <title>The Times They Are A-changin'</title>
-        <lyric_filename>the_times_they_are_a-changin_1.1.xml</lyric_filename>
+        <lyric_filename>the_times_they_are_a-changin'.xml</lyric_filename>
         <image_filename>the_times_they_are_a_changin.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0002/208/MI0002208215.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/e7qQ6_RV4VQ</youtube_link>
@@ -312,7 +312,7 @@
     </song>
     <song era="vietnam" is_protest="true">
         <title>We Shall Overcome</title>
-        <lyric_filename>we_shall_overcome_1.1.xml</lyric_filename>
+        <lyric_filename>we_shall_overcome.xml</lyric_filename>
         <image_filename>joan_baez_in_concert.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0002/003/MI0002003124.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/2b24Ewk934g</youtube_link>
@@ -320,7 +320,7 @@
     </song>
     <song era="modern" is_protest="false">
         <title>Billie Jean</title>
-        <lyric_filename>billie_jean_1.1.xml</lyric_filename>
+        <lyric_filename>billie_jean.xml</lyric_filename>
         <image_filename>thriller.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0000/677/MI0000677650.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/Zi_XLOBDo_Y</youtube_link>
@@ -328,7 +328,7 @@
     </song>
     <song era="modern" is_protest="false">
         <title>Boom Boom Pow</title>
-        <lyric_filename>boom_boom_pow_1.1.xml</lyric_filename>
+        <lyric_filename>boom_boom_pow.xml</lyric_filename>
         <image_filename>the_e_n_d.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0002/168/MI0002168548.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/4m48GqaOz90</youtube_link>
@@ -336,7 +336,7 @@
     </song>
     <song era="modern" is_protest="false">
         <title>The End of the Road</title>  
-        <lyric_filename>end_of_the_road_1.1.xml</lyric_filename>
+        <lyric_filename>end_of_the_road.xml</lyric_filename>
         <image_filename>boys_ii_men.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0000/057/MI0000057028.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/zDKO6XYXioc</youtube_link>
@@ -344,7 +344,7 @@
     </song>
     <song era="modern" is_protest="false">
         <title>Everything I Do I Do It for You</title> 
-        <lyric_filename>everything_i_do_i_do_it_for_you_1.1.xml</lyric_filename>
+        <lyric_filename>everything_i_do_i_do_it_for_you.xml</lyric_filename>
         <image_filename>robin_hood.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0000/037/MI0000037539.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/ZGoWtY_h4xo</youtube_link>
@@ -352,7 +352,7 @@
     </song>
     <song era="modern" is_protest="false">
         <title>Hold On</title>  
-        <lyric_filename>hold_on_1.1.xml</lyric_filename>
+        <lyric_filename>hold_on.xml</lyric_filename>
         <image_filename>wilson_phillips.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0000/049/MI0000049023.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/uIbXvaE39wM</youtube_link>
@@ -360,7 +360,7 @@
     </song>
     <song era="modern" is_protest="false">
         <title>My Prerogative</title>    
-        <lyric_filename>my_prerogative_1.1.xml</lyric_filename>
+        <lyric_filename>my_prerogative.xml</lyric_filename>
         <image_filename>dont_be_cruel.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0000/709/MI0000709964.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/5cDLZqe735k</youtube_link>
@@ -368,7 +368,7 @@
     </song>
     <song era="modern" is_protest="false">
         <title>Staying Alive</title> 
-        <lyric_filename>staying_alive_1.1.xml</lyric_filename>
+        <lyric_filename>staying_alive.xml</lyric_filename>
         <image_filename>saturday_night_fever.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0000/040/MI0000040283.jpg</image_src>
         <youtube_link>http://www.youtube.com/embed/WUgSjsgp5Ww?rel=0&amp;start=6&amp;end=&amp;autoplay=0</youtube_link>
@@ -376,7 +376,7 @@
     </song>
     <song era="modern" is_protest="false">
         <title>The Sign</title> 
-        <lyric_filename>the_sign_1.1.xml</lyric_filename>
+        <lyric_filename>the_sign.xml</lyric_filename>
         <image_filename>the_sign.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/891/MI0001891130.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/DNPjeIamsck</youtube_link>
@@ -384,7 +384,7 @@
     </song>
     <song era="modern" is_protest="false">
         <title>Tik Tok</title>     
-        <lyric_filename>tik_tok_1.1.xml</lyric_filename>
+        <lyric_filename>tik_tok.xml</lyric_filename>
         <image_filename>animal.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0003/150/MI0003150454.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/iP6XpLQM2Cs</youtube_link>
@@ -392,14 +392,14 @@
     </song>
     <song era="modern" is_protest="false">
         <title>When Doves Cry</title>     
-        <lyric_filename>when_doves_cry_1.1.xml</lyric_filename>
+        <lyric_filename>when_doves_cry.xml</lyric_filename>
         <image_filename>purple_rain.jpg</image_filename>
         <imgage_src>http://cps-static.rovicorp.com/3/JPG_400/MI0003/501/MI0003501598.jpg</imgage_src>
         <lyric_source>http://www.azlyrics.com/lyrics/prince/whendovescry.html</lyric_source>
     </song>
     <song era="modern" is_protest="true">
         <title>American Skin (41 Shots)</title>     
-        <lyric_filename>american_skin_41_shots_1.1.xml</lyric_filename>
+        <lyric_filename>american_skin_(41_shots).xml</lyric_filename>
         <image_filename>high_hopes.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0003/679/MI0003679102.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/aQMqWAiWPMs</youtube_link>
@@ -407,7 +407,7 @@
     </song>
     <song era="modern" is_protest="true">
         <title>Born in the U.S.A.</title>     
-        <lyric_filename>born_in_the_usa_1.1.xml</lyric_filename>
+        <lyric_filename>born_in_the_u.s.a..xml</lyric_filename>
         <image_filename>born_in_the_usa.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0000/040/MI0000040138.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/EPhWR4d3FJQ</youtube_link>
@@ -415,7 +415,7 @@
     </song>    
     <song era="modern" is_protest="true">
         <title>By the Time I Get to Arizona</title>     
-        <lyric_filename>by_the_time_i_get_to_arizona_1.1.xml</lyric_filename>
+        <lyric_filename>by_the_time_i_get_to_arizona.xml</lyric_filename>
         <image_filename>apocalypse_91.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0001/797/MI0001797655.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/zrFOb_f7ubw</youtube_link>
@@ -423,7 +423,7 @@
     </song>
     <song era="modern" is_protest="true">
         <title>California Uber Alles</title>     
-        <lyric_filename>california_uber_alles_1.1.xml</lyric_filename>
+        <lyric_filename>california_uber_alles.xml</lyric_filename>
         <image_filename>fresh_fruit_for_rotting_vegetables.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0002/465/MI0002465704.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/eIqESwzCGg4</youtube_link>
@@ -431,7 +431,7 @@
     </song>
     <song era="modern" is_protest="true">
         <title>Changes</title>     
-        <lyric_filename>changes_1.1.xml</lyric_filename>
+        <lyric_filename>changes.xml</lyric_filename>
         <image_filename>greatest_hits.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0000/179/MI0000179009.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/eXvBjCO19QY</youtube_link>
@@ -439,7 +439,7 @@
     </song>
     <song era="modern" is_protest="true">
         <title>Fight the Power</title>     
-        <lyric_filename>fight_the_power_1.1.xml</lyric_filename>
+        <lyric_filename>fight_the_power.xml</lyric_filename>
         <image_filename>fear_of_a_black_planet.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0000/036/MI0000036776.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/WnS53fNfpkE</youtube_link>
@@ -447,7 +447,7 @@
     </song>
     <song era="modern" is_protest="true">
         <title>Fuck the Police</title>    
-        <lyric_filename>fuck_the_police_1.1.xml</lyric_filename>
+        <lyric_filename>fuck_the_police.xml</lyric_filename>
         <image_filename>straight_outta_compton.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0000/032/MI0000032514.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/WiX7GTelTPM</youtube_link>
@@ -462,7 +462,7 @@
     </song> -->
     <song era="modern" is_protest="true">
         <title>Hero of War</title> 
-        <lyric_filename>hero_of_war_1.1.xml</lyric_filename>
+        <lyric_filename>hero_of_war.xml</lyric_filename>
         <image_filename>appeal_to_reason.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0002/040/MI0002040730.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/_DboMAghWcA</youtube_link>
@@ -470,7 +470,7 @@
     </song>
     <song era="modern" is_protest="true">
         <title>Sleep Now in the Fire</title> 
-        <lyric_filename>sleep_now_in_the_fire_1.1.xml</lyric_filename>
+        <lyric_filename>sleep_now_in_the_fire.xml</lyric_filename>
         <image_filename>the_battle_of_los_angeles.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0000/226/MI0000226191.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/w211KOQ5BMI</youtube_link>
@@ -478,7 +478,7 @@
     </song>
     <song era="modern" is_protest="true">
         <title>Youth against Fascism (Hate Song)</title>     
-        <lyric_filename>youth_against_fascism_hate_song_1.1.xml</lyric_filename>
+        <lyric_filename>youth_against_fascism_(hate_song).xml</lyric_filename>
         <image_filename>dirty.jpg</image_filename>
         <image_src>http://cps-static.rovicorp.com/3/JPG_400/MI0000/039/MI0000039819.jpg</image_src>
         <youtube_link>https://www.youtube.com/embed/eWzIlCJAw-o</youtube_link>
