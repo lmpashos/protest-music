@@ -185,7 +185,6 @@ class Data {
       $html .= (StaticFunctions::indent(2, 4) . '<ul>' . "\n");
       $html .= (StaticFunctions::indent(3, 4) . '<li>');
       
-//       $html .= ('<a href="download.php?path=' . $path . '&amp;download_file=' . $filename . '">');
       $html .= ('<a href="' . $path . '/' . $filename . '" target="_blank">');
       $html .= ($filename . '</a>');
       $html .= ('</li>' . "\n");
@@ -196,6 +195,17 @@ class Data {
       //Now get all of the XSLT Data
       $html .= (StaticFunctions::indent(1, 4) . '<div class="tab">' . "\n");
       $html .= (StaticFunctions::indent(2, 4) . '<h1 class="tabHeader" id="xslt">XSLT</h1>' . "\n");
+      $html .= (StaticFunctions::indent(2, 4) . '<ul>' . "\n");
+      $path = Constants::DATA_DIR . 'songs/';
+      $xslFiles = FileUtilities::get_files_in_dir($path, '*.xsl', 0); 
+      foreach($xslFiles as $xslFile) {
+        $html .= (StaticFunctions::indent(3, 4) . '<li>');
+        $html .= (StaticFunctions::indent(3, 4) . '<a href="' . $path . '/' . $xslFile . '" target="_blank">');
+        $html .= ($xslFile . '</a>');
+        $html .= ('</li>' . "\n");
+      }
+      
+      $html .= (StaticFunctions::indent(2, 4) . '</ul>' . "\n");
       $html .= (StaticFunctions::indent(1, 4) . '</div>' . "\n");
     
     } else {

@@ -22,7 +22,7 @@ class FileUtilities {
   //cache result in memory 	
   static $dir = array();	
 	
-  static function get_files_in_dir($path = '.', $mask = '*', $nocache = 0){ 
+  static function get_files_in_dir($path = '.', $mask = '*', $nocache = 0) { 
     
     $sdir = NULL;
     
