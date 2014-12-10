@@ -45,7 +45,7 @@ let $protestWithAdv :=
     return $verbPhrase
 let $nonprotestWithAdv:=
     for $verbPhrase in $nonprotestVerbPhrases
-    where $verbPhrase//verb
+    where $verbPhrase//adverb
     return $verbPhrase
     
 let $protestNegatedNoun :=
