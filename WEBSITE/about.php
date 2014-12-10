@@ -31,7 +31,7 @@ $current_page = 'about';
 					<li><a href="about.php#vision">Vision</a></li>
 					<li><a href="about.php#method">Method</a></li>
 					<li><a href="about.php#eras">Eras</a></li>
-					<li><a href="about.php#analysis">Analysis</a></li>
+					<li><a href="about.php#analysis_loc">Analysis</a></li>
 					<li><a href="about.php#us">Us</a></li>
 				</ul>
 			</div>
@@ -349,7 +349,7 @@ $current_page = 'about';
 				</div>
 
 				<div class="tab">
-					<h1 class="tabHeader" id="analysis">The Analysis</h1>
+					<h1 class="tabHeader" id="analysis_loc">The Analysis</h1>
 					<p class="fix">After completing the markup of the songs, we began exploring
 						ways of analyzing the marked up text. Our objective was of course
 						to determine whether or not there was a general linguistic
