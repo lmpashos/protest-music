@@ -41,9 +41,8 @@ $current_page = 'analysis';
                 
                 <div class="tab">
 					<h1 class="tabHeader" id="subsection2">Subsection 2</h1>
-					<p>
-                    PLACEHOLDER
-                    </p> 
+                    <img src="images/protest.svg" />
+                    <img src="images/non-protest.svg" />
 				</div>
             </div>
         </div>   
