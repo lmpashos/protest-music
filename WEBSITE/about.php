@@ -27,6 +27,7 @@ $current_page = 'about';
 		<div class="content">
 			<div id="left">
 				<ul class="absolute">
+					<li><a href="about.php#top">Top</a></li>
 					<li><a href="about.php#vision">Vision</a></li>
 					<li><a href="about.php#method">Method</a></li>
 					<li><a href="about.php#eras">Eras</a></li>

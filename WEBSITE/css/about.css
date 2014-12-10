@@ -52,7 +52,7 @@
 }
 
 #left li {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   margin-left: -16px;
   width: inherit;
   overflow: hidden;
@@ -76,6 +76,7 @@
   border: 1px solid #FF3419;
   outline: #000000 solid 1px;
   margin-right: 1%;
+  margin-left: 1%;
   float: right;
   clear: both;
   margin-bottom: 10px;

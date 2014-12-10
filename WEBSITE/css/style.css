@@ -206,7 +206,7 @@ h1 {
 }
 
 #lyrics {
-  padding: 11px 73px 11px 10px
+  padding: 11px 74px 11px 10px
 }
 
 #data {
@@ -214,7 +214,7 @@ h1 {
 }
 
 #analysis {
-  padding: 11px 52px 11px 10px
+  padding: 11px 53px 11px 10px
 }
 
 #conclusions {
@@ -222,13 +222,14 @@ h1 {
 }
 
 #resources {
-  padding: 11px 60px 11px 10px
+  padding: 11px 37px 11px 10px
 }
 
 .tab {
   margin-top: -1px;
   border-top: 1px solid black;
   min-height: 0px !important;
+  overflow-x: hidden !important;
 }
 
 .tabHeader {

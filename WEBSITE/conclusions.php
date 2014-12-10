@@ -27,6 +27,7 @@ $current_page = 'conclusions';
         <div class="content">
             <div id="left">
 				<ul class="absolute">
+					<li><a href="conclusions.php#top">Top</a></li>
 					<li><a href="conclusions.php#subsection1">Subsection 1</a></li>
 					<li><a href="conclusions.php#subsection2">Subsection 2</a></li>
 				</ul>

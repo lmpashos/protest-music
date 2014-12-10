@@ -25,7 +25,7 @@ class CommonHTML {
     
     if(array_key_exists($current_page, Constants::$PAGES)) {
       $html = '';
-      $html .= '<div class="menu">' . "\n";
+      $html .= '<div id="top" class="menu">' . "\n";
      
       foreach(Constants::$PAGES as $key => $value) {
         
