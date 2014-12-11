@@ -13,18 +13,18 @@
     </metadata>
     <lyrics>
         <verse>
-            <line><verbPhrase neg="true"><verb>Imagine</verb> <adverb>there</adverb><verb>'s</verb> <nounPhrase><det>no</det> <noun>heaven</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Imagine</verb> <adverb>there</adverb><verb>'s</verb> <nounPhrase neg="true"><det>no</det> <noun>heaven</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <adjective>easy</adjective></verbPhrase> if <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>try</verb></verbPhrase></line>
-            <line><nounPhrase><det>No</det> <noun>hell</noun></nounPhrase> <prepPhrase><prep>below</prep> <nounPhrase><noun>us</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase neg="true"><det>No</det> <noun>hell</noun></nounPhrase> <prepPhrase><prep>below</prep> <nounPhrase><noun>us</noun></nounPhrase></prepPhrase></line>
             <line><prepPhrase><prep>Above</prep> <nounPhrase><noun>us</noun></nounPhrase></prepPhrase> <nounPhrase><adverb>only</adverb> <noun>sky</noun></nounPhrase></line>
             <line><verbPhrase><verb>Imagine</verb> <nounPhrase><det>all</det> <det>the</det> <noun>people</noun></nounPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Living</verb> <prepPhrase><prep>for</prep> <nounPhrase><noun>today</noun></nounPhrase></prepPhrase></verbPhrase></line>
         </verse>
         <verse>
-            <line><verbPhrase neg="true"><verb>Imagine</verb> <adverb>there</adverb><verb>'s</verb> <nounPhrase><det>no</det> <noun>countries</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Imagine</verb> <adverb>there</adverb><verb>'s</verb> <nounPhrase neg="true"><det>no</det> <noun>countries</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><adjective>It</adjective></nounPhrase> <verbPhrase neg="true"><verb>isn't</verb> <adjective>hard</adjective> to <verb>do</verb></verbPhrase></line>
-            <line><nounPhrase><noun>Nothing</noun></nounPhrase> <verbPhrase>to <verb>kill</verb> or <verb>die</verb> for</verbPhrase></line>
-            <line>And <nounPhrase><det>no</det> <noun>religion</noun> <adverb>too</adverb></nounPhrase></line>
+            <line><nounPhrase neg="true"><noun>Nothing</noun></nounPhrase> <verbPhrase>to <verb>kill</verb> or <verb>die</verb> for</verbPhrase></line>
+            <line>And <nounPhrase neg="true"><det>no</det> <noun>religion</noun> <adverb>too</adverb></nounPhrase></line>
             <line><verbPhrase><verb>Imagine</verb> <nounPhrase><det>all</det> <det>the</det> <noun>people</noun></nounPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Living</verb> <nounPhrase><noun>life</noun></nounPhrase></verbPhrase> <prepPhrase><prep>in</prep> <nounPhrase><noun>peace</noun></nounPhrase></prepPhrase></line>
         </verse>
@@ -32,9 +32,9 @@
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
-            <line><verbPhrase><verb>Imagine</verb> <nounPhrase><det>no</det> <noun>possessions</noun></nounPhrase></verbPhrase></line>
+            <line><verbPhrase><verb>Imagine</verb> <nounPhrase neg="true"><det>no</det> <noun>possessions</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wonder</verb> if <nounPhrase><noun>you</noun></nounPhrase> <verb>can</verb></verbPhrase></line>
-            <line><nounPhrase><det>No</det> <noun>need</noun></nounPhrase> <prepPhrase><prep>for</prep> <nounPhrase><noun>greed</noun> or <noun>hunger</noun></nounPhrase></prepPhrase></line>
+            <line><nounPhrase neg="true"><det>No</det> <noun>need</noun></nounPhrase> <prepPhrase><prep>for</prep> <nounPhrase><noun>greed</noun> or <noun>hunger</noun></nounPhrase></prepPhrase></line>
             <line><nounPhrase><det>A</det> <noun>brotherhood</noun></nounPhrase> <prepPhrase><prep>of</prep> <nounPhrase><noun>man</noun></nounPhrase></prepPhrase></line>
             <line><verbPhrase><verb>Imagine</verb> <nounPhrase><det>all</det> <det>the</det> <det>people</det></nounPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Sharing</verb> <nounPhrase><det>all</det> <det>the</det> <det>world</det></nounPhrase></verbPhrase></line>

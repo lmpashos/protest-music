@@ -19,13 +19,13 @@
             <line><verbPhrase><verb>Telling</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>got</verb> to <verbPhrase><verb>beware</verb></verbPhrase></verbPhrase></line>
         </verse>
         <verse>
-            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <nounPhrase><noun>it</noun></nounPhrase><verb>'s</verb> <nounPhrase><noun>time</noun></nounPhrase><nounPhrase><noun>we</noun></nounPhrase> <verbPhrase><verb>stop</verb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <nounPhrase><noun>it</noun></nounPhrase><verb>'s</verb> <nounPhrase><noun>time</noun></nounPhrase> <nounPhrase><noun>we</noun></nounPhrase> <verbPhrase><verb>stop</verb></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Children</noun>, <noun>what</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>that</det> <noun>sound</noun></nounPhrase></verbPhrase>?</line>
             <refrainLineRef lineRef="3"/>
         </verse>
         <verse>
             <line><nounPhrase><noun>There</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><adjective>battle</adjective> <noun>lines</noun></nounPhrase> <verbPhrase><verb>being drawn</verb></verbPhrase></verbPhrase></line>
-            <line><nounPhrase><noun>Nobody</noun></nounPhrase><verbPhrase><verb>'s</verb> <adjective>right</adjective></verbPhrase> if <nounPhrase><noun>everybody</noun></nounPhrase><verbPhrase><verb>'s</verb> <adjective>wrong</adjective></verbPhrase></line>
+            <line><nounPhrase neg="true"><noun>Nobody</noun></nounPhrase><verbPhrase><verb>'s</verb> <adjective>right</adjective></verbPhrase> if <nounPhrase><noun>everybody</noun></nounPhrase><verbPhrase><verb>'s</verb> <adjective>wrong</adjective></verbPhrase></line>
             <line><nounPhrase><adjective>Young</adjective> <noun>people</noun></nounPhrase> <verbPhrase><verb>speaking</verb> <nounPhrase><det>their</det> <noun>minds</noun></nounPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Getting</verb> <nounPhrase><adverb>so</adverb> <det>much</det> <noun>resistance</noun></nounPhrase> <prepPhrase><prep>from</prep> <nounPhrase><noun>behind</noun></nounPhrase></prepPhrase></verbPhrase></line>
         </verse>

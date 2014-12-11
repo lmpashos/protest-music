@@ -104,7 +104,7 @@
                     <adverb>all</adverb>
                     <adjective>gone</adjective></verbPhrase></line>
             <line><nounPhrase><noun>He</noun></nounPhrase><verbPhrase>
-                    <verb>had</verb><nounPhrase><det>a</det>
+                    <verb>had</verb><nounPhrase> <det>a</det>
                         <noun>woman</noun></nounPhrase>
                     <nounPhrase><noun>he</noun></nounPhrase>
                     <verbPhrase><verb>loved</verb>

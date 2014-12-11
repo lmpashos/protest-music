@@ -21,7 +21,7 @@
         </verse>
         <verse>
             <line><verbPhrase><verb>Stopped</verb> <prepPhrase><prep>into</prep> <nounPhrase><det>a</det> <noun>church</noun></nounPhrase></prepPhrase></verbPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>passed</verb> <prepPhrase><prep>along</prep> <nounPhrase><det>the</det> <noun>way</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
-            <line>Well <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>got</verb> <adverb>down</adverb> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>knees</noun></nounPhrase></prepPhrase></verbPhrase> and <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>pretend</verb><verbPhrase><verb>to pray</verb></verbPhrase></verbPhrase>.</line>
+            <line>Well <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>got</verb> <adverb>down</adverb> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>knees</noun></nounPhrase></prepPhrase></verbPhrase> and <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>pretend</verb><verbPhrase> <verb>to pray</verb></verbPhrase></verbPhrase>.</line>
             <line><nounPhrase><noun>You</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><det>the</det> <noun>preacher</noun></nounPhrase> <verbPhrase><verb>liked</verb> <nounPhrase><det>the</det> <noun>cold</noun></nounPhrase></verbPhrase></verbPhrase>;</line>
             <line><nounPhrase><noun>He</noun></nounPhrase> <verbPhrase><verb>knows</verb> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <verbPhrase><verb>gonna</verb> <verbPhrase><verb>stay</verb></verbPhrase></verbPhrase></verbPhrase></verbPhrase>.</line>
             <refrainLineRef lineRef="1"/>
