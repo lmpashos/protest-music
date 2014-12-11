@@ -41,7 +41,7 @@
             <line><nounPhrase>Yeah, <det>some</det> <noun>folks</noun></nounPhrase> <verbPhrase><verb>inherit</verb> <adjective>star-spangled</adjective> <nounPhrase><noun>eyes</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase>Ooh, <noun>they</noun></nounPhrase> <verbPhrase><verb>send</verb> <nounPhrase><noun>you</noun></nounPhrase> <prepPhrase><prep>down</prep> to <nounPhrase><noun>war</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><noun>Lord</noun></nounPhrase></line>
             <line><nounPhrase>And when <noun>you</noun></nounPhrase> <verbPhrase><verb>ask</verb> <nounPhrase><noun>them</noun></nounPhrase></verbPhrase>, "How much should we give?"</line>
-            <line><nounPhrase>Oh, <noun>they</noun></nounPhrase> <adverb>only</adverb> <verbPhrase><verb>answer</verb>, <nounPhrase><noun>more</noun>, <noun>more</noun>, <noun>more</noun></nounPhrase>, oh</verbPhrase></line>
+            <line><nounPhrase>Oh, <noun>they</noun></nounPhrase> <verbPhrase><adverb>only</adverb> <verb>answer</verb>, <nounPhrase><noun>more</noun>, <noun>more</noun>, <noun>more</noun></nounPhrase>, oh</verbPhrase></line>
         </verse>
         <verse>
             <refrainLineRef lineRef="1"/>
