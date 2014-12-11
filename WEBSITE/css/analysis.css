@@ -70,13 +70,14 @@
   background-color: black; 
 }
 
+#svgLeft {
+  width:calc(50% - 50px);
+  float: left;
+  margin: 25px
+}
 
-#center img {
-  width: 200px;
-  border: 1px solid #FF3419;
-  outline: #000000 solid 1px;
-  margin-right: 1%;
+#svgRight {
+  width:calc(50% - 50px);
   float: right;
-  clear: both;
-  margin-bottom: 10px;
+  margin: 25px;
 }

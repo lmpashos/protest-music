@@ -17,7 +17,7 @@ $current_page = 'analysis';
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 <link href="css/analysis.css" rel="stylesheet" type="text/css" />
 <script src="js/main.js" type="text/javascript">/**/</script>
-<script src="js/analysis.js" type="text/javascript">/**/</script>
+<script src="js/about.js" type="text/javascript">/**/</script>
 </head>
 <body>
     <div class="wrapper">
@@ -41,9 +41,10 @@ $current_page = 'analysis';
                 
                 <div class="tab">
 					<h1 class="tabHeader" id="subsection2">Subsection 2</h1>
-                    <img src="images/protest.svg" />
-                    <img src="images/non-protest.svg" />
+                    <object id="svgLeft" data="images/protest.svg" type="image/svg+xml"></object>
+                    <object id="svgRight" data="images/non-protest.svg" type="image/svg+xml"></object>
 				</div>
+
             </div>
         </div>   
     </div>
