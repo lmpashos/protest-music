@@ -35,8 +35,8 @@
             <line>And <prepPhrase><prep>in</prep> <nounPhrase><det>the</det> <adjective>naked</adjective> <noun>light</noun></nounPhrase></prepPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>saw</verb></verbPhrase></line>
             
             <line><nounPhrase><det>Ten thousand</det> <noun>people</noun></nounPhrase>, <adverb>maybe</adverb> <adverb>more</adverb>.</line>
-            <line><nounPhrase><noun>People</noun></nounPhrase> <verbPhrase neg="true"><verb>talking</verb> <adverb>without</adverb> <verbPhrase><verb>speaking</verb></verbPhrase></verbPhrase>,</line>
-            <line><nounPhrase><noun>People</noun></nounPhrase> <verbPhrase neg="true"><verb>hearing</verb> <adverb>without</adverb> <verbPhrase><verb>listening</verb></verbPhrase></verbPhrase>,</line>
+            <line><nounPhrase><noun>People</noun></nounPhrase> <verbPhrase><verb>talking</verb> <adverb>without</adverb> <verbPhrase neg="true"><verb>speaking</verb></verbPhrase></verbPhrase>,</line>
+            <line><nounPhrase><noun>People</noun></nounPhrase> <verbPhrase><verb>hearing</verb> <adverb>without</adverb> <verbPhrase neg="true"><verb>listening</verb></verbPhrase></verbPhrase>,</line>
             <line><nounPhrase><noun>People</noun></nounPhrase> <verbPhrase><verb>writing</verb> <nounPhrase><noun>songs</noun></nounPhrase></verbPhrase> that <nounPhrase><noun>voices</noun></nounPhrase> <verbPhrase neg="true">never <verbPhrase><verb>share</verb></verbPhrase></verbPhrase></line>
             <line>And no <nounPhrase><noun>one</noun></nounPhrase> <verbPhrase><verb>dared</verb></verbPhrase></line>
             

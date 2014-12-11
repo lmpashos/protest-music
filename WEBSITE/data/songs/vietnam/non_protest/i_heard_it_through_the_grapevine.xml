@@ -26,7 +26,7 @@
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
-            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><det>a</det> <noun>man</noun></nounPhrase><verbPhrase neg="true"><verb>ain't</verb> <adverb>supposed</adverb> <verb>to cry</verb></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><det>a</det> <noun>man</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> <adverb>supposed</adverb> <verb>to cry</verb></verbPhrase></verbPhrase></line>
             <line>But <nounPhrase><det>these</det> <noun>tears</noun></nounPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>can't</verb> <verbPhrase><verb>hold</verb> <adverb>inside</adverb></verbPhrase></verbPhrase></line>
             <line><verbPhrase><verb>Losin'</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase> <verbPhrase><verb>would end</verb> <nounPhrase><det>my</det> <noun>life</noun></nounPhrase></verbPhrase> <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>see</verb></verbPhrase></line>
             <line>'Cause <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><verb>mean</verb> <nounPhrase><det>that</det> <noun>much</noun></nounPhrase> <prepPhrase><prep>to</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>

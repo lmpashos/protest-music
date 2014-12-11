@@ -14,7 +14,7 @@
     </metadata> 
     <lyrics>
         <verse>
-            <line>Oh yeah, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll tell</verb> <nounPhrase><noun>you</noun></nounPhrase><nounPhrase><noun>something</noun></nounPhrase></verbPhrase></line>
+            <line>Oh yeah, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll tell</verb> <nounPhrase><noun>you</noun> </nounPhrase><nounPhrase><noun>something</noun></nounPhrase></verbPhrase></line>
             <refrainLineRef lineRef="5"/>
             <line><adverb>When</adverb> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll say</verb> <nounPhrase><det>that</det> <noun>something</noun></nounPhrase></verbPhrase></line>
             <refrainLineRef lineRef="1"/>

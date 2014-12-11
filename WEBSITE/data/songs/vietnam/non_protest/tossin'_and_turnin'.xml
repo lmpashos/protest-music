@@ -30,9 +30,9 @@
         
         
         <verse>
-<line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>kicked</verb><nounPhrase><det>the</det><noun>blankets</noun></nounPhrase><prepPhrase><prep>on</prep><nounPhrase><det>the</det><noun>floor</noun></nounPhrase></prepPhrase></verbPhrase></line>
+<line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>kicked</verb> <nounPhrase><det>the</det> <noun>blankets</noun></nounPhrase> <prepPhrase><prep>on</prep><nounPhrase> <det>the</det> <noun>floor</noun></nounPhrase></prepPhrase></verbPhrase></line>
 <line><verbPhrase><verb>Turned</verb><nounPhrase><det>my</det><noun>pillow</noun></nounPhrase><adverb>upside down</adverb></verbPhrase></line>
-<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase neg="true">never, never <verb>did</verb><adverb>before</adverb></verbPhrase></line>
+<line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase neg="true">never, never <verb>did</verb> <adverb>before</adverb></verbPhrase></line>
         </verse>
         
         
@@ -65,7 +65,7 @@
         </verse>
         
         <verse>
-<line>'Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>was tossin' and turnin'</verb></verbPhrase></line>
+<line>'Cause <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was tossin' and turnin'</verb></verbPhrase></line>
             
             <refrainLineRef lineRef="1"/>
             <refrainLineRef lineRef="2"/>

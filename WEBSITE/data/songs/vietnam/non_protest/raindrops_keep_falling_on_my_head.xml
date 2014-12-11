@@ -17,7 +17,7 @@
 <verse>
 <refrainLineRef lineRef="1"/>
 <line>Just like the guy whose feet are too big for his bed</line>
-<line><nounPhrase><noun>Nothing</noun></nounPhrase> <verbPhrase><verb>seems</verb> <verbPhrase><verb>to fit</verb></verbPhrase></verbPhrase></line>
+<line><nounPhrase neg="true"><noun>Nothing</noun></nounPhrase> <verbPhrase><verb>seems</verb> <verbPhrase><verb>to fit</verb></verbPhrase></verbPhrase></line>
 <line>Oh, <nounPhrase><noun>raindrops</noun></nounPhrase> <verbPhrase><verb>keep</verb> <verbPhrase><verb>fallin'</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>head</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
 <line><verbPhrase><verb>Keep</verb> <verbPhrase><verb>a-fallin'</verb></verbPhrase></verbPhrase></line>
 </verse>
