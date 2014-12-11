@@ -118,6 +118,7 @@ body {
 #protest div.metadata_head, #non_protest div.metadata_head {
   height: initial;
   min-height: 200px;
+  overflow: hidden;
 }
 
 #protest p.song_metadata {
@@ -140,7 +141,7 @@ body {
 
 .song_metadata img {
   float: right;
-  margin: 0px 5px 0px 0px;
+  margin: 0px 20px 0px 0px;
 }
 
 .list_title {
@@ -167,7 +168,7 @@ body {
   font-size: large;    
 }
 
-.song_info {
+.song_relative {
   margin: 0px;
   font-weight: bold;	
   font-size: small;
@@ -177,6 +178,10 @@ body {
   padding-left: 8px;
   font-weight: bold; 
   font-size: medium;    
+}
+
+.song_info {
+  font-weight:normal;	
 }
 
 div.youtube_video {
@@ -204,6 +209,10 @@ hr {
   margin: auto;
 }
 
-svg {
-  height:650px;
+.song_metadata {
+  padding:10px 0px 0px 10px !important;
+}
+
+.song_metadata span {
+  padding: 0px !important;	
 }

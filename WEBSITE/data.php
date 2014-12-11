@@ -43,7 +43,7 @@ if(isset($_GET['era'])) {
             	<?php echo SongTOC::get_song_list($era, false, false); ?>
             </div>
             <div id="center">
-                <p id="placeholder">Click on a song in either side column to view info.</p>
+                <p id="placeholder">Click on a song in either side column to view metadata and graphed data.</p>
             	<div id="protest">
                 	
                 </div>
