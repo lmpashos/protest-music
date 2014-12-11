@@ -1,4 +1,6 @@
-@CHARSET "UTF-8";
+@charset "UTF-8";
+/* CSS Document */
+
 body {
   min-height: 800px !important;	
 }
@@ -60,7 +62,7 @@ body {
 }
 
 #toggle_protest_pos {
-  box-shadow: inset 0px 1px 0px 0px #FFFFFFF;
+  box-shadow: inset 0px 1px 0px 0px #FFFFFF;
   background-color: #DDDDDD;
   border: 2px solid #A1A1A1;
   padding: 10px; 
@@ -88,7 +90,7 @@ body {
 }
 
 #toggle_non_protest_pos {
-  box-shadow: inset 0px 1px 0px 0px #FFFFFFF;
+  box-shadow: inset 0px 1px 0px 0px #FFFFFF;
   background-color: #DDDDDD;
   border: 2px solid #A1A1A1;
   padding: 10px; 

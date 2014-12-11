@@ -1,4 +1,5 @@
-@CHARSET "UTF-8";
+@charset "UTF-8";
+/* CSS Document */
 
 #center div.sub_section div.song_list_protest {
   position: relative;
@@ -9,7 +10,7 @@
   background-color: white;
   color: black;
   min-height: initial; 
-  padding: none; 
+  padding: 0; 
 }
 
 #center div.sub_section div.song_list_non_protest {
@@ -21,7 +22,7 @@
   background-color: white;
   color: black;
   min-height: initial; 
-  padding: none; 
+  padding: 0; 
 }
 
 #xml_great_depression, #xml_vietnam, #xml_modern  {
