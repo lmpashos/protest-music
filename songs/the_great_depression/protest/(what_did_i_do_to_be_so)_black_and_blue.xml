@@ -15,7 +15,7 @@
     <lyrics>
         <verse>
             <line><nounPhrase><adjective>Old</adjective>, <adjective>empty</adjective> <noun>bed</noun></nounPhrase>,</line>
-            <line><nounPhrase><noun>Springs</noun> <adjective>hard</adjective></nounPhrase> <prepPhrase><prep>as</prep> <nounPhrase><noun>lead</noun></nounPhrase></prepPhrase>,</line>
+            <line><nounPhrase><noun>Springs</noun></nounPhrase> <adverb>all</adverb> <prepPhrase><prep>of</prep> <nounPhrase><noun>lead</noun></nounPhrase></prepPhrase>,</line>
             <line><verbPhrase><verb>Feel</verb> <prepPhrase><prep>like</prep> <nounPhrase><adjective>old</adjective> <noun>Ned</noun></nounPhrase></prepPhrase></verbPhrase>.</line>
             <line><verbPhrase><verb>Wish</verb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was</verb> <adjective>dead</adjective></verbPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="2"/>
