@@ -51,7 +51,7 @@
 
             <line>Oh, say,<verbPhrase neg="true"> <verb>don't</verb> <nounPhrase><noun>you</noun></nounPhrase> </verbPhrase><verbPhrase><verb>remember</verb></verbPhrase>? <nounPhrase><noun>They</noun></nounPhrase> <verbPhrase><verb>called</verb> <nounPhrase><noun>me</noun></nounPhrase> <nounPhrase><noun>'Al'</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>was </verb><nounPhrase><noun>'Al'</noun> </nounPhrase><adverb>all</adverb><nounPhrase><det>the</det> <noun>time</noun></nounPhrase></verbPhrase></line>
-            <line>Say,<verbPhrase neg="true"> <verb>don't</verb> <nounPhrase> <noun>you</noun></nounPhrase> </verbPhrase><verbPhrase><verb>remember</verb> </verbPhrase>? <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb><nounPhrase> <det>your</det> <noun>pal</noun></nounPhrase></verbPhrase></line>
+            <line>Say,<verbPhrase neg="true"> <verb>don't</verb> <nounPhrase> <noun>you</noun></nounPhrase> </verbPhrase><verbPhrase><verb>remember</verb></verbPhrase>? <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb><nounPhrase> <det>your</det> <noun>pal</noun></nounPhrase></verbPhrase></line>
             <refrainSectionRef sectionRef="3"/>
         </verse>
 
