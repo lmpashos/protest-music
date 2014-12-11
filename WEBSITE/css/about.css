@@ -64,6 +64,7 @@
   display: block;
   padding-top: 5px;
   padding-bottom: 5px;
+  font-size:8pt;
 }
 
 #left li a:hover {
@@ -79,4 +80,16 @@
   float: right;
   clear: both;
   margin-bottom: 10px;
+}
+
+#svgLeft {
+  width:calc(50% - 50px);
+  float: left;
+  margin: 25px
+}
+
+#svgRight {
+  width:calc(50% - 50px);
+  float: right;
+  margin: 25px;
 }

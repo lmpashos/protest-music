@@ -18,7 +18,7 @@
 
   document.addEventListener("DOMContentLoaded", function() {
      
-    var allPages = ["home", "about", "lyrics", "data", "analysis", "conclusions", "resources"];
+    var allPages = ["home", "about", "lyrics", "data", "analysis", "resources"];
     //Find out what page we are on
     var currentPageName = document.getElementById("current_page_name").value;   
     

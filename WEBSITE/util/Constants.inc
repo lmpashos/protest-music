@@ -62,11 +62,10 @@ class Constants {
     'data_vietnam' => 'data.php?era=vietnam',
     'data_modern' => 'data.php?era=modern',
     'analysis' => 'analysis.php',
-    'analysis_subsection1' => 'analysis.php#subsection1',
-    'analysis_subsection2' => 'analysis.php#subsection2',
-    'conclusions' => 'conclusions.php',
-    'conclusions_subsection1' => 'conclusions.php#subsection1',
-    'conclusions_subsection2' => 'conclusions.php#subsection2',
+    'analysis_graph_analysis' => 'analysis.php#graph_analysis',
+    'analysis_graphs' => 'analysis.php#graphs',
+    'analysis_probit_analysis' => 'analysis.php#probit_analysis',
+    'analysis_conclusions' => 'analysis.php#conclusions',
     'resources' => 'resources.php',
     'resources_xml' => 'resources.php#xml_data',
     'resources_schema' => 'resources.php#schemas',
@@ -93,13 +92,11 @@ class Constants {
       Constants::ERA_MODERN
     ),
     'analysis' => array(
-      'subsection1',
-      'subsection2'
+      'graph_analysis',
+      'graphs',
+      'probit_analysis',
+      'conclusions'
     ),      
-    'conclusions' => array(
-      'subsection1',
-      'subsection2'
-    ),
     'resources' => array(
       'xml',
       'schema',
@@ -114,13 +111,15 @@ class Constants {
       'xml' => 'XML&nbsp;Data',
       'schema' => 'Schemas',
       'xslt' => 'XSLT',
-      'subsection1' => 'Subsection 1', 
-      'subsection2' => 'Subsection 2',
       'vision' => 'Vision',
       'method' => 'Method',
       'eras' => 'Eras',
       'us' => 'Us',
       'analysis' => 'Analysis',
+      'graph_analysis' => 'Graph Analysis',
+      'graphs' => 'Graphs',
+      'probit_analysis' => 'Probit Analysis',
+      'conclusions' => 'Conclusions'
   );
 }
 
