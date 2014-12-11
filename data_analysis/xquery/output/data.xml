@@ -561,6 +561,17 @@
         <negatedNoun>0</negatedNoun>
     </song>
     <song>
+        <title>Fortunate Son</title>
+        <protest>1</protest>
+        <era>vietnam</era>
+        <verbPhrases>23</verbPhrases>
+        <withAdverb>1</withAdverb>
+        <negatedVerb>9</negatedVerb>
+        <nounPhrases>43</nounPhrases>
+        <withAdj>6</withAdj>
+        <negatedNoun>6</negatedNoun>
+    </song>
+    <song>
         <title>Three Little Words</title>
         <protest>0</protest>
         <era>the_great_depression</era>
@@ -658,16 +669,5 @@
         <nounPhrases>67</nounPhrases>
         <withAdj>9</withAdj>
         <negatedNoun>1</negatedNoun>
-    </song>
-    <song>
-        <title>Fortunate Son</title>
-        <protest>1</protest>
-        <era>vietnam</era>
-        <verbPhrases>23</verbPhrases>
-        <withAdverb>0</withAdverb>
-        <negatedVerb>9</negatedVerb>
-        <nounPhrases>43</nounPhrases>
-        <withAdj>6</withAdj>
-        <negatedNoun>6</negatedNoun>
     </song>
 </data>
