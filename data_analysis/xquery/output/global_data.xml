@@ -2,12 +2,12 @@
     <song>
         <title>Protest</title>
         <protest>1</protest>
-        <verbPhrases>1398</verbPhrases>
-        <withAdverb>332</withAdverb>
-        <negatedVerb>116</negatedVerb>
-        <nounPhrases>2264</nounPhrases>
-        <withAdj>261</withAdj>
-        <negatedNoun>33</negatedNoun>
+        <verbPhrases>1459</verbPhrases>
+        <withAdverb>351</withAdverb>
+        <negatedVerb>118</negatedVerb>
+        <nounPhrases>2346</nounPhrases>
+        <withAdj>282</withAdj>
+        <negatedNoun>47</negatedNoun>
     </song>
     <song>
         <title>Non-Protest</title>
@@ -17,6 +17,6 @@
         <negatedVerb>90</negatedVerb>
         <nounPhrases>1785</nounPhrases>
         <withAdj>153</withAdj>
-        <negatedNoun>23</negatedNoun>
+        <negatedNoun>24</negatedNoun>
     </song>
 </data>
