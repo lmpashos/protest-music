@@ -207,6 +207,46 @@ class Resources {
       
       $html .= (StaticFunctions::indent(2, 4) . '</ul>' . "\n");
       $html .= (StaticFunctions::indent(1, 4) . '</div>' . "\n");
+      
+      //Now get all of the XQuery Data
+      $html .= (StaticFunctions::indent(1, 4) . '<div class="tab">' . "\n");
+      $html .= (StaticFunctions::indent(2, 4) . '<h1 class="tabHeader" id="xquery">XQuery</h1>' . "\n");
+      $html .= (StaticFunctions::indent(2, 4) . '<h3>Queries:</h3>' . "\n");
+      $html .= (StaticFunctions::indent(2, 4) . '<ul>' . "\n");
+      $path = Constants::DATA_DIR . 'xquery/queries/';
+      $xqlFiles = FileUtilities::get_files_in_dir($path, '*.xql', 0);
+      foreach($xqlFiles as $xqlFile) {
+        $html .= (StaticFunctions::indent(3, 4) . '<li>');
+        $html .= (StaticFunctions::indent(3, 4) . '<a href="' . $path . '/' . $xqlFile . '" target="_blank">');
+        $html .= ($xqlFile . '</a>');
+        $html .= ('</li>' . "\n");
+      }
+      
+      $html .= (StaticFunctions::indent(2, 4) . '</ul>' . "\n");
+      
+      //Get the XML Output from the queries
+      $html .= (StaticFunctions::indent(2, 4) . '<h3>Output:</h3>' . "\n");
+      $html .= (StaticFunctions::indent(2, 4) . '<ul>' . "\n");
+      $path = Constants::DATA_DIR . 'xquery/output/';
+      $xmlFiles = FileUtilities::get_files_in_dir($path, '*.xml', 0);
+      foreach($xmlFiles as $xmlFile) {
+        $html .= (StaticFunctions::indent(3, 4) . '<li>');
+        $html .= (StaticFunctions::indent(3, 4) . '<a href="' . $path . '/' . $xmlFile . '" target="_blank">');
+        $html .= ($xmlFile . '</a>');
+        $html .= ('</li>' . "\n");
+      }
+      
+      $html .= (StaticFunctions::indent(2, 4) . '</ul>' . "\n");
+      $html .= (StaticFunctions::indent(1, 4) . '</div>' . "\n");
+      
+      //Last, Direct users to our github site for anything else they might want to see
+      $html .= (StaticFunctions::indent(1, 4) . '<div class="tab">' . "\n");
+      $html .= (StaticFunctions::indent(2, 4) . '<h1 class="tabHeader" id="github">GitHub</h1>' . "\n");
+      $html .= (StaticFunctions::indent(2, 4) . '<h3>&nbsp;');
+      $html .= ('<a href="https://github.com/lmpashos/protest-music" target="_blank"><img style="vertical-align: middle;" src="images/GitHub-Mark-32px.png" /></a>');
+      $html .= (' For all other resources, please check out our site on <a href="https://github.com/lmpashos/protest-music" target="_blank">GitHub</a></h3>' . "\n");
+      $html .= (StaticFunctions::indent(2, 4) . '<h5>'  . "\n");
+      $html .= (StaticFunctions::indent(1, 4) . '</div>' . "\n");
     
     } else {
       $html = (StaticFunctions::indent(1, 4) . '<h6 class="listSubTitle">Error Parsing XML Document</h6>' . "\n");

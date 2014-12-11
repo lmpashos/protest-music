@@ -1,0 +1,22 @@
+<data>
+    <song>
+        <title>Protest</title>
+        <protest>1</protest>
+        <verbPhrases>1398</verbPhrases>
+        <withAdverb>333</withAdverb>
+        <negatedVerb>116</negatedVerb>
+        <nounPhrases>2264</nounPhrases>
+        <withAdj>261</withAdj>
+        <negatedNoun>47</negatedNoun>
+    </song>
+    <song>
+        <title>Non-Protest</title>
+        <protest>0</protest>
+        <verbPhrases>1197</verbPhrases>
+        <withAdverb>338</withAdverb>
+        <negatedVerb>90</negatedVerb>
+        <nounPhrases>1785</nounPhrases>
+        <withAdj>153</withAdj>
+        <negatedNoun>24</negatedNoun>
+    </song>
+</data>

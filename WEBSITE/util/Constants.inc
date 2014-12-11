@@ -69,7 +69,9 @@ class Constants {
     'resources' => 'resources.php',
     'resources_xml' => 'resources.php#xml_data',
     'resources_schema' => 'resources.php#schemas',
-    'resources_xslt' => 'resources.php#xslt'
+    'resources_xslt' => 'resources.php#xslt',
+    'resources_xquery' => 'resources.php#xquery',
+    'resources_github' => 'resources.php#github'
   );
 
   static $PAGES = array(
@@ -100,7 +102,9 @@ class Constants {
     'resources' => array(
       'xml',
       'schema',
-      'xslt'
+      'xslt',
+      'xquery',
+      'github'
     )   
   );
   
@@ -108,9 +112,11 @@ class Constants {
       Constants::ERA_MODERN => 'Modern',
       Constants::ERA_VIETNAM => 'Vietnam',
       Constants::ERA_GREAT_DEPRESSION => 'The&nbsp;Great&nbsp;Depression',
-      'xml' => 'XML&nbsp;Data',
+      'xml' => 'XML',
       'schema' => 'Schemas',
       'xslt' => 'XSLT',
+      'xquery' => 'XQuery',
+      'github' => 'GitHub',
       'vision' => 'Vision',
       'method' => 'Method',
       'eras' => 'Eras',
