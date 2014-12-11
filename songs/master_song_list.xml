@@ -115,7 +115,7 @@
     <song era="the_great_depression" is_protest="true">
         <title>Poor Miner's Farewell</title>
         <lyric_filename>poor_miner's_farewell.xml</lyric_filename>
-        <image_filename>the_songs_and_stories_of_aunt_molly_jackson</image_filename>
+        <image_filename>the_songs_and_stories_of_aunt_molly_jackson.jpg</image_filename>
         <image_src>http://media.smithsonianfolkways.org/images/album_covers/SF270/FW05457.jpg</image_src>
         <lyric_source>http://www.folkarchive.de/miner2.html</lyric_source>
     </song>
