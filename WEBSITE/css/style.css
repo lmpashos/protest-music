@@ -49,7 +49,7 @@ body > .wrapper {
 
 .menu_panel {
   position: absolute;
-  width: 275px;
+  width: 250px;
   background: rgba(0,0,0,0.8);
   margin-top: 10px;
   display: none;
