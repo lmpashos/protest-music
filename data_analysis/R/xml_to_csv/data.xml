@@ -1,13 +1,409 @@
 <data>
     <song>
-        <title>When Doves Cry</title>
+        <title>Up Around the Bend</title>
+        <protest>0</protest>
+        <era>vietnam</era>
+        <verbPhrases>27</verbPhrases>
+        <withAdverb>6</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>36</nounPhrases>
+        <withAdj>6</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Tossin' and Turnin'</title>
+        <protest>0</protest>
+        <era>vietnam</era>
+        <verbPhrases>42</verbPhrases>
+        <withAdverb>15</withAdverb>
+        <negatedVerb>5</negatedVerb>
+        <nounPhrases>58</nounPhrases>
+        <withAdj>3</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>The Loco-Motion</title>
+        <protest>0</protest>
+        <era>vietnam</era>
+        <verbPhrases>39</verbPhrases>
+        <withAdverb>15</withAdverb>
+        <negatedVerb>2</negatedVerb>
+        <nounPhrases>46</nounPhrases>
+        <withAdj>5</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Three Little Words</title>
+        <protest>0</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>10</verbPhrases>
+        <withAdverb>2</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>17</nounPhrases>
+        <withAdj>6</withAdj>
+        <negatedNoun>1</negatedNoun>
+    </song>
+    <song>
+        <title>Brother Can You Spare a Dime</title>
+        <protest>1</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>51</verbPhrases>
+        <withAdverb>5</withAdverb>
+        <negatedVerb>4</negatedVerb>
+        <nounPhrases>85</nounPhrases>
+        <withAdj>4</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Imagine</title>
+        <protest>1</protest>
+        <era>vietnam</era>
+        <verbPhrases>18</verbPhrases>
+        <withAdverb>3</withAdverb>
+        <negatedVerb>2</negatedVerb>
+        <nounPhrases>35</nounPhrases>
+        <withAdj>2</withAdj>
+        <negatedNoun>7</negatedNoun>
+    </song>
+    <song>
+        <title>Cheek To Cheek</title>
+        <protest>0</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>34</verbPhrases>
+        <withAdverb>3</withAdverb>
+        <negatedVerb>2</negatedVerb>
+        <nounPhrases>49</nounPhrases>
+        <withAdj>1</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Night and Day</title>
+        <protest>0</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>18</verbPhrases>
+        <withAdverb>5</withAdverb>
+        <negatedVerb>1</negatedVerb>
+        <nounPhrases>67</nounPhrases>
+        <withAdj>9</withAdj>
+        <negatedNoun>1</negatedNoun>
+    </song>
+    <song>
+        <title>Just a Gigolo</title>
+        <protest>0</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>28</verbPhrases>
+        <withAdverb>6</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>48</nounPhrases>
+        <withAdj>3</withAdj>
+        <negatedNoun>1</negatedNoun>
+    </song>
+    <song>
+        <title>We Shall Overcome</title>
+        <protest>1</protest>
+        <era>vietnam</era>
+        <verbPhrases>27</verbPhrases>
+        <withAdverb>14</withAdverb>
+        <negatedVerb>4</negatedVerb>
+        <nounPhrases>51</nounPhrases>
+        <withAdj>0</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Deep Purple</title>
+        <protest>0</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>12</verbPhrases>
+        <withAdverb>5</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>22</nounPhrases>
+        <withAdj>4</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>End of the Road</title>
         <protest>0</protest>
         <era>modern</era>
+        <verbPhrases>70</verbPhrases>
+        <withAdverb>34</withAdverb>
+        <negatedVerb>9</negatedVerb>
+        <nounPhrases>131</nounPhrases>
+        <withAdj>10</withAdj>
+        <negatedNoun>2</negatedNoun>
+    </song>
+    <song>
+        <title>I Want to Hold Your Hand</title>
+        <protest>0</protest>
+        <era>vietnam</era>
+        <verbPhrases>23</verbPhrases>
+        <withAdverb>1</withAdverb>
+        <negatedVerb>1</negatedVerb>
+        <nounPhrases>35</nounPhrases>
+        <withAdj>0</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>(What Did I Do to be So) Black and Blue</title>
+        <protest>1</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>29</verbPhrases>
+        <withAdverb>2</withAdverb>
+        <negatedVerb>4</negatedVerb>
+        <nounPhrases>28</nounPhrases>
+        <withAdj>4</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>We Shall Not be Moved</title>
+        <protest>1</protest>
+        <era>the_great_depression</era>
         <verbPhrases>48</verbPhrases>
-        <withAdverb>12</withAdverb>
-        <negatedVerb>8</negatedVerb>
-        <nounPhrases>57</nounPhrases>
+        <withAdverb>16</withAdverb>
+        <negatedVerb>15</negatedVerb>
+        <nounPhrases>49</nounPhrases>
+        <withAdj>0</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>If I Had A Hammer</title>
+        <protest>1</protest>
+        <era>vietnam</era>
+        <verbPhrases>25</verbPhrases>
+        <withAdverb>9</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>64</nounPhrases>
+        <withAdj>0</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>The Twist</title>
+        <protest>0</protest>
+        <era>vietnam</era>
+        <verbPhrases>42</verbPhrases>
+        <withAdverb>15</withAdverb>
+        <negatedVerb>2</negatedVerb>
+        <nounPhrases>34</nounPhrases>
+        <withAdj>5</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>American Skin (41 Shots)</title>
+        <protest>1</protest>
+        <era>modern</era>
+        <verbPhrases>50</verbPhrases>
+        <withAdverb>2</withAdverb>
+        <negatedVerb>3</negatedVerb>
+        <nounPhrases>119</nounPhrases>
+        <withAdj>5</withAdj>
+        <negatedNoun>5</negatedNoun>
+    </song>
+    <song>
+        <title>Raindrops Keep Falling on My Head</title>
+        <protest>0</protest>
+        <era>vietnam</era>
+        <verbPhrases>44</verbPhrases>
+        <withAdverb>4</withAdverb>
+        <negatedVerb>6</negatedVerb>
+        <nounPhrases>36</nounPhrases>
+        <withAdj>0</withAdj>
+        <negatedNoun>1</negatedNoun>
+    </song>
+    <song>
+        <title>The Bourgeois Blues</title>
+        <protest>1</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>28</verbPhrases>
+        <withAdverb>5</withAdverb>
+        <negatedVerb>3</negatedVerb>
+        <nounPhrases>46</nounPhrases>
+        <withAdj>14</withAdj>
+        <negatedNoun>3</negatedNoun>
+    </song>
+    <song>
+        <title>Nickel Under The Foot</title>
+        <protest>1</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>33</verbPhrases>
+        <withAdverb>3</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>45</nounPhrases>
         <withAdj>3</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Fortunate Son</title>
+        <protest>1</protest>
+        <era>vietnam</era>
+        <verbPhrases>23</verbPhrases>
+        <withAdverb>1</withAdverb>
+        <negatedVerb>9</negatedVerb>
+        <nounPhrases>43</nounPhrases>
+        <withAdj>6</withAdj>
+        <negatedNoun>6</negatedNoun>
+    </song>
+    <song>
+        <title>California Dreamin'</title>
+        <protest>0</protest>
+        <era>vietnam</era>
+        <verbPhrases>23</verbPhrases>
+        <withAdverb>2</withAdverb>
+        <negatedVerb>1</negatedVerb>
+        <nounPhrases>32</nounPhrases>
+        <withAdj>4</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>By The Time I Get To Arizona</title>
+        <protest>1</protest>
+        <era>modern</era>
+        <verbPhrases>114</verbPhrases>
+        <withAdverb>17</withAdverb>
+        <negatedVerb>7</negatedVerb>
+        <nounPhrases>199</nounPhrases>
+        <withAdj>28</withAdj>
+        <negatedNoun>7</negatedNoun>
+    </song>
+    <song>
+        <title>Hero of War</title>
+        <protest>1</protest>
+        <era>modern</era>
+        <verbPhrases>66</verbPhrases>
+        <withAdverb>8</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>107</nounPhrases>
+        <withAdj>1</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>The Sound of Silence</title>
+        <protest>0</protest>
+        <era>vietnam</era>
+        <verbPhrases>42</verbPhrases>
+        <withAdverb>6</withAdverb>
+        <negatedVerb>4</negatedVerb>
+        <nounPhrases>65</nounPhrases>
+        <withAdj>9</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>The Sign</title>
+        <protest>0</protest>
+        <era>modern</era>
+        <verbPhrases>36</verbPhrases>
+        <withAdverb>8</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>65</nounPhrases>
+        <withAdj>3</withAdj>
+        <negatedNoun>2</negatedNoun>
+    </song>
+    <song>
+        <title>Everything I Do I Do It for You</title>
+        <protest>0</protest>
+        <era>modern</era>
+        <verbPhrases>58</verbPhrases>
+        <withAdverb>4</withAdverb>
+        <negatedVerb>10</negatedVerb>
+        <nounPhrases>86</nounPhrases>
+        <withAdj>5</withAdj>
+        <negatedNoun>3</negatedNoun>
+    </song>
+    <song>
+        <title>Staying Alive</title>
+        <protest>0</protest>
+        <era>modern</era>
+        <verbPhrases>56</verbPhrases>
+        <withAdverb>12</withAdverb>
+        <negatedVerb>2</negatedVerb>
+        <nounPhrases>77</nounPhrases>
+        <withAdj>8</withAdj>
+        <negatedNoun>2</negatedNoun>
+    </song>
+    <song>
+        <title>I-Feel-Like-I'm-Fixin'-To-Die-Rag</title>
+        <protest>1</protest>
+        <era>vietnam</era>
+        <verbPhrases>56</verbPhrases>
+        <withAdverb>16</withAdverb>
+        <negatedVerb>5</negatedVerb>
+        <nounPhrases>70</nounPhrases>
+        <withAdj>10</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Blowin' in the Wind</title>
+        <protest>1</protest>
+        <era>vietnam</era>
+        <verbPhrases>36</verbPhrases>
+        <withAdverb>3</withAdverb>
+        <negatedVerb>1</negatedVerb>
+        <nounPhrases>38</nounPhrases>
+        <withAdj>2</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>The Times They Are a-Changin'</title>
+        <protest>1</protest>
+        <era>vietnam</era>
+        <verbPhrases>42</verbPhrases>
+        <withAdverb>17</withAdverb>
+        <negatedVerb>8</negatedVerb>
+        <nounPhrases>51</nounPhrases>
+        <withAdj>4</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Hold On</title>
+        <protest>0</protest>
+        <era>modern</era>
+        <verbPhrases>67</verbPhrases>
+        <withAdverb>24</withAdverb>
+        <negatedVerb>6</negatedVerb>
+        <nounPhrases>85</nounPhrases>
+        <withAdj>7</withAdj>
+        <negatedNoun>2</negatedNoun>
+    </song>
+    <song>
+        <title>Youth Against Fascism (Hate Song)</title>
+        <protest>1</protest>
+        <era>modern</era>
+        <verbPhrases>22</verbPhrases>
+        <withAdverb>1</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>51</nounPhrases>
+        <withAdj>14</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Fuck The Police</title>
+        <protest>1</protest>
+        <era>modern</era>
+        <verbPhrases>124</verbPhrases>
+        <withAdverb>22</withAdverb>
+        <negatedVerb>9</negatedVerb>
+        <nounPhrases>241</nounPhrases>
+        <withAdj>34</withAdj>
+        <negatedNoun>2</negatedNoun>
+    </song>
+    <song>
+        <title>A Change is Gonna Come</title>
+        <protest>1</protest>
+        <era>vietnam</era>
+        <verbPhrases>22</verbPhrases>
+        <withAdverb>9</withAdverb>
+        <negatedVerb>3</negatedVerb>
+        <nounPhrases>37</nounPhrases>
+        <withAdj>2</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Billie Jean</title>
+        <protest>0</protest>
+        <era>modern</era>
+        <verbPhrases>64</verbPhrases>
+        <withAdverb>12</withAdverb>
+        <negatedVerb>6</negatedVerb>
+        <nounPhrases>103</nounPhrases>
+        <withAdj>9</withAdj>
         <negatedNoun>0</negatedNoun>
     </song>
     <song>
@@ -22,6 +418,72 @@
         <negatedNoun>4</negatedNoun>
     </song>
     <song>
+        <title>Born in the U.S.A.</title>
+        <protest>1</protest>
+        <era>modern</era>
+        <verbPhrases>34</verbPhrases>
+        <withAdverb>13</withAdverb>
+        <negatedVerb>2</negatedVerb>
+        <nounPhrases>56</nounPhrases>
+        <withAdj>10</withAdj>
+        <negatedNoun>2</negatedNoun>
+    </song>
+    <song>
+        <title>Hungry Ragged Blues</title>
+        <protest>1</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>39</verbPhrases>
+        <withAdverb>3</withAdverb>
+        <negatedVerb>5</negatedVerb>
+        <nounPhrases>69</nounPhrases>
+        <withAdj>9</withAdj>
+        <negatedNoun>4</negatedNoun>
+    </song>
+    <song>
+        <title>Lovely to Look at</title>
+        <protest>0</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>34</verbPhrases>
+        <withAdverb>2</withAdverb>
+        <negatedVerb>1</negatedVerb>
+        <nounPhrases>37</nounPhrases>
+        <withAdj>3</withAdj>
+        <negatedNoun>1</negatedNoun>
+    </song>
+    <song>
+        <title>I Heard It Through the Grapevine</title>
+        <protest>0</protest>
+        <era>vietnam</era>
+        <verbPhrases>62</verbPhrases>
+        <withAdverb>11</withAdverb>
+        <negatedVerb>6</negatedVerb>
+        <nounPhrases>82</nounPhrases>
+        <withAdj>2</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>When Doves Cry</title>
+        <protest>0</protest>
+        <era>modern</era>
+        <verbPhrases>48</verbPhrases>
+        <withAdverb>12</withAdverb>
+        <negatedVerb>8</negatedVerb>
+        <nounPhrases>57</nounPhrases>
+        <withAdj>3</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Boom Boom Pow</title>
+        <protest>0</protest>
+        <era>modern</era>
+        <verbPhrases>80</verbPhrases>
+        <withAdverb>12</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>145</nounPhrases>
+        <withAdj>18</withAdj>
+        <negatedNoun>1</negatedNoun>
+    </song>
+    <song>
         <title>California Uber Alles</title>
         <protest>1</protest>
         <era>modern</era>
@@ -31,6 +493,94 @@
         <nounPhrases>54</nounPhrases>
         <withAdj>13</withAdj>
         <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Tik Tok</title>
+        <protest>0</protest>
+        <era>modern</era>
+        <verbPhrases>62</verbPhrases>
+        <withAdverb>18</withAdverb>
+        <negatedVerb>6</negatedVerb>
+        <nounPhrases>94</nounPhrases>
+        <withAdj>2</withAdj>
+        <negatedNoun>1</negatedNoun>
+    </song>
+    <song>
+        <title>Over the Rainbow</title>
+        <protest>0</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>18</verbPhrases>
+        <withAdverb>5</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>28</nounPhrases>
+        <withAdj>1</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>My Prerogative</title>
+        <protest>0</protest>
+        <era>modern</era>
+        <verbPhrases>60</verbPhrases>
+        <withAdverb>12</withAdverb>
+        <negatedVerb>8</negatedVerb>
+        <nounPhrases>90</nounPhrases>
+        <withAdj>6</withAdj>
+        <negatedNoun>3</negatedNoun>
+    </song>
+    <song>
+        <title>Take Me Home, Country Roads</title>
+        <protest>0</protest>
+        <era>vietnam</era>
+        <verbPhrases>15</verbPhrases>
+        <withAdverb>8</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>45</nounPhrases>
+        <withAdj>9</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Dream a Little Dream of Me</title>
+        <protest>0</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>23</verbPhrases>
+        <withAdverb>1</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>28</nounPhrases>
+        <withAdj>5</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Ohio</title>
+        <protest>1</protest>
+        <era>vietnam</era>
+        <verbPhrases>13</verbPhrases>
+        <withAdverb>5</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>18</nounPhrases>
+        <withAdj>2</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>Strange Fruit</title>
+        <protest>1</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>10</verbPhrases>
+        <withAdverb>2</withAdverb>
+        <negatedVerb>0</negatedVerb>
+        <nounPhrases>25</nounPhrases>
+        <withAdj>14</withAdj>
+        <negatedNoun>0</negatedNoun>
+    </song>
+    <song>
+        <title>The Way You Look Tonight</title>
+        <protest>0</protest>
+        <era>the_great_depression</era>
+        <verbPhrases>20</verbPhrases>
+        <withAdverb>10</withAdverb>
+        <negatedVerb>1</negatedVerb>
+        <nounPhrases>32</nounPhrases>
+        <withAdj>5</withAdj>
+        <negatedNoun>1</negatedNoun>
     </song>
     <song>
         <title>Sleep Now in the Fire</title>
@@ -55,149 +605,6 @@
         <negatedNoun>2</negatedNoun>
     </song>
     <song>
-        <title>Brother Can You Spare a Dime</title>
-        <protest>1</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>51</verbPhrases>
-        <withAdverb>5</withAdverb>
-        <negatedVerb>4</negatedVerb>
-        <nounPhrases>85</nounPhrases>
-        <withAdj>4</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Nickel Under The Foot</title>
-        <protest>1</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>33</verbPhrases>
-        <withAdverb>3</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>45</nounPhrases>
-        <withAdj>3</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Strange Fruit</title>
-        <protest>1</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>10</verbPhrases>
-        <withAdverb>2</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>25</nounPhrases>
-        <withAdj>14</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Raindrops Keep Falling on My Head</title>
-        <protest>0</protest>
-        <era>vietnam</era>
-        <verbPhrases>44</verbPhrases>
-        <withAdverb>4</withAdverb>
-        <negatedVerb>6</negatedVerb>
-        <nounPhrases>36</nounPhrases>
-        <withAdj>0</withAdj>
-        <negatedNoun>1</negatedNoun>
-    </song>
-    <song>
-        <title>For What It's Worth</title>
-        <protest>1</protest>
-        <era>vietnam</era>
-        <verbPhrases>37</verbPhrases>
-        <withAdverb>9</withAdverb>
-        <negatedVerb>1</negatedVerb>
-        <nounPhrases>54</nounPhrases>
-        <withAdj>2</withAdj>
-        <negatedNoun>1</negatedNoun>
-    </song>
-    <song>
-        <title>Tik Tok</title>
-        <protest>0</protest>
-        <era>modern</era>
-        <verbPhrases>62</verbPhrases>
-        <withAdverb>18</withAdverb>
-        <negatedVerb>6</negatedVerb>
-        <nounPhrases>94</nounPhrases>
-        <withAdj>2</withAdj>
-        <negatedNoun>1</negatedNoun>
-    </song>
-    <song>
-        <title>The Way You Look Tonight</title>
-        <protest>0</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>20</verbPhrases>
-        <withAdverb>10</withAdverb>
-        <negatedVerb>1</negatedVerb>
-        <nounPhrases>32</nounPhrases>
-        <withAdj>5</withAdj>
-        <negatedNoun>1</negatedNoun>
-    </song>
-    <song>
-        <title>Hero of War</title>
-        <protest>1</protest>
-        <era>modern</era>
-        <verbPhrases>66</verbPhrases>
-        <withAdverb>8</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>107</nounPhrases>
-        <withAdj>1</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Blowin' Down This Road (I Ain't Going To Be Treated This Way)</title>
-        <protest>1</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>61</verbPhrases>
-        <withAdverb>15</withAdverb>
-        <negatedVerb>2</negatedVerb>
-        <nounPhrases>82</nounPhrases>
-        <withAdj>21</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Billie Jean</title>
-        <protest>0</protest>
-        <era>modern</era>
-        <verbPhrases>64</verbPhrases>
-        <withAdverb>12</withAdverb>
-        <negatedVerb>6</negatedVerb>
-        <nounPhrases>103</nounPhrases>
-        <withAdj>9</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>The Sign</title>
-        <protest>0</protest>
-        <era>modern</era>
-        <verbPhrases>36</verbPhrases>
-        <withAdverb>8</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>65</nounPhrases>
-        <withAdj>3</withAdj>
-        <negatedNoun>2</negatedNoun>
-    </song>
-    <song>
-        <title>Just a Gigolo</title>
-        <protest>0</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>28</verbPhrases>
-        <withAdverb>6</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>48</nounPhrases>
-        <withAdj>3</withAdj>
-        <negatedNoun>1</negatedNoun>
-    </song>
-    <song>
-        <title>Over the Rainbow</title>
-        <protest>0</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>18</verbPhrases>
-        <withAdverb>5</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>28</nounPhrases>
-        <withAdj>1</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
         <title>Fight the Power</title>
         <protest>1</protest>
         <era>modern</era>
@@ -207,215 +614,6 @@
         <nounPhrases>113</nounPhrases>
         <withAdj>7</withAdj>
         <negatedNoun>2</negatedNoun>
-    </song>
-    <song>
-        <title>The Bourgeois Blues</title>
-        <protest>1</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>28</verbPhrases>
-        <withAdverb>5</withAdverb>
-        <negatedVerb>3</negatedVerb>
-        <nounPhrases>46</nounPhrases>
-        <withAdj>14</withAdj>
-        <negatedNoun>3</negatedNoun>
-    </song>
-    <song>
-        <title>California Dreamin'</title>
-        <protest>0</protest>
-        <era>vietnam</era>
-        <verbPhrases>23</verbPhrases>
-        <withAdverb>2</withAdverb>
-        <negatedVerb>1</negatedVerb>
-        <nounPhrases>32</nounPhrases>
-        <withAdj>4</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Ohio</title>
-        <protest>1</protest>
-        <era>vietnam</era>
-        <verbPhrases>13</verbPhrases>
-        <withAdverb>5</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>18</nounPhrases>
-        <withAdj>2</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Tossin' and Turnin'</title>
-        <protest>0</protest>
-        <era>vietnam</era>
-        <verbPhrases>42</verbPhrases>
-        <withAdverb>15</withAdverb>
-        <negatedVerb>5</negatedVerb>
-        <nounPhrases>58</nounPhrases>
-        <withAdj>3</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Boom Boom Pow</title>
-        <protest>0</protest>
-        <era>modern</era>
-        <verbPhrases>80</verbPhrases>
-        <withAdverb>12</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>145</nounPhrases>
-        <withAdj>18</withAdj>
-        <negatedNoun>1</negatedNoun>
-    </song>
-    <song>
-        <title>American Skin (41 Shots)</title>
-        <protest>1</protest>
-        <era>modern</era>
-        <verbPhrases>50</verbPhrases>
-        <withAdverb>2</withAdverb>
-        <negatedVerb>3</negatedVerb>
-        <nounPhrases>119</nounPhrases>
-        <withAdj>5</withAdj>
-        <negatedNoun>5</negatedNoun>
-    </song>
-    <song>
-        <title>End of the Road</title>
-        <protest>0</protest>
-        <era>modern</era>
-        <verbPhrases>70</verbPhrases>
-        <withAdverb>34</withAdverb>
-        <negatedVerb>9</negatedVerb>
-        <nounPhrases>131</nounPhrases>
-        <withAdj>10</withAdj>
-        <negatedNoun>2</negatedNoun>
-    </song>
-    <song>
-        <title>Blowin' Down This Road (I Ain't Going To Be Treated This Way)</title>
-        <protest>1</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>61</verbPhrases>
-        <withAdverb>15</withAdverb>
-        <negatedVerb>2</negatedVerb>
-        <nounPhrases>82</nounPhrases>
-        <withAdj>21</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Youth Against Fascism (Hate Song)</title>
-        <protest>1</protest>
-        <era>modern</era>
-        <verbPhrases>22</verbPhrases>
-        <withAdverb>1</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>51</nounPhrases>
-        <withAdj>14</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Take Me Home, Country Roads</title>
-        <protest>0</protest>
-        <era>vietnam</era>
-        <verbPhrases>15</verbPhrases>
-        <withAdverb>8</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>45</nounPhrases>
-        <withAdj>9</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>By The Time I Get To Arizona</title>
-        <protest>1</protest>
-        <era>modern</era>
-        <verbPhrases>114</verbPhrases>
-        <withAdverb>17</withAdverb>
-        <negatedVerb>7</negatedVerb>
-        <nounPhrases>199</nounPhrases>
-        <withAdj>28</withAdj>
-        <negatedNoun>7</negatedNoun>
-    </song>
-    <song>
-        <title>I-Feel-Like-I'm-Fixin'-To-Die-Rag</title>
-        <protest>1</protest>
-        <era>vietnam</era>
-        <verbPhrases>56</verbPhrases>
-        <withAdverb>16</withAdverb>
-        <negatedVerb>5</negatedVerb>
-        <nounPhrases>70</nounPhrases>
-        <withAdj>10</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Everything I Do I Do It for You</title>
-        <protest>0</protest>
-        <era>modern</era>
-        <verbPhrases>58</verbPhrases>
-        <withAdverb>4</withAdverb>
-        <negatedVerb>10</negatedVerb>
-        <nounPhrases>86</nounPhrases>
-        <withAdj>5</withAdj>
-        <negatedNoun>3</negatedNoun>
-    </song>
-    <song>
-        <title>Imagine</title>
-        <protest>1</protest>
-        <era>vietnam</era>
-        <verbPhrases>18</verbPhrases>
-        <withAdverb>3</withAdverb>
-        <negatedVerb>2</negatedVerb>
-        <nounPhrases>35</nounPhrases>
-        <withAdj>2</withAdj>
-        <negatedNoun>7</negatedNoun>
-    </song>
-    <song>
-        <title>Lovely to Look at</title>
-        <protest>0</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>34</verbPhrases>
-        <withAdverb>2</withAdverb>
-        <negatedVerb>1</negatedVerb>
-        <nounPhrases>37</nounPhrases>
-        <withAdj>3</withAdj>
-        <negatedNoun>1</negatedNoun>
-    </song>
-    <song>
-        <title>Deep Purple</title>
-        <protest>0</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>12</verbPhrases>
-        <withAdverb>5</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>22</nounPhrases>
-        <withAdj>4</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Fuck The Police</title>
-        <protest>1</protest>
-        <era>modern</era>
-        <verbPhrases>124</verbPhrases>
-        <withAdverb>22</withAdverb>
-        <negatedVerb>9</negatedVerb>
-        <nounPhrases>241</nounPhrases>
-        <withAdj>34</withAdj>
-        <negatedNoun>2</negatedNoun>
-    </song>
-    <song>
-        <title>Cheek To Cheek</title>
-        <protest>0</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>34</verbPhrases>
-        <withAdverb>3</withAdverb>
-        <negatedVerb>2</negatedVerb>
-        <nounPhrases>49</nounPhrases>
-        <withAdj>1</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>If I Had A Hammer</title>
-        <protest>1</protest>
-        <era>vietnam</era>
-        <verbPhrases>25</verbPhrases>
-        <withAdverb>9</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>64</nounPhrases>
-        <withAdj>0</withAdj>
-        <negatedNoun>0</negatedNoun>
     </song>
     <song>
         <title>Talking Dust Bowl Blues</title>
@@ -429,103 +627,26 @@
         <negatedNoun>0</negatedNoun>
     </song>
     <song>
-        <title>We Shall Overcome</title>
-        <protest>1</protest>
-        <era>vietnam</era>
-        <verbPhrases>27</verbPhrases>
-        <withAdverb>14</withAdverb>
-        <negatedVerb>4</negatedVerb>
-        <nounPhrases>51</nounPhrases>
-        <withAdj>0</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>We Shall Not be Moved</title>
+        <title>Blowin' Down This Road (I Ain't Going To Be Treated This Way)</title>
         <protest>1</protest>
         <era>the_great_depression</era>
-        <verbPhrases>48</verbPhrases>
-        <withAdverb>16</withAdverb>
-        <negatedVerb>15</negatedVerb>
-        <nounPhrases>49</nounPhrases>
-        <withAdj>0</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>The Loco-Motion</title>
-        <protest>0</protest>
-        <era>vietnam</era>
-        <verbPhrases>39</verbPhrases>
+        <verbPhrases>61</verbPhrases>
         <withAdverb>15</withAdverb>
         <negatedVerb>2</negatedVerb>
-        <nounPhrases>46</nounPhrases>
-        <withAdj>5</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Hold On</title>
-        <protest>0</protest>
-        <era>modern</era>
-        <verbPhrases>67</verbPhrases>
-        <withAdverb>24</withAdverb>
-        <negatedVerb>6</negatedVerb>
-        <nounPhrases>85</nounPhrases>
-        <withAdj>7</withAdj>
-        <negatedNoun>2</negatedNoun>
-    </song>
-    <song>
-        <title>Hungry Ragged Blues</title>
-        <protest>1</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>39</verbPhrases>
-        <withAdverb>3</withAdverb>
-        <negatedVerb>5</negatedVerb>
-        <nounPhrases>69</nounPhrases>
-        <withAdj>9</withAdj>
-        <negatedNoun>4</negatedNoun>
-    </song>
-    <song>
-        <title>Staying Alive</title>
-        <protest>0</protest>
-        <era>modern</era>
-        <verbPhrases>56</verbPhrases>
-        <withAdverb>12</withAdverb>
-        <negatedVerb>2</negatedVerb>
-        <nounPhrases>77</nounPhrases>
-        <withAdj>8</withAdj>
-        <negatedNoun>2</negatedNoun>
-    </song>
-    <song>
-        <title>I Heard It Through the Grapevine</title>
-        <protest>0</protest>
-        <era>vietnam</era>
-        <verbPhrases>62</verbPhrases>
-        <withAdverb>11</withAdverb>
-        <negatedVerb>6</negatedVerb>
         <nounPhrases>82</nounPhrases>
-        <withAdj>2</withAdj>
+        <withAdj>21</withAdj>
         <negatedNoun>0</negatedNoun>
     </song>
     <song>
-        <title>Blowin' in the Wind</title>
+        <title>For What It's Worth</title>
         <protest>1</protest>
         <era>vietnam</era>
-        <verbPhrases>36</verbPhrases>
-        <withAdverb>3</withAdverb>
+        <verbPhrases>37</verbPhrases>
+        <withAdverb>9</withAdverb>
         <negatedVerb>1</negatedVerb>
-        <nounPhrases>38</nounPhrases>
+        <nounPhrases>54</nounPhrases>
         <withAdj>2</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Born in the U.S.A.</title>
-        <protest>1</protest>
-        <era>modern</era>
-        <verbPhrases>34</verbPhrases>
-        <withAdverb>13</withAdverb>
-        <negatedVerb>2</negatedVerb>
-        <nounPhrases>56</nounPhrases>
-        <withAdj>10</withAdj>
-        <negatedNoun>2</negatedNoun>
+        <negatedNoun>1</negatedNoun>
     </song>
     <song>
         <title>Poor Miner's Farewell</title>
@@ -537,137 +658,5 @@
         <nounPhrases>64</nounPhrases>
         <withAdj>11</withAdj>
         <negatedNoun>3</negatedNoun>
-    </song>
-    <song>
-        <title>My Prerogative</title>
-        <protest>0</protest>
-        <era>modern</era>
-        <verbPhrases>60</verbPhrases>
-        <withAdverb>12</withAdverb>
-        <negatedVerb>8</negatedVerb>
-        <nounPhrases>90</nounPhrases>
-        <withAdj>6</withAdj>
-        <negatedNoun>3</negatedNoun>
-    </song>
-    <song>
-        <title>The Times They Are a-Changin'</title>
-        <protest>1</protest>
-        <era>vietnam</era>
-        <verbPhrases>42</verbPhrases>
-        <withAdverb>17</withAdverb>
-        <negatedVerb>8</negatedVerb>
-        <nounPhrases>51</nounPhrases>
-        <withAdj>4</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Fortunate Son</title>
-        <protest>1</protest>
-        <era>vietnam</era>
-        <verbPhrases>23</verbPhrases>
-        <withAdverb>1</withAdverb>
-        <negatedVerb>9</negatedVerb>
-        <nounPhrases>43</nounPhrases>
-        <withAdj>6</withAdj>
-        <negatedNoun>6</negatedNoun>
-    </song>
-    <song>
-        <title>Three Little Words</title>
-        <protest>0</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>10</verbPhrases>
-        <withAdverb>2</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>17</nounPhrases>
-        <withAdj>6</withAdj>
-        <negatedNoun>1</negatedNoun>
-    </song>
-    <song>
-        <title>The Twist</title>
-        <protest>0</protest>
-        <era>vietnam</era>
-        <verbPhrases>42</verbPhrases>
-        <withAdverb>15</withAdverb>
-        <negatedVerb>2</negatedVerb>
-        <nounPhrases>34</nounPhrases>
-        <withAdj>5</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>(What Did I Do to be So) Black and Blue</title>
-        <protest>1</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>29</verbPhrases>
-        <withAdverb>2</withAdverb>
-        <negatedVerb>4</negatedVerb>
-        <nounPhrases>28</nounPhrases>
-        <withAdj>4</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>I Want to Hold Your Hand</title>
-        <protest>0</protest>
-        <era>vietnam</era>
-        <verbPhrases>23</verbPhrases>
-        <withAdverb>1</withAdverb>
-        <negatedVerb>1</negatedVerb>
-        <nounPhrases>35</nounPhrases>
-        <withAdj>0</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>A Change is Gonna Come</title>
-        <protest>1</protest>
-        <era>vietnam</era>
-        <verbPhrases>22</verbPhrases>
-        <withAdverb>9</withAdverb>
-        <negatedVerb>3</negatedVerb>
-        <nounPhrases>37</nounPhrases>
-        <withAdj>2</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Dream a Little Dream of Me</title>
-        <protest>0</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>23</verbPhrases>
-        <withAdverb>1</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>28</nounPhrases>
-        <withAdj>5</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>The Sound of Silence</title>
-        <protest>0</protest>
-        <era>vietnam</era>
-        <verbPhrases>42</verbPhrases>
-        <withAdverb>6</withAdverb>
-        <negatedVerb>4</negatedVerb>
-        <nounPhrases>65</nounPhrases>
-        <withAdj>9</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Up Around the Bend</title>
-        <protest>0</protest>
-        <era>vietnam</era>
-        <verbPhrases>27</verbPhrases>
-        <withAdverb>6</withAdverb>
-        <negatedVerb>0</negatedVerb>
-        <nounPhrases>36</nounPhrases>
-        <withAdj>6</withAdj>
-        <negatedNoun>0</negatedNoun>
-    </song>
-    <song>
-        <title>Night and Day</title>
-        <protest>0</protest>
-        <era>the_great_depression</era>
-        <verbPhrases>18</verbPhrases>
-        <withAdverb>5</withAdverb>
-        <negatedVerb>1</negatedVerb>
-        <nounPhrases>67</nounPhrases>
-        <withAdj>9</withAdj>
-        <negatedNoun>1</negatedNoun>
     </song>
 </data>
