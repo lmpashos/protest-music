@@ -41,7 +41,7 @@ $current_page = 'analysis';
 					<p class="fix">We started our project with intuitive notions on
 						what syntactical differences may arise between protest and
 						non-protest songs. We had a perception that protest music tends to
-						be darker in nature, since the songs typically depict ill feelings
+						be darker in nature, since the songs typically depict ill-feelings
 						towards something going on in the world. We thought two major
 						phenomena would appear as a result of this: One, we thought the
 						dark nature of protest music would be represented in the lyrics by
@@ -61,9 +61,7 @@ $current_page = 'analysis';
 						representation of the percentages that were pulled in XQuery.</p>
 					<p>We created an SVG that reported the total percentages of all the
 						phrases that exhibited these characteristics in the protest songs,
-						and we created another SVG that reported the total percentages of
-						all the phrases that exhibited these characteristics in the
-						non-protest songs.</p>
+						and we created another SVG that did the same thing for protest songs.</p>
 					<p>After this, we wanted to create 60 SVGs, one for each song, that
 						reported the percentages of phrases with these traits in that song
 						alone. Because of the large number of desired SVGs, we created a
@@ -73,8 +71,8 @@ $current_page = 'analysis';
 					
 					<p>In order to see the individual SVGs for each song, click on the
 						data page. This page provides a way for users to compare the
-						percentages found in a specific protest song and compare them to
-						percentages found in a specific non-protest song.</p>
+						percentages found in a specific protest song to ones found in a specific
+						non-protest song.</p>
 
 				</div>
 
@@ -89,24 +87,23 @@ $current_page = 'analysis';
 					<h1 class="tabHeader" id="probit_analysis">Probit Analysis</h1>
 					<p class="fix">Using our XQuery, we found results for frequency of adjectives in noun
 					    phrases and the frequency of adverbs in verb phrases for protest and non-protest songs (as above). 
-					    We are trying to use those results to come up with a way to determine the following:</p>
-					<p>    
+					    We are trying to use those results to come up with a way to determine the following:  
 					    If we are given a new song where we can calculate the frequencies for the various parts of speech
 					    and negation, as we did for our songs, then we can predict whether it should be classified as either a protest or 
 					    non-protest song.</p>
 					<p>To come up with this function, we used a Probit Regression Model. 
 					    <a href="http://en.wikipedia.org/wiki/Probit_model" target=“_blank”>Wikipedia</a> 
-					    defines a Probit Model as
+					    defines a Probit Model as,</p>
                         <blockquote cite="http://en.wikipedia.org/wiki/Probit_model">
-                            A type of regression where the dependent variable can only take two values, 
+                            "A type of regression where the dependent variable can only take two values, 
                             for example married or not married. The name is from 
                             <span style="font-style: italic;"><span style="font-weight: bold">prob</span>ability + 
                             un<span style="font-weight: bold">it</span></span>. The 
                             purpose of the model is to estimate the probability that an observation with particular 
                             characteristics will fall into a specific one of the categories; moreover, if estimated 
                             probabilities greater than 1/2 are treated as classifying an observation into a predicted 
-                            category, the probit model is a type of binary classification model.</blockquote>
-				    </p>
+                            category, the probit model is a type of binary classification model."</blockquote>
+				    
 				    <p>In our case, the dependent variable can only take two values: protest or non-protest. We used the 
 				        <a href="http://www.r-project.org" target="_blank">statistics package R</a> to do the 
 				        probit regression and get a classifier function. The idea is that if we pass into this function
@@ -126,7 +123,7 @@ $current_page = 'analysis';
 						difference in syntax between American protest songs and
 						non-protest songs (the probit analysis yielded probabilities of
 						about 0.5).</p>
-					<p>However, there are a few different reasons as to why this
+					<p>There are a few different reasons as to why this
 						happened. To start, our analyses were conducted on a very small
 						sample size. If we had more time to expand on this project, we
 						would need to take the time to tag a lot more songs.</p>
