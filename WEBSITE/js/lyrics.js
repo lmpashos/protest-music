@@ -100,64 +100,6 @@ function ajaxObject(url, callbackFunction) {
 
 document.addEventListener("DOMContentLoaded", function() {
   
-  var minHeight = 800;
-  resizeColumns();
-  
-  //Spacing on Song part
-  // expands songs to fill grown space
-  var pushSongs = function() {
-    var songs = document.getElementsByClassName("song");
-    var contentDiv = document.getElementsByClassName("content")[0];
-    var space = window.innerHeight - contentDiv.offsetTop;
-    var offset = 215;
-    var minSongHeight = minHeight - offset;
-    var songHeight = space - offset;
-    
-    if(songs.length == 2) {
-      if(songHeight > minSongHeight){
-        songs[0].style.height = songHeight + "px";
-        songs[1].style.height = songHeight + "px";
-      } else {
-        songs[0].style.height = minSongHeight + "px";
-        songs[1].style.height = minSongHeight + "px";
-      }
-    } else if(songs.length == 1) {
-      if(songHeight > minSongHeight) {
-        songs[0].style.height = songHeight + "px";
-      } else {
-        songs[0].style.height = minSongHeight + "px";
-      }
-    }
-    
-  }
-  
-  function resizeColumns() {
-    
-    var wrapperDiv = document.querySelectorAll("div.wrapper")[0];
-    var menuDiv = document.querySelectorAll("div.menu")[0];
-    var footerDiv = document.querySelectorAll("div.footer")[0];
-    var wrapperDivHeight = wrapperDiv.clientHeight;
-    var menuDivHeight = menuDiv.clientHeight;
-    var footerDivHeight = footerDiv.clientHeight;
-
-    var contentHeight = wrapperDivHeight - menuDivHeight - footerDivHeight;
-
-    document.getElementById("center").style.height = contentHeight + "px";
-    document.getElementById("left").style.height = contentHeight + "px";
-    document.getElementById("right").style.height = contentHeight + "px";
-  }
-  
-  window.addEventListener("resize", function() {
-    var list = document.querySelectorAll("#left > ul");
-    list[0].style.width = document.getElementById("left").clientWidth + "px";
-    list = document.querySelectorAll("#right > ul");
-    list[0].style.width = document.getElementById("right").clientWidth + "px";
-    
-    resizeColumns();
-    pushSongs();
-  });
-  
-
   //Protest Side
   var protestPanel = document.getElementById("left");
   var protestList = left.getElementsByTagName("li");

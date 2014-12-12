@@ -29,6 +29,7 @@ if(isset($_GET['era'])) {
     <link href="css/data.css" rel="stylesheet" type="text/css" />
     <script src="js/main.js" type="text/javascript"></script>
     <script src="js/data.js" type="text/javascript"></script>
+    <script src="js/pushHeight.js" type="text/javascript"></script>
     
 </head>
 <body>

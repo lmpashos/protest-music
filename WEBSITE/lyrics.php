@@ -28,7 +28,8 @@ if(isset($_GET['era'])) {
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/lyrics.css" rel="stylesheet" type="text/css" />
     <script src="js/main.js" type="text/javascript"></script>
-    <script src="js/lyrics.js" type="text/javascript"></script> 
+    <script src="js/lyrics.js" type="text/javascript"></script>
+    <script src="js/pushHeight.js" type="text/javascript"></script> 
 </head>
 <body>
     <div class="wrapper">
