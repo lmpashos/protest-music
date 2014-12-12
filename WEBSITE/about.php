@@ -166,39 +166,41 @@ $current_page = 'about';
 						phrases the option to be tagged <code>neg="true"</code>, signaling in the data
 						that a word such as "not" was present.</p>
 
-					<p>One final thing to note is that participles were not marked as
+					<p>There are two final notes. The first is that participles were not marked as
 						distinct parts of speech. Instead, the participles were grouped
 						with the verbs with which they were associated and tagged under a
 						single verb element.</p>
+
+					<p>The second is that refrain sections (chorus sections) were tagged only once.
+						This is to reduce the number of repeating words and phrases in the song. 
+						We did not our results to be skewed by one or two lines that 
+						repteated constantly throughout the duration of the song.</p>
 				</div>
 
 				<div class="tab">
 					<h1 class="tabHeader" id="eras">The Eras</h1>
 					<h2 class="fix">Great Depression</h2>
                     <a href="images/the_great_depression_photo.jpg" title="Children protest rampant unemployment during the Great Depression, Source: http://b68389.medialib.glogster.com/media/fa0330ab61bb9dd38919f349373a6a5208ed29d8637f44891d09bbadd11ab51c/picket-1937.jpg"><img src="images/the_great_depression_photo.jpg" alt="Children protest rampant unemployment during the Great Depression"/></a>
-					<p class="fix">The Great Depression occurred from 1929 to 1939. It is noted as
-						one of the deepest and longest-lasting economic downturn in the
-						history of the Western industrialized world. The Great Depression
+					<p class="fix">The Great Depression is noted as
+						one of the deepest and longest-lasting economic downturns in the
+						history of the world. The Great Depression
 						began in the United States after the stock market crash in October
 						of 1929. In 1933, during the lowest point in the Great Depression,
-						13 to 15 million Americans were unemployed.
+						13 to 15 million Americans were unemployed. The economic plight of the Great Depression lasted
 						</p>
 					<p>African Americans were the hardest hit group of people during
 						The Great Depression; half of all African Americans were
 						unemployed in 1932. In some Northern cities, whites called for
 						blacks to be fired from any jobs as long as there were whites out
-						of work. Violence towards African Americans became more common
-						again during The Great Depression. Lynchings, which were at a low point of
-						8 in 1932, rose all the way to 28 in 1933.</p>
+						of work. Violence towards African Americans, such as lynchings, became more common
+						again during The Great Depression. During this period, white supremacist groups such as the Ku Klux Klan were at the height of their prowess.</p>
                         <a href="images/the_dust_bowl_photo.jpg" title="The Dust Bowl, Source: http://mediad.publicbroadcasting.net/p/wkar/files/201304/SmallDust3S0292.jpg"><img src="images/the_dust_bowl_photo.jpg" alt="The Dust Bowl"/></a>
 					<p>During this time, the Great Plains region suffered
 						from a drought from 1934-1937, known today as the Dust
-						Bowl. Heavy winds blew the topsoil in places like Oklahoma,
+						Bowl. An extended drought and overuse of land rendered the top layer of soil to dust. Heavy winds then blew the topsoil in places like Oklahoma,
 						Kansas, Colorado, New Mexico, and The Texas Panhandle, creating
 						dust clouds called 'black blizzards.' Sixty percent of the people
-						fled the region during this time as a result. This, in part, was
-						due to the farmers' desire to constantly expand and have autonomy
-						over the land. Artists, from authors to singers, expressed the need to be in
+						fled the region during this time as a result. The Dust Bowl was most devastating famine in United States history. Artists, from authors to singers, expressed the need to be in
 						harmony with nature, rather than try to dominate and exploit it.
 						</p>
                     <a href="images/harlan_county_strike_photo.jpg" title="Harlan County War, Source: http://nyx.uky.edu/dips/xt75tb0xq06w/data/81pa109_0012/81pa109_0012.jpg"><img src="images/harlan_county_strike_photo.jpg" alt="Harlan Country War"/></a>
@@ -209,6 +211,14 @@ $current_page = 'about';
 						as little as eighty cents per day. The workers went on strike for
 						better wages and better working conditions.
 						</p>
+					<p>The Great Deprssion presents a fascinating time in American protest music.
+						In the early stages of the era, the American people were rife with discontent.
+						People believed the American government had truly failed to protect them from the excess
+						of capitalism. Everybody was struggling, but the poor struggled the most. Songs such as 
+						Brother Can You Spare a Dime scoffed at the notion of the American Dream, which had long been the beacon of hope for the poor. The era progressed in an interesting fashion as well.
+						In 1932, Franklin Roosevelt was elected to the presidency. He brought the American people a breath of fresh air,
+						as well as the New Deal. The New Deal created an economic and social safety net and created millions of jobs in order to put as many unemployed as possible back to work.
+						A noted instition created by the New Deal was the Works Progress Administration (WPA). Noted names such as Woody Guthrie recieved funding from the WPA to produce music. One could perhaps say that during the Great Depression, the government funded the writing of protest music.
 					<h2>Vietnam</h2>
 					<p>The Vietnam era truly represents a golden age of American
 						protest music. Though it is termed in this project as the Vietnam
@@ -268,7 +278,7 @@ $current_page = 'about';
 						some of the most influential protest over written.</p>
 					<h2>Modern</h2>
 					<p>For this project, we defined the Modern Era as any time after
-						1975, i.e. the end of the Vietnam War.</p>
+						1975, which was the official end of the Vietnam War.</p>
 					<p>After the loss in Vietnam, veterans from the war were not
 						treated with respect when they returned home. Unlike the World War
 						II veterans, who were seen as heroes, the Vietnam Veterans were
@@ -371,7 +381,7 @@ $current_page = 'about';
 						white, rather than shades of grey.</p>
 					<p>In our original markup of the texts, we marked up both verb
 						phrases and noun phrases. A noun phrase can consist of many words
-						but only truly requires a single noun, similar to a verb phrase,
+						but only truly requires a single noun or a single determiner, similar to a verb phrase,
 						which only requires a single verb. However, more words in these
 						phrase can add description. The use of desciption in these phrases
 						colors the meaning of the phrases, invoking emotions in the
@@ -386,8 +396,11 @@ $current_page = 'about';
 						did not have an adjective, it was coded as a "1" in negation and a
 						"0" for adjective. Similarly, if a verb phrase featured both
 						negation and an adverb, it as coded as a "1" for both.</p>
-					<p>After compiling the data from the songs, we performed difference
-						of means testing and probit analysis on the collected data.</p>
+					<p>After compiling the data from the songs, we performed a probit analysis 
+						on the collected data in order to check to see if there was a 
+						statistical difference between the protest song data, and the 
+						nonprotest song data. We additionally made graphs for the data 
+						from each song, which helped to paint individual picture for each song.</p>
 				</div>
 
 				<div class="tab">
