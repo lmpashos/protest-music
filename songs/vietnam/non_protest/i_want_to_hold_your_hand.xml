@@ -23,7 +23,7 @@
             <line>Oh please, <verbPhrase><verb>say</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'ll let</verb> <nounPhrase><noun>me</noun></nounPhrase> <verbPhrase><verb>be</verb> <nounPhrase><det>your</det> <noun>man</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line>And please, <verbPhrase><verb>say</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
-            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'ll let</verb> <nounPhrase><noun>me</noun></nounPhrase> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>dand</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'ll let</verb> <nounPhrase><noun>me</noun></nounPhrase> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll let</verb> <nounPhrase><noun>me</noun></nounPhrase> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <refrainLineRef lineRef="1"></refrainLineRef>
         </verse>
