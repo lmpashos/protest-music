@@ -123,7 +123,7 @@ $current_page = 'about';
 						prepositions, and prepositional phrases.</p>
 
 					<p>One issue with this method comes into play when there are noun
-						Phrases that consist of just determiners. Whereas some theories
+						phrases that consist of just determiners. Whereas some theories
 						want to make determiners the head of phrases, and thus call them
 						determiner phrases, we decided to go against this theory and keep
 						everything as noun phrases - even the phrases that did not have
