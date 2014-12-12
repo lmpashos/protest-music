@@ -21,52 +21,64 @@
     <lyrics>
         <verse>
             <line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>shall overcome</verb></verbPhrase>, <nounPhrase><noun>we</noun></nounPhrase> <verbPhrase><verb>shall overcome</verb></verbPhrase>,</line>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="2"/>
-            <refrainLineRef lineRef="1"/>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
 
         <verse>
             <line><nounPhrase><det>The</det> <noun>Lord</noun></nounPhrase> <verbPhrase><verb>will see</verb> <nounPhrase><noun>us</noun></nounPhrase> <adverb>through</adverb></verbPhrase>, <nounPhrase><det>The</det> <noun>Lord</noun></nounPhrase> <verbPhrase><verb>will see</verb> <nounPhrase><noun>us</noun></nounPhrase> <adverb>through</adverb></verbPhrase>,</line>
             <line><nounPhrase><det>The</det> <noun>Lord</noun></nounPhrase> <verbPhrase><verb>will see</verb> <nounPhrase><noun>us</noun></nounPhrase> <adverb>through</adverb></verbPhrase> <adverb>someday</adverb>;</line>
-            <refrainLineRef lineRef="2"/>
-            <refrainLineRef lineRef="1"/>
+            <refrainSectionRef sectionRef="2"/>
         </verse>
 
         <verse>
             <line><nounPhrase><noun>We</noun></nounPhrase><verbPhrase><verb>'re</verb> <verb>on</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>victory</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>'re</verb> <verb>on</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>victory</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
             <line><nounPhrase><noun>We</noun></nounPhrase><verbPhrase><verb>'re</verb> <verb>on</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>victory</noun></nounPhrase></prepPhrase> <adverb>someday</adverb></verbPhrase>;</line>
-            <refrainLineRef lineRef="2"/>
+            <refrainSectionRef sectionRef="3"/>
             <line><nounPhrase><noun>We</noun></nounPhrase><verbPhrase><verb>'re</verb> <verb>on</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>victory</noun></nounPhrase></prepPhrase> <adverb>someday</adverb></verbPhrase>.</line>
         </verse>
 
         <verse>
             <line><nounPhrase><noun>We</noun></nounPhrase><verbPhrase><verb>'ll walk</verb> <nounPhrase><noun>hand</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><noun>hand</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><noun>we</noun></nounPhrase><verbPhrase><verb>'ll walk</verb> <nounPhrase><noun>hand</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><noun>hand</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
             <line><nounPhrase><noun>We</noun></nounPhrase><verbPhrase><verb>'ll walk</verb> <nounPhrase><noun>hand</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><noun>hand</noun></nounPhrase></prepPhrase> <adverb>someday</adverb></verbPhrase>;</line>
-            <refrainLineRef lineRef="2"/>
+            <refrainSectionRef sectionRef="3"/>
             <line><nounPhrase><noun>We</noun></nounPhrase><verbPhrase><verb>'ll walk</verb> <nounPhrase><noun>hand</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><noun>hand</noun></nounPhrase></prepPhrase> <adverb>someday</adverb></verbPhrase>.</line>
         </verse>
 
         <verse>
             <line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase neg="true"><verb>are</verb> not <adjective>afraid</adjective></verbPhrase>, <nounPhrase><noun>we</noun></nounPhrase> <verbPhrase neg="true"><verb>are</verb> not <adjective>afraid</adjective></verbPhrase>,</line>
             <line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase neg="true"><verb>are</verb> not <adjective>afraid</adjective> <adverb>today</adverb></verbPhrase>;</line>
-            <refrainLineRef lineRef="2"/>
+            <refrainSectionRef sectionRef="3"/>
             <line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase neg="true"><verb>are</verb> not <adjective>afraid</adjective> <adverb>today</adverb></verbPhrase>.</line>
         </verse>
 
         <verse>
             <line><nounPhrase><det>The</det> <noun>truth</noun></nounPhrase> <verbPhrase><verb>shall make</verb> <nounPhrase><noun>us</noun></nounPhrase> <adjective>free</adjective></verbPhrase>, <nounPhrase><det>the</det> <noun>truth</noun></nounPhrase> <verbPhrase><verb>shall make</verb> <nounPhrase><noun>us</noun></nounPhrase> <adjective>free</adjective></verbPhrase>,</line>
             <line><nounPhrase><det>The</det> <noun>truth</noun></nounPhrase> <verbPhrase><verb>shall make</verb> <nounPhrase><noun>us</noun></nounPhrase> <adjective>free</adjective> <adverb>someday</adverb></verbPhrase>;</line>
-            <refrainLineRef lineRef="2"/>
+            <refrainSectionRef sectionRef="3"/>
             <line><nounPhrase><det>The</det> <noun>truth</noun></nounPhrase> <verbPhrase><verb>shall make</verb> <nounPhrase><noun>us</noun></nounPhrase> <adverb>free</adverb> <adverb>someday</adverb></verbPhrase>.</line>
         </verse>
 
         <verse>
             <line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>shall live</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun>peace</noun></nounPhrase></prepPhrase></verbPhrase>, <nounPhrase><noun>we</noun></nounPhrase> <verbPhrase><verb>shall live</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun>peace</noun></nounPhrase></prepPhrase></verbPhrase>,</line>
             <line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>shall live</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun>peace</noun></nounPhrase></prepPhrase> <adverb>someday</adverb></verbPhrase>;</line>
-            <refrainLineRef lineRef="2"/>
+            <refrainSectionRef sectionRef="3"/>
             <line><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>shall live</verb> <prepPhrase><prep>in</prep> <nounPhrase><noun>peace</noun></nounPhrase></prepPhrase> <adverb>someday</adverb></verbPhrase>.</line>
         </verse>
+        
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+        
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="2"/>
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+        
+        <refrainSection sectionID="3">
+            <refrainLineRef lineRef="2"/>
+        </refrainSection>
         
         <refrainLine lineID="1"><nounPhrase><noun>We</noun></nounPhrase> <verbPhrase><verb>shall overcome</verb> <adverb>someday</adverb></verbPhrase>.</refrainLine>
         <refrainLine lineID="2">Oh, <prepPhrase><adverb>deep</adverb> <prep>in</prep> <nounPhrase><det>my</det> <noun>heart</noun></nounPhrase></prepPhrase>, <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase>do believe</verbPhrase>,</refrainLine>

@@ -15,7 +15,7 @@
     <lyrics>
         
 <verse>
-<refrainLineRef lineRef="1"/>
+<refrainSectionRef sectionRef="2"/>
 <line>Just like the guy whose feet are too big for his bed</line>
 <line><nounPhrase neg="true"><noun>Nothing</noun></nounPhrase> <verbPhrase><verb>seems</verb> <verbPhrase><verb>to fit</verb></verbPhrase></verbPhrase></line>
 <line>Oh, <nounPhrase><noun>raindrops</noun></nounPhrase> <verbPhrase><verb>keep</verb> <verbPhrase><verb>fallin'</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>head</noun></nounPhrase></prepPhrase></verbPhrase></verbPhrase></line>
@@ -58,6 +58,10 @@
         <refrainLineRef lineRef="3"/>
         <refrainLineRef lineRef="4"/>
     </refrainSection>
+        
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
         
         <refrainLine lineID="1"><nounPhrase><noun>Raindrops</noun></nounPhrase> <adverb>keep</adverb> <verbPhrase><verb>fallin'</verb> <prepPhrase><prep>on</prep> <nounPhrase><det>my</det> <noun>head</noun></nounPhrase></prepPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="2">But <nounPhrase><noun>that</noun></nounPhrase> <verbPhrase neg="true"><verb>doesn't</verb> <verbPhrase><verb>mean</verb> <nounPhrase><det>my</det> <noun>eyes</noun></nounPhrase></verbPhrase> <verbPhrase><verb>will</verb> <adverb>soon</adverb> <verb>be</verb> <verbPhrase><verb>turning</verb> <adjective>red</adjective></verbPhrase></verbPhrase></verbPhrase></refrainLine>

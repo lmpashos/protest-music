@@ -15,11 +15,9 @@
     <lyrics>
         <verse>
             <line>Oh yeah, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll tell</verb> <nounPhrase><noun>you</noun> </nounPhrase><nounPhrase><noun>something</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="5"/>
+            <refrainSectionRef sectionRef="4"/>
             <line><adverb>When</adverb> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll say</verb> <nounPhrase><det>that</det> <noun>something</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
+            <refrainSectionRef sectionRef="3"/>
         </verse>
         <verse>
             <line>Oh please, <verbPhrase><verb>say</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
@@ -34,23 +32,18 @@
         </verse>
         <verse>
             <line>Yeah, <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ve got</verb> <nounPhrase><det>that</det> <noun>something</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="5"/>
+            <refrainSectionRef sectionRef="4"/>
             <line><adverb>When</adverb> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll say</verb> <nounPhrase><det>that</det> <noun>something</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
+            <refrainSectionRef sectionRef="3"/>
         </verse>
         <verse>
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
             <line>Yeah, <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ve got</verb> <nounPhrase><det>that</det> <noun>something</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="5"/>
+            <refrainSectionRef sectionRef="4"/>
             <line><adverb>When </adverb><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll feel</verb> <nounPhrase><det>that</det> <noun>something</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
+            <refrainSectionRef sectionRef="2"/>
         </verse>
         
         <refrainSection sectionID="1">
@@ -59,6 +52,23 @@
             <refrainLineRef lineRef="4"/>
             <refrainLineRef lineRef="4"/>
             <refrainLineRef lineRef="4"/>
+        </refrainSection>
+        
+        <refrainSection sectionID="2">
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
+        
+       <refrainSection sectionID="3">
+           <refrainLineRef lineRef="1"/>
+           <refrainLineRef lineRef="1"/>
+           <refrainLineRef lineRef="1"/>
+       </refrainSection>
+        
+        <refrainSection sectionID="4">
+            <refrainLineRef lineRef="5"/>
         </refrainSection>
         
         <refrainLine lineID="1"><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></refrainLine>

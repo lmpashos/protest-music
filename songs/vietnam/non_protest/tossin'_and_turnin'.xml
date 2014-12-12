@@ -23,9 +23,7 @@
         
         <verse>
 <line>Well <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was</verb><verbPhrase> <verb>tossin'</verb> and <verbPhrase> <verb>turnin'</verb></verbPhrase></verbPhrase></verbPhrase></line>
-            
-<refrainLineRef lineRef="1"/>
-<refrainLineRef lineRef="2"/>
+        <refrainSectionRef sectionRef="1"/>
         </verse>
         
         
@@ -38,9 +36,7 @@
         
         <verse>
 <line>'Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase> <verb>was tossin' and turnin'</verb></verbPhrase></line>
-            
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="2"/>
+           <refrainSectionRef sectionRef="1"/>
         </verse>
         
         
@@ -66,9 +62,7 @@
         
         <verse>
 <line>'Cause <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was tossin' and turnin'</verb></verbPhrase></line>
-            
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="2"/>
+           <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
             
@@ -93,8 +87,7 @@
         
         <verse>
 <line>'Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase> <verb>was tossin' and turnin'</verb></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="2"/>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
         
         <verse>
@@ -105,10 +98,14 @@
         
         <verse>
 <line>'Cause <nounPhrase><noun>I</noun></nounPhrase><verbPhrase> <verb>was tossin'and turnin'</verb></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="2"/>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
 
+<refrainSection sectionID="1">
+    <refrainLineRef lineRef="1"/>
+    <refrainLineRef lineRef="2"/>
+</refrainSection>
+        
 <refrainLine lineID="1"><verbPhrase><verb>Turnin' and tossin'</verb></verbPhrase></refrainLine>
 <refrainLine lineID="2"><verbPhrase><verb>Tossin' and turnin'</verb><nounPhrase> <det>all</det> <noun>night</noun></nounPhrase></verbPhrase></refrainLine>
     </lyrics>
