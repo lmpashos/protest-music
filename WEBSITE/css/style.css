@@ -23,13 +23,14 @@ body > .wrapper {
 .menu {
   background-color: #FF3419;
   padding: 10px;
+  padding-left: 0px;
 }
 
 .menu_button {
   display: inline-block;
   width: 100px;
   background-color: transparent;
-  margin: 0px 10px 0px 10px;
+  margin: 0px 20px 0px 20px;
 }
 
 .menu_button a {
