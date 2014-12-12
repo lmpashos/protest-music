@@ -121,9 +121,9 @@ $current_page = 'analysis';
 					<h1 class="tabHeader" id="conclusions">Conclusions</h1>
 					<p class="fix">Unfortunately, our results returned no significant
 						difference in syntax between American protest songs and
-						non-protest songs (the probit analysis yielded probabilities of
-						about 0.5).</p>
-					<p>There are a few different reasons as to why this
+						non-protest songs. Unfortunately, the probit analysis yielded probabilities of
+						about 0.5.</p>
+					<p>There are perhaps a few different reasons as to why this
 						happened. To start, our analyses were conducted on a very small
 						sample size. If we had more time to expand on this project, we
 						would need to take the time to tag a lot more songs.</p>
