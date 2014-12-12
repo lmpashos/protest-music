@@ -43,6 +43,6 @@
             <refrainLineRef lineRef="1"/>
         </refrainSection>
         
-        <refrainLine lineID="1"><nounPhrase><adjective>California</adjective> <noun>dreamin'</noun></nounPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>such</det> <det>a</det> <adjective>winter</adjective></nounPhrase> <nounPhrase><det>'s</det><noun>day</noun></nounPhrase></prepPhrase>.</refrainLine>
+        <refrainLine lineID="1"><nounPhrase><adjective>California</adjective> <noun>dreamin'</noun></nounPhrase> <prepPhrase><prep>on</prep> <nounPhrase><det>such</det> <det>a</det> <adjective>winter</adjective></nounPhrase> <nounPhrase><det>'s</det> <noun>day</noun></nounPhrase></prepPhrase>.</refrainLine>
     </lyrics>
 </song>
