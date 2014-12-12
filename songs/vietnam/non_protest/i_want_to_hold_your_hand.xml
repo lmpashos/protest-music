@@ -15,11 +15,11 @@
     <lyrics>
         <verse>
             <line>Oh yeah, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll tell</verb> <nounPhrase><noun>you</noun> </nounPhrase><nounPhrase><noun>something</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="5"/>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ll understand</verb></verbPhrase></verbPhrase></line>
             <line><adverb>When</adverb> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll say</verb> <nounPhrase><det>that</det> <noun>something</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
         </verse>
         <verse>
             <line>Oh please, <verbPhrase><verb>say</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
@@ -27,30 +27,30 @@
             <line>And please, <verbPhrase><verb>say</verb> <prepPhrase><prep>to</prep> <nounPhrase><noun>me</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>'ll let</verb> <nounPhrase><noun>me</noun></nounPhrase> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>dand</noun></nounPhrase></verbPhrase></verbPhrase></line>
             <line><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll let</verb> <nounPhrase><noun>me</noun></nounPhrase> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="1"></refrainLineRef>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
         </verse>
         <verse>
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
             <line>Yeah, <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ve got</verb> <nounPhrase><det>that</det> <noun>something</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="5"/>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ll understand</verb></verbPhrase></verbPhrase></line>
             <line><adverb>When</adverb> <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll say</verb> <nounPhrase><det>that</det> <noun>something</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
         </verse>
         <verse>
             <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
             <line>Yeah, <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ve got</verb> <nounPhrase><det>that</det> <noun>something</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="5"/>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ll understand</verb></verbPhrase></verbPhrase></line>
             <line><adverb>When </adverb><nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ll feel</verb> <nounPhrase><det>that</det> <noun>something</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="1"/>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
+            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></line>
         </verse>
         
         <refrainSection sectionID="1">
@@ -60,11 +60,10 @@
             <refrainLineRef lineRef="4"/>
             <refrainLineRef lineRef="4"/>
         </refrainSection>
-        
-        <refrainLine lineID="1"><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>wanna</verb> <verbPhrase><verb>hold</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></verbPhrase></refrainLine>
+       
         <refrainLine lineID="2">And <adverb>when</adverb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>touch</verb> <nounPhrase><noun>you</noun></nounPhrase></verbPhrase> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>feel</verb> <adjective>happy</adjective> <adverb>inside</adverb></verbPhrase></refrainLine>
         <refrainLine lineID="3"><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <nounPhrase><det>such</det> <det>a</det> <noun>feeling</noun></nounPhrase> that <nounPhrase><det>my</det> <noun>love</noun></nounPhrase></verbPhrase></refrainLine>
         <refrainLine lineID="4"><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>can't</verb> <verbPhrase><verb>hide</verb></verbPhrase></verbPhrase></refrainLine>
-        <refrainLine lineID="5"><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>'ll understand</verb></verbPhrase></verbPhrase></refrainLine>
+
     </lyrics>
 </song>
