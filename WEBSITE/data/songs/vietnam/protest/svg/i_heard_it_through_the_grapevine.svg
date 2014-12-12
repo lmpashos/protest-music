@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><svg width="100%" height="100%" viewBox="0 0 610 630" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg">
-<text x="325" y="40" text-anchor="middle">Imagine</text>
+<text x="325" y="40" text-anchor="middle">I Heard It Through the Grapevine</text>
 <line x1="50" y1="400" x2="600" y2="400" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <line x1="50" y1="400" x2="50" y2="80" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text x="30" y="400" text-anchor="middle">0%</text>
@@ -7,14 +7,14 @@
 <text x="30" y="100" text-anchor="middle">100%</text>
 <line x1="50" y1="250" x2="600" y2="250" style="stroke:rgb(0,0,0);stroke-width:1" stroke-dasharray="8 4"/>
 <line x1="50" y1="100" x2="600" y2="100" style="stroke:rgb(0,0,0);stroke-width:1" stroke-dasharray="8 4"/>
-<rect x="50" y="350" width="100" height="50" style="fill:blue"/>
-<rect x="200" y="366.6666666666667" width="100" height="33.333333333333314" style="fill:red"/>
-<rect x="350" y="382.85714285714283" width="100" height="17.142857142857167" style="fill:green"/>
-<rect x="500" y="340" width="100" height="60" style="fill:black"/>
-<text x="100" y="340" text-anchor="middle">16.67%</text>
-<text x="250" y="356.6666666666667" text-anchor="middle">11.11%</text>
-<text x="400" y="372.85714285714283" text-anchor="middle">5.71%</text>
-<text x="550" y="330" text-anchor="middle">20.00%</text>
+<rect x="50" y="343.39622641509436" width="100" height="56.60377358490564" style="fill:blue"/>
+<rect x="200" y="366.0377358490566" width="100" height="33.96226415094338" style="fill:red"/>
+<rect x="350" y="387.32394366197184" width="100" height="12.676056338028161" style="fill:green"/>
+<rect x="500" y="400" width="100" height="0" style="fill:black"/>
+<text x="100" y="333.39622641509436" text-anchor="middle">18.87%</text>
+<text x="250" y="356.0377358490566" text-anchor="middle">11.32%</text>
+<text x="400" y="377.32394366197184" text-anchor="middle">4.23%</text>
+<text x="550" y="390" text-anchor="middle">0.00%</text>
 <text x="50" y="470" text-anchor="left">Legend</text>
 <rect x="50" y="490" width="20" height="20" style="fill:blue"/>
 <text x="100" y="505" text-anchor="left">Verb Phrases with Adverb (% of all verb phrases)</text>

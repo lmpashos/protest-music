@@ -21,7 +21,7 @@
             <line><nounPhrase><noun>You</noun></nounPhrase><verbPhrase><verb>’ll</verb> <verb>be</verb> <verb>drenched</verb></verbPhrase> <prepPhrase><prep>to</prep> <nounPhrase><det>the</det> <noun>bone</noun></nounPhrase></prepPhrase></line>
             <line>If <nounPhrase><det>your</det> <noun>time</noun> to <noun>you</noun></nounPhrase> <verbPhrase><verb>is</verb> <adjective>worth</adjective> <verb>savin’</verb></verbPhrase></line>
             <line>Then <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase><adverb>better</adverb> <verb>start</verb> <verb>swimmin’</verb></verbPhrase> or <nounPhrase><noun>you</noun></nounPhrase><verbPhrase><verb>’ll</verb> <verb>sink</verb></verbPhrase> <prepPhrase><prep>like</prep> <nounPhrase><det>a</det> <noun>stone</noun></nounPhrase></prepPhrase></line>
-            <refrainLineRef lineRef="1"/>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
             <line><verbPhrase><verb>Come</verb> <nounPhrase><noun>writers</noun> and <noun>critics</noun></nounPhrase></verbPhrase></line>
@@ -32,7 +32,7 @@
             <line><prepPhrase><prep>For</prep> <nounPhrase><det>the</det> <noun>wheel</noun></nounPhrase></prepPhrase><verbPhrase><verb>’s</verb> <adverb>still</adverb> <prepPhrase><prep>in</prep> <nounPhrase><noun>spin</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line>And <nounPhrase><noun>there</noun></nounPhrase><verbPhrase neg="true"><verb>’s</verb> no <verb>tellin’</verb> <nounPhrase><noun>who</noun></nounPhrase></verbPhrase> that <nounPhrase><noun>it</noun></nounPhrase><verbPhrase><verb>’s</verb> <verb>namin’</verb></verbPhrase></line>
             <line><prepPhrase><prep>For</prep> <nounPhrase><det>the</det> <noun>loser</noun></nounPhrase> <adverb>now</adverb></prepPhrase> <verbPhrase><verb>will</verb> <verb>be</verb> <adverb>later</adverb> to <verb>win</verb></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
             <line><verbPhrase><verb>Come</verb> <nounPhrase><noun>senators</noun>, <noun>congressmen</noun></nounPhrase></verbPhrase></line>
@@ -43,7 +43,7 @@
             <line><verbPhrase><verb>Will</verb> <verb>be</verb> <nounPhrase><noun>he</noun> <noun>who</noun></nounPhrase> <verb>has</verb> <verb>stalled</verb></verbPhrase></line>
             <line><nounPhrase><noun>There</noun></nounPhrase><verbPhrase><verb>’s</verb> <nounPhrase><det>a</det> <noun>battle</noun></nounPhrase> <adverb>outside</adverb></verbPhrase> and <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>is</verb> <verb>ragin’</verb></verbPhrase></line>
             <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>’ll</verb> <adverb>soon</adverb> <verb>shake</verb> <nounPhrase><det>your</det> <noun>windows</noun></nounPhrase></verbPhrase> and <verbPhrase><verb>rattle</verb> <nounPhrase><det>your</det> <noun>walls</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
             <line><verbPhrase><verb>Come</verb> <nounPhrase><noun>mothers</noun> and <noun>fathers</noun></nounPhrase></verbPhrase></line>
@@ -54,7 +54,7 @@
             <line><verbPhrase><verb>Are</verb> <prepPhrase><prep>beyond</prep> <nounPhrase><det>your</det> <noun>command</noun></nounPhrase></prepPhrase></verbPhrase></line>
             <line><nounPhrase><det>Your</det> <adjective>old</adjective> <noun>road</noun></nounPhrase> <verbPhrase><verb>is</verb> <adverb>rapidly</adverb> <verb>agin’</verb></verbPhrase></line>
             <line><verbPhrase><adverb>Please</adverb> <verb>get</verb> <adjective>out</adjective> <prepPhrase><prep>of</prep> <nounPhrase><det>the</det> <adjective>new</adjective> <noun>one</noun></nounPhrase></prepPhrase></verbPhrase> if <nounPhrase><noun>you</noun></nounPhrase> <verbPhrase neg="true"><verb>can’t</verb> <verb>lend</verb> <nounPhrase><det>your</det> <noun>hand</noun></nounPhrase></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
             <line><nounPhrase><det>The</det> <noun>line</noun> <noun>it</noun></nounPhrase> <verbPhrase><verb>is</verb> <verb>drawn</verb></verbPhrase></line>
@@ -65,8 +65,11 @@
             <line><verbPhrase><verb>Will</verb> <adverb>later</adverb> <verb>be</verb> <adjective>past</adjective></verbPhrase></line>
             <line><nounPhrase><det>The</det> <noun>order</noun></nounPhrase> <verbPhrase><verb>is</verb> <adverb>rapidly</adverb> <verb>fadin’</verb></verbPhrase></line>
             <line>And <nounPhrase><det>the</det> <adjective>first</adjective> <noun>one</noun></nounPhrase> now <verbPhrase><verb>will</verb> <adverb>later</adverb> <verb>be</verb> <adjective>last</adjective></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
+        <refrainSection sectionID="1">
+            <refrainLineRef lineRef="1"/>
+        </refrainSection>
         
         <refrainLine lineID="1"><prepPhrase><prep>For</prep> <nounPhrase><det>the</det> <noun>times</noun></nounPhrase></prepPhrase> <nounPhrase><noun>they</noun></nounPhrase> <verbPhrase><verb>are</verb> <verb>a-changin’</verb></verbPhrase></refrainLine>
     </lyrics>

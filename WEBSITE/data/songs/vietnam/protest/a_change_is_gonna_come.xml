@@ -17,20 +17,17 @@
         <verse>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>was</verb> <verb>born</verb></verbPhrase> <prepPhrase><prep>by</prep> <nounPhrase><det>the</det> <noun>river</noun></nounPhrase></prepPhrase> <prepPhrase><prep>in</prep> <nounPhrase><det>a</det> <adjective>little</adjective> <noun>tent</noun></nounPhrase></prepPhrase></line>
             <line>Oh, and <adverb>just</adverb> <prepPhrase><prep>like</prep> <nounPhrase><det>the</det> <noun>river</noun></nounPhrase></prepPhrase>, <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'ve</verb> <verb>been</verb> <verb>running</verb> <adverb>ever</adverb> <adverb>since</adverb></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="2"/>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
             <line><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <verb>been</verb> <adverb>too</adverb> <adjective>hard</adjective> <verb>living</verb></verbPhrase>, but <nounPhrase><noun>I</noun></nounPhrase><verbPhrase><verb>'m</verb> <adjective>afraid</adjective> to <verb>die</verb></verbPhrase></line>
             <line>'Cause <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>don't</verb> <verb>know</verb></verbPhrase> <nounPhrase><noun>what</noun></nounPhrase><verbPhrase><verb>'s</verb> <adverb>up</adverb> <nounPhrase><noun>there</noun></nounPhrase></verbPhrase> <prepPhrase><prep>beyond</prep> <nounPhrase><det>the</det> <noun>sky</noun></nounPhrase></prepPhrase></line>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="2"/>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>go</verb> <prepPhrase><prep>to</prep> <nounPhrase><det>the</det> <noun>movie</noun></nounPhrase></prepPhrase></verbPhrase>, and <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>go</verb> <nounPhrase><noun>downtown</noun></nounPhrase></verbPhrase></line>
             <line><nounPhrase><noun>Somebody</noun></nounPhrase> <verbPhrase><verb>keep</verb> <verb>telling</verb> <nounPhrase><noun>me</noun></nounPhrase></verbPhrase> <verbPhrase neg="true"><verb>don't</verb> <verb>hang</verb> <adverb>around</adverb></verbPhrase></line>
-            <refrainLineRef lineRef="1"/>
-            <refrainLineRef lineRef="2"/>
+            <refrainSectionRef sectionRef="1"/>
         </verse>
         <verse>
             <line>Then <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>go</verb> <prepPhrase><prep>to</prep> <nounPhrase><det>my</det> <noun>brother</noun></nounPhrase></prepPhrase></verbPhrase></line>
@@ -41,9 +38,12 @@
         <verse>
             <line>Oh, <nounPhrase><noun>there</noun></nounPhrase> <verbPhrase><verb>been</verb> <nounPhrase><noun>times</noun></nounPhrase></verbPhrase> that <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>thought</verb> <nounPhrase><noun>I</noun></nounPhrase> <verb>couldn't</verb> <adverb>last</adverb></verbPhrase> <prepPhrase><prep>for</prep> <nounPhrase><noun>long</noun></nounPhrase></prepPhrase></line>
             <line>But <adverb>now</adverb> <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>think</verb> <nounPhrase><noun>I</noun></nounPhrase><verb>'m</verb> <adjective>able</adjective> to <verb>carry</verb> <adverb>on</adverb></verbPhrase></line>
+            <refrainSectionRef sectionRef="1"/>
+        </verse>
+        <refrainSection sectionID="1">
             <refrainLineRef lineRef="1"/>
             <refrainLineRef lineRef="2"/>
-        </verse>
+        </refrainSection>
         
         <refrainLine lineID="1"><nounPhrase><noun>It</noun></nounPhrase><verbPhrase><verb>'s</verb> <verb>been</verb> <nounPhrase><det>a</det> <adjective>long</adjective>, <det>a</det> <adjective>long</adjective> <noun>time</noun></nounPhrase> <verb>coming</verb></verbPhrase></refrainLine>
         <refrainLine lineID="2">But <nounPhrase><noun>I</noun></nounPhrase> <verbPhrase><verb>know</verb> <nounPhrase><det>a</det> <noun>change</noun></nounPhrase></verbPhrase> <verbPhrase><verb>gonna</verb> <verb>come</verb></verbPhrase>, oh yes <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase><verb>will</verb></verbPhrase></refrainLine>

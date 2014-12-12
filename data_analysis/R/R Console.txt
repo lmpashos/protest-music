@@ -31,25 +31,25 @@ glm(formula = protest ~ verbPhrases + withAdverb + negatedVerb +
 
 Deviance Residuals: 
     Min       1Q   Median       3Q      Max  
--0.7382  -0.4208  -0.1444   0.4778   0.7439  
+-0.7347  -0.4189  -0.1443   0.4779   0.7343  
 
 Coefficients:
              Estimate Std. Error t value Pr(>|t|)   
-(Intercept)  0.423406   0.128325   3.299  0.00174 **
-verbPhrases -0.003924   0.007533  -0.521  0.60456   
-withAdverb  -0.016777   0.013404  -1.252  0.21619   
-negatedVerb  0.027198   0.025535   1.065  0.29166   
-nounPhrases  0.001908   0.004523   0.422  0.67479   
-withAdj      0.021719   0.013464   1.613  0.11267   
-negatedNoun  0.021628   0.043962   0.492  0.62477   
+(Intercept)  0.418931   0.128352   3.264  0.00193 **
+verbPhrases -0.003685   0.007570  -0.487  0.62845   
+withAdverb  -0.016659   0.013422  -1.241  0.22002   
+negatedVerb  0.026067   0.025502   1.022  0.31134   
+nounPhrases  0.001887   0.004529   0.417  0.67858   
+withAdj      0.021239   0.013575   1.565  0.12363   
+negatedNoun  0.022290   0.044007   0.507  0.61459   
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-(Dispersion parameter for gaussian family taken to be 0.2462874)
+(Dispersion parameter for gaussian family taken to be 0.2470376)
 
     Null deviance: 15.000  on 59  degrees of freedom
-Residual deviance: 13.053  on 53  degrees of freedom
-AIC: 94.754
+Residual deviance: 13.093  on 53  degrees of freedom
+AIC: 94.937
 
 Number of Fisher Scoring iterations: 2
 
