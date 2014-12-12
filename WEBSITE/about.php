@@ -45,8 +45,9 @@ $current_page = 'about';
 						instrumentals, vocals, or other musical elements. However,
 						deciding that a song is a protest song does not have to go through
 						this same process. Protest music can be folk, rock, rap, or any
-						number of different types of music. If that is the case, then how
-						do we actually identify what protest music is? Our research
+						number of different genres. If that is the case, then how
+						do we actually identify what protest music is?</p> 
+						<P>Our research
 						project focused on identifying distinguishable linguistic features
 						of American protest music and its lyrics. We know that in these
 						songs, all types of genres can work as protest songs. This
@@ -68,13 +69,13 @@ $current_page = 'about';
 						protest songs from one time period versus the non-protest songs
 						from that same period. We used statistical analysis to determine
 						if these differences were, in fact, significant. With this, we
-						hope to show that although protest music may not be identifiable
+						wished to discover that although protest music may not be identifiable
 						by a single musical style, it can still be identified by
 						properties found in the lyrics.</p>
 
 					<p>To gain further understanding of what each protest song is
 						referring to in our project, please read about the different eras
-						in America below:</p>
+						in America below.</p>
 				</div>
 
 				<div class="tab">
@@ -103,9 +104,10 @@ $current_page = 'about';
 					<p>To do this, we looked at 10 of the most popular songs from each
 						era that were not considered "protest" songs by outside sources.
 						We also looked at 10 of the most popular songs from each era that
-						have been labeled as protest songs by outside sources. We tagged
-						the songs according to a hierarchy that closely resembles rules
-						that one would find in X-Bar Theory, with a few modifications. To
+						have been labeled as protest songs by outside sources. We used XML
+						markup and tagged
+						the songs according to a synatctical hierarchy; these rules closely resembled
+						what one would find in X-Bar Theory, with a few modifications. To
 						start, we did not see reason to tag everything, such as
 						conjunctions. We also decided to not tag every phrase, such as
 						adjectival and adverbial phrases, but instead just tag the
@@ -126,15 +128,15 @@ $current_page = 'about';
 						determiner phrases, we decided to go against this theory and keep
 						everything as noun phrases - even the phrases that did not have
 						nouns in them. We did this for two reasons. One, we needed equal
-						participation from all team members, and therefore we needed to
+						participation from all team members, and so we needed to
 						keep tagging comprehensive for members who did not have a
 						linguistic background. There was a higher chance of error in
 						identifying phrases based off their determiners versus their
 						nouns, since it is more obvious to identify a noun as a
 						non-linguist. Second, we wanted the project to very comprehensive
 						for users on our site who are also non-linguists. We did not want
-						confusion as to what a determiner phrase is or what it meant, but
-						it is more comprehensive to identify a phrase in the lyrics and
+						confusion as to what a determiner phrase is or what it meant;
+						it is more comprehensive to identify a noun in the lyrics and
 						then see the overarching phrase of which it is a part.</p>
 
 					<p>For each line, we tagged a noun phrase and a verb phrase as the
@@ -182,21 +184,21 @@ $current_page = 'about';
 						13 to 15 million Americans were unemployed.
 						</p>
 					<p>African Americans were the hardest hit group of people during
-						The Great Depression. Half of all African Americans were
+						The Great Depression; half of all African Americans were
 						unemployed in 1932. In some Northern cities, whites called for
 						blacks to be fired from any jobs as long as there were whites out
 						of work. Violence towards African Americans became more common
-						again during The Great Depression. Lynchings, which had declined
-						to 8 in 1932, surged to 28 in 1933.</p>
+						again during The Great Depression. Lynchings, which were at a low point of
+						8 in 1932, rose all the way to 28 in 1933.</p>
                         <a href="images/the_dust_bowl_photo.jpg" title="The Dust Bowl, Source: http://mediad.publicbroadcasting.net/p/wkar/files/201304/SmallDust3S0292.jpg"><img src="images/the_dust_bowl_photo.jpg" alt="The Dust Bowl"/></a>
-					<p>During this time, the Great Plains region in America suffered
-						from a drought from 1934-1937, which is today known as the Dust
+					<p>During this time, the Great Plains region suffered
+						from a drought from 1934-1937, known today as the Dust
 						Bowl. Heavy winds blew the topsoil in places like Oklahoma,
-						Kansas, Colorado, New Mexico, and The Texas Panhandle, and created
-						dust clouds called black blizzards. Sixty percent of the people
-						left the region during this time as a result. This, in part, was
+						Kansas, Colorado, New Mexico, and The Texas Panhandle, creating
+						dust clouds called 'black blizzards.' Sixty percent of the people
+						fled the region during this time as a result. This, in part, was
 						due to the farmers' desire to constantly expand and have autonomy
-						over the land. Artists at the time expressed the need to be in
+						over the land. Artists, from authors to singers, expressed the need to be in
 						harmony with nature, rather than try to dominate and exploit it.
 						</p>
                     <a href="images/harlan_county_strike_photo.jpg" title="Harlan County War, Source: http://nyx.uky.edu/dips/xt75tb0xq06w/data/81pa109_0012/81pa109_0012.jpg"><img src="images/harlan_county_strike_photo.jpg" alt="Harlan Country War"/></a>
@@ -270,31 +272,33 @@ $current_page = 'about';
 					<p>After the loss in Vietnam, veterans from the war were not
 						treated with respect when they returned home. Unlike the World War
 						II veterans, who were seen as heroes, the Vietnam Veterans were
-						baby killers, psychos, drug addicts and war mongers. Veterans were
+						'baby killers,' 'psychos,' 'drug addicts,' and 'war mongers.' Veterans were
 						extremely mistreated; they were refused service at restaurants,
 						and they were cursed at by anti-war Americans. Protesters would
 						stand at the gates in airports protesting against the war as
 						Vietnam veterans returned home. Bruce Springsteen depicts the
-						Vietnam Vet in Born in the USA: He's isolated from the government,
-						isolated from his family, to the point where nothing makes sense.
+						Vietnam Vet in 'Born in the USA:' Springsteen explains that, 
+						'He's isolated from the government,
+						isolated from his family, to the point where nothing makes sense.'
 						</p>
                         <a href="images/vietnam_veteran_small_photo.jpg" title=" Homeless Vietnam veteran, Source: http://www.veteransresources.org/wp-content/uploads/2013/03/CG73085.jpeg"><img src="images/vietnam_veteran_small_photo.jpg" alt="Homeless Vietnam veteren"/></a>
 					<p>On November 6th, 1990, the state of Arizona voted down to create
 						a holiday for Dr. Martin Luther King, Jr. Two years prior, the
 						governor was Evan Mecham, who cancelled Martin Luther King day
-						saying, "I guess King did a lot for the colored people, but I
-						don't think he deserves a national holiday." In 1991, Public Enemy
-						produced By the Time I get to Arizona as a response, and the
-						message spread, in part because it was aired on MTV. By 1993,
+						saying, 'I guess King did a lot for the colored people, but I
+						don't think he deserves a national holiday.' In 1991, Public Enemy
+						produced 'By the Time I get to Arizona' as a response, and the
+						message spread -- in part because it was aired on MTV. By 1993,
 						Arizona lost its chance to host the Super Bowl. Arizona lost $350
 						million in revenue before reinstating MLK day in 1993.</p>
 
 					<p>On February 4th, 1999, Police officers in New York City fired 41
-						shots at an unarmed West African immigrant. He had no criminal
-						record. The immigrant's name was Amadou Diallo and he was 22 years
-						old. Amadou Diallo worked as a street peddler in the city. Bruce
-						Springsteen wrote his song American Skin (41 shots) about this
-						police shooting. However, in 2013, Springsteen dedicated his song
+						shots at an unarmed, West African immigrant who had no criminal
+						record. The immigrant's name was Amadou Diallo, he was 22 years
+						old, and he worked as a street peddler in the city. Bruce
+						Springsteen wrote his song 'American Skin (41 shots)' about this
+						police shooting. </p>
+						<p>In 2013, Springsteen dedicated his song
 						to Trayvon Martin. Trayvon Martin was as 17-year old African
 						American who was shot by George Zimmerman in 2013 while he was out
 						running errands at a convenience store. Both the New York City
@@ -304,27 +308,27 @@ $current_page = 'about';
                         <a href="images/41_shots_photo.jpg" title="Memorial to Amadou Diallo, Source: http://bp3.blogger.com/_9Ns1wItm_iI/RcZCg8gopzI/AAAAAAAAABs/7kMHyoifyNI/s1600-h/diallo6.jpg"><img src="images/41_shots_photo.jpg" alt="Memorial to Amadou Diallo"/></a>
 					<p>In 2008, musicians were protesting against the war in Iraq,
 						which went from 2003 until 2011. The Iraq war was constantly
-						justified by Washington as a preventative military action against
-						a country that could use weapons of mass destruction (WMDs)
+						justified by Washington as 'a preventative military action' against
+						a country that could use 'weapons of mass destruction' (WMDs)
 						against the United States. Prior to the attack, no WMDs were found
 						in Iraq. Many people opposed this strategy. Former president Bill
 						Clinton warned of the consequences of a preventative invasion, as
-						such action may lead to unwelcome consequences in the future, at
-						one point saying, "I don't care how precise your bombs and your
-						weapons are, when you set them off, innocent people will die."
+						such action may lead to unwelcome consequences in the future. At
+						one point he said, 'I don't care how precise your bombs and your
+						weapons are, when you set them off, innocent people will die.'
 						Many theories went around as to why the United States really
 						wanted to invade Iraq. Nelson Mandela, former president of South
 						Africa, voiced his opinion of president George W. Bush; he
-						believed that, "All [Mr. Bush] wants is Iraqi oil". Many believed
+						believed that, 'All [Mr. Bush] wants is Iraqi oil.' Many believed
 						that the Iraq War was putting Americans through unnecessary
-						traumatic experiences in the military - they were risking their
-						lives and killing innocent people for perhaps no good reason at
+						traumatic experiences via military involvement - Americans were risking their
+						lives and killing what seemed to be innocent people for perhaps no good reason at
 						all. Many compared parts of the Iraq war to the war in Vietnam,
 						and many people protested against the war as a result. Between
 						January 3rd and April 12th, 2003, 36 million people across the
 						globe took part in almost 3,000 protests against war in Iraq, with
-						demonstrations on 15 February 2003 as the largest and most
-						prolific of them.</p>
+						demonstrations on 15 February 2003 as the 'largest and most
+						prolific of them.'</p>
 						
 
 					<p>As a result, protest music during this time expressed this
