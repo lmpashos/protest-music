@@ -19,10 +19,10 @@
             <line><nounPhrase>Oh, <noun>they</noun></nounPhrase> <verbPhrase><verb>point</verb> <det>the</det> <nounPhrase><noun>cannon</noun></nounPhrase> <nounPhrase>at <noun>you</noun>, <noun>Lord</noun></nounPhrase></verbPhrase></line>
         </verse>
         <verse>
-            <line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase>, <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase neg="true"><noun>Senator</noun><det>'s</det></nounPhrase> <nounPhrase><noun>son</noun></nounPhrase></verbPhrase></line>
-            <line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase>, <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase></line>
-            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase neg="true"><adjective>fortunate</adjective> <noun>one</noun></nounPhrase></verbPhrase>, no</line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
         </verse>
         <verse>
             <line><nounPhrase><det>Some</det> <noun>folks</noun></nounPhrase> <verbPhrase><verb>are born</verb> <nounPhrase><adjective>silver</adjective> <noun>spoon</noun></nounPhrase> <prepPhrase><prep>in</prep> <nounPhrase><noun>hand</noun></nounPhrase></prepPhrase></verbPhrase></line>
@@ -32,10 +32,10 @@
         </verse>
 
         <verse>
-            <line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase>, <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase neg="true"><noun>millionaire</noun><det>'s</det></nounPhrase> <nounPhrase><noun>son</noun></nounPhrase></verbPhrase>, no, no</line>
-            <line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase>, <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase></line>
-            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase neg="true"><adjective>fortunate</adjective> <noun>one</noun></nounPhrase></verbPhrase>, no</line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
         </verse>
         <verse>
             <line><nounPhrase>Yeah, <det>some</det> <noun>folks</noun></nounPhrase> <verbPhrase><verb>inherit</verb> <adjective>star-spangled</adjective> <nounPhrase><noun>eyes</noun></nounPhrase></verbPhrase></line>
@@ -44,17 +44,21 @@
             <line><nounPhrase>Oh, <noun>they</noun></nounPhrase> <verbPhrase><adverb>only</adverb> <verb>answer</verb>, <nounPhrase><noun>more</noun>, <noun>more</noun>, <noun>more</noun></nounPhrase>, oh</verbPhrase></line>
         </verse>
         <verse>
-            <line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase>, <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase neg="true"><adjective>military</adjective> <noun>son</noun></nounPhrase></verbPhrase></line>
-            <line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase>, <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase></line>
-            <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase neg="true"><adjective>fortunate</adjective> <noun>one</noun></nounPhrase></verbPhrase>, no</line>
+            <refrainLineRef lineRef="1"/>
+            <refrainLineRef lineRef="2"/>
         </verse>
 
         <verse>
-            <line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase>, <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase neg="true"><adjective>fortunate</adjective> <noun>one</noun></nounPhrase></verbPhrase>, no, no, no</line>
-            <line><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase>, <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase></line>
+            <refrainLineRef lineRef="1"/>
             <line><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase neg="true"><adjective>fortunate</adjective> <noun>son</noun></nounPhrase></verbPhrase>, no, no </line>
-        </verse>        
+        </verse>
+        
+        <refrainLine lineID="1"><nounPhrase><noun>It</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase>, <nounPhrase><noun>it</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> me</verbPhrase></refrainLine>
+        <refrainLine lineID="2"><nounPhrase><noun>I</noun></nounPhrase> <verbPhrase neg="true"><verb>ain't</verb> no <nounPhrase neg="true"><adjective>fortunate</adjective> <noun>one</noun></nounPhrase></verbPhrase>, no</refrainLine>
+        
     </lyrics>
 </song>
